@@ -1,19 +1,4 @@
 code,code_description,code_type,cms_opps_inpatient_list,ccs
-3610,Aortocoronary Bypass For Heart Revascularization - Not Otherwise Specified,ICD9,,ccs4
-3611,(Aorto)Coronary Bypass Of One Coronary Artery,ICD9,,ccs4
-3612,(Aorto)Coronary Bypass Of Two Coronary Arteries,ICD9,,ccs4
-3613,(Aorto)Coronary Bypass Of Three Coronary Arteries,ICD9,,ccs4
-3614,(Aorto)Coronary Bypass Of Four Or More Coronary Arteries,ICD9,,ccs4
-3615,Single Internal Mammary-Coronary Artery Bypass,ICD9,,ccs4
-3616,Double Internal Mammary-Coronary Artery Bypass,ICD9,,ccs4
-3617,Abdominal-Coronary Artery Bypass,ICD9,,ccs4
-3619,Other Bypass Anastomosis For Heart Revascularization,ICD9,,ccs4
-0362,Heart Revascularization By Arterial Implant,ICD9,,ccs4
-3631,Open Chest Transmyocardial Revascularization,ICD9,,ccs4
-3632,Other Transmyocardial Revascularization,ICD9,,ccs4
-3633,Endoscopic Transmyocardial Revascularization,ICD9,,ccs4
-3634,Percutaneous Transmyocardial Revascularization,ICD9,,ccs4
-3639,Other Heart Revascularization,ICD9,,ccs4
 210083,Bypass 1 Cor Art from Cor Art with Zooplastic - Open Approach,ICD10_PROC,,ccs4
 210088,Bypass 1 Cor Art from R Int Mammary w Zooplastic - Open,ICD10_PROC,,ccs4
 210089,Bypass 1 Cor Art from L Int Mammary w Zooplastic - Open,ICD10_PROC,,ccs4
