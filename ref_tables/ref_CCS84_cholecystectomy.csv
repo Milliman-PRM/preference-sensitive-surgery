@@ -1,39 +1,39 @@
-code,code_description,code_type,cms_opps_inpatient_list
-5121,OTHER PARTIAL CHOLECYSTECTOMY,ICD9,
-5122,CHOLECYSTECTOMY,ICD9,
-5123,LAPAROSCOPIC CHOLECYSTECTOMY,ICD9,
-5124,LAPAROSCOPIC PARTIAL CHOLECYSTECTOMY,ICD9,
-5141,COMMON DUCT EXPLORATION FOR REMOVAL OF CALCULUS,ICD9,
-5142,COMMON DUCT EXPLORATION FOR RELIEF OF OTHER OBSTRUCTION,ICD9,
-5143,INSERTION OF CHOLEDOCHOHEPATIC TUBE FOR DECOMPRESSION,ICD9,
-5149,INCISION OF OTHER BILE DUCTS FOR RELIEF OF OBSTRUCTION,ICD9,
-5151,EXPLORATION OF COMMON DUCT,ICD9,
-5159,OTHER INCISION OF OTHER BILE DUCT,ICD9,
-0FB40ZZ,Excision of Gallbladder - Open Approach,ICD10_PROC,
-0FB43ZZ,Excision of Gallbladder - Percutaneous Approach,ICD10_PROC,
-0FB44ZZ,Excision of Gallbladder - Percutaneous Endoscopic Approach,ICD10_PROC,
-0FT40ZZ,Resection of Gallbladder - Open Approach,ICD10_PROC,
-0FT44ZZ,Resection of Gallbladder - Percutaneous Endoscopic Approach,ICD10_PROC,
-47400,Incision of liver duct,CPT_HCPCS,Y
-47420,Incision of bile duct,CPT_HCPCS,Y
-47425,Incision of bile duct,CPT_HCPCS,Y
-47460,Incise bile duct sphincter,CPT_HCPCS,Y
-47550,Bile duct endoscopy add-on,CPT_HCPCS,Y
-47562,Laparoscopic cholecystectomy,CPT_HCPCS,N
-47563,Laparo cholecystectomy/graph,CPT_HCPCS,N
-47564,Laparo cholecystectomy/explr,CPT_HCPCS,N
-47600,Removal of gallbladder,CPT_HCPCS,Y
-47605,Removal of gallbladder,CPT_HCPCS,Y
-47610,Removal of gallbladder,CPT_HCPCS,Y
-47612,Removal of gallbladder,CPT_HCPCS,Y
-47620,Removal of gallbladder,CPT_HCPCS,Y
-47630,Remove bile duct stone,CPT_HCPCS,N
-411,Cholecystectomy w c.d.e. w MCC,MSDRG,
-412,Cholecystectomy w c.d.e. w CC,MSDRG,
-413,Cholecystectomy w c.d.e. w/o CC/MCC,MSDRG,
-414,Cholecystectomy except by laparoscope w/o c.d.e. w MCC,MSDRG,
-415,Cholecystectomy except by laparoscope w/o c.d.e. w CC,MSDRG,
-416,Cholecystectomy except by laparoscope w/o c.d.e. w/o CC/MCC,MSDRG,
-417,Laparoscopic cholecystectomy w/o c.d.e. w MCC,MSDRG,
-418,Laparoscopic cholecystectomy w/o c.d.e. w CC,MSDRG,
-419,Laparoscopic cholecystectomy w/o c.d.e. w/o CC/MCC,MSDRG,
+code,code_description,code_type,cms_opps_inpatient_list,ccs
+5121,OTHER PARTIAL CHOLECYSTECTOMY,ICD9,,ccs84
+5122,CHOLECYSTECTOMY,ICD9,,ccs84
+5123,LAPAROSCOPIC CHOLECYSTECTOMY,ICD9,,ccs84
+5124,LAPAROSCOPIC PARTIAL CHOLECYSTECTOMY,ICD9,,ccs84
+5141,COMMON DUCT EXPLORATION FOR REMOVAL OF CALCULUS,ICD9,,ccs84
+5142,COMMON DUCT EXPLORATION FOR RELIEF OF OTHER OBSTRUCTION,ICD9,,ccs84
+5143,INSERTION OF CHOLEDOCHOHEPATIC TUBE FOR DECOMPRESSION,ICD9,,ccs84
+5149,INCISION OF OTHER BILE DUCTS FOR RELIEF OF OBSTRUCTION,ICD9,,ccs84
+5151,EXPLORATION OF COMMON DUCT,ICD9,,ccs84
+5159,OTHER INCISION OF OTHER BILE DUCT,ICD9,,ccs84
+0FB40ZZ,Excision of Gallbladder - Open Approach,ICD10_PROC,,ccs84
+0FB43ZZ,Excision of Gallbladder - Percutaneous Approach,ICD10_PROC,,ccs84
+0FB44ZZ,Excision of Gallbladder - Percutaneous Endoscopic Approach,ICD10_PROC,,ccs84
+0FT40ZZ,Resection of Gallbladder - Open Approach,ICD10_PROC,,ccs84
+0FT44ZZ,Resection of Gallbladder - Percutaneous Endoscopic Approach,ICD10_PROC,,ccs84
+47400,Incision of liver duct,CPT_HCPCS,Y,ccs84
+47420,Incision of bile duct,CPT_HCPCS,Y,ccs84
+47425,Incision of bile duct,CPT_HCPCS,Y,ccs84
+47460,Incise bile duct sphincter,CPT_HCPCS,Y,ccs84
+47550,Bile duct endoscopy add-on,CPT_HCPCS,Y,ccs84
+47562,Laparoscopic cholecystectomy,CPT_HCPCS,N,ccs84
+47563,Laparo cholecystectomy/graph,CPT_HCPCS,N,ccs84
+47564,Laparo cholecystectomy/explr,CPT_HCPCS,N,ccs84
+47600,Removal of gallbladder,CPT_HCPCS,Y,ccs84
+47605,Removal of gallbladder,CPT_HCPCS,Y,ccs84
+47610,Removal of gallbladder,CPT_HCPCS,Y,ccs84
+47612,Removal of gallbladder,CPT_HCPCS,Y,ccs84
+47620,Removal of gallbladder,CPT_HCPCS,Y,ccs84
+47630,Remove bile duct stone,CPT_HCPCS,N,ccs84
+411,Cholecystectomy w c.d.e. w MCC,MSDRG,,ccs84
+412,Cholecystectomy w c.d.e. w CC,MSDRG,,ccs84
+413,Cholecystectomy w c.d.e. w/o CC/MCC,MSDRG,,ccs84
+414,Cholecystectomy except by laparoscope w/o c.d.e. w MCC,MSDRG,,ccs84
+415,Cholecystectomy except by laparoscope w/o c.d.e. w CC,MSDRG,,ccs84
+416,Cholecystectomy except by laparoscope w/o c.d.e. w/o CC/MCC,MSDRG,,ccs84
+417,Laparoscopic cholecystectomy w/o c.d.e. w MCC,MSDRG,,ccs84
+418,Laparoscopic cholecystectomy w/o c.d.e. w CC,MSDRG,,ccs84
+419,Laparoscopic cholecystectomy w/o c.d.e. w/o CC/MCC,MSDRG,,ccs84
