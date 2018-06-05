@@ -1,13 +1,4 @@
 code,code_description,code_type,cms_opps_inpatient_list,ccs
-4389,Other partial gastrectomy (when specified as biliopancreatic diversion,ICD9,,ccs244
-4431,High gastric bypass (Printen and Mason gastric bypass),ICD9,,ccs244
-4438,Laparoscopic gastroenterostomy,ICD9,,ccs244
-4439,Other gastroenterostomy,ICD9,,ccs244
-4468,Laparoscopic gastroplasty,ICD9,,ccs244
-4493,Insertion of gastric bubble (balloon),ICD9,,ccs244
-4495,Laparoscopic gastric restrictive procedure,ICD9,,ccs244
-4551,Isolation of segment of small intestine,ICD9,,ccs244
-4591,Small-to-small intestinal anastomosis,ICD9,,ccs244
 0D160ZA,Bypass Stomach to Jejunum - Open Approach,ICD10_PROC,,ccs244
 0D160ZB,Bypass Stomach to Ileum - Open Approach,ICD10_PROC,,ccs244
 0DB60ZZ,Excision of Stomach - Open Approach,ICD10_PROC,,ccs244
