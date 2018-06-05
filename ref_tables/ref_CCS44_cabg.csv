@@ -8,7 +8,7 @@ code,code_description,code_type,cms_opps_inpatient_list,ccs
 3616,Double Internal Mammary-Coronary Artery Bypass,ICD9,,ccs4
 3617,Abdominal-Coronary Artery Bypass,ICD9,,ccs4
 3619,Other Bypass Anastomosis For Heart Revascularization,ICD9,,ccs4
-362,Heart Revascularization By Arterial Implant,ICD9,,ccs4
+0362,Heart Revascularization By Arterial Implant,ICD9,,ccs4
 3631,Open Chest Transmyocardial Revascularization,ICD9,,ccs4
 3632,Other Transmyocardial Revascularization,ICD9,,ccs4
 3633,Endoscopic Transmyocardial Revascularization,ICD9,,ccs4
