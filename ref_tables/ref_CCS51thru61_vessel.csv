@@ -1,11 +1,11 @@
 code,code_description,code_type,cms_opps_inpatient_list,ccs
 3811,ENDARTERECTOMY - INTRACRANIAL VESSELS,ICD9,,ccs51thru61
 3812,ENDARTERECTOMY - OTHER VESSELS OF HEAD AND NECK,ICD9,,ccs51thru61
-61,PERCUTANEOUS ANGIOPLASTY OF EXTRACRANIAL VESSEL(S),ICD9,,ccs51thru61
-62,PERCUTANEOUS ANGIOPLASTY OF INTRACRANIAL VESSEL(S),ICD9,,ccs51thru61
-63,PERCUTANEOUS INSERTION OF CAROTID ARTERY STENT(S),ICD9,,ccs51thru61
-64,PERCUTANEOUS INSERTION OF OTHER EXTRACRANIAL ARTERY STENT(S),ICD9,,ccs51thru61
-65,PERCUTANEOUS INSERTION OF INTRACRANIAL VASCULAR STENT(S),ICD9,,ccs51thru61
+0061,PERCUTANEOUS ANGIOPLASTY OF EXTRACRANIAL VESSEL(S),ICD9,,ccs51thru61
+0062,PERCUTANEOUS ANGIOPLASTY OF INTRACRANIAL VESSEL(S),ICD9,,ccs51thru61
+0063,PERCUTANEOUS INSERTION OF CAROTID ARTERY STENT(S),ICD9,,ccs51thru61
+0064,PERCUTANEOUS INSERTION OF OTHER EXTRACRANIAL ARTERY STENT(S),ICD9,,ccs51thru61
+0065,PERCUTANEOUS INSERTION OF INTRACRANIAL VASCULAR STENT(S),ICD9,,ccs51thru61
 1753,PERCUTANEOUS ATHERECTOMY OF EXTRACRANIAL VESSEL(S),ICD9,,ccs51thru61
 1754,PERCUTANEOUS ATHERECTOMY OF INTRACRANIAL VESSEL(S),ICD9,,ccs51thru61
 3801,INCISION OF VESSEL - INTRACRANIAL VESSELS,ICD9,,ccs51thru61
@@ -13485,12 +13485,12 @@ code,code_description,code_type,cms_opps_inpatient_list,ccs
 0238T,Trluml perip athrc iliac art,CPT_HCPCS,N,ccs51thru61
 0254T,Evasc rpr iliac art bifur,CPT_HCPCS,Y,ccs51thru61
 0255T,Evasc rpr iliac art bifr s&i,CPT_HCPCS,N,ccs51thru61
-34,Carotid artery stent procedure w MCC,MSDRG,,ccs51thru61
-35,Carotid artery stent procedure w CC,MSDRG,,ccs51thru61
-36,Carotid artery stent procedure w/o CC/MCC,MSDRG,,ccs51thru61
-37,Extracranial procedures w MCC,MSDRG,,ccs51thru61
-38,Extracranial procedures w CC,MSDRG,,ccs51thru61
-39,Extracranial procedures w/o CC/MCC,MSDRG,,ccs51thru61
+034,Carotid artery stent procedure w MCC,MSDRG,,ccs51thru61
+035,Carotid artery stent procedure w CC,MSDRG,,ccs51thru61
+036,Carotid artery stent procedure w/o CC/MCC,MSDRG,,ccs51thru61
+037,Extracranial procedures w MCC,MSDRG,,ccs51thru61
+038,Extracranial procedures w CC,MSDRG,,ccs51thru61
+039,Extracranial procedures w/o CC/MCC,MSDRG,,ccs51thru61
 252,Other vascular procedures w MCC,MSDRG,,ccs51thru61
 253,Other vascular procedures w CC,MSDRG,,ccs51thru61
 254,Other vascular procedures w/o CC/MCC,MSDRG,,ccs51thru61

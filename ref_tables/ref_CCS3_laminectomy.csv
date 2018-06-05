@@ -1,6 +1,6 @@
 code,code_description,code_type,cms_opps_inpatient_list,ccs
-302,REOPENING OF LAMINECTOMY SITE,ICD9,,ccs3
-309,OTHER EXPLORATION AND DECOMPRESSION OF SPINAL CANAL,ICD9,,ccs3
+0302,REOPENING OF LAMINECTOMY SITE,ICD9,,ccs3
+0309,OTHER EXPLORATION AND DECOMPRESSION OF SPINAL CANAL,ICD9,,ccs3
 8050,"EXCISION OR DESTRUCTION OF INTERVERTEBRAL DISC, UNSPECIFIED",ICD9,,ccs3
 8051,EXCISION OF INTERVERTEBRAL DISC,ICD9,,ccs3
 8059,OTHER DESTRUCTION OF INTERVERTEBRAL DISC,ICD9,,ccs3
@@ -145,9 +145,9 @@ G0276,Pild/placebo control clin tr,CPT_HCPCS,N,ccs3
 S2348,Decompress disc RF lumbar,CPT_HCPCS,N,ccs3
 S2350,Diskectomy - anterior - with d,CPT_HCPCS,N,ccs3
 S2351,Diskectomy - anterior - with d,CPT_HCPCS,N,ccs3
-28,Spinal procedures w MCC,MSDRG,,ccs3
-29,Spinal procedures w CC or spinal neurostimulators,MSDRG,,ccs3
-30,Spinal procedures w/o CC/MCC,MSDRG,,ccs3
+028,Spinal procedures w MCC,MSDRG,,ccs3
+029,Spinal procedures w CC or spinal neurostimulators,MSDRG,,ccs3
+030,Spinal procedures w/o CC/MCC,MSDRG,,ccs3
 518,Back & Neck Proc Exc Spinal Fusion W Mcc Or Disc Device/Neurostim,MSDRG,,ccs3
 519,Back & Neck Proc Exc Spinal Fusion w CC,MSDRG,,ccs3
 520,Back & Neck Proc Exc Spinal Fusion W/O Cc/Mcc,MSDRG,,ccs3
