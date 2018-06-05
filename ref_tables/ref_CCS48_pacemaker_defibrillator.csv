@@ -1,240 +1,240 @@
-code,code_description,code_type,cms_opps_inpatient_list
-0050,IMPLANTATION OF CARDIAC RESYNCHRONIZATION PACEMAKER WITHOUT MENTION OF DEFIBRILLATION - TOTAL SYSTEM [CRT-P],ICD9,
-0051,IMPLANTATION OF CARDIAC RESYNCHRONIZATION DEFIBRILLATOR - TOTAL SYSTEM [CRT-D],ICD9,
-0052,IMPLANTATION OR REPLACEMENT OF TRANSVENOUS LEAD [ELECTRODE] INTO LEFT VENTRICULAR CORONARY VENOUS SYSTEM,ICD9,
-0053,IMPLANTATION OR REPLACEMENT OF CARDIAC RESYNCHRONIZATION PACEMAKER PULSE GENERATOR ONLY [CRT-P],ICD9,
-0054,IMPLANTATION OR REPLACEMENT OF CARDIAC RESYNCHRONIZATION DEFIBRILLATOR PULSE GENERATOR ONLY [CRT-D],ICD9,
-0056,INSERTION OR REPLACEMENT OF IMPLANTABLE PRESSURE SENSOR WITH LEAD FOR INTRACARDIAC OR GREAT VESSEL HEMODYNAMIC MONITORING,ICD9,
-0057,IMPLANTATION OR REPLACEMENT OF SUBCUTANEOUS DEVICE FOR INTRACARDIAC OR GREAT VESSEL HEMODYNAMIC MONITORING,ICD9,
-1751,IMPLANTATION OF RECHARGEABLE CARDIAC CONTRACTILITY MODULATION [CCM] - TOTAL SYSTEM,ICD9,
-1752,IMPLANTATION OR REPLACEMENT OF CARDIAC CONTRACTILITY MODULATION [CCM] RECHARGEABLE PULSE GENERATOR ONLY,ICD9,
-3770,INITIAL INSERTION OF LEAD [ELECTRODE] - NOT OTHERWISE SPECIFIED,ICD9,
-3771,INITIAL INSERTION OF TRANSVENOUS LEAD [ELECTRODE] INTO VENTRICLE,ICD9,
-3772,INITIAL INSERTION OF TRANSVENOUS LEADS [ELECTRODES] INTO ATRIUM AND VENTRICLE,ICD9,
-3773,INITIAL INSERTION OF TRANSVENOUS LEAD [ELECTRODE] INTO ATRIUM,ICD9,
-3774,INSERTION OR REPLACEMENT OF EPICARDIAL LEAD [ELECTRODE] INTO EPICARDIUM,ICD9,
-3775,REVISION OF LEAD [ELECTRODE],ICD9,
-3776,REPLACEMENT OF TRANSVENOUS ATRIAL AND/OR VENTRICULAR LEAD(S) [ELECTRODE],ICD9,
-3777,REMOVAL OF LEAD(S) [ELECTRODE] WITHOUT REPLACEMENT,ICD9,
-3778,INSERTION OF TEMPORARY TRANSVENOUS PACEMAKER SYSTEM,ICD9,
-3779,REVISION OR RELOCATION OF CARDIAC DEVICE POCKET,ICD9,
-3780,INSERTION OF PERMANENT PACEMAKER - INITIAL OR REPLACEMENT - TYPE OF DEVICE NOT SPECIFIED,ICD9,
-3781,INITIAL INSERTION OF SINGLE-CHAMBER DEVICE - NOT SPECIFIED AS RATE RESPONSIVE,ICD9,
-3782,INITIAL INSERTION OF SINGLE-CHAMBER DEVICE - RATE RESPONSIVE,ICD9,
-3783,INITIAL INSERTION OF DUAL-CHAMBER DEVICE,ICD9,
-3785,REPLACEMENT OF ANY TYPE PACEMAKER DEVICE WITH SINGLE-CHAMBER DEVICE - NOT SPECIFIED AS RATE RESPONSIVE,ICD9,
-3786,REPLACEMENT OF ANY TYPE OF PACEMAKER DEVICE WITH SINGLE-CHAMBER DEVICE - RATE RESPONSIVE,ICD9,
-3787,REPLACEMENT OF ANY TYPE PACEMAKER DEVICE WITH DUAL-CHAMBER DEVICE,ICD9,
-3789,REVISION OR REMOVAL OF PACEMAKER DEVICE,ICD9,
-3794,IMPLANTATION OR REPLACEMENT OF AUTOMATIC CARDIOVERTER/DEFIBRILLATOR - TOTAL SYSTEM [AICD],ICD9,
-3795,IMPLANTATION OF AUTOMATIC CARDIOVERTER/DEFIBRILLATOR LEAD(S) ONLY,ICD9,
-3796,IMPLANTATION OF AUTOMATIC CARDIOVERTER/DEFIBRILLATOR PULSE GENERATOR ONLY,ICD9,
-3797,REPLACEMENT OF AUTOMATIC CARDIOVERTER/DEFIBRILLATOR LEAD(S) ONLY,ICD9,
-3798,REPLACEMENT OF AUTOMATIC CARDIOVERTER/DEFIBRILLATOR PULSE GENERATOR ONLY,ICD9,
-02H40JZ,Insertion of Pacemaker Lead into Cor Vein - Open Approach,ICD10_PROC,
-02H40KZ,Insertion of Defibrillator Lead into Cor Vein - Open Approach,ICD10_PROC,
-02H40MZ,Insertion of Cardiac Lead into Coronary Vein - Open Approach,ICD10_PROC,
-02H40NZ,Insertion of Intracard Pacer into Cor Vein - Open Approach,ICD10_PROC,
-02H43JZ,Insertion of Pacemaker Lead into Cor Vein - Perc Approach,ICD10_PROC,
-02H43KZ,Insertion of Defibrillator Lead into Cor Vein - Perc Approach,ICD10_PROC,
-02H43MZ,Insertion of Cardiac Lead into Coronary Vein - Perc Approach,ICD10_PROC,
-02H43NZ,Insertion of Intracard Pacer into Cor Vein - Perc Approach,ICD10_PROC,
-02H44JZ,Insertion of Pace Lead into Cor Vein - Perc Endo Approach,ICD10_PROC,
-02H44KZ,Insertion of Defib Lead into Cor Vein - Perc Endo Approach,ICD10_PROC,
-02H44MZ,Insertion of Cardiac Lead into Cor Vein - Perc Endo Approach,ICD10_PROC,
-02H44NZ,Insert of Intracard Pacer into Cor Vein - Perc Endo Approach,ICD10_PROC,
-02H60JZ,Insertion of Pacemaker Lead into Right Atrium - Open Approach,ICD10_PROC,
-02H60KZ,Insertion of Defibrillator Lead into R Atrium - Open Approach,ICD10_PROC,
-02H60MZ,Insertion of Cardiac Lead into Right Atrium - Open Approach,ICD10_PROC,
-02H60NZ,Insertion of Intracard Pacer into R Atrium - Open Approach,ICD10_PROC,
-02H63JZ,Insertion of Pacemaker Lead into Right Atrium - Perc Approach,ICD10_PROC,
-02H63KZ,Insertion of Defibrillator Lead into R Atrium - Perc Approach,ICD10_PROC,
-02H63MZ,Insertion of Cardiac Lead into Right Atrium - Perc Approach,ICD10_PROC,
-02H63NZ,Insertion of Intracard Pacer into R Atrium - Perc Approach,ICD10_PROC,
-02H64JZ,Insertion of Pace Lead into R Atrium - Perc Endo Approach,ICD10_PROC,
-02H64KZ,Insertion of Defib Lead into R Atrium - Perc Endo Approach,ICD10_PROC,
-02H64MZ,Insertion of Cardiac Lead into R Atrium - Perc Endo Approach,ICD10_PROC,
-02H64NZ,Insert of Intracard Pacer into R Atrium - Perc Endo Approach,ICD10_PROC,
-02H70JZ,Insertion of Pacemaker Lead into Left Atrium - Open Approach,ICD10_PROC,
-02H70KZ,Insertion of Defibrillator Lead into L Atrium - Open Approach,ICD10_PROC,
-02H70MZ,Insertion of Cardiac Lead into Left Atrium - Open Approach,ICD10_PROC,
-02H70NZ,Insertion of Intracard Pacer into L Atrium - Open Approach,ICD10_PROC,
-02H73JZ,Insertion of Pacemaker Lead into Left Atrium - Perc Approach,ICD10_PROC,
-02H73KZ,Insertion of Defibrillator Lead into L Atrium - Perc Approach,ICD10_PROC,
-02H73MZ,Insertion of Cardiac Lead into Left Atrium - Perc Approach,ICD10_PROC,
-02H73NZ,Insertion of Intracard Pacer into L Atrium - Perc Approach,ICD10_PROC,
-02H74JZ,Insertion of Pace Lead into L Atrium - Perc Endo Approach,ICD10_PROC,
-02H74KZ,Insertion of Defib Lead into L Atrium - Perc Endo Approach,ICD10_PROC,
-02H74MZ,Insertion of Cardiac Lead into L Atrium - Perc Endo Approach,ICD10_PROC,
-02H74NZ,Insert of Intracard Pacer into L Atrium - Perc Endo Approach,ICD10_PROC,
-02HK0JZ,Insertion of Pacemaker Lead into R Ventricle - Open Approach,ICD10_PROC,
-02HK0KZ,Insertion of Defib Lead into R Ventricle - Open Approach,ICD10_PROC,
-02HK0MZ,Insertion of Cardiac Lead into R Ventricle - Open Approach,ICD10_PROC,
-02HK0NZ,Insertion of Intracard Pacer into R Ventricle - Open Approach,ICD10_PROC,
-02HK3JZ,Insertion of Pacemaker Lead into R Ventricle - Perc Approach,ICD10_PROC,
-02HK3KZ,Insertion of Defib Lead into R Ventricle - Perc Approach,ICD10_PROC,
-02HK3MZ,Insertion of Cardiac Lead into R Ventricle - Perc Approach,ICD10_PROC,
-02HK3NZ,Insertion of Intracard Pacer into R Ventricle - Perc Approach,ICD10_PROC,
-02HK4JZ,Insertion of Pace Lead into R Ventricle - Perc Endo Approach,ICD10_PROC,
-02HK4KZ,Insertion of Defib Lead into R Ventricle - Perc Endo Approach,ICD10_PROC,
-02HK4MZ,Insert of Cardiac Lead into R Ventricle - Perc Endo Approach,ICD10_PROC,
-02HK4NZ,Insert Intracard Pacer in R Ventricle - Perc Endo,ICD10_PROC,
-02HL0JZ,Insertion of Pacemaker Lead into L Ventricle - Open Approach,ICD10_PROC,
-02HL0KZ,Insertion of Defib Lead into L Ventricle - Open Approach,ICD10_PROC,
-02HL0MZ,Insertion of Cardiac Lead into Left Ventricle - Open Approach,ICD10_PROC,
-02HL0NZ,Insertion of Intracard Pacer into L Ventricle - Open Approach,ICD10_PROC,
-02HL3JZ,Insertion of Pacemaker Lead into L Ventricle - Perc Approach,ICD10_PROC,
-02HL3KZ,Insertion of Defib Lead into L Ventricle - Perc Approach,ICD10_PROC,
-02HL3MZ,Insertion of Cardiac Lead into Left Ventricle - Perc Approach,ICD10_PROC,
-02HL3NZ,Insertion of Intracard Pacer into L Ventricle - Perc Approach,ICD10_PROC,
-02HL4JZ,Insertion of Pace Lead into L Ventricle - Perc Endo Approach,ICD10_PROC,
-02HL4KZ,Insertion of Defib Lead into L Ventricle - Perc Endo Approach,ICD10_PROC,
-02HL4MZ,Insert of Cardiac Lead into L Ventricle - Perc Endo Approach,ICD10_PROC,
-02HL4NZ,Insert Intracard Pacer in L Ventricle - Perc Endo,ICD10_PROC,
-02HN0JZ,Insertion of Pacemaker Lead into Pericardium - Open Approach,ICD10_PROC,
-02HN0KZ,Insertion of Defib Lead into Pericardium - Open Approach,ICD10_PROC,
-02HN0MZ,Insertion of Cardiac Lead into Pericardium - Open Approach,ICD10_PROC,
-02HN3JZ,Insertion of Pacemaker Lead into Pericardium - Perc Approach,ICD10_PROC,
-02HN3KZ,Insertion of Defib Lead into Pericardium - Perc Approach,ICD10_PROC,
-02HN3MZ,Insertion of Cardiac Lead into Pericardium - Perc Approach,ICD10_PROC,
-02HN4JZ,Insertion of Pace Lead into Pericardium - Perc Endo Approach,ICD10_PROC,
-02HN4KZ,Insertion of Defib Lead into Pericardium - Perc Endo Approach,ICD10_PROC,
-02HN4MZ,Insert of Cardiac Lead into Pericardium - Perc Endo Approach,ICD10_PROC,
-02PA0MZ,Removal of Cardiac Lead from Heart - Open Approach,ICD10_PROC,
-02PA0NZ,Removal of Intracardiac Pacemaker from Heart - Open Approach,ICD10_PROC,
-02PA3MZ,Removal of Cardiac Lead from Heart - Percutaneous Approach,ICD10_PROC,
-02PA3NZ,Removal of Intracardiac Pacemaker from Heart - Perc Approach,ICD10_PROC,
-02PA4MZ,Removal of Cardiac Lead from Heart - Perc Endo Approach,ICD10_PROC,
-02PA4NZ,Removal of Intracard Pacer from Heart - Perc Endo Approach,ICD10_PROC,
-02PAXMZ,Removal of Cardiac Lead from Heart - External Approach,ICD10_PROC,
-02WA0MZ,Revision of Cardiac Lead in Heart - Open Approach,ICD10_PROC,
-02WA0NZ,Revision of Intracardiac Pacemaker in Heart - Open Approach,ICD10_PROC,
-02WA3MZ,Revision of Cardiac Lead in Heart - Percutaneous Approach,ICD10_PROC,
-02WA3NZ,Revision of Intracardiac Pacemaker in Heart - Perc Approach,ICD10_PROC,
-02WA4MZ,Revision of Cardiac Lead in Heart - Perc Endo Approach,ICD10_PROC,
-02WA4NZ,Revision of Intracard Pacer in Heart - Perc Endo Approach,ICD10_PROC,
-0JH604Z,Insert Pace - Singl Cham in Chest Subcu/Fascia - Open,ICD10_PROC,
-0JH605Z,Insert Pace - Singl Cham Rt Respn in Chest Subcu/Fascia - Open,ICD10_PROC,
-0JH606Z,Insert Pace. Dual Cham in Chest Subcu/Fascia - Open,ICD10_PROC,
-0JH607Z,Insert Card Rsync Pace Puls Gen in Chest Subcu/Fascia - Open,ICD10_PROC,
-0JH608Z,Insert of Defib Gen into Chest Subcu/Fascia - Open Approach,ICD10_PROC,
-0JH609Z,Insert Card Rsync Defib Puls Gen in Chest Subcu/Fascia - Open,ICD10_PROC,
-0JH60AZ,Insert Contractil Mod Dev in Chest Subcu/Fascia - Open,ICD10_PROC,
-0JH60PZ,Insert Card Rhythm Dev in Chest Subcu/Fascia - Open,ICD10_PROC,
-0JH634Z,Insert Pace - Singl Cham in Chest Subcu/Fascia - Perc,ICD10_PROC,
-0JH635Z,Insert Pace - Singl Cham Rt Respn in Chest Subcu/Fascia - Perc,ICD10_PROC,
-0JH636Z,Insert Pace. Dual Cham in Chest Subcu/Fascia - Perc,ICD10_PROC,
-0JH637Z,Insert Card Rsync Pace Puls Gen in Chest Subcu/Fascia - Perc,ICD10_PROC,
-0JH638Z,Insert of Defib Gen into Chest Subcu/Fascia - Perc Approach,ICD10_PROC,
-0JH639Z,Insert Card Rsync Defib Puls Gen in Chest Subcu/Fascia - Perc,ICD10_PROC,
-0JH63AZ,Insert Contractil Mod Dev in Chest Subcu/Fascia - Perc,ICD10_PROC,
-0JH63PZ,Insert Card Rhythm Dev in Chest Subcu/Fascia - Perc,ICD10_PROC,
-0JH804Z,Insert Pace - Singl Cham in Abd Subcu/Fascia - Open,ICD10_PROC,
-0JH805Z,Insert Pace - Singl Cham Rt Respn in Abd Subcu/Fascia - Open,ICD10_PROC,
-0JH806Z,Insert Pace. Dual Cham in Abd Subcu/Fascia - Open,ICD10_PROC,
-0JH807Z,Insert Card Rsync Pace Puls Gen in Abd Subcu/Fascia - Open,ICD10_PROC,
-0JH808Z,Insertion of Defib Gen into Abd Subcu/Fascia - Open Approach,ICD10_PROC,
-0JH809Z,Insert Card Rsync Defib Puls Gen in Abd Subcu/Fascia - Open,ICD10_PROC,
-0JH80AZ,Insert Contractil Mod Dev in Abd Subcu/Fascia - Open,ICD10_PROC,
-0JH80PZ,Insert Card Rhythm Dev in Abd Subcu/Fascia - Open,ICD10_PROC,
-0JH834Z,Insert Pace - Singl Cham in Abd Subcu/Fascia - Perc,ICD10_PROC,
-0JH835Z,Insert Pace - Singl Cham Rt Respn in Abd Subcu/Fascia - Perc,ICD10_PROC,
-0JH836Z,Insert Pace. Dual Cham in Abd Subcu/Fascia - Perc,ICD10_PROC,
-0JH837Z,Insert Card Rsync Pace Puls Gen in Abd Subcu/Fascia - Perc,ICD10_PROC,
-0JH838Z,Insertion of Defib Gen into Abd Subcu/Fascia - Perc Approach,ICD10_PROC,
-0JH839Z,Insert Card Rsync Defib Puls Gen in Abd Subcu/Fascia - Perc,ICD10_PROC,
-0JH83AZ,Insert Contractil Mod Dev in Abd Subcu/Fascia - Perc,ICD10_PROC,
-0JH83PZ,Insert Card Rhythm Dev in Abd Subcu/Fascia - Perc,ICD10_PROC,
-0JPT0PZ,Remove Card Rhythm Dev from Trunk Subcu/Fascia - Open,ICD10_PROC,
-0JPT3PZ,Remove Card Rhythm Dev from Trunk Subcu/Fascia - Perc,ICD10_PROC,
-0JWT0PZ,Revise Card Rhythm Dev in Trunk Subcu/Fascia - Open,ICD10_PROC,
-0JWT3PZ,Revise Card Rhythm Dev in Trunk Subcu/Fascia - Perc,ICD10_PROC,
-0293T,Ins lt atrl press monitor,CPT_HCPCS,N
-0294T,Ins lt atrl mont pres lead,CPT_HCPCS,N
-0319T,Insert subq defib w/eltrd,CPT_HCPCS,N
-0320T,Insert subq defib electrode,CPT_HCPCS,N
-0321T,Insert subq defib pls gen,CPT_HCPCS,N
-0322T,Rmvl subq defib pls gen,CPT_HCPCS,N
-0323T,Rmvl & replc subq pls gen,CPT_HCPCS,N
-0324T,Rmvl subq defib electrode,CPT_HCPCS,N
-0325T,Repos subq defib eltrd &/gen,CPT_HCPCS,N
-0387T,Leadless c pm ins/rpl ventr,CPT_HCPCS,N
-0388T,Leadless c pm remove ventr,CPT_HCPCS,N
-0408T,Insj/rplc cardiac modulj sys,CPT_HCPCS,N
-0409T,Insj/rplc cardiac modulj pls gn,CPT_HCPCS,N
-0410T,Insj/rplc car modulj atr elt,CPT_HCPCS,N
-0411T,Insj/rplc car modulj vnt elt,CPT_HCPCS,N
-0412T,Rmvl cardiac modulj pls gen,CPT_HCPCS,N
-0413T,Rmvl car modulj tranvns elt,CPT_HCPCS,N
-0414T,Rmvl & rpl car modulj pls gn,CPT_HCPCS,N
-0415T,Repos car modulj tranvns elt,CPT_HCPCS,N
-0416T,Reloc skin pocket pls gen,CPT_HCPCS,N
-33200,Insertion of heart pacemaker,CPT_HCPCS,N
-33201,Insertion of heart pacemaker,CPT_HCPCS,N
-33202,Insert epicard eltrd open,CPT_HCPCS,Y
-33203,Insert epicard eltrd endo,CPT_HCPCS,Y
-33206,Insert heart pm atrial,CPT_HCPCS,N
-33207,Insert heart pm ventricular,CPT_HCPCS,N
-33208,Insrt heart pm atrial & vent,CPT_HCPCS,N
-33210,Insert electrd/pm cath sngl,CPT_HCPCS,N
-33211,Insert card electrodes dual,CPT_HCPCS,N
-33212,Insert pulse gen sngl lead,CPT_HCPCS,N
-33213,Insert pulse gen dual leads,CPT_HCPCS,N
-33214,Upgrade of pacemaker system,CPT_HCPCS,N
-33215,Reposition pacing-defib lead,CPT_HCPCS,N
-33216,Insert 1 electrode pm-defib,CPT_HCPCS,N
-33217,Insert 2 electrode pm-defib,CPT_HCPCS,N
-33218,Repair lead pace-defib one,CPT_HCPCS,N
-33220,Repair lead pace-defib dual,CPT_HCPCS,N
-33221,Insert pulse gen mult leads,CPT_HCPCS,N
-33222,Relocation pocket pacemaker,CPT_HCPCS,N
-33223,Relocate pocket for defib,CPT_HCPCS,N
-33224,Insert pacing lead & connect,CPT_HCPCS,N
-33225,L ventric pacing lead add-on,CPT_HCPCS,N
-33226,Reposition l ventric lead,CPT_HCPCS,N
-33227,Remove&replace pm gen singl,CPT_HCPCS,N
-33228,Remv&replc pm gen dual lead,CPT_HCPCS,N
-33229,Remv&replc pm gen mult leads,CPT_HCPCS,N
-33230,Insrt pulse gen w/dual leads,CPT_HCPCS,N
-33231,Insrt pulse gen w/mult leads,CPT_HCPCS,N
-33233,Removal of pm generator,CPT_HCPCS,N
-33234,Removal of pacemaker system,CPT_HCPCS,N
-33235,Removal pacemaker electrode,CPT_HCPCS,N
-33236,Remove electrode/thoracotomy,CPT_HCPCS,Y
-33237,Remove electrode/thoracotomy,CPT_HCPCS,Y
-33238,Remove electrode/thoracotomy,CPT_HCPCS,Y
-33240,Insrt pulse gen w/singl lead,CPT_HCPCS,N
-33241,Remove pulse generator,CPT_HCPCS,N
-33243,Remove eltrd/thoracotomy,CPT_HCPCS,Y
-33244,Remove elctrd transvenously,CPT_HCPCS,N
-33245,Insert epic eltrd pace-defib,CPT_HCPCS,N
-33246,Insert epic eltrd/generator,CPT_HCPCS,N
-33249,Insj/rplcmt defib w/lead(s),CPT_HCPCS,N
-33262,Rmvl& replc pulse gen 1 lead,CPT_HCPCS,N
-33263,Rmvl & rplcmt dfb gen 2 lead,CPT_HCPCS,N
-33264,Rmvl & rplcmt dfb gen mlt ld,CPT_HCPCS,N
-33270,Ins/rep subq defibrillator,CPT_HCPCS,N
-33271,Insj subq impltbl dfb elctrd,CPT_HCPCS,N
-33272,Rmvl of subq defibrillator,CPT_HCPCS,N
-33273,Repos prev impltbl subq dfb,CPT_HCPCS,N
-G0297,Ldct for lung ca screen,CPT_HCPCS,N
-G0298,Hiv combination assay,CPT_HCPCS,N
-G0299,Hhs/hospice of rn ea 15 min,CPT_HCPCS,N
-G0300,Hhs/hospice of lpn ea 15 min,CPT_HCPCS,N
-G0448,Place perm pacing cardiovert,CPT_HCPCS,N
-222,Cardiac defib implant w cardiac cath w AMI/HF/shock w MCC,MSDRG,
-223,Cardiac defib implant w cardiac cath w AMI/HF/shock w/o MCC,MSDRG,
-224,Cardiac defib implant w cardiac cath w/o AMI/HF/shock w MCC,MSDRG,
-225,Cardiac defib implant w cardiac cath w/o AMI/HF/shock w/o MCC,MSDRG,
-226,Cardiac defibrillator implant w/o cardiac cath w MCC,MSDRG,
-227,Cardiac defibrillator implant w/o cardiac cath w/o MCC,MSDRG,
-242,Permanent cardiac pacemaker implant w MCC,MSDRG,
-243,Permanent cardiac pacemaker implant w CC,MSDRG,
-244,Permanent cardiac pacemaker implant w/o CC/MCC,MSDRG,
-245,AICD generator procedures,MSDRG,
-258,Cardiac pacemaker device replacement w MCC,MSDRG,
-259,Cardiac pacemaker device replacement w/o MCC,MSDRG,
-260,Cardiac pacemaker revision except device replacement w MCC,MSDRG,
-261,Cardiac pacemaker revision except device replacement w CC,MSDRG,
-262,Cardiac pacemaker revision except device replacement w/o CC/MCC,MSDRG,
-265,AICD lead procedures,MSDRG,
+code,code_description,code_type,cms_opps_inpatient_list,ccs
+50,IMPLANTATION OF CARDIAC RESYNCHRONIZATION PACEMAKER WITHOUT MENTION OF DEFIBRILLATION - TOTAL SYSTEM [CRT-P],ICD9,,ccs48
+51,IMPLANTATION OF CARDIAC RESYNCHRONIZATION DEFIBRILLATOR - TOTAL SYSTEM [CRT-D],ICD9,,ccs48
+52,IMPLANTATION OR REPLACEMENT OF TRANSVENOUS LEAD [ELECTRODE] INTO LEFT VENTRICULAR CORONARY VENOUS SYSTEM,ICD9,,ccs48
+53,IMPLANTATION OR REPLACEMENT OF CARDIAC RESYNCHRONIZATION PACEMAKER PULSE GENERATOR ONLY [CRT-P],ICD9,,ccs48
+54,IMPLANTATION OR REPLACEMENT OF CARDIAC RESYNCHRONIZATION DEFIBRILLATOR PULSE GENERATOR ONLY [CRT-D],ICD9,,ccs48
+56,INSERTION OR REPLACEMENT OF IMPLANTABLE PRESSURE SENSOR WITH LEAD FOR INTRACARDIAC OR GREAT VESSEL HEMODYNAMIC MONITORING,ICD9,,ccs48
+57,IMPLANTATION OR REPLACEMENT OF SUBCUTANEOUS DEVICE FOR INTRACARDIAC OR GREAT VESSEL HEMODYNAMIC MONITORING,ICD9,,ccs48
+1751,IMPLANTATION OF RECHARGEABLE CARDIAC CONTRACTILITY MODULATION [CCM] - TOTAL SYSTEM,ICD9,,ccs48
+1752,IMPLANTATION OR REPLACEMENT OF CARDIAC CONTRACTILITY MODULATION [CCM] RECHARGEABLE PULSE GENERATOR ONLY,ICD9,,ccs48
+3770,INITIAL INSERTION OF LEAD [ELECTRODE] - NOT OTHERWISE SPECIFIED,ICD9,,ccs48
+3771,INITIAL INSERTION OF TRANSVENOUS LEAD [ELECTRODE] INTO VENTRICLE,ICD9,,ccs48
+3772,INITIAL INSERTION OF TRANSVENOUS LEADS [ELECTRODES] INTO ATRIUM AND VENTRICLE,ICD9,,ccs48
+3773,INITIAL INSERTION OF TRANSVENOUS LEAD [ELECTRODE] INTO ATRIUM,ICD9,,ccs48
+3774,INSERTION OR REPLACEMENT OF EPICARDIAL LEAD [ELECTRODE] INTO EPICARDIUM,ICD9,,ccs48
+3775,REVISION OF LEAD [ELECTRODE],ICD9,,ccs48
+3776,REPLACEMENT OF TRANSVENOUS ATRIAL AND/OR VENTRICULAR LEAD(S) [ELECTRODE],ICD9,,ccs48
+3777,REMOVAL OF LEAD(S) [ELECTRODE] WITHOUT REPLACEMENT,ICD9,,ccs48
+3778,INSERTION OF TEMPORARY TRANSVENOUS PACEMAKER SYSTEM,ICD9,,ccs48
+3779,REVISION OR RELOCATION OF CARDIAC DEVICE POCKET,ICD9,,ccs48
+3780,INSERTION OF PERMANENT PACEMAKER - INITIAL OR REPLACEMENT - TYPE OF DEVICE NOT SPECIFIED,ICD9,,ccs48
+3781,INITIAL INSERTION OF SINGLE-CHAMBER DEVICE - NOT SPECIFIED AS RATE RESPONSIVE,ICD9,,ccs48
+3782,INITIAL INSERTION OF SINGLE-CHAMBER DEVICE - RATE RESPONSIVE,ICD9,,ccs48
+3783,INITIAL INSERTION OF DUAL-CHAMBER DEVICE,ICD9,,ccs48
+3785,REPLACEMENT OF ANY TYPE PACEMAKER DEVICE WITH SINGLE-CHAMBER DEVICE - NOT SPECIFIED AS RATE RESPONSIVE,ICD9,,ccs48
+3786,REPLACEMENT OF ANY TYPE OF PACEMAKER DEVICE WITH SINGLE-CHAMBER DEVICE - RATE RESPONSIVE,ICD9,,ccs48
+3787,REPLACEMENT OF ANY TYPE PACEMAKER DEVICE WITH DUAL-CHAMBER DEVICE,ICD9,,ccs48
+3789,REVISION OR REMOVAL OF PACEMAKER DEVICE,ICD9,,ccs48
+3794,IMPLANTATION OR REPLACEMENT OF AUTOMATIC CARDIOVERTER/DEFIBRILLATOR - TOTAL SYSTEM [AICD],ICD9,,ccs48
+3795,IMPLANTATION OF AUTOMATIC CARDIOVERTER/DEFIBRILLATOR LEAD(S) ONLY,ICD9,,ccs48
+3796,IMPLANTATION OF AUTOMATIC CARDIOVERTER/DEFIBRILLATOR PULSE GENERATOR ONLY,ICD9,,ccs48
+3797,REPLACEMENT OF AUTOMATIC CARDIOVERTER/DEFIBRILLATOR LEAD(S) ONLY,ICD9,,ccs48
+3798,REPLACEMENT OF AUTOMATIC CARDIOVERTER/DEFIBRILLATOR PULSE GENERATOR ONLY,ICD9,,ccs48
+02H40JZ,Insertion of Pacemaker Lead into Cor Vein - Open Approach,ICD10_PROC,,ccs48
+02H40KZ,Insertion of Defibrillator Lead into Cor Vein - Open Approach,ICD10_PROC,,ccs48
+02H40MZ,Insertion of Cardiac Lead into Coronary Vein - Open Approach,ICD10_PROC,,ccs48
+02H40NZ,Insertion of Intracard Pacer into Cor Vein - Open Approach,ICD10_PROC,,ccs48
+02H43JZ,Insertion of Pacemaker Lead into Cor Vein - Perc Approach,ICD10_PROC,,ccs48
+02H43KZ,Insertion of Defibrillator Lead into Cor Vein - Perc Approach,ICD10_PROC,,ccs48
+02H43MZ,Insertion of Cardiac Lead into Coronary Vein - Perc Approach,ICD10_PROC,,ccs48
+02H43NZ,Insertion of Intracard Pacer into Cor Vein - Perc Approach,ICD10_PROC,,ccs48
+02H44JZ,Insertion of Pace Lead into Cor Vein - Perc Endo Approach,ICD10_PROC,,ccs48
+02H44KZ,Insertion of Defib Lead into Cor Vein - Perc Endo Approach,ICD10_PROC,,ccs48
+02H44MZ,Insertion of Cardiac Lead into Cor Vein - Perc Endo Approach,ICD10_PROC,,ccs48
+02H44NZ,Insert of Intracard Pacer into Cor Vein - Perc Endo Approach,ICD10_PROC,,ccs48
+02H60JZ,Insertion of Pacemaker Lead into Right Atrium - Open Approach,ICD10_PROC,,ccs48
+02H60KZ,Insertion of Defibrillator Lead into R Atrium - Open Approach,ICD10_PROC,,ccs48
+02H60MZ,Insertion of Cardiac Lead into Right Atrium - Open Approach,ICD10_PROC,,ccs48
+02H60NZ,Insertion of Intracard Pacer into R Atrium - Open Approach,ICD10_PROC,,ccs48
+02H63JZ,Insertion of Pacemaker Lead into Right Atrium - Perc Approach,ICD10_PROC,,ccs48
+02H63KZ,Insertion of Defibrillator Lead into R Atrium - Perc Approach,ICD10_PROC,,ccs48
+02H63MZ,Insertion of Cardiac Lead into Right Atrium - Perc Approach,ICD10_PROC,,ccs48
+02H63NZ,Insertion of Intracard Pacer into R Atrium - Perc Approach,ICD10_PROC,,ccs48
+02H64JZ,Insertion of Pace Lead into R Atrium - Perc Endo Approach,ICD10_PROC,,ccs48
+02H64KZ,Insertion of Defib Lead into R Atrium - Perc Endo Approach,ICD10_PROC,,ccs48
+02H64MZ,Insertion of Cardiac Lead into R Atrium - Perc Endo Approach,ICD10_PROC,,ccs48
+02H64NZ,Insert of Intracard Pacer into R Atrium - Perc Endo Approach,ICD10_PROC,,ccs48
+02H70JZ,Insertion of Pacemaker Lead into Left Atrium - Open Approach,ICD10_PROC,,ccs48
+02H70KZ,Insertion of Defibrillator Lead into L Atrium - Open Approach,ICD10_PROC,,ccs48
+02H70MZ,Insertion of Cardiac Lead into Left Atrium - Open Approach,ICD10_PROC,,ccs48
+02H70NZ,Insertion of Intracard Pacer into L Atrium - Open Approach,ICD10_PROC,,ccs48
+02H73JZ,Insertion of Pacemaker Lead into Left Atrium - Perc Approach,ICD10_PROC,,ccs48
+02H73KZ,Insertion of Defibrillator Lead into L Atrium - Perc Approach,ICD10_PROC,,ccs48
+02H73MZ,Insertion of Cardiac Lead into Left Atrium - Perc Approach,ICD10_PROC,,ccs48
+02H73NZ,Insertion of Intracard Pacer into L Atrium - Perc Approach,ICD10_PROC,,ccs48
+02H74JZ,Insertion of Pace Lead into L Atrium - Perc Endo Approach,ICD10_PROC,,ccs48
+02H74KZ,Insertion of Defib Lead into L Atrium - Perc Endo Approach,ICD10_PROC,,ccs48
+02H74MZ,Insertion of Cardiac Lead into L Atrium - Perc Endo Approach,ICD10_PROC,,ccs48
+02H74NZ,Insert of Intracard Pacer into L Atrium - Perc Endo Approach,ICD10_PROC,,ccs48
+02HK0JZ,Insertion of Pacemaker Lead into R Ventricle - Open Approach,ICD10_PROC,,ccs48
+02HK0KZ,Insertion of Defib Lead into R Ventricle - Open Approach,ICD10_PROC,,ccs48
+02HK0MZ,Insertion of Cardiac Lead into R Ventricle - Open Approach,ICD10_PROC,,ccs48
+02HK0NZ,Insertion of Intracard Pacer into R Ventricle - Open Approach,ICD10_PROC,,ccs48
+02HK3JZ,Insertion of Pacemaker Lead into R Ventricle - Perc Approach,ICD10_PROC,,ccs48
+02HK3KZ,Insertion of Defib Lead into R Ventricle - Perc Approach,ICD10_PROC,,ccs48
+02HK3MZ,Insertion of Cardiac Lead into R Ventricle - Perc Approach,ICD10_PROC,,ccs48
+02HK3NZ,Insertion of Intracard Pacer into R Ventricle - Perc Approach,ICD10_PROC,,ccs48
+02HK4JZ,Insertion of Pace Lead into R Ventricle - Perc Endo Approach,ICD10_PROC,,ccs48
+02HK4KZ,Insertion of Defib Lead into R Ventricle - Perc Endo Approach,ICD10_PROC,,ccs48
+02HK4MZ,Insert of Cardiac Lead into R Ventricle - Perc Endo Approach,ICD10_PROC,,ccs48
+02HK4NZ,Insert Intracard Pacer in R Ventricle - Perc Endo,ICD10_PROC,,ccs48
+02HL0JZ,Insertion of Pacemaker Lead into L Ventricle - Open Approach,ICD10_PROC,,ccs48
+02HL0KZ,Insertion of Defib Lead into L Ventricle - Open Approach,ICD10_PROC,,ccs48
+02HL0MZ,Insertion of Cardiac Lead into Left Ventricle - Open Approach,ICD10_PROC,,ccs48
+02HL0NZ,Insertion of Intracard Pacer into L Ventricle - Open Approach,ICD10_PROC,,ccs48
+02HL3JZ,Insertion of Pacemaker Lead into L Ventricle - Perc Approach,ICD10_PROC,,ccs48
+02HL3KZ,Insertion of Defib Lead into L Ventricle - Perc Approach,ICD10_PROC,,ccs48
+02HL3MZ,Insertion of Cardiac Lead into Left Ventricle - Perc Approach,ICD10_PROC,,ccs48
+02HL3NZ,Insertion of Intracard Pacer into L Ventricle - Perc Approach,ICD10_PROC,,ccs48
+02HL4JZ,Insertion of Pace Lead into L Ventricle - Perc Endo Approach,ICD10_PROC,,ccs48
+02HL4KZ,Insertion of Defib Lead into L Ventricle - Perc Endo Approach,ICD10_PROC,,ccs48
+02HL4MZ,Insert of Cardiac Lead into L Ventricle - Perc Endo Approach,ICD10_PROC,,ccs48
+02HL4NZ,Insert Intracard Pacer in L Ventricle - Perc Endo,ICD10_PROC,,ccs48
+02HN0JZ,Insertion of Pacemaker Lead into Pericardium - Open Approach,ICD10_PROC,,ccs48
+02HN0KZ,Insertion of Defib Lead into Pericardium - Open Approach,ICD10_PROC,,ccs48
+02HN0MZ,Insertion of Cardiac Lead into Pericardium - Open Approach,ICD10_PROC,,ccs48
+02HN3JZ,Insertion of Pacemaker Lead into Pericardium - Perc Approach,ICD10_PROC,,ccs48
+02HN3KZ,Insertion of Defib Lead into Pericardium - Perc Approach,ICD10_PROC,,ccs48
+02HN3MZ,Insertion of Cardiac Lead into Pericardium - Perc Approach,ICD10_PROC,,ccs48
+02HN4JZ,Insertion of Pace Lead into Pericardium - Perc Endo Approach,ICD10_PROC,,ccs48
+02HN4KZ,Insertion of Defib Lead into Pericardium - Perc Endo Approach,ICD10_PROC,,ccs48
+02HN4MZ,Insert of Cardiac Lead into Pericardium - Perc Endo Approach,ICD10_PROC,,ccs48
+02PA0MZ,Removal of Cardiac Lead from Heart - Open Approach,ICD10_PROC,,ccs48
+02PA0NZ,Removal of Intracardiac Pacemaker from Heart - Open Approach,ICD10_PROC,,ccs48
+02PA3MZ,Removal of Cardiac Lead from Heart - Percutaneous Approach,ICD10_PROC,,ccs48
+02PA3NZ,Removal of Intracardiac Pacemaker from Heart - Perc Approach,ICD10_PROC,,ccs48
+02PA4MZ,Removal of Cardiac Lead from Heart - Perc Endo Approach,ICD10_PROC,,ccs48
+02PA4NZ,Removal of Intracard Pacer from Heart - Perc Endo Approach,ICD10_PROC,,ccs48
+02PAXMZ,Removal of Cardiac Lead from Heart - External Approach,ICD10_PROC,,ccs48
+02WA0MZ,Revision of Cardiac Lead in Heart - Open Approach,ICD10_PROC,,ccs48
+02WA0NZ,Revision of Intracardiac Pacemaker in Heart - Open Approach,ICD10_PROC,,ccs48
+02WA3MZ,Revision of Cardiac Lead in Heart - Percutaneous Approach,ICD10_PROC,,ccs48
+02WA3NZ,Revision of Intracardiac Pacemaker in Heart - Perc Approach,ICD10_PROC,,ccs48
+02WA4MZ,Revision of Cardiac Lead in Heart - Perc Endo Approach,ICD10_PROC,,ccs48
+02WA4NZ,Revision of Intracard Pacer in Heart - Perc Endo Approach,ICD10_PROC,,ccs48
+0JH604Z,Insert Pace - Singl Cham in Chest Subcu/Fascia - Open,ICD10_PROC,,ccs48
+0JH605Z,Insert Pace - Singl Cham Rt Respn in Chest Subcu/Fascia - Open,ICD10_PROC,,ccs48
+0JH606Z,Insert Pace. Dual Cham in Chest Subcu/Fascia - Open,ICD10_PROC,,ccs48
+0JH607Z,Insert Card Rsync Pace Puls Gen in Chest Subcu/Fascia - Open,ICD10_PROC,,ccs48
+0JH608Z,Insert of Defib Gen into Chest Subcu/Fascia - Open Approach,ICD10_PROC,,ccs48
+0JH609Z,Insert Card Rsync Defib Puls Gen in Chest Subcu/Fascia - Open,ICD10_PROC,,ccs48
+0JH60AZ,Insert Contractil Mod Dev in Chest Subcu/Fascia - Open,ICD10_PROC,,ccs48
+0JH60PZ,Insert Card Rhythm Dev in Chest Subcu/Fascia - Open,ICD10_PROC,,ccs48
+0JH634Z,Insert Pace - Singl Cham in Chest Subcu/Fascia - Perc,ICD10_PROC,,ccs48
+0JH635Z,Insert Pace - Singl Cham Rt Respn in Chest Subcu/Fascia - Perc,ICD10_PROC,,ccs48
+0JH636Z,Insert Pace. Dual Cham in Chest Subcu/Fascia - Perc,ICD10_PROC,,ccs48
+0JH637Z,Insert Card Rsync Pace Puls Gen in Chest Subcu/Fascia - Perc,ICD10_PROC,,ccs48
+0JH638Z,Insert of Defib Gen into Chest Subcu/Fascia - Perc Approach,ICD10_PROC,,ccs48
+0JH639Z,Insert Card Rsync Defib Puls Gen in Chest Subcu/Fascia - Perc,ICD10_PROC,,ccs48
+0JH63AZ,Insert Contractil Mod Dev in Chest Subcu/Fascia - Perc,ICD10_PROC,,ccs48
+0JH63PZ,Insert Card Rhythm Dev in Chest Subcu/Fascia - Perc,ICD10_PROC,,ccs48
+0JH804Z,Insert Pace - Singl Cham in Abd Subcu/Fascia - Open,ICD10_PROC,,ccs48
+0JH805Z,Insert Pace - Singl Cham Rt Respn in Abd Subcu/Fascia - Open,ICD10_PROC,,ccs48
+0JH806Z,Insert Pace. Dual Cham in Abd Subcu/Fascia - Open,ICD10_PROC,,ccs48
+0JH807Z,Insert Card Rsync Pace Puls Gen in Abd Subcu/Fascia - Open,ICD10_PROC,,ccs48
+0JH808Z,Insertion of Defib Gen into Abd Subcu/Fascia - Open Approach,ICD10_PROC,,ccs48
+0JH809Z,Insert Card Rsync Defib Puls Gen in Abd Subcu/Fascia - Open,ICD10_PROC,,ccs48
+0JH80AZ,Insert Contractil Mod Dev in Abd Subcu/Fascia - Open,ICD10_PROC,,ccs48
+0JH80PZ,Insert Card Rhythm Dev in Abd Subcu/Fascia - Open,ICD10_PROC,,ccs48
+0JH834Z,Insert Pace - Singl Cham in Abd Subcu/Fascia - Perc,ICD10_PROC,,ccs48
+0JH835Z,Insert Pace - Singl Cham Rt Respn in Abd Subcu/Fascia - Perc,ICD10_PROC,,ccs48
+0JH836Z,Insert Pace. Dual Cham in Abd Subcu/Fascia - Perc,ICD10_PROC,,ccs48
+0JH837Z,Insert Card Rsync Pace Puls Gen in Abd Subcu/Fascia - Perc,ICD10_PROC,,ccs48
+0JH838Z,Insertion of Defib Gen into Abd Subcu/Fascia - Perc Approach,ICD10_PROC,,ccs48
+0JH839Z,Insert Card Rsync Defib Puls Gen in Abd Subcu/Fascia - Perc,ICD10_PROC,,ccs48
+0JH83AZ,Insert Contractil Mod Dev in Abd Subcu/Fascia - Perc,ICD10_PROC,,ccs48
+0JH83PZ,Insert Card Rhythm Dev in Abd Subcu/Fascia - Perc,ICD10_PROC,,ccs48
+0JPT0PZ,Remove Card Rhythm Dev from Trunk Subcu/Fascia - Open,ICD10_PROC,,ccs48
+0JPT3PZ,Remove Card Rhythm Dev from Trunk Subcu/Fascia - Perc,ICD10_PROC,,ccs48
+0JWT0PZ,Revise Card Rhythm Dev in Trunk Subcu/Fascia - Open,ICD10_PROC,,ccs48
+0JWT3PZ,Revise Card Rhythm Dev in Trunk Subcu/Fascia - Perc,ICD10_PROC,,ccs48
+0293T,Ins lt atrl press monitor,CPT_HCPCS,N,ccs48
+0294T,Ins lt atrl mont pres lead,CPT_HCPCS,N,ccs48
+0319T,Insert subq defib w/eltrd,CPT_HCPCS,N,ccs48
+0320T,Insert subq defib electrode,CPT_HCPCS,N,ccs48
+0321T,Insert subq defib pls gen,CPT_HCPCS,N,ccs48
+0322T,Rmvl subq defib pls gen,CPT_HCPCS,N,ccs48
+0323T,Rmvl & replc subq pls gen,CPT_HCPCS,N,ccs48
+0324T,Rmvl subq defib electrode,CPT_HCPCS,N,ccs48
+0325T,Repos subq defib eltrd &/gen,CPT_HCPCS,N,ccs48
+0387T,Leadless c pm ins/rpl ventr,CPT_HCPCS,N,ccs48
+0388T,Leadless c pm remove ventr,CPT_HCPCS,N,ccs48
+0408T,Insj/rplc cardiac modulj sys,CPT_HCPCS,N,ccs48
+0409T,Insj/rplc cardiac modulj pls gn,CPT_HCPCS,N,ccs48
+0410T,Insj/rplc car modulj atr elt,CPT_HCPCS,N,ccs48
+0411T,Insj/rplc car modulj vnt elt,CPT_HCPCS,N,ccs48
+0412T,Rmvl cardiac modulj pls gen,CPT_HCPCS,N,ccs48
+0413T,Rmvl car modulj tranvns elt,CPT_HCPCS,N,ccs48
+0414T,Rmvl & rpl car modulj pls gn,CPT_HCPCS,N,ccs48
+0415T,Repos car modulj tranvns elt,CPT_HCPCS,N,ccs48
+0416T,Reloc skin pocket pls gen,CPT_HCPCS,N,ccs48
+33200,Insertion of heart pacemaker,CPT_HCPCS,N,ccs48
+33201,Insertion of heart pacemaker,CPT_HCPCS,N,ccs48
+33202,Insert epicard eltrd open,CPT_HCPCS,Y,ccs48
+33203,Insert epicard eltrd endo,CPT_HCPCS,Y,ccs48
+33206,Insert heart pm atrial,CPT_HCPCS,N,ccs48
+33207,Insert heart pm ventricular,CPT_HCPCS,N,ccs48
+33208,Insrt heart pm atrial & vent,CPT_HCPCS,N,ccs48
+33210,Insert electrd/pm cath sngl,CPT_HCPCS,N,ccs48
+33211,Insert card electrodes dual,CPT_HCPCS,N,ccs48
+33212,Insert pulse gen sngl lead,CPT_HCPCS,N,ccs48
+33213,Insert pulse gen dual leads,CPT_HCPCS,N,ccs48
+33214,Upgrade of pacemaker system,CPT_HCPCS,N,ccs48
+33215,Reposition pacing-defib lead,CPT_HCPCS,N,ccs48
+33216,Insert 1 electrode pm-defib,CPT_HCPCS,N,ccs48
+33217,Insert 2 electrode pm-defib,CPT_HCPCS,N,ccs48
+33218,Repair lead pace-defib one,CPT_HCPCS,N,ccs48
+33220,Repair lead pace-defib dual,CPT_HCPCS,N,ccs48
+33221,Insert pulse gen mult leads,CPT_HCPCS,N,ccs48
+33222,Relocation pocket pacemaker,CPT_HCPCS,N,ccs48
+33223,Relocate pocket for defib,CPT_HCPCS,N,ccs48
+33224,Insert pacing lead & connect,CPT_HCPCS,N,ccs48
+33225,L ventric pacing lead add-on,CPT_HCPCS,N,ccs48
+33226,Reposition l ventric lead,CPT_HCPCS,N,ccs48
+33227,Remove&replace pm gen singl,CPT_HCPCS,N,ccs48
+33228,Remv&replc pm gen dual lead,CPT_HCPCS,N,ccs48
+33229,Remv&replc pm gen mult leads,CPT_HCPCS,N,ccs48
+33230,Insrt pulse gen w/dual leads,CPT_HCPCS,N,ccs48
+33231,Insrt pulse gen w/mult leads,CPT_HCPCS,N,ccs48
+33233,Removal of pm generator,CPT_HCPCS,N,ccs48
+33234,Removal of pacemaker system,CPT_HCPCS,N,ccs48
+33235,Removal pacemaker electrode,CPT_HCPCS,N,ccs48
+33236,Remove electrode/thoracotomy,CPT_HCPCS,Y,ccs48
+33237,Remove electrode/thoracotomy,CPT_HCPCS,Y,ccs48
+33238,Remove electrode/thoracotomy,CPT_HCPCS,Y,ccs48
+33240,Insrt pulse gen w/singl lead,CPT_HCPCS,N,ccs48
+33241,Remove pulse generator,CPT_HCPCS,N,ccs48
+33243,Remove eltrd/thoracotomy,CPT_HCPCS,Y,ccs48
+33244,Remove elctrd transvenously,CPT_HCPCS,N,ccs48
+33245,Insert epic eltrd pace-defib,CPT_HCPCS,N,ccs48
+33246,Insert epic eltrd/generator,CPT_HCPCS,N,ccs48
+33249,Insj/rplcmt defib w/lead(s),CPT_HCPCS,N,ccs48
+33262,Rmvl& replc pulse gen 1 lead,CPT_HCPCS,N,ccs48
+33263,Rmvl & rplcmt dfb gen 2 lead,CPT_HCPCS,N,ccs48
+33264,Rmvl & rplcmt dfb gen mlt ld,CPT_HCPCS,N,ccs48
+33270,Ins/rep subq defibrillator,CPT_HCPCS,N,ccs48
+33271,Insj subq impltbl dfb elctrd,CPT_HCPCS,N,ccs48
+33272,Rmvl of subq defibrillator,CPT_HCPCS,N,ccs48
+33273,Repos prev impltbl subq dfb,CPT_HCPCS,N,ccs48
+G0297,Ldct for lung ca screen,CPT_HCPCS,N,ccs48
+G0298,Hiv combination assay,CPT_HCPCS,N,ccs48
+G0299,Hhs/hospice of rn ea 15 min,CPT_HCPCS,N,ccs48
+G0300,Hhs/hospice of lpn ea 15 min,CPT_HCPCS,N,ccs48
+G0448,Place perm pacing cardiovert,CPT_HCPCS,N,ccs48
+222,Cardiac defib implant w cardiac cath w AMI/HF/shock w MCC,MSDRG,,ccs48
+223,Cardiac defib implant w cardiac cath w AMI/HF/shock w/o MCC,MSDRG,,ccs48
+224,Cardiac defib implant w cardiac cath w/o AMI/HF/shock w MCC,MSDRG,,ccs48
+225,Cardiac defib implant w cardiac cath w/o AMI/HF/shock w/o MCC,MSDRG,,ccs48
+226,Cardiac defibrillator implant w/o cardiac cath w MCC,MSDRG,,ccs48
+227,Cardiac defibrillator implant w/o cardiac cath w/o MCC,MSDRG,,ccs48
+242,Permanent cardiac pacemaker implant w MCC,MSDRG,,ccs48
+243,Permanent cardiac pacemaker implant w CC,MSDRG,,ccs48
+244,Permanent cardiac pacemaker implant w/o CC/MCC,MSDRG,,ccs48
+245,AICD generator procedures,MSDRG,,ccs48
+258,Cardiac pacemaker device replacement w MCC,MSDRG,,ccs48
+259,Cardiac pacemaker device replacement w/o MCC,MSDRG,,ccs48
+260,Cardiac pacemaker revision except device replacement w MCC,MSDRG,,ccs48
+261,Cardiac pacemaker revision except device replacement w CC,MSDRG,,ccs48
+262,Cardiac pacemaker revision except device replacement w/o CC/MCC,MSDRG,,ccs48
+265,AICD lead procedures,MSDRG,,ccs48

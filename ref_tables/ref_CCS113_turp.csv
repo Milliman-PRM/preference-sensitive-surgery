@@ -1,23 +1,23 @@
-code,code_description,code_type,cms_opps_inpatient_list
-6021,TRANSURETHRAL (ULTRASOUND) GUIDED LASER INDUCED PROSTATECTOMY (TULIP),ICD9,
-6029,OTHER TRANSURETHRAL PROSTATECTOMY,ICD9,
-6096,TRANSURETHRAL DESTRUCTION OF PROSTATE TISSUE BY MICROWAVE THERMOTHERAPY,ICD9,
-6097,OTHER TRANSURETHRAL DESTRUCTION OF PROSTATE TISSUE BY OTHER THERMOTHERAPY,ICD9,
-0V507ZZ,Destruction of Prostate - Via Natural or Artificial Opening,ICD10_PROC,
-0V508ZZ,Destruction of Prostate - Endo,ICD10_PROC,
-0VB07ZZ,Excision of Prostate - Via Natural or Artificial Opening,ICD10_PROC,
-0VB08ZZ,Excision of Prostate - Endo,ICD10_PROC,
-0VT07ZZ,Resection of Prostate - Via Natural or Artificial Opening,ICD10_PROC,
-0VT08ZZ,Resection of Prostate - Endo,ICD10_PROC,
-0421T,Waterjet prostate abltj cmpl,CPT_HCPCS,N
-52601,Prostatectomy (turp),CPT_HCPCS,N
-52612,Prostatectomy - first stage,CPT_HCPCS,N
-52614,Prostatectomy - second stage,CPT_HCPCS,N
-52620,Remove residual prostate,CPT_HCPCS,N
-52630,Remove prostate regrowth,CPT_HCPCS,N
-53850,Prostatic microwave thermotx,CPT_HCPCS,N
-53852,Prostatic rf thermotx,CPT_HCPCS,N
-53853,Prostatic water thermother,CPT_HCPCS,N
-668,Transurethral procedures w MCC,MSDRG,
-669,Transurethral procedures w CC,MSDRG,
-670,Transurethral procedures w/o CC/MCC,MSDRG,
+code,code_description,code_type,cms_opps_inpatient_list,ccs
+6021,TRANSURETHRAL (ULTRASOUND) GUIDED LASER INDUCED PROSTATECTOMY (TULIP),ICD9,,ccs113
+6029,OTHER TRANSURETHRAL PROSTATECTOMY,ICD9,,ccs113
+6096,TRANSURETHRAL DESTRUCTION OF PROSTATE TISSUE BY MICROWAVE THERMOTHERAPY,ICD9,,ccs113
+6097,OTHER TRANSURETHRAL DESTRUCTION OF PROSTATE TISSUE BY OTHER THERMOTHERAPY,ICD9,,ccs113
+0V507ZZ,Destruction of Prostate - Via Natural or Artificial Opening,ICD10_PROC,,ccs113
+0V508ZZ,Destruction of Prostate - Endo,ICD10_PROC,,ccs113
+0VB07ZZ,Excision of Prostate - Via Natural or Artificial Opening,ICD10_PROC,,ccs113
+0VB08ZZ,Excision of Prostate - Endo,ICD10_PROC,,ccs113
+0VT07ZZ,Resection of Prostate - Via Natural or Artificial Opening,ICD10_PROC,,ccs113
+0VT08ZZ,Resection of Prostate - Endo,ICD10_PROC,,ccs113
+0421T,Waterjet prostate abltj cmpl,CPT_HCPCS,N,ccs113
+52601,Prostatectomy (turp),CPT_HCPCS,N,ccs113
+52612,Prostatectomy - first stage,CPT_HCPCS,N,ccs113
+52614,Prostatectomy - second stage,CPT_HCPCS,N,ccs113
+52620,Remove residual prostate,CPT_HCPCS,N,ccs113
+52630,Remove prostate regrowth,CPT_HCPCS,N,ccs113
+53850,Prostatic microwave thermotx,CPT_HCPCS,N,ccs113
+53852,Prostatic rf thermotx,CPT_HCPCS,N,ccs113
+53853,Prostatic water thermother,CPT_HCPCS,N,ccs113
+668,Transurethral procedures w MCC,MSDRG,,ccs113
+669,Transurethral procedures w CC,MSDRG,,ccs113
+670,Transurethral procedures w/o CC/MCC,MSDRG,,ccs113
