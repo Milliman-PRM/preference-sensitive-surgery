@@ -1,47 +1,47 @@
-code,code_description,code_type,cms_opps_inpatient_list,ccs
-0UT90ZZ,Resection of Uterus - Open Approach,ICD10_PROC,,ccs124
-0UT94ZZ,Resection of Uterus - Percutaneous Endoscopic Approach,ICD10_PROC,,ccs124
-0UT97ZZ,Resection of Uterus - Via Natural or Artificial Opening,ICD10_PROC,,ccs124
-0UT98ZZ,Resection of Uterus - Endo,ICD10_PROC,,ccs124
-0UT9FZZ,Resection of Uterus - Via Opening w Perc Endo,ICD10_PROC,,ccs124
-51925,Hysterectomy/bladder repair,CPT_HCPCS,Y,ccs124
-58150,Total hysterectomy,CPT_HCPCS,Y,ccs124
-58152,Total hysterectomy,CPT_HCPCS,Y,ccs124
-58180,Partial hysterectomy,CPT_HCPCS,Y,ccs124
-58200,Extensive hysterectomy,CPT_HCPCS,Y,ccs124
-58210,Extensive hysterectomy,CPT_HCPCS,Y,ccs124
-58240,Removal of pelvis contents,CPT_HCPCS,Y,ccs124
-58260,Vaginal hysterectomy,CPT_HCPCS,N,ccs124
-58262,Vag hyst including t/o,CPT_HCPCS,N,ccs124
-58263,Vag hyst w/t/o & vag repair,CPT_HCPCS,N,ccs124
-58267,Vag hyst w/urinary repair,CPT_HCPCS,Y,ccs124
-58270,Vag hyst w/enterocele repair,CPT_HCPCS,N,ccs124
-58275,Hysterectomy/revise vagina,CPT_HCPCS,Y,ccs124
-58280,Hysterectomy/revise vagina,CPT_HCPCS,Y,ccs124
-58285,Extensive hysterectomy,CPT_HCPCS,Y,ccs124
-58290,Vag hyst complex,CPT_HCPCS,N,ccs124
-58291,Vag hyst incl t/o complex,CPT_HCPCS,N,ccs124
-58292,Vag hyst t/o & repair compl,CPT_HCPCS,N,ccs124
-58293,Vag hyst w/uro repair compl,CPT_HCPCS,Y,ccs124
-58294,Vag hyst w/enterocele compl,CPT_HCPCS,N,ccs124
-58541,Lsh uterus 250 g or less,CPT_HCPCS,N,ccs124
-58542,Lsh w/t/o ut 250 g or less,CPT_HCPCS,N,ccs124
-58543,Lsh uterus above 250 g,CPT_HCPCS,N,ccs124
-58544,Lsh w/t/o uterus above 250 g,CPT_HCPCS,N,ccs124
-58548,Lap radical hyst,CPT_HCPCS,Y,ccs124
-58550,Laparo-asst vag hysterectomy,CPT_HCPCS,N,ccs124
-58552,Laparo-vag hyst incl t/o,CPT_HCPCS,N,ccs124
-58553,Laparo-vag hyst complex,CPT_HCPCS,N,ccs124
-58554,Laparo-vag hyst w/t/o compl,CPT_HCPCS,N,ccs124
-58570,Tlh uterus 250 g or less,CPT_HCPCS,N,ccs124
-58571,Tlh w/t/o 250 g or less,CPT_HCPCS,N,ccs124
-58572,Tlh uterus over 250 g,CPT_HCPCS,N,ccs124
-58573,Tlh w/t/o uterus over 250 g,CPT_HCPCS,N,ccs124
-58951,Resect ovarian malignancy,CPT_HCPCS,Y,ccs124
-58953,Tah rad dissect for debulk,CPT_HCPCS,Y,ccs124
-58954,Tah rad debulk/lymph remove,CPT_HCPCS,Y,ccs124
-58956,Bso omentectomy w/tah,CPT_HCPCS,Y,ccs124
-59525,Remove uterus after cesarean,CPT_HCPCS,Y,ccs124
-S2078,Lap supracerv hysterectomy,CPT_HCPCS,N,ccs124
-742,Uterine & adnexa proc for non-malignancy w CC/MCC,MSDRG,,ccs124
-743,Uterine & adnexa proc for non-malignancy w/o CC/MCC,MSDRG,,ccs124
+code,code_description,code_type,ccs
+0UT90ZZ,Resection of Uterus - Open Approach,ICD10_PROC,ccs124
+0UT94ZZ,Resection of Uterus - Percutaneous Endoscopic Approach,ICD10_PROC,ccs124
+0UT97ZZ,Resection of Uterus - Via Natural or Artificial Opening,ICD10_PROC,ccs124
+0UT98ZZ,Resection of Uterus - Endo,ICD10_PROC,ccs124
+0UT9FZZ,Resection of Uterus - Via Opening w Perc Endo,ICD10_PROC,ccs124
+51925,Hysterectomy/bladder repair,CPT_HCPCS,ccs124
+58150,Total hysterectomy,CPT_HCPCS,ccs124
+58152,Total hysterectomy,CPT_HCPCS,ccs124
+58180,Partial hysterectomy,CPT_HCPCS,ccs124
+58200,Extensive hysterectomy,CPT_HCPCS,ccs124
+58210,Extensive hysterectomy,CPT_HCPCS,ccs124
+58240,Removal of pelvis contents,CPT_HCPCS,ccs124
+58260,Vaginal hysterectomy,CPT_HCPCS,ccs124
+58262,Vag hyst including t/o,CPT_HCPCS,ccs124
+58263,Vag hyst w/t/o & vag repair,CPT_HCPCS,ccs124
+58267,Vag hyst w/urinary repair,CPT_HCPCS,ccs124
+58270,Vag hyst w/enterocele repair,CPT_HCPCS,ccs124
+58275,Hysterectomy/revise vagina,CPT_HCPCS,ccs124
+58280,Hysterectomy/revise vagina,CPT_HCPCS,ccs124
+58285,Extensive hysterectomy,CPT_HCPCS,ccs124
+58290,Vag hyst complex,CPT_HCPCS,ccs124
+58291,Vag hyst incl t/o complex,CPT_HCPCS,ccs124
+58292,Vag hyst t/o & repair compl,CPT_HCPCS,ccs124
+58293,Vag hyst w/uro repair compl,CPT_HCPCS,ccs124
+58294,Vag hyst w/enterocele compl,CPT_HCPCS,ccs124
+58541,Lsh uterus 250 g or less,CPT_HCPCS,ccs124
+58542,Lsh w/t/o ut 250 g or less,CPT_HCPCS,ccs124
+58543,Lsh uterus above 250 g,CPT_HCPCS,ccs124
+58544,Lsh w/t/o uterus above 250 g,CPT_HCPCS,ccs124
+58548,Lap radical hyst,CPT_HCPCS,ccs124
+58550,Laparo-asst vag hysterectomy,CPT_HCPCS,ccs124
+58552,Laparo-vag hyst incl t/o,CPT_HCPCS,ccs124
+58553,Laparo-vag hyst complex,CPT_HCPCS,ccs124
+58554,Laparo-vag hyst w/t/o compl,CPT_HCPCS,ccs124
+58570,Tlh uterus 250 g or less,CPT_HCPCS,ccs124
+58571,Tlh w/t/o 250 g or less,CPT_HCPCS,ccs124
+58572,Tlh uterus over 250 g,CPT_HCPCS,ccs124
+58573,Tlh w/t/o uterus over 250 g,CPT_HCPCS,ccs124
+58951,Resect ovarian malignancy,CPT_HCPCS,ccs124
+58953,Tah rad dissect for debulk,CPT_HCPCS,ccs124
+58954,Tah rad debulk/lymph remove,CPT_HCPCS,ccs124
+58956,Bso omentectomy w/tah,CPT_HCPCS,ccs124
+59525,Remove uterus after cesarean,CPT_HCPCS,ccs124
+S2078,Lap supracerv hysterectomy,CPT_HCPCS,ccs124
+742,Uterine & adnexa proc for non-malignancy w CC/MCC,MSDRG,ccs124
+743,Uterine & adnexa proc for non-malignancy w/o CC/MCC,MSDRG,ccs124

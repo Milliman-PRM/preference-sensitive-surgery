@@ -1,328 +1,328 @@
-code,code_description,code_type,cms_opps_inpatient_list,ccs
-210083,Bypass 1 Cor Art from Cor Art with Zooplastic - Open Approach,ICD10_PROC,,ccs4
-210088,Bypass 1 Cor Art from R Int Mammary w Zooplastic - Open,ICD10_PROC,,ccs4
-210089,Bypass 1 Cor Art from L Int Mammary w Zooplastic - Open,ICD10_PROC,,ccs4
-021008C,Bypass 1 Cor Art from Thor Art w Zooplastic - Open,ICD10_PROC,,ccs4
-021008F,Bypass 1 Cor Art from Abd Art with Zooplastic - Open Approach,ICD10_PROC,,ccs4
-021008W,Bypass 1 Cor Art from Aorta with Zooplastic - Open Approach,ICD10_PROC,,ccs4
-210093,Bypass 1 Cor Art from Cor Art with Autol Vn - Open Approach,ICD10_PROC,,ccs4
-210098,Bypass 1 Cor Art from R Int Mammary w Autol Vn - Open,ICD10_PROC,,ccs4
-210099,Bypass 1 Cor Art from L Int Mammary w Autol Vn - Open,ICD10_PROC,,ccs4
-021009C,Bypass 1 Cor Art from Thor Art with Autol Vn - Open Approach,ICD10_PROC,,ccs4
-021009F,Bypass 1 Cor Art from Abd Art with Autol Vn - Open Approach,ICD10_PROC,,ccs4
-021009W,Bypass 1 Cor Art from Aorta with Autol Vn - Open Approach,ICD10_PROC,,ccs4
-02100A3,Bypass 1 Cor Art from Cor Art with Autol Art - Open Approach,ICD10_PROC,,ccs4
-02100A8,Bypass 1 Cor Art from R Int Mammary w Autol Art - Open,ICD10_PROC,,ccs4
-02100A9,Bypass 1 Cor Art from L Int Mammary w Autol Art - Open,ICD10_PROC,,ccs4
-02100AC,Bypass 1 Cor Art from Thor Art with Autol Art - Open Approach,ICD10_PROC,,ccs4
-02100AF,Bypass 1 Cor Art from Abd Art with Autol Art - Open Approach,ICD10_PROC,,ccs4
-02100AW,Bypass 1 Cor Art from Aorta with Autol Art - Open Approach,ICD10_PROC,,ccs4
-02100J3,Bypass 1 Cor Art from Cor Art with Synth Sub - Open Approach,ICD10_PROC,,ccs4
-02100J8,Bypass 1 Cor Art from R Int Mammary w Synth Sub - Open,ICD10_PROC,,ccs4
-02100J9,Bypass 1 Cor Art from L Int Mammary w Synth Sub - Open,ICD10_PROC,,ccs4
-02100JC,Bypass 1 Cor Art from Thor Art with Synth Sub - Open Approach,ICD10_PROC,,ccs4
-02100JF,Bypass 1 Cor Art from Abd Art with Synth Sub - Open Approach,ICD10_PROC,,ccs4
-02100JW,Bypass 1 Cor Art from Aorta with Synth Sub - Open Approach,ICD10_PROC,,ccs4
-02100K3,Bypass 1 Cor Art from Cor Art with Nonaut Sub - Open Approach,ICD10_PROC,,ccs4
-02100K8,Bypass 1 Cor Art from R Int Mammary w Nonaut Sub - Open,ICD10_PROC,,ccs4
-02100K9,Bypass 1 Cor Art from L Int Mammary w Nonaut Sub - Open,ICD10_PROC,,ccs4
-02100KC,Bypass 1 Cor Art from Thor Art w Nonaut Sub - Open,ICD10_PROC,,ccs4
-02100KF,Bypass 1 Cor Art from Abd Art with Nonaut Sub - Open Approach,ICD10_PROC,,ccs4
-02100KW,Bypass 1 Cor Art from Aorta with Nonaut Sub - Open Approach,ICD10_PROC,,ccs4
-02100Z3,Bypass 1 Cor Art from Cor Art - Open Approach,ICD10_PROC,,ccs4
-02100Z8,Bypass 1 Cor Art from R Int Mammary - Open Approach,ICD10_PROC,,ccs4
-02100Z9,Bypass 1 Cor Art from L Int Mammary - Open Approach,ICD10_PROC,,ccs4
-02100ZC,Bypass 1 Cor Art from Thor Art - Open Approach,ICD10_PROC,,ccs4
-02100ZF,Bypass 1 Cor Art from Abd Art - Open Approach,ICD10_PROC,,ccs4
-210344,Bypass 1 Cor Art from Cor V w Drug-elut Intra - Perc,ICD10_PROC,,ccs4
-02103D4,Bypass 1 Cor Art from Cor V with Intralum Dev - Perc Approach,ICD10_PROC,,ccs4
-210444,Bypass 1 Cor Art from Cor V w Drug-elut Intra - Perc Endo,ICD10_PROC,,ccs4
-210483,Bypass 1 Cor Art from Cor Art w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-210488,Bypass 1 Cor Art from R Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-210489,Bypass 1 Cor Art from L Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-021048C,Bypass 1 Cor Art from Thor Art w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-021048F,Bypass 1 Cor Art from Abd Art w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-021048W,Bypass 1 Cor Art from Aorta w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-210493,Bypass 1 Cor Art from Cor Art w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-210498,Bypass 1 Cor Art from R Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-210499,Bypass 1 Cor Art from L Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-021049C,Bypass 1 Cor Art from Thor Art w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-021049F,Bypass 1 Cor Art from Abd Art w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-021049W,Bypass 1 Cor Art from Aorta w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-02104A3,Bypass 1 Cor Art from Cor Art w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02104A8,Bypass 1 Cor Art from R Int Mammary w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02104A9,Bypass 1 Cor Art from L Int Mammary w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02104AC,Bypass 1 Cor Art from Thor Art w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02104AF,Bypass 1 Cor Art from Abd Art w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02104AW,Bypass 1 Cor Art from Aorta w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02104D4,Bypass 1 Cor Art from Cor V w Intralum Dev - Perc Endo,ICD10_PROC,,ccs4
-02104J3,Bypass 1 Cor Art from Cor Art w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02104J8,Bypass 1 Cor Art from R Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02104J9,Bypass 1 Cor Art from L Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02104JC,Bypass 1 Cor Art from Thor Art w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02104JF,Bypass 1 Cor Art from Abd Art w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02104JW,Bypass 1 Cor Art from Aorta w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02104K3,Bypass 1 Cor Art from Cor Art w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02104K8,Bypass 1 Cor Art from R Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02104K9,Bypass 1 Cor Art from L Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02104KC,Bypass 1 Cor Art from Thor Art w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02104KF,Bypass 1 Cor Art from Abd Art w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02104KW,Bypass 1 Cor Art from Aorta w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02104Z3,Bypass 1 Cor Art from Cor Art - Perc Endo Approach,ICD10_PROC,,ccs4
-02104Z8,Bypass 1 Cor Art from R Int Mammary - Perc Endo Approach,ICD10_PROC,,ccs4
-02104Z9,Bypass 1 Cor Art from L Int Mammary - Perc Endo Approach,ICD10_PROC,,ccs4
-02104ZC,Bypass 1 Cor Art from Thor Art - Perc Endo Approach,ICD10_PROC,,ccs4
-02104ZF,Bypass 1 Cor Art from Abd Art - Perc Endo Approach,ICD10_PROC,,ccs4
-211083,Bypass 2 Cor Art from Cor Art with Zooplastic - Open Approach,ICD10_PROC,,ccs4
-211088,Bypass 2 Cor Art from R Int Mammary w Zooplastic - Open,ICD10_PROC,,ccs4
-211089,Bypass 2 Cor Art from L Int Mammary w Zooplastic - Open,ICD10_PROC,,ccs4
-021108C,Bypass 2 Cor Art from Thor Art w Zooplastic - Open,ICD10_PROC,,ccs4
-021108F,Bypass 2 Cor Art from Abd Art with Zooplastic - Open Approach,ICD10_PROC,,ccs4
-021108W,Bypass 2 Cor Art from Aorta with Zooplastic - Open Approach,ICD10_PROC,,ccs4
-211093,Bypass 2 Cor Art from Cor Art with Autol Vn - Open Approach,ICD10_PROC,,ccs4
-211098,Bypass 2 Cor Art from R Int Mammary w Autol Vn - Open,ICD10_PROC,,ccs4
-211099,Bypass 2 Cor Art from L Int Mammary w Autol Vn - Open,ICD10_PROC,,ccs4
-021109C,Bypass 2 Cor Art from Thor Art with Autol Vn - Open Approach,ICD10_PROC,,ccs4
-021109F,Bypass 2 Cor Art from Abd Art with Autol Vn - Open Approach,ICD10_PROC,,ccs4
-021109W,Bypass 2 Cor Art from Aorta with Autol Vn - Open Approach,ICD10_PROC,,ccs4
-02110A3,Bypass 2 Cor Art from Cor Art with Autol Art - Open Approach,ICD10_PROC,,ccs4
-02110A8,Bypass 2 Cor Art from R Int Mammary w Autol Art - Open,ICD10_PROC,,ccs4
-02110A9,Bypass 2 Cor Art from L Int Mammary w Autol Art - Open,ICD10_PROC,,ccs4
-02110AC,Bypass 2 Cor Art from Thor Art with Autol Art - Open Approach,ICD10_PROC,,ccs4
-02110AF,Bypass 2 Cor Art from Abd Art with Autol Art - Open Approach,ICD10_PROC,,ccs4
-02110AW,Bypass 2 Cor Art from Aorta with Autol Art - Open Approach,ICD10_PROC,,ccs4
-02110J3,Bypass 2 Cor Art from Cor Art with Synth Sub - Open Approach,ICD10_PROC,,ccs4
-02110J8,Bypass 2 Cor Art from R Int Mammary w Synth Sub - Open,ICD10_PROC,,ccs4
-02110J9,Bypass 2 Cor Art from L Int Mammary w Synth Sub - Open,ICD10_PROC,,ccs4
-02110JC,Bypass 2 Cor Art from Thor Art with Synth Sub - Open Approach,ICD10_PROC,,ccs4
-02110JF,Bypass 2 Cor Art from Abd Art with Synth Sub - Open Approach,ICD10_PROC,,ccs4
-02110JW,Bypass 2 Cor Art from Aorta with Synth Sub - Open Approach,ICD10_PROC,,ccs4
-02110K3,Bypass 2 Cor Art from Cor Art with Nonaut Sub - Open Approach,ICD10_PROC,,ccs4
-02110K8,Bypass 2 Cor Art from R Int Mammary w Nonaut Sub - Open,ICD10_PROC,,ccs4
-02110K9,Bypass 2 Cor Art from L Int Mammary w Nonaut Sub - Open,ICD10_PROC,,ccs4
-02110KC,Bypass 2 Cor Art from Thor Art w Nonaut Sub - Open,ICD10_PROC,,ccs4
-02110KF,Bypass 2 Cor Art from Abd Art with Nonaut Sub - Open Approach,ICD10_PROC,,ccs4
-02110KW,Bypass 2 Cor Art from Aorta with Nonaut Sub - Open Approach,ICD10_PROC,,ccs4
-02110Z3,Bypass 2 Cor Art from Cor Art - Open Approach,ICD10_PROC,,ccs4
-02110Z8,Bypass 2 Cor Art from R Int Mammary - Open Approach,ICD10_PROC,,ccs4
-02110Z9,Bypass 2 Cor Art from L Int Mammary - Open Approach,ICD10_PROC,,ccs4
-02110ZC,Bypass 2 Cor Art from Thor Art - Open Approach,ICD10_PROC,,ccs4
-02110ZF,Bypass 2 Cor Art from Abd Art - Open Approach,ICD10_PROC,,ccs4
-211344,Bypass 2 Cor Art from Cor V w Drug-elut Intra - Perc,ICD10_PROC,,ccs4
-02113D4,Bypass 2 Cor Art from Cor V with Intralum Dev - Perc Approach,ICD10_PROC,,ccs4
-211444,Bypass 2 Cor Art from Cor V w Drug-elut Intra - Perc Endo,ICD10_PROC,,ccs4
-211483,Bypass 2 Cor Art from Cor Art w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-211488,Bypass 2 Cor Art from R Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-211489,Bypass 2 Cor Art from L Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-021148C,Bypass 2 Cor Art from Thor Art w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-021148F,Bypass 2 Cor Art from Abd Art w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-021148W,Bypass 2 Cor Art from Aorta w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-211493,Bypass 2 Cor Art from Cor Art w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-211498,Bypass 2 Cor Art from R Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-211499,Bypass 2 Cor Art from L Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-021149C,Bypass 2 Cor Art from Thor Art w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-021149F,Bypass 2 Cor Art from Abd Art w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-021149W,Bypass 2 Cor Art from Aorta w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-02114A3,Bypass 2 Cor Art from Cor Art w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02114A8,Bypass 2 Cor Art from R Int Mammary w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02114A9,Bypass 2 Cor Art from L Int Mammary w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02114AC,Bypass 2 Cor Art from Thor Art w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02114AF,Bypass 2 Cor Art from Abd Art w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02114AW,Bypass 2 Cor Art from Aorta w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02114D4,Bypass 2 Cor Art from Cor V w Intralum Dev - Perc Endo,ICD10_PROC,,ccs4
-02114J3,Bypass 2 Cor Art from Cor Art w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02114J8,Bypass 2 Cor Art from R Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02114J9,Bypass 2 Cor Art from L Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02114JC,Bypass 2 Cor Art from Thor Art w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02114JF,Bypass 2 Cor Art from Abd Art w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02114JW,Bypass 2 Cor Art from Aorta w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02114K3,Bypass 2 Cor Art from Cor Art w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02114K8,Bypass 2 Cor Art from R Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02114K9,Bypass 2 Cor Art from L Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02114KC,Bypass 2 Cor Art from Thor Art w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02114KF,Bypass 2 Cor Art from Abd Art w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02114KW,Bypass 2 Cor Art from Aorta w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02114Z3,Bypass 2 Cor Art from Cor Art - Perc Endo Approach,ICD10_PROC,,ccs4
-02114Z8,Bypass 2 Cor Art from R Int Mammary - Perc Endo Approach,ICD10_PROC,,ccs4
-02114Z9,Bypass 2 Cor Art from L Int Mammary - Perc Endo Approach,ICD10_PROC,,ccs4
-02114ZC,Bypass 2 Cor Art from Thor Art - Perc Endo Approach,ICD10_PROC,,ccs4
-02114ZF,Bypass 2 Cor Art from Abd Art - Perc Endo Approach,ICD10_PROC,,ccs4
-212083,Bypass 3 Cor Art from Cor Art with Zooplastic - Open Approach,ICD10_PROC,,ccs4
-212088,Bypass 3 Cor Art from R Int Mammary w Zooplastic - Open,ICD10_PROC,,ccs4
-212089,Bypass 3 Cor Art from L Int Mammary w Zooplastic - Open,ICD10_PROC,,ccs4
-021208C,Bypass 3 Cor Art from Thor Art w Zooplastic - Open,ICD10_PROC,,ccs4
-021208F,Bypass 3 Cor Art from Abd Art with Zooplastic - Open Approach,ICD10_PROC,,ccs4
-021208W,Bypass 3 Cor Art from Aorta with Zooplastic - Open Approach,ICD10_PROC,,ccs4
-212093,Bypass 3 Cor Art from Cor Art with Autol Vn - Open Approach,ICD10_PROC,,ccs4
-212098,Bypass 3 Cor Art from R Int Mammary w Autol Vn - Open,ICD10_PROC,,ccs4
-212099,Bypass 3 Cor Art from L Int Mammary w Autol Vn - Open,ICD10_PROC,,ccs4
-021209C,Bypass 3 Cor Art from Thor Art with Autol Vn - Open Approach,ICD10_PROC,,ccs4
-021209F,Bypass 3 Cor Art from Abd Art with Autol Vn - Open Approach,ICD10_PROC,,ccs4
-021209W,Bypass 3 Cor Art from Aorta with Autol Vn - Open Approach,ICD10_PROC,,ccs4
-02120A3,Bypass 3 Cor Art from Cor Art with Autol Art - Open Approach,ICD10_PROC,,ccs4
-02120A8,Bypass 3 Cor Art from R Int Mammary w Autol Art - Open,ICD10_PROC,,ccs4
-02120A9,Bypass 3 Cor Art from L Int Mammary w Autol Art - Open,ICD10_PROC,,ccs4
-02120AC,Bypass 3 Cor Art from Thor Art with Autol Art - Open Approach,ICD10_PROC,,ccs4
-02120AF,Bypass 3 Cor Art from Abd Art with Autol Art - Open Approach,ICD10_PROC,,ccs4
-02120AW,Bypass 3 Cor Art from Aorta with Autol Art - Open Approach,ICD10_PROC,,ccs4
-02120J3,Bypass 3 Cor Art from Cor Art with Synth Sub - Open Approach,ICD10_PROC,,ccs4
-02120J8,Bypass 3 Cor Art from R Int Mammary w Synth Sub - Open,ICD10_PROC,,ccs4
-02120J9,Bypass 3 Cor Art from L Int Mammary w Synth Sub - Open,ICD10_PROC,,ccs4
-02120JC,Bypass 3 Cor Art from Thor Art with Synth Sub - Open Approach,ICD10_PROC,,ccs4
-02120JF,Bypass 3 Cor Art from Abd Art with Synth Sub - Open Approach,ICD10_PROC,,ccs4
-02120JW,Bypass 3 Cor Art from Aorta with Synth Sub - Open Approach,ICD10_PROC,,ccs4
-02120K3,Bypass 3 Cor Art from Cor Art with Nonaut Sub - Open Approach,ICD10_PROC,,ccs4
-02120K8,Bypass 3 Cor Art from R Int Mammary w Nonaut Sub - Open,ICD10_PROC,,ccs4
-02120K9,Bypass 3 Cor Art from L Int Mammary w Nonaut Sub - Open,ICD10_PROC,,ccs4
-02120KC,Bypass 3 Cor Art from Thor Art w Nonaut Sub - Open,ICD10_PROC,,ccs4
-02120KF,Bypass 3 Cor Art from Abd Art with Nonaut Sub - Open Approach,ICD10_PROC,,ccs4
-02120KW,Bypass 3 Cor Art from Aorta with Nonaut Sub - Open Approach,ICD10_PROC,,ccs4
-02120Z3,Bypass 3 Cor Art from Cor Art - Open Approach,ICD10_PROC,,ccs4
-02120Z8,Bypass 3 Cor Art from R Int Mammary - Open Approach,ICD10_PROC,,ccs4
-02120Z9,Bypass 3 Cor Art from L Int Mammary - Open Approach,ICD10_PROC,,ccs4
-02120ZC,Bypass 3 Cor Art from Thor Art - Open Approach,ICD10_PROC,,ccs4
-02120ZF,Bypass 3 Cor Art from Abd Art - Open Approach,ICD10_PROC,,ccs4
-212344,Bypass 3 Cor Art from Cor V w Drug-elut Intra - Perc,ICD10_PROC,,ccs4
-02123D4,Bypass 3 Cor Art from Cor V with Intralum Dev - Perc Approach,ICD10_PROC,,ccs4
-212444,Bypass 3 Cor Art from Cor V w Drug-elut Intra - Perc Endo,ICD10_PROC,,ccs4
-212483,Bypass 3 Cor Art from Cor Art w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-212488,Bypass 3 Cor Art from R Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-212489,Bypass 3 Cor Art from L Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-021248C,Bypass 3 Cor Art from Thor Art w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-021248F,Bypass 3 Cor Art from Abd Art w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-021248W,Bypass 3 Cor Art from Aorta w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-212493,Bypass 3 Cor Art from Cor Art w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-212498,Bypass 3 Cor Art from R Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-212499,Bypass 3 Cor Art from L Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-021249C,Bypass 3 Cor Art from Thor Art w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-021249F,Bypass 3 Cor Art from Abd Art w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-021249W,Bypass 3 Cor Art from Aorta w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-02124A3,Bypass 3 Cor Art from Cor Art w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02124A8,Bypass 3 Cor Art from R Int Mammary w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02124A9,Bypass 3 Cor Art from L Int Mammary w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02124AC,Bypass 3 Cor Art from Thor Art w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02124AF,Bypass 3 Cor Art from Abd Art w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02124AW,Bypass 3 Cor Art from Aorta w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02124D4,Bypass 3 Cor Art from Cor V w Intralum Dev - Perc Endo,ICD10_PROC,,ccs4
-02124J3,Bypass 3 Cor Art from Cor Art w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02124J8,Bypass 3 Cor Art from R Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02124J9,Bypass 3 Cor Art from L Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02124JC,Bypass 3 Cor Art from Thor Art w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02124JF,Bypass 3 Cor Art from Abd Art w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02124JW,Bypass 3 Cor Art from Aorta w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02124K3,Bypass 3 Cor Art from Cor Art w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02124K8,Bypass 3 Cor Art from R Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02124K9,Bypass 3 Cor Art from L Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02124KC,Bypass 3 Cor Art from Thor Art w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02124KF,Bypass 3 Cor Art from Abd Art w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02124KW,Bypass 3 Cor Art from Aorta w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02124Z3,Bypass 3 Cor Art from Cor Art - Perc Endo Approach,ICD10_PROC,,ccs4
-02124Z8,Bypass 3 Cor Art from R Int Mammary - Perc Endo Approach,ICD10_PROC,,ccs4
-02124Z9,Bypass 3 Cor Art from L Int Mammary - Perc Endo Approach,ICD10_PROC,,ccs4
-02124ZC,Bypass 3 Cor Art from Thor Art - Perc Endo Approach,ICD10_PROC,,ccs4
-02124ZF,Bypass 3 Cor Art from Abd Art - Perc Endo Approach,ICD10_PROC,,ccs4
-213083,Bypass 4+ Cor Art from Cor Art w Zooplastic - Open,ICD10_PROC,,ccs4
-213088,Bypass 4+ Cor Art from R Int Mammary w Zooplastic - Open,ICD10_PROC,,ccs4
-213089,Bypass 4+ Cor Art from L Int Mammary w Zooplastic - Open,ICD10_PROC,,ccs4
-021308C,Bypass 4+ Cor Art from Thor Art w Zooplastic - Open,ICD10_PROC,,ccs4
-021308F,Bypass 4+ Cor Art from Abd Art w Zooplastic - Open,ICD10_PROC,,ccs4
-021308W,Bypass 4+ Cor Art from Aorta with Zooplastic - Open Approach,ICD10_PROC,,ccs4
-213093,Bypass 4+ Cor Art from Cor Art with Autol Vn - Open Approach,ICD10_PROC,,ccs4
-213098,Bypass 4+ Cor Art from R Int Mammary w Autol Vn - Open,ICD10_PROC,,ccs4
-213099,Bypass 4+ Cor Art from L Int Mammary w Autol Vn - Open,ICD10_PROC,,ccs4
-021309C,Bypass 4+ Cor Art from Thor Art with Autol Vn - Open Approach,ICD10_PROC,,ccs4
-021309F,Bypass 4+ Cor Art from Abd Art with Autol Vn - Open Approach,ICD10_PROC,,ccs4
-021309W,Bypass 4+ Cor Art from Aorta with Autol Vn - Open Approach,ICD10_PROC,,ccs4
-02130A3,Bypass 4+ Cor Art from Cor Art with Autol Art - Open Approach,ICD10_PROC,,ccs4
-02130A8,Bypass 4+ Cor Art from R Int Mammary w Autol Art - Open,ICD10_PROC,,ccs4
-02130A9,Bypass 4+ Cor Art from L Int Mammary w Autol Art - Open,ICD10_PROC,,ccs4
-02130AC,Bypass 4+ Cor Art from Thor Art w Autol Art - Open,ICD10_PROC,,ccs4
-02130AF,Bypass 4+ Cor Art from Abd Art with Autol Art - Open Approach,ICD10_PROC,,ccs4
-02130AW,Bypass 4+ Cor Art from Aorta with Autol Art - Open Approach,ICD10_PROC,,ccs4
-02130J3,Bypass 4+ Cor Art from Cor Art with Synth Sub - Open Approach,ICD10_PROC,,ccs4
-02130J8,Bypass 4+ Cor Art from R Int Mammary w Synth Sub - Open,ICD10_PROC,,ccs4
-02130J9,Bypass 4+ Cor Art from L Int Mammary w Synth Sub - Open,ICD10_PROC,,ccs4
-02130JC,Bypass 4+ Cor Art from Thor Art w Synth Sub - Open,ICD10_PROC,,ccs4
-02130JF,Bypass 4+ Cor Art from Abd Art with Synth Sub - Open Approach,ICD10_PROC,,ccs4
-02130JW,Bypass 4+ Cor Art from Aorta with Synth Sub - Open Approach,ICD10_PROC,,ccs4
-02130K3,Bypass 4+ Cor Art from Cor Art w Nonaut Sub - Open,ICD10_PROC,,ccs4
-02130K8,Bypass 4+ Cor Art from R Int Mammary w Nonaut Sub - Open,ICD10_PROC,,ccs4
-02130K9,Bypass 4+ Cor Art from L Int Mammary w Nonaut Sub - Open,ICD10_PROC,,ccs4
-02130KC,Bypass 4+ Cor Art from Thor Art w Nonaut Sub - Open,ICD10_PROC,,ccs4
-02130KF,Bypass 4+ Cor Art from Abd Art w Nonaut Sub - Open,ICD10_PROC,,ccs4
-02130KW,Bypass 4+ Cor Art from Aorta with Nonaut Sub - Open Approach,ICD10_PROC,,ccs4
-02130Z3,Bypass 4+ Cor Art from Cor Art - Open Approach,ICD10_PROC,,ccs4
-02130Z8,Bypass 4+ Cor Art from R Int Mammary - Open Approach,ICD10_PROC,,ccs4
-02130Z9,Bypass 4+ Cor Art from L Int Mammary - Open Approach,ICD10_PROC,,ccs4
-02130ZC,Bypass 4+ Cor Art from Thor Art - Open Approach,ICD10_PROC,,ccs4
-02130ZF,Bypass 4+ Cor Art from Abd Art - Open Approach,ICD10_PROC,,ccs4
-213344,Bypass 4+ Cor Art from Cor V w Drug-elut Intra - Perc,ICD10_PROC,,ccs4
-02133D4,Bypass 4+ Cor Art from Cor V w Intralum Dev - Perc,ICD10_PROC,,ccs4
-213444,Bypass 4+ Cor Art from Cor V w Drug-elut Intra - Perc Endo,ICD10_PROC,,ccs4
-213483,Bypass 4+ Cor Art from Cor Art w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-213488,Bypass 4+ Cor Art from R Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-213489,Bypass 4+ Cor Art from L Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-021348C,Bypass 4+ Cor Art from Thor Art w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-021348F,Bypass 4+ Cor Art from Abd Art w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-021348W,Bypass 4+ Cor Art from Aorta w Zooplastic - Perc Endo,ICD10_PROC,,ccs4
-213493,Bypass 4+ Cor Art from Cor Art w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-213498,Bypass 4+ Cor Art from R Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-213499,Bypass 4+ Cor Art from L Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-021349C,Bypass 4+ Cor Art from Thor Art w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-021349F,Bypass 4+ Cor Art from Abd Art w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-021349W,Bypass 4+ Cor Art from Aorta w Autol Vn - Perc Endo,ICD10_PROC,,ccs4
-02134A3,Bypass 4+ Cor Art from Cor Art w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02134A8,Bypass 4+ Cor Art from R Int Mammary w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02134A9,Bypass 4+ Cor Art from L Int Mammary w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02134AC,Bypass 4+ Cor Art from Thor Art w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02134AF,Bypass 4+ Cor Art from Abd Art w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02134AW,Bypass 4+ Cor Art from Aorta w Autol Art - Perc Endo,ICD10_PROC,,ccs4
-02134D4,Bypass 4+ Cor Art from Cor V w Intralum Dev - Perc Endo,ICD10_PROC,,ccs4
-02134J3,Bypass 4+ Cor Art from Cor Art w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02134J8,Bypass 4+ Cor Art from R Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02134J9,Bypass 4+ Cor Art from L Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02134JC,Bypass 4+ Cor Art from Thor Art w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02134JF,Bypass 4+ Cor Art from Abd Art w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02134JW,Bypass 4+ Cor Art from Aorta w Synth Sub - Perc Endo,ICD10_PROC,,ccs4
-02134K3,Bypass 4+ Cor Art from Cor Art w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02134K8,Bypass 4+ Cor Art from R Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02134K9,Bypass 4+ Cor Art from L Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02134KC,Bypass 4+ Cor Art from Thor Art w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02134KF,Bypass 4+ Cor Art from Abd Art w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02134KW,Bypass 4+ Cor Art from Aorta w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs4
-02134Z3,Bypass 4+ Cor Art from Cor Art - Perc Endo Approach,ICD10_PROC,,ccs4
-02134Z8,Bypass 4+ Cor Art from R Int Mammary - Perc Endo Approach,ICD10_PROC,,ccs4
-02134Z9,Bypass 4+ Cor Art from L Int Mammary - Perc Endo Approach,ICD10_PROC,,ccs4
-02134ZC,Bypass 4+ Cor Art from Thor Art - Perc Endo Approach,ICD10_PROC,,ccs4
-02134ZF,Bypass 4+ Cor Art from Abd Art - Perc Endo Approach,ICD10_PROC,,ccs4
-33140,Heart revascularize (tmr),CPT_HCPCS,Y,ccs4
-33141,Heart tmr w/other procedure,CPT_HCPCS,Y,ccs4
-33510,Cabg vein single,CPT_HCPCS,Y,ccs4
-33511,Cabg vein two,CPT_HCPCS,Y,ccs4
-33512,Cabg vein three,CPT_HCPCS,Y,ccs4
-33513,Cabg vein four,CPT_HCPCS,Y,ccs4
-33514,Cabg vein five,CPT_HCPCS,Y,ccs4
-33516,Cabg vein six or more,CPT_HCPCS,Y,ccs4
-33517,Cabg artery-vein single,CPT_HCPCS,Y,ccs4
-33518,Cabg artery-vein two,CPT_HCPCS,Y,ccs4
-33519,Cabg artery-vein three,CPT_HCPCS,Y,ccs4
-33521,Cabg artery-vein four,CPT_HCPCS,Y,ccs4
-33522,Cabg artery-vein five,CPT_HCPCS,Y,ccs4
-33523,Cabg art-vein six or more,CPT_HCPCS,Y,ccs4
-33530,Coronary artery bypass/reop,CPT_HCPCS,Y,ccs4
-33533,Cabg arterial single,CPT_HCPCS,Y,ccs4
-33534,Cabg arterial two,CPT_HCPCS,Y,ccs4
-33535,Cabg arterial three,CPT_HCPCS,Y,ccs4
-33536,Cabg arterial four or more,CPT_HCPCS,Y,ccs4
-35600,Harvest art for cabg add-on,CPT_HCPCS,Y,ccs4
-S2205,Minimally invasive direct co,CPT_HCPCS,N,ccs4
-S2206,Minimally invasive direct co,CPT_HCPCS,N,ccs4
-S2207,Minimally invasive direct co,CPT_HCPCS,N,ccs4
-S2208,Minimally invasive direct co,CPT_HCPCS,N,ccs4
-S2209,Minimally invasive direct co,CPT_HCPCS,N,ccs4
-231,Coronary bypass w PTCA w MCC,MSDRG,,ccs4
-232,Coronary bypass w PTCA w/o MCC,MSDRG,,ccs4
-233,Coronary bypass w cardiac cath w MCC,MSDRG,,ccs4
-234,Coronary bypass w cardiac cath w/o MCC,MSDRG,,ccs4
-235,Coronary bypass w/o cardiac cath w MCC,MSDRG,,ccs4
-236,Coronary bypass w/o cardiac cath w/o MCC,MSDRG,,ccs4
+code,code_description,code_type,ccs
+210083,Bypass 1 Cor Art from Cor Art with Zooplastic - Open Approach,ICD10_PROC,ccs44
+210088,Bypass 1 Cor Art from R Int Mammary w Zooplastic - Open,ICD10_PROC,ccs44
+210089,Bypass 1 Cor Art from L Int Mammary w Zooplastic - Open,ICD10_PROC,ccs44
+021008C,Bypass 1 Cor Art from Thor Art w Zooplastic - Open,ICD10_PROC,ccs44
+021008F,Bypass 1 Cor Art from Abd Art with Zooplastic - Open Approach,ICD10_PROC,ccs44
+021008W,Bypass 1 Cor Art from Aorta with Zooplastic - Open Approach,ICD10_PROC,ccs44
+210093,Bypass 1 Cor Art from Cor Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
+210098,Bypass 1 Cor Art from R Int Mammary w Autol Vn - Open,ICD10_PROC,ccs44
+210099,Bypass 1 Cor Art from L Int Mammary w Autol Vn - Open,ICD10_PROC,ccs44
+021009C,Bypass 1 Cor Art from Thor Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
+021009F,Bypass 1 Cor Art from Abd Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
+021009W,Bypass 1 Cor Art from Aorta with Autol Vn - Open Approach,ICD10_PROC,ccs44
+02100A3,Bypass 1 Cor Art from Cor Art with Autol Art - Open Approach,ICD10_PROC,ccs44
+02100A8,Bypass 1 Cor Art from R Int Mammary w Autol Art - Open,ICD10_PROC,ccs44
+02100A9,Bypass 1 Cor Art from L Int Mammary w Autol Art - Open,ICD10_PROC,ccs44
+02100AC,Bypass 1 Cor Art from Thor Art with Autol Art - Open Approach,ICD10_PROC,ccs44
+02100AF,Bypass 1 Cor Art from Abd Art with Autol Art - Open Approach,ICD10_PROC,ccs44
+02100AW,Bypass 1 Cor Art from Aorta with Autol Art - Open Approach,ICD10_PROC,ccs44
+02100J3,Bypass 1 Cor Art from Cor Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
+02100J8,Bypass 1 Cor Art from R Int Mammary w Synth Sub - Open,ICD10_PROC,ccs44
+02100J9,Bypass 1 Cor Art from L Int Mammary w Synth Sub - Open,ICD10_PROC,ccs44
+02100JC,Bypass 1 Cor Art from Thor Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
+02100JF,Bypass 1 Cor Art from Abd Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
+02100JW,Bypass 1 Cor Art from Aorta with Synth Sub - Open Approach,ICD10_PROC,ccs44
+02100K3,Bypass 1 Cor Art from Cor Art with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
+02100K8,Bypass 1 Cor Art from R Int Mammary w Nonaut Sub - Open,ICD10_PROC,ccs44
+02100K9,Bypass 1 Cor Art from L Int Mammary w Nonaut Sub - Open,ICD10_PROC,ccs44
+02100KC,Bypass 1 Cor Art from Thor Art w Nonaut Sub - Open,ICD10_PROC,ccs44
+02100KF,Bypass 1 Cor Art from Abd Art with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
+02100KW,Bypass 1 Cor Art from Aorta with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
+02100Z3,Bypass 1 Cor Art from Cor Art - Open Approach,ICD10_PROC,ccs44
+02100Z8,Bypass 1 Cor Art from R Int Mammary - Open Approach,ICD10_PROC,ccs44
+02100Z9,Bypass 1 Cor Art from L Int Mammary - Open Approach,ICD10_PROC,ccs44
+02100ZC,Bypass 1 Cor Art from Thor Art - Open Approach,ICD10_PROC,ccs44
+02100ZF,Bypass 1 Cor Art from Abd Art - Open Approach,ICD10_PROC,ccs44
+210344,Bypass 1 Cor Art from Cor V w Drug-elut Intra - Perc,ICD10_PROC,ccs44
+02103D4,Bypass 1 Cor Art from Cor V with Intralum Dev - Perc Approach,ICD10_PROC,ccs44
+210444,Bypass 1 Cor Art from Cor V w Drug-elut Intra - Perc Endo,ICD10_PROC,ccs44
+210483,Bypass 1 Cor Art from Cor Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+210488,Bypass 1 Cor Art from R Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+210489,Bypass 1 Cor Art from L Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+021048C,Bypass 1 Cor Art from Thor Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+021048F,Bypass 1 Cor Art from Abd Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+021048W,Bypass 1 Cor Art from Aorta w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+210493,Bypass 1 Cor Art from Cor Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+210498,Bypass 1 Cor Art from R Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+210499,Bypass 1 Cor Art from L Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+021049C,Bypass 1 Cor Art from Thor Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+021049F,Bypass 1 Cor Art from Abd Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+021049W,Bypass 1 Cor Art from Aorta w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+02104A3,Bypass 1 Cor Art from Cor Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02104A8,Bypass 1 Cor Art from R Int Mammary w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02104A9,Bypass 1 Cor Art from L Int Mammary w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02104AC,Bypass 1 Cor Art from Thor Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02104AF,Bypass 1 Cor Art from Abd Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02104AW,Bypass 1 Cor Art from Aorta w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02104D4,Bypass 1 Cor Art from Cor V w Intralum Dev - Perc Endo,ICD10_PROC,ccs44
+02104J3,Bypass 1 Cor Art from Cor Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02104J8,Bypass 1 Cor Art from R Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02104J9,Bypass 1 Cor Art from L Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02104JC,Bypass 1 Cor Art from Thor Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02104JF,Bypass 1 Cor Art from Abd Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02104JW,Bypass 1 Cor Art from Aorta w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02104K3,Bypass 1 Cor Art from Cor Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02104K8,Bypass 1 Cor Art from R Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02104K9,Bypass 1 Cor Art from L Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02104KC,Bypass 1 Cor Art from Thor Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02104KF,Bypass 1 Cor Art from Abd Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02104KW,Bypass 1 Cor Art from Aorta w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02104Z3,Bypass 1 Cor Art from Cor Art - Perc Endo Approach,ICD10_PROC,ccs44
+02104Z8,Bypass 1 Cor Art from R Int Mammary - Perc Endo Approach,ICD10_PROC,ccs44
+02104Z9,Bypass 1 Cor Art from L Int Mammary - Perc Endo Approach,ICD10_PROC,ccs44
+02104ZC,Bypass 1 Cor Art from Thor Art - Perc Endo Approach,ICD10_PROC,ccs44
+02104ZF,Bypass 1 Cor Art from Abd Art - Perc Endo Approach,ICD10_PROC,ccs44
+211083,Bypass 2 Cor Art from Cor Art with Zooplastic - Open Approach,ICD10_PROC,ccs44
+211088,Bypass 2 Cor Art from R Int Mammary w Zooplastic - Open,ICD10_PROC,ccs44
+211089,Bypass 2 Cor Art from L Int Mammary w Zooplastic - Open,ICD10_PROC,ccs44
+021108C,Bypass 2 Cor Art from Thor Art w Zooplastic - Open,ICD10_PROC,ccs44
+021108F,Bypass 2 Cor Art from Abd Art with Zooplastic - Open Approach,ICD10_PROC,ccs44
+021108W,Bypass 2 Cor Art from Aorta with Zooplastic - Open Approach,ICD10_PROC,ccs44
+211093,Bypass 2 Cor Art from Cor Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
+211098,Bypass 2 Cor Art from R Int Mammary w Autol Vn - Open,ICD10_PROC,ccs44
+211099,Bypass 2 Cor Art from L Int Mammary w Autol Vn - Open,ICD10_PROC,ccs44
+021109C,Bypass 2 Cor Art from Thor Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
+021109F,Bypass 2 Cor Art from Abd Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
+021109W,Bypass 2 Cor Art from Aorta with Autol Vn - Open Approach,ICD10_PROC,ccs44
+02110A3,Bypass 2 Cor Art from Cor Art with Autol Art - Open Approach,ICD10_PROC,ccs44
+02110A8,Bypass 2 Cor Art from R Int Mammary w Autol Art - Open,ICD10_PROC,ccs44
+02110A9,Bypass 2 Cor Art from L Int Mammary w Autol Art - Open,ICD10_PROC,ccs44
+02110AC,Bypass 2 Cor Art from Thor Art with Autol Art - Open Approach,ICD10_PROC,ccs44
+02110AF,Bypass 2 Cor Art from Abd Art with Autol Art - Open Approach,ICD10_PROC,ccs44
+02110AW,Bypass 2 Cor Art from Aorta with Autol Art - Open Approach,ICD10_PROC,ccs44
+02110J3,Bypass 2 Cor Art from Cor Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
+02110J8,Bypass 2 Cor Art from R Int Mammary w Synth Sub - Open,ICD10_PROC,ccs44
+02110J9,Bypass 2 Cor Art from L Int Mammary w Synth Sub - Open,ICD10_PROC,ccs44
+02110JC,Bypass 2 Cor Art from Thor Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
+02110JF,Bypass 2 Cor Art from Abd Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
+02110JW,Bypass 2 Cor Art from Aorta with Synth Sub - Open Approach,ICD10_PROC,ccs44
+02110K3,Bypass 2 Cor Art from Cor Art with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
+02110K8,Bypass 2 Cor Art from R Int Mammary w Nonaut Sub - Open,ICD10_PROC,ccs44
+02110K9,Bypass 2 Cor Art from L Int Mammary w Nonaut Sub - Open,ICD10_PROC,ccs44
+02110KC,Bypass 2 Cor Art from Thor Art w Nonaut Sub - Open,ICD10_PROC,ccs44
+02110KF,Bypass 2 Cor Art from Abd Art with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
+02110KW,Bypass 2 Cor Art from Aorta with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
+02110Z3,Bypass 2 Cor Art from Cor Art - Open Approach,ICD10_PROC,ccs44
+02110Z8,Bypass 2 Cor Art from R Int Mammary - Open Approach,ICD10_PROC,ccs44
+02110Z9,Bypass 2 Cor Art from L Int Mammary - Open Approach,ICD10_PROC,ccs44
+02110ZC,Bypass 2 Cor Art from Thor Art - Open Approach,ICD10_PROC,ccs44
+02110ZF,Bypass 2 Cor Art from Abd Art - Open Approach,ICD10_PROC,ccs44
+211344,Bypass 2 Cor Art from Cor V w Drug-elut Intra - Perc,ICD10_PROC,ccs44
+02113D4,Bypass 2 Cor Art from Cor V with Intralum Dev - Perc Approach,ICD10_PROC,ccs44
+211444,Bypass 2 Cor Art from Cor V w Drug-elut Intra - Perc Endo,ICD10_PROC,ccs44
+211483,Bypass 2 Cor Art from Cor Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+211488,Bypass 2 Cor Art from R Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+211489,Bypass 2 Cor Art from L Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+021148C,Bypass 2 Cor Art from Thor Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+021148F,Bypass 2 Cor Art from Abd Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+021148W,Bypass 2 Cor Art from Aorta w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+211493,Bypass 2 Cor Art from Cor Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+211498,Bypass 2 Cor Art from R Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+211499,Bypass 2 Cor Art from L Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+021149C,Bypass 2 Cor Art from Thor Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+021149F,Bypass 2 Cor Art from Abd Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+021149W,Bypass 2 Cor Art from Aorta w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+02114A3,Bypass 2 Cor Art from Cor Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02114A8,Bypass 2 Cor Art from R Int Mammary w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02114A9,Bypass 2 Cor Art from L Int Mammary w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02114AC,Bypass 2 Cor Art from Thor Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02114AF,Bypass 2 Cor Art from Abd Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02114AW,Bypass 2 Cor Art from Aorta w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02114D4,Bypass 2 Cor Art from Cor V w Intralum Dev - Perc Endo,ICD10_PROC,ccs44
+02114J3,Bypass 2 Cor Art from Cor Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02114J8,Bypass 2 Cor Art from R Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02114J9,Bypass 2 Cor Art from L Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02114JC,Bypass 2 Cor Art from Thor Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02114JF,Bypass 2 Cor Art from Abd Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02114JW,Bypass 2 Cor Art from Aorta w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02114K3,Bypass 2 Cor Art from Cor Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02114K8,Bypass 2 Cor Art from R Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02114K9,Bypass 2 Cor Art from L Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02114KC,Bypass 2 Cor Art from Thor Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02114KF,Bypass 2 Cor Art from Abd Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02114KW,Bypass 2 Cor Art from Aorta w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02114Z3,Bypass 2 Cor Art from Cor Art - Perc Endo Approach,ICD10_PROC,ccs44
+02114Z8,Bypass 2 Cor Art from R Int Mammary - Perc Endo Approach,ICD10_PROC,ccs44
+02114Z9,Bypass 2 Cor Art from L Int Mammary - Perc Endo Approach,ICD10_PROC,ccs44
+02114ZC,Bypass 2 Cor Art from Thor Art - Perc Endo Approach,ICD10_PROC,ccs44
+02114ZF,Bypass 2 Cor Art from Abd Art - Perc Endo Approach,ICD10_PROC,ccs44
+212083,Bypass 3 Cor Art from Cor Art with Zooplastic - Open Approach,ICD10_PROC,ccs44
+212088,Bypass 3 Cor Art from R Int Mammary w Zooplastic - Open,ICD10_PROC,ccs44
+212089,Bypass 3 Cor Art from L Int Mammary w Zooplastic - Open,ICD10_PROC,ccs44
+021208C,Bypass 3 Cor Art from Thor Art w Zooplastic - Open,ICD10_PROC,ccs44
+021208F,Bypass 3 Cor Art from Abd Art with Zooplastic - Open Approach,ICD10_PROC,ccs44
+021208W,Bypass 3 Cor Art from Aorta with Zooplastic - Open Approach,ICD10_PROC,ccs44
+212093,Bypass 3 Cor Art from Cor Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
+212098,Bypass 3 Cor Art from R Int Mammary w Autol Vn - Open,ICD10_PROC,ccs44
+212099,Bypass 3 Cor Art from L Int Mammary w Autol Vn - Open,ICD10_PROC,ccs44
+021209C,Bypass 3 Cor Art from Thor Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
+021209F,Bypass 3 Cor Art from Abd Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
+021209W,Bypass 3 Cor Art from Aorta with Autol Vn - Open Approach,ICD10_PROC,ccs44
+02120A3,Bypass 3 Cor Art from Cor Art with Autol Art - Open Approach,ICD10_PROC,ccs44
+02120A8,Bypass 3 Cor Art from R Int Mammary w Autol Art - Open,ICD10_PROC,ccs44
+02120A9,Bypass 3 Cor Art from L Int Mammary w Autol Art - Open,ICD10_PROC,ccs44
+02120AC,Bypass 3 Cor Art from Thor Art with Autol Art - Open Approach,ICD10_PROC,ccs44
+02120AF,Bypass 3 Cor Art from Abd Art with Autol Art - Open Approach,ICD10_PROC,ccs44
+02120AW,Bypass 3 Cor Art from Aorta with Autol Art - Open Approach,ICD10_PROC,ccs44
+02120J3,Bypass 3 Cor Art from Cor Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
+02120J8,Bypass 3 Cor Art from R Int Mammary w Synth Sub - Open,ICD10_PROC,ccs44
+02120J9,Bypass 3 Cor Art from L Int Mammary w Synth Sub - Open,ICD10_PROC,ccs44
+02120JC,Bypass 3 Cor Art from Thor Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
+02120JF,Bypass 3 Cor Art from Abd Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
+02120JW,Bypass 3 Cor Art from Aorta with Synth Sub - Open Approach,ICD10_PROC,ccs44
+02120K3,Bypass 3 Cor Art from Cor Art with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
+02120K8,Bypass 3 Cor Art from R Int Mammary w Nonaut Sub - Open,ICD10_PROC,ccs44
+02120K9,Bypass 3 Cor Art from L Int Mammary w Nonaut Sub - Open,ICD10_PROC,ccs44
+02120KC,Bypass 3 Cor Art from Thor Art w Nonaut Sub - Open,ICD10_PROC,ccs44
+02120KF,Bypass 3 Cor Art from Abd Art with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
+02120KW,Bypass 3 Cor Art from Aorta with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
+02120Z3,Bypass 3 Cor Art from Cor Art - Open Approach,ICD10_PROC,ccs44
+02120Z8,Bypass 3 Cor Art from R Int Mammary - Open Approach,ICD10_PROC,ccs44
+02120Z9,Bypass 3 Cor Art from L Int Mammary - Open Approach,ICD10_PROC,ccs44
+02120ZC,Bypass 3 Cor Art from Thor Art - Open Approach,ICD10_PROC,ccs44
+02120ZF,Bypass 3 Cor Art from Abd Art - Open Approach,ICD10_PROC,ccs44
+212344,Bypass 3 Cor Art from Cor V w Drug-elut Intra - Perc,ICD10_PROC,ccs44
+02123D4,Bypass 3 Cor Art from Cor V with Intralum Dev - Perc Approach,ICD10_PROC,ccs44
+212444,Bypass 3 Cor Art from Cor V w Drug-elut Intra - Perc Endo,ICD10_PROC,ccs44
+212483,Bypass 3 Cor Art from Cor Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+212488,Bypass 3 Cor Art from R Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+212489,Bypass 3 Cor Art from L Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+021248C,Bypass 3 Cor Art from Thor Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+021248F,Bypass 3 Cor Art from Abd Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+021248W,Bypass 3 Cor Art from Aorta w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+212493,Bypass 3 Cor Art from Cor Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+212498,Bypass 3 Cor Art from R Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+212499,Bypass 3 Cor Art from L Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+021249C,Bypass 3 Cor Art from Thor Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+021249F,Bypass 3 Cor Art from Abd Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+021249W,Bypass 3 Cor Art from Aorta w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+02124A3,Bypass 3 Cor Art from Cor Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02124A8,Bypass 3 Cor Art from R Int Mammary w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02124A9,Bypass 3 Cor Art from L Int Mammary w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02124AC,Bypass 3 Cor Art from Thor Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02124AF,Bypass 3 Cor Art from Abd Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02124AW,Bypass 3 Cor Art from Aorta w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02124D4,Bypass 3 Cor Art from Cor V w Intralum Dev - Perc Endo,ICD10_PROC,ccs44
+02124J3,Bypass 3 Cor Art from Cor Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02124J8,Bypass 3 Cor Art from R Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02124J9,Bypass 3 Cor Art from L Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02124JC,Bypass 3 Cor Art from Thor Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02124JF,Bypass 3 Cor Art from Abd Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02124JW,Bypass 3 Cor Art from Aorta w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02124K3,Bypass 3 Cor Art from Cor Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02124K8,Bypass 3 Cor Art from R Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02124K9,Bypass 3 Cor Art from L Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02124KC,Bypass 3 Cor Art from Thor Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02124KF,Bypass 3 Cor Art from Abd Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02124KW,Bypass 3 Cor Art from Aorta w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02124Z3,Bypass 3 Cor Art from Cor Art - Perc Endo Approach,ICD10_PROC,ccs44
+02124Z8,Bypass 3 Cor Art from R Int Mammary - Perc Endo Approach,ICD10_PROC,ccs44
+02124Z9,Bypass 3 Cor Art from L Int Mammary - Perc Endo Approach,ICD10_PROC,ccs44
+02124ZC,Bypass 3 Cor Art from Thor Art - Perc Endo Approach,ICD10_PROC,ccs44
+02124ZF,Bypass 3 Cor Art from Abd Art - Perc Endo Approach,ICD10_PROC,ccs44
+213083,Bypass 4+ Cor Art from Cor Art w Zooplastic - Open,ICD10_PROC,ccs44
+213088,Bypass 4+ Cor Art from R Int Mammary w Zooplastic - Open,ICD10_PROC,ccs44
+213089,Bypass 4+ Cor Art from L Int Mammary w Zooplastic - Open,ICD10_PROC,ccs44
+021308C,Bypass 4+ Cor Art from Thor Art w Zooplastic - Open,ICD10_PROC,ccs44
+021308F,Bypass 4+ Cor Art from Abd Art w Zooplastic - Open,ICD10_PROC,ccs44
+021308W,Bypass 4+ Cor Art from Aorta with Zooplastic - Open Approach,ICD10_PROC,ccs44
+213093,Bypass 4+ Cor Art from Cor Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
+213098,Bypass 4+ Cor Art from R Int Mammary w Autol Vn - Open,ICD10_PROC,ccs44
+213099,Bypass 4+ Cor Art from L Int Mammary w Autol Vn - Open,ICD10_PROC,ccs44
+021309C,Bypass 4+ Cor Art from Thor Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
+021309F,Bypass 4+ Cor Art from Abd Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
+021309W,Bypass 4+ Cor Art from Aorta with Autol Vn - Open Approach,ICD10_PROC,ccs44
+02130A3,Bypass 4+ Cor Art from Cor Art with Autol Art - Open Approach,ICD10_PROC,ccs44
+02130A8,Bypass 4+ Cor Art from R Int Mammary w Autol Art - Open,ICD10_PROC,ccs44
+02130A9,Bypass 4+ Cor Art from L Int Mammary w Autol Art - Open,ICD10_PROC,ccs44
+02130AC,Bypass 4+ Cor Art from Thor Art w Autol Art - Open,ICD10_PROC,ccs44
+02130AF,Bypass 4+ Cor Art from Abd Art with Autol Art - Open Approach,ICD10_PROC,ccs44
+02130AW,Bypass 4+ Cor Art from Aorta with Autol Art - Open Approach,ICD10_PROC,ccs44
+02130J3,Bypass 4+ Cor Art from Cor Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
+02130J8,Bypass 4+ Cor Art from R Int Mammary w Synth Sub - Open,ICD10_PROC,ccs44
+02130J9,Bypass 4+ Cor Art from L Int Mammary w Synth Sub - Open,ICD10_PROC,ccs44
+02130JC,Bypass 4+ Cor Art from Thor Art w Synth Sub - Open,ICD10_PROC,ccs44
+02130JF,Bypass 4+ Cor Art from Abd Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
+02130JW,Bypass 4+ Cor Art from Aorta with Synth Sub - Open Approach,ICD10_PROC,ccs44
+02130K3,Bypass 4+ Cor Art from Cor Art w Nonaut Sub - Open,ICD10_PROC,ccs44
+02130K8,Bypass 4+ Cor Art from R Int Mammary w Nonaut Sub - Open,ICD10_PROC,ccs44
+02130K9,Bypass 4+ Cor Art from L Int Mammary w Nonaut Sub - Open,ICD10_PROC,ccs44
+02130KC,Bypass 4+ Cor Art from Thor Art w Nonaut Sub - Open,ICD10_PROC,ccs44
+02130KF,Bypass 4+ Cor Art from Abd Art w Nonaut Sub - Open,ICD10_PROC,ccs44
+02130KW,Bypass 4+ Cor Art from Aorta with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
+02130Z3,Bypass 4+ Cor Art from Cor Art - Open Approach,ICD10_PROC,ccs44
+02130Z8,Bypass 4+ Cor Art from R Int Mammary - Open Approach,ICD10_PROC,ccs44
+02130Z9,Bypass 4+ Cor Art from L Int Mammary - Open Approach,ICD10_PROC,ccs44
+02130ZC,Bypass 4+ Cor Art from Thor Art - Open Approach,ICD10_PROC,ccs44
+02130ZF,Bypass 4+ Cor Art from Abd Art - Open Approach,ICD10_PROC,ccs44
+213344,Bypass 4+ Cor Art from Cor V w Drug-elut Intra - Perc,ICD10_PROC,ccs44
+02133D4,Bypass 4+ Cor Art from Cor V w Intralum Dev - Perc,ICD10_PROC,ccs44
+213444,Bypass 4+ Cor Art from Cor V w Drug-elut Intra - Perc Endo,ICD10_PROC,ccs44
+213483,Bypass 4+ Cor Art from Cor Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+213488,Bypass 4+ Cor Art from R Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+213489,Bypass 4+ Cor Art from L Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+021348C,Bypass 4+ Cor Art from Thor Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+021348F,Bypass 4+ Cor Art from Abd Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+021348W,Bypass 4+ Cor Art from Aorta w Zooplastic - Perc Endo,ICD10_PROC,ccs44
+213493,Bypass 4+ Cor Art from Cor Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+213498,Bypass 4+ Cor Art from R Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+213499,Bypass 4+ Cor Art from L Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+021349C,Bypass 4+ Cor Art from Thor Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+021349F,Bypass 4+ Cor Art from Abd Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+021349W,Bypass 4+ Cor Art from Aorta w Autol Vn - Perc Endo,ICD10_PROC,ccs44
+02134A3,Bypass 4+ Cor Art from Cor Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02134A8,Bypass 4+ Cor Art from R Int Mammary w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02134A9,Bypass 4+ Cor Art from L Int Mammary w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02134AC,Bypass 4+ Cor Art from Thor Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02134AF,Bypass 4+ Cor Art from Abd Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02134AW,Bypass 4+ Cor Art from Aorta w Autol Art - Perc Endo,ICD10_PROC,ccs44
+02134D4,Bypass 4+ Cor Art from Cor V w Intralum Dev - Perc Endo,ICD10_PROC,ccs44
+02134J3,Bypass 4+ Cor Art from Cor Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02134J8,Bypass 4+ Cor Art from R Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02134J9,Bypass 4+ Cor Art from L Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02134JC,Bypass 4+ Cor Art from Thor Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02134JF,Bypass 4+ Cor Art from Abd Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02134JW,Bypass 4+ Cor Art from Aorta w Synth Sub - Perc Endo,ICD10_PROC,ccs44
+02134K3,Bypass 4+ Cor Art from Cor Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02134K8,Bypass 4+ Cor Art from R Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02134K9,Bypass 4+ Cor Art from L Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02134KC,Bypass 4+ Cor Art from Thor Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02134KF,Bypass 4+ Cor Art from Abd Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02134KW,Bypass 4+ Cor Art from Aorta w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
+02134Z3,Bypass 4+ Cor Art from Cor Art - Perc Endo Approach,ICD10_PROC,ccs44
+02134Z8,Bypass 4+ Cor Art from R Int Mammary - Perc Endo Approach,ICD10_PROC,ccs44
+02134Z9,Bypass 4+ Cor Art from L Int Mammary - Perc Endo Approach,ICD10_PROC,ccs44
+02134ZC,Bypass 4+ Cor Art from Thor Art - Perc Endo Approach,ICD10_PROC,ccs44
+02134ZF,Bypass 4+ Cor Art from Abd Art - Perc Endo Approach,ICD10_PROC,ccs44
+33140,Heart revascularize (tmr),CPT_HCPCS,ccs44
+33141,Heart tmr w/other procedure,CPT_HCPCS,ccs44
+33510,Cabg vein single,CPT_HCPCS,ccs44
+33511,Cabg vein two,CPT_HCPCS,ccs44
+33512,Cabg vein three,CPT_HCPCS,ccs44
+33513,Cabg vein four,CPT_HCPCS,ccs44
+33514,Cabg vein five,CPT_HCPCS,ccs44
+33516,Cabg vein six or more,CPT_HCPCS,ccs44
+33517,Cabg artery-vein single,CPT_HCPCS,ccs44
+33518,Cabg artery-vein two,CPT_HCPCS,ccs44
+33519,Cabg artery-vein three,CPT_HCPCS,ccs44
+33521,Cabg artery-vein four,CPT_HCPCS,ccs44
+33522,Cabg artery-vein five,CPT_HCPCS,ccs44
+33523,Cabg art-vein six or more,CPT_HCPCS,ccs44
+33530,Coronary artery bypass/reop,CPT_HCPCS,ccs44
+33533,Cabg arterial single,CPT_HCPCS,ccs44
+33534,Cabg arterial two,CPT_HCPCS,ccs44
+33535,Cabg arterial three,CPT_HCPCS,ccs44
+33536,Cabg arterial four or more,CPT_HCPCS,ccs44
+35600,Harvest art for cabg add-on,CPT_HCPCS,ccs44
+S2205,Minimally invasive direct co,CPT_HCPCS,ccs44
+S2206,Minimally invasive direct co,CPT_HCPCS,ccs44
+S2207,Minimally invasive direct co,CPT_HCPCS,ccs44
+S2208,Minimally invasive direct co,CPT_HCPCS,ccs44
+S2209,Minimally invasive direct co,CPT_HCPCS,ccs44
+231,Coronary bypass w PTCA w MCC,MSDRG,ccs44
+232,Coronary bypass w PTCA w/o MCC,MSDRG,ccs44
+233,Coronary bypass w cardiac cath w MCC,MSDRG,ccs44
+234,Coronary bypass w cardiac cath w/o MCC,MSDRG,ccs44
+235,Coronary bypass w/o cardiac cath w MCC,MSDRG,ccs44
+236,Coronary bypass w/o cardiac cath w/o MCC,MSDRG,ccs44
