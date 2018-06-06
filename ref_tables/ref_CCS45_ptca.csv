@@ -1,9 +1,4 @@
 code,code_description,code_type,cms_opps_inpatient_list,ccs
-66,PERCUTANEOUS TRANSLUMINAL CORONARY ANGIOPLASTY [PTCA],ICD9,,ccs45
-1755,TRANSLUMINAL CORONARY ATHERECTOMY,ICD9,,ccs45
-3601,PTCA-1 VES/ATH W/O AGENT,ICD9,,ccs45
-3602,PTCA-1 VES/ATH W AGENT,ICD9,,ccs45
-3605,PTCA-MULTIPLE VESSEL/ATH,ICD9,,ccs45
 270346,Dilate 1 Cor Art - Bifurc - w Drug-elut Intra - Perc,ICD10_PROC,,ccs45
 027034Z,Dilation of 1 Cor Art with Drug-elut Intra - Perc Approach,ICD10_PROC,,ccs45
 270356,Dilate of 1 Cor Art - Bifurc - with 2 Drug-elut - Perc Approach,ICD10_PROC,,ccs45
