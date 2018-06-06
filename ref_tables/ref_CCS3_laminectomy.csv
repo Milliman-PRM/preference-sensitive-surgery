@@ -1,131 +1,131 @@
-code,code_description,code_type,cms_opps_inpatient_list,ccs
-0R530ZZ,Destruction of Cervical Vertebral Disc - Open Approach,ICD10_PROC,,ccs3
-0R533ZZ,Destruction of Cervical Vertebral Disc - Perc Approach,ICD10_PROC,,ccs3
-0R534ZZ,Destruction of Cervical Vertebral Disc - Perc Endo Approach,ICD10_PROC,,ccs3
-0R550ZZ,Destruction of Cervicothoracic Vertebral Disc - Open Approach,ICD10_PROC,,ccs3
-0R553ZZ,Destruction of Cervicothoracic Vertebral Disc - Perc Approach,ICD10_PROC,,ccs3
-0R554ZZ,Destruction of C -thor Disc - Perc Endo Approach,ICD10_PROC,,ccs3
-0R590ZZ,Destruction of Thoracic Vertebral Disc - Open Approach,ICD10_PROC,,ccs3
-0R593ZZ,Destruction of Thoracic Vertebral Disc - Perc Approach,ICD10_PROC,,ccs3
-0R594ZZ,Destruction of Thoracic Vertebral Disc - Perc Endo Approach,ICD10_PROC,,ccs3
-0R5B0ZZ,Destruction of Thoracolumbar Vertebral Disc - Open Approach,ICD10_PROC,,ccs3
-0R5B3ZZ,Destruction of Thoracolumbar Vertebral Disc - Perc Approach,ICD10_PROC,,ccs3
-0R5B4ZZ,Destruction of T -lum Disc - Perc Endo Approach,ICD10_PROC,,ccs3
-0RB30ZZ,Excision of Cervical Vertebral Disc - Open Approach,ICD10_PROC,,ccs3
-0RB33ZZ,Excision of Cervical Vertebral Disc - Percutaneous Approach,ICD10_PROC,,ccs3
-0RB34ZZ,Excision of Cervical Vertebral Disc - Perc Endo Approach,ICD10_PROC,,ccs3
-0RB50ZZ,Excision of Cervicothoracic Vertebral Disc - Open Approach,ICD10_PROC,,ccs3
-0RB53ZZ,Excision of Cervicothoracic Vertebral Disc - Perc Approach,ICD10_PROC,,ccs3
-0RB54ZZ,Excision of C -thor Disc - Perc Endo Approach,ICD10_PROC,,ccs3
-0RB90ZZ,Excision of Thoracic Vertebral Disc - Open Approach,ICD10_PROC,,ccs3
-0RB93ZZ,Excision of Thoracic Vertebral Disc - Percutaneous Approach,ICD10_PROC,,ccs3
-0RB94ZZ,Excision of Thoracic Vertebral Disc - Perc Endo Approach,ICD10_PROC,,ccs3
-0RBB0ZZ,Excision of Thoracolumbar Vertebral Disc - Open Approach,ICD10_PROC,,ccs3
-0RBB3ZZ,Excision of Thoracolumbar Vertebral Disc - Perc Approach,ICD10_PROC,,ccs3
-0RBB4ZZ,Excision of Thoracolumbar Vertebral Disc - Perc Endo Approach,ICD10_PROC,,ccs3
-0RT30ZZ,Resection of Cervical Vertebral Disc - Open Approach,ICD10_PROC,,ccs3
-0RT40ZZ,Resection of Cervicothoracic Vertebral Joint - Open Approach,ICD10_PROC,,ccs3
-0RT50ZZ,Resection of Cervicothoracic Vertebral Disc - Open Approach,ICD10_PROC,,ccs3
-0RT90ZZ,Resection of Thoracic Vertebral Disc - Open Approach,ICD10_PROC,,ccs3
-0RTB0ZZ,Resection of Thoracolumbar Vertebral Disc - Open Approach,ICD10_PROC,,ccs3
-0S520ZZ,Destruction of Lumbar Vertebral Disc - Open Approach,ICD10_PROC,,ccs3
-0S523ZZ,Destruction of Lumbar Vertebral Disc - Percutaneous Approach,ICD10_PROC,,ccs3
-0S524ZZ,Destruction of Lumbar Vertebral Disc - Perc Endo Approach,ICD10_PROC,,ccs3
-0S540ZZ,Destruction of Lumbosacral Disc - Open Approach,ICD10_PROC,,ccs3
-0S543ZZ,Destruction of Lumbosacral Disc - Percutaneous Approach,ICD10_PROC,,ccs3
-0S544ZZ,Destruction of Lumbosacral Disc - Perc Endo Approach,ICD10_PROC,,ccs3
-0SB00ZZ,Excision of Lumbar Vertebral Joint - Open Approach,ICD10_PROC,,ccs3
-0SB03ZZ,Excision of Lumbar Vertebral Joint - Percutaneous Approach,ICD10_PROC,,ccs3
-0SB04ZZ,Excision of Lumbar Vertebral Joint - Perc Endo Approach,ICD10_PROC,,ccs3
-0SB20ZZ,Excision of Lumbar Vertebral Disc - Open Approach,ICD10_PROC,,ccs3
-0SB23ZZ,Excision of Lumbar Vertebral Disc - Percutaneous Approach,ICD10_PROC,,ccs3
-0SB24ZZ,Excision of Lumbar Vertebral Disc - Perc Endo Approach,ICD10_PROC,,ccs3
-0SB40ZZ,Excision of Lumbosacral Disc - Open Approach,ICD10_PROC,,ccs3
-0SB43ZZ,Excision of Lumbosacral Disc - Percutaneous Approach,ICD10_PROC,,ccs3
-0SB44ZZ,Excision of Lumbosacral Disc - Perc Endo Approach,ICD10_PROC,,ccs3
-0ST20ZZ,Resection of Lumbar Vertebral Disc - Open Approach,ICD10_PROC,,ccs3
-0ST40ZZ,Resection of Lumbosacral Disc - Open Approach,ICD10_PROC,,ccs3
-0202T,Post vert arthrplst 1 lumbar,CPT_HCPCS,Y,ccs3
-0274T,Perq lamot/lam crv/thrc,CPT_HCPCS,N,ccs3
-0275T,Perq lamot/lam lumbar,CPT_HCPCS,N,ccs3
-22856,Cerv artific diskectomy,CPT_HCPCS,N,ccs3
-22858,Second level cer diskectomy,CPT_HCPCS,N,ccs3
-22861,Revise cerv artific disc,CPT_HCPCS,Y,ccs3
-22864,Remove cerv artif disc,CPT_HCPCS,Y,ccs3
-61343,Incise skull (press relief),CPT_HCPCS,Y,ccs3
-62287,Percutaneous diskectomy,CPT_HCPCS,N,ccs3
-62351,Implant spinal canal cath,CPT_HCPCS,N,ccs3
-62380,Ndsc dcmprn 1 ntrspc lumbar,CPT_HCPCS,N,ccs3
-63001,Remove spine lamina 1/2 crvl,CPT_HCPCS,N,ccs3
-63003,Remove spine lamina 1/2 thrc,CPT_HCPCS,N,ccs3
-63005,Remove spine lamina 1/2 lmbr,CPT_HCPCS,N,ccs3
-63011,Remove spine lamina 1/2 scrl,CPT_HCPCS,N,ccs3
-63012,Remove lamina/facets lumbar,CPT_HCPCS,N,ccs3
-63015,Remove spine lamina >2 crvcl,CPT_HCPCS,N,ccs3
-63016,Remove spine lamina >2 thrc,CPT_HCPCS,N,ccs3
-63017,Remove spine lamina >2 lmbr,CPT_HCPCS,N,ccs3
-63020,Neck spine disk surgery,CPT_HCPCS,N,ccs3
-63030,Low back disk surgery,CPT_HCPCS,N,ccs3
-63035,Spinal disk surgery add -on,CPT_HCPCS,N,ccs3
-63040,Laminotomy single cervical,CPT_HCPCS,N,ccs3
-63042,Laminotomy single lumbar,CPT_HCPCS,N,ccs3
-63043,Laminotomy addl cervical,CPT_HCPCS,N,ccs3
-63044,Laminotomy addl lumbar,CPT_HCPCS,N,ccs3
-63045,Remove spine lamina 1 crvl,CPT_HCPCS,N,ccs3
-63046,Remove spine lamina 1 thrc,CPT_HCPCS,N,ccs3
-63047,Remove spine lamina 1 lmbr,CPT_HCPCS,N,ccs3
-63048,Remove spinal lamina add -on,CPT_HCPCS,N,ccs3
-63050,Cervical laminoplsty 2/> seg,CPT_HCPCS,Y,ccs3
-63051,C -laminoplasty w/graft/plate,CPT_HCPCS,Y,ccs3
-63055,Decompress spinal cord thrc,CPT_HCPCS,N,ccs3
-63056,Decompress spinal cord lmbr,CPT_HCPCS,N,ccs3
-63057,Decompress spine cord add -on,CPT_HCPCS,N,ccs3
-63064,Decompress spinal cord thrc,CPT_HCPCS,N,ccs3
-63066,Decompress spine cord add -on,CPT_HCPCS,N,ccs3
-63075,Neck spine disk surgery,CPT_HCPCS,N,ccs3
-63076,Neck spine disk surgery,CPT_HCPCS,N,ccs3
-63077,Spine disk surgery thorax,CPT_HCPCS,Y,ccs3
-63078,Spine disk surgery thorax,CPT_HCPCS,Y,ccs3
-63081,Remove vert body dcmprn crvl,CPT_HCPCS,Y,ccs3
-63082,Remove vertebral body add -on,CPT_HCPCS,Y,ccs3
-63085,Remove vert body dcmprn thrc,CPT_HCPCS,Y,ccs3
-63086,Remove vertebral body add -on,CPT_HCPCS,Y,ccs3
-63087,Remov vertbr dcmprn thrclmbr,CPT_HCPCS,Y,ccs3
-63088,Remove vertebral body add -on,CPT_HCPCS,Y,ccs3
-63090,Remove vert body dcmprn lmbr,CPT_HCPCS,Y,ccs3
-63091,Remove vertebral body add -on,CPT_HCPCS,Y,ccs3
-63101,Remove vert body dcmprn thrc,CPT_HCPCS,Y,ccs3
-63102,Remove vert body dcmprn lmbr,CPT_HCPCS,Y,ccs3
-63103,Remove vertebral body add -on,CPT_HCPCS,Y,ccs3
-63170,Incise spinal cord tract(s),CPT_HCPCS,Y,ccs3
-63172,Drainage of spinal cyst,CPT_HCPCS,Y,ccs3
-63173,Drainage of spinal cyst,CPT_HCPCS,Y,ccs3
-63180,Revise spinal cord ligaments,CPT_HCPCS,Y,ccs3
-63182,Revise spinal cord ligaments,CPT_HCPCS,Y,ccs3
-63185,Incise spine nrv half segmnt,CPT_HCPCS,Y,ccs3
-63190,Incise spine nrv >2 segmnts,CPT_HCPCS,Y,ccs3
-63191,Incise spine accessory nerve,CPT_HCPCS,Y,ccs3
-63194,Incise spine & cord cervical,CPT_HCPCS,Y,ccs3
-63195,Incise spine & cord thoracic,CPT_HCPCS,Y,ccs3
-63196,Incise spine&cord 2 trx crvl,CPT_HCPCS,Y,ccs3
-63197,Incise spine&cord 2 trx thrc,CPT_HCPCS,Y,ccs3
-63198,Incise spin&cord 2 stgs crvl,CPT_HCPCS,Y,ccs3
-63199,Incise spin&cord 2 stgs thrc,CPT_HCPCS,Y,ccs3
-63200,Release spinal cord lumbar,CPT_HCPCS,Y,ccs3
-63250,Revise spinal cord vsls crvl,CPT_HCPCS,Y,ccs3
-63251,Revise spinal cord vsls thrc,CPT_HCPCS,Y,ccs3
-63252,Revise spine cord vsl thrlmb,CPT_HCPCS,Y,ccs3
-63655,Implant neuroelectrodes,CPT_HCPCS,N,ccs3
-63709,Repair spinal fluid leakage,CPT_HCPCS,Y,ccs3
-63740,Install spinal shunt,CPT_HCPCS,Y,ccs3
-C9729,Percut lumbar lami,CPT_HCPCS,N,ccs3
-G0276,Pild/placebo control clin tr,CPT_HCPCS,N,ccs3
-S2348,Decompress disc RF lumbar,CPT_HCPCS,N,ccs3
-S2350,Diskectomy - anterior - with d,CPT_HCPCS,N,ccs3
-S2351,Diskectomy - anterior - with d,CPT_HCPCS,N,ccs3
-028,Spinal procedures w MCC,MSDRG,,ccs3
-029,Spinal procedures w CC or spinal neurostimulators,MSDRG,,ccs3
-030,Spinal procedures w/o CC/MCC,MSDRG,,ccs3
-518,Back & Neck Proc Exc Spinal Fusion W Mcc Or Disc Device/Neurostim,MSDRG,,ccs3
-519,Back & Neck Proc Exc Spinal Fusion w CC,MSDRG,,ccs3
-520,Back & Neck Proc Exc Spinal Fusion W/O Cc/Mcc,MSDRG,,ccs3
+code,code_description,code_type,ccs
+0R530ZZ,Destruction of Cervical Vertebral Disc - Open Approach,ICD10_PROC,ccs3
+0R533ZZ,Destruction of Cervical Vertebral Disc - Perc Approach,ICD10_PROC,ccs3
+0R534ZZ,Destruction of Cervical Vertebral Disc - Perc Endo Approach,ICD10_PROC,ccs3
+0R550ZZ,Destruction of Cervicothoracic Vertebral Disc - Open Approach,ICD10_PROC,ccs3
+0R553ZZ,Destruction of Cervicothoracic Vertebral Disc - Perc Approach,ICD10_PROC,ccs3
+0R554ZZ,Destruction of C -thor Disc - Perc Endo Approach,ICD10_PROC,ccs3
+0R590ZZ,Destruction of Thoracic Vertebral Disc - Open Approach,ICD10_PROC,ccs3
+0R593ZZ,Destruction of Thoracic Vertebral Disc - Perc Approach,ICD10_PROC,ccs3
+0R594ZZ,Destruction of Thoracic Vertebral Disc - Perc Endo Approach,ICD10_PROC,ccs3
+0R5B0ZZ,Destruction of Thoracolumbar Vertebral Disc - Open Approach,ICD10_PROC,ccs3
+0R5B3ZZ,Destruction of Thoracolumbar Vertebral Disc - Perc Approach,ICD10_PROC,ccs3
+0R5B4ZZ,Destruction of T -lum Disc - Perc Endo Approach,ICD10_PROC,ccs3
+0RB30ZZ,Excision of Cervical Vertebral Disc - Open Approach,ICD10_PROC,ccs3
+0RB33ZZ,Excision of Cervical Vertebral Disc - Percutaneous Approach,ICD10_PROC,ccs3
+0RB34ZZ,Excision of Cervical Vertebral Disc - Perc Endo Approach,ICD10_PROC,ccs3
+0RB50ZZ,Excision of Cervicothoracic Vertebral Disc - Open Approach,ICD10_PROC,ccs3
+0RB53ZZ,Excision of Cervicothoracic Vertebral Disc - Perc Approach,ICD10_PROC,ccs3
+0RB54ZZ,Excision of C -thor Disc - Perc Endo Approach,ICD10_PROC,ccs3
+0RB90ZZ,Excision of Thoracic Vertebral Disc - Open Approach,ICD10_PROC,ccs3
+0RB93ZZ,Excision of Thoracic Vertebral Disc - Percutaneous Approach,ICD10_PROC,ccs3
+0RB94ZZ,Excision of Thoracic Vertebral Disc - Perc Endo Approach,ICD10_PROC,ccs3
+0RBB0ZZ,Excision of Thoracolumbar Vertebral Disc - Open Approach,ICD10_PROC,ccs3
+0RBB3ZZ,Excision of Thoracolumbar Vertebral Disc - Perc Approach,ICD10_PROC,ccs3
+0RBB4ZZ,Excision of Thoracolumbar Vertebral Disc - Perc Endo Approach,ICD10_PROC,ccs3
+0RT30ZZ,Resection of Cervical Vertebral Disc - Open Approach,ICD10_PROC,ccs3
+0RT40ZZ,Resection of Cervicothoracic Vertebral Joint - Open Approach,ICD10_PROC,ccs3
+0RT50ZZ,Resection of Cervicothoracic Vertebral Disc - Open Approach,ICD10_PROC,ccs3
+0RT90ZZ,Resection of Thoracic Vertebral Disc - Open Approach,ICD10_PROC,ccs3
+0RTB0ZZ,Resection of Thoracolumbar Vertebral Disc - Open Approach,ICD10_PROC,ccs3
+0S520ZZ,Destruction of Lumbar Vertebral Disc - Open Approach,ICD10_PROC,ccs3
+0S523ZZ,Destruction of Lumbar Vertebral Disc - Percutaneous Approach,ICD10_PROC,ccs3
+0S524ZZ,Destruction of Lumbar Vertebral Disc - Perc Endo Approach,ICD10_PROC,ccs3
+0S540ZZ,Destruction of Lumbosacral Disc - Open Approach,ICD10_PROC,ccs3
+0S543ZZ,Destruction of Lumbosacral Disc - Percutaneous Approach,ICD10_PROC,ccs3
+0S544ZZ,Destruction of Lumbosacral Disc - Perc Endo Approach,ICD10_PROC,ccs3
+0SB00ZZ,Excision of Lumbar Vertebral Joint - Open Approach,ICD10_PROC,ccs3
+0SB03ZZ,Excision of Lumbar Vertebral Joint - Percutaneous Approach,ICD10_PROC,ccs3
+0SB04ZZ,Excision of Lumbar Vertebral Joint - Perc Endo Approach,ICD10_PROC,ccs3
+0SB20ZZ,Excision of Lumbar Vertebral Disc - Open Approach,ICD10_PROC,ccs3
+0SB23ZZ,Excision of Lumbar Vertebral Disc - Percutaneous Approach,ICD10_PROC,ccs3
+0SB24ZZ,Excision of Lumbar Vertebral Disc - Perc Endo Approach,ICD10_PROC,ccs3
+0SB40ZZ,Excision of Lumbosacral Disc - Open Approach,ICD10_PROC,ccs3
+0SB43ZZ,Excision of Lumbosacral Disc - Percutaneous Approach,ICD10_PROC,ccs3
+0SB44ZZ,Excision of Lumbosacral Disc - Perc Endo Approach,ICD10_PROC,ccs3
+0ST20ZZ,Resection of Lumbar Vertebral Disc - Open Approach,ICD10_PROC,ccs3
+0ST40ZZ,Resection of Lumbosacral Disc - Open Approach,ICD10_PROC,ccs3
+0202T,Post vert arthrplst 1 lumbar,CPT_HCPCS,ccs3
+0274T,Perq lamot/lam crv/thrc,CPT_HCPCS,ccs3
+0275T,Perq lamot/lam lumbar,CPT_HCPCS,ccs3
+22856,Cerv artific diskectomy,CPT_HCPCS,ccs3
+22858,Second level cer diskectomy,CPT_HCPCS,ccs3
+22861,Revise cerv artific disc,CPT_HCPCS,ccs3
+22864,Remove cerv artif disc,CPT_HCPCS,ccs3
+61343,Incise skull (press relief),CPT_HCPCS,ccs3
+62287,Percutaneous diskectomy,CPT_HCPCS,ccs3
+62351,Implant spinal canal cath,CPT_HCPCS,ccs3
+62380,Ndsc dcmprn 1 ntrspc lumbar,CPT_HCPCS,ccs3
+63001,Remove spine lamina 1/2 crvl,CPT_HCPCS,ccs3
+63003,Remove spine lamina 1/2 thrc,CPT_HCPCS,ccs3
+63005,Remove spine lamina 1/2 lmbr,CPT_HCPCS,ccs3
+63011,Remove spine lamina 1/2 scrl,CPT_HCPCS,ccs3
+63012,Remove lamina/facets lumbar,CPT_HCPCS,ccs3
+63015,Remove spine lamina >2 crvcl,CPT_HCPCS,ccs3
+63016,Remove spine lamina >2 thrc,CPT_HCPCS,ccs3
+63017,Remove spine lamina >2 lmbr,CPT_HCPCS,ccs3
+63020,Neck spine disk surgery,CPT_HCPCS,ccs3
+63030,Low back disk surgery,CPT_HCPCS,ccs3
+63035,Spinal disk surgery add -on,CPT_HCPCS,ccs3
+63040,Laminotomy single cervical,CPT_HCPCS,ccs3
+63042,Laminotomy single lumbar,CPT_HCPCS,ccs3
+63043,Laminotomy addl cervical,CPT_HCPCS,ccs3
+63044,Laminotomy addl lumbar,CPT_HCPCS,ccs3
+63045,Remove spine lamina 1 crvl,CPT_HCPCS,ccs3
+63046,Remove spine lamina 1 thrc,CPT_HCPCS,ccs3
+63047,Remove spine lamina 1 lmbr,CPT_HCPCS,ccs3
+63048,Remove spinal lamina add -on,CPT_HCPCS,ccs3
+63050,Cervical laminoplsty 2/> seg,CPT_HCPCS,ccs3
+63051,C -laminoplasty w/graft/plate,CPT_HCPCS,ccs3
+63055,Decompress spinal cord thrc,CPT_HCPCS,ccs3
+63056,Decompress spinal cord lmbr,CPT_HCPCS,ccs3
+63057,Decompress spine cord add -on,CPT_HCPCS,ccs3
+63064,Decompress spinal cord thrc,CPT_HCPCS,ccs3
+63066,Decompress spine cord add -on,CPT_HCPCS,ccs3
+63075,Neck spine disk surgery,CPT_HCPCS,ccs3
+63076,Neck spine disk surgery,CPT_HCPCS,ccs3
+63077,Spine disk surgery thorax,CPT_HCPCS,ccs3
+63078,Spine disk surgery thorax,CPT_HCPCS,ccs3
+63081,Remove vert body dcmprn crvl,CPT_HCPCS,ccs3
+63082,Remove vertebral body add -on,CPT_HCPCS,ccs3
+63085,Remove vert body dcmprn thrc,CPT_HCPCS,ccs3
+63086,Remove vertebral body add -on,CPT_HCPCS,ccs3
+63087,Remov vertbr dcmprn thrclmbr,CPT_HCPCS,ccs3
+63088,Remove vertebral body add -on,CPT_HCPCS,ccs3
+63090,Remove vert body dcmprn lmbr,CPT_HCPCS,ccs3
+63091,Remove vertebral body add -on,CPT_HCPCS,ccs3
+63101,Remove vert body dcmprn thrc,CPT_HCPCS,ccs3
+63102,Remove vert body dcmprn lmbr,CPT_HCPCS,ccs3
+63103,Remove vertebral body add -on,CPT_HCPCS,ccs3
+63170,Incise spinal cord tract(s),CPT_HCPCS,ccs3
+63172,Drainage of spinal cyst,CPT_HCPCS,ccs3
+63173,Drainage of spinal cyst,CPT_HCPCS,ccs3
+63180,Revise spinal cord ligaments,CPT_HCPCS,ccs3
+63182,Revise spinal cord ligaments,CPT_HCPCS,ccs3
+63185,Incise spine nrv half segmnt,CPT_HCPCS,ccs3
+63190,Incise spine nrv >2 segmnts,CPT_HCPCS,ccs3
+63191,Incise spine accessory nerve,CPT_HCPCS,ccs3
+63194,Incise spine & cord cervical,CPT_HCPCS,ccs3
+63195,Incise spine & cord thoracic,CPT_HCPCS,ccs3
+63196,Incise spine&cord 2 trx crvl,CPT_HCPCS,ccs3
+63197,Incise spine&cord 2 trx thrc,CPT_HCPCS,ccs3
+63198,Incise spin&cord 2 stgs crvl,CPT_HCPCS,ccs3
+63199,Incise spin&cord 2 stgs thrc,CPT_HCPCS,ccs3
+63200,Release spinal cord lumbar,CPT_HCPCS,ccs3
+63250,Revise spinal cord vsls crvl,CPT_HCPCS,ccs3
+63251,Revise spinal cord vsls thrc,CPT_HCPCS,ccs3
+63252,Revise spine cord vsl thrlmb,CPT_HCPCS,ccs3
+63655,Implant neuroelectrodes,CPT_HCPCS,ccs3
+63709,Repair spinal fluid leakage,CPT_HCPCS,ccs3
+63740,Install spinal shunt,CPT_HCPCS,ccs3
+C9729,Percut lumbar lami,CPT_HCPCS,ccs3
+G0276,Pild/placebo control clin tr,CPT_HCPCS,ccs3
+S2348,Decompress disc RF lumbar,CPT_HCPCS,ccs3
+S2350,Diskectomy - anterior - with d,CPT_HCPCS,ccs3
+S2351,Diskectomy - anterior - with d,CPT_HCPCS,ccs3
+28,Spinal procedures w MCC,MSDRG,ccs3
+29,Spinal procedures w CC or spinal neurostimulators,MSDRG,ccs3
+30,Spinal procedures w/o CC/MCC,MSDRG,ccs3
+518,Back & Neck Proc Exc Spinal Fusion W Mcc Or Disc Device/Neurostim,MSDRG,ccs3
+519,Back & Neck Proc Exc Spinal Fusion w CC,MSDRG,ccs3
+520,Back & Neck Proc Exc Spinal Fusion W/O Cc/Mcc,MSDRG,ccs3

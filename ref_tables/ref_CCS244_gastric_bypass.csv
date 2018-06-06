@@ -1,41 +1,41 @@
-code,code_description,code_type,cms_opps_inpatient_list,ccs
-0D160ZA,Bypass Stomach to Jejunum - Open Approach,ICD10_PROC,,ccs244
-0D160ZB,Bypass Stomach to Ileum - Open Approach,ICD10_PROC,,ccs244
-0DB60ZZ,Excision of Stomach - Open Approach,ICD10_PROC,,ccs244
-0DB64Z3,Excision of Stomach - Percutaneous Endoscopic Approach - Vert,ICD10_PROC,,ccs244
-0DB68Z3,Excision of Stomach - Endo - Vert,ICD10_PROC,,ccs244
-0DV60ZZ,Restriction of Stomach - Open Approach,ICD10_PROC,,ccs244
-0DV64CZ,Restriction of Stomach with Extralum Dev - Perc Endo Approach,ICD10_PROC,,ccs244
-0DV64ZZ,Restriction of Stomach - Percutaneous Endoscopic Approach,ICD10_PROC,,ccs244
-0DW64CZ,Revision of Extralum Dev in Stomach - Perc Endo Approach,ICD10_PROC,,ccs244
-0D164ZA,Bypass Stomach to Jejunum - Percutaneous Endoscopic Approach,ICD10_PROC,,ccs244
-0D164ZB,Bypass Stomach to Ileum - Percutaneous Endoscopic Approach,ICD10_PROC,,ccs244
-0312T,Laps impltj nstim vagus,CPT_HCPCS,N,ccs244
-0313T,Laps rmvl nstim array vagus,CPT_HCPCS,N,ccs244
-0314T,Laps rmvl vgl arry&pls gen,CPT_HCPCS,N,ccs244
-0315T,Rmvl vagus nerve pls gen,CPT_HCPCS,N,ccs244
-0316T,Replc vagus nerve pls gen,CPT_HCPCS,N,ccs244
-0317T,Elec alys vagus nrv pls gen,CPT_HCPCS,N,ccs244
-43644,Lap gastric bypass/roux-en-y,CPT_HCPCS,Y,ccs244
-43645,Lap gastr bypass incl smll i,CPT_HCPCS,Y,ccs244
-43770,Lap place gastr adj device,CPT_HCPCS,N,ccs244
-43771,Lap revise gastr adj device,CPT_HCPCS,Y,ccs244
-43772,Lap rmvl gastr adj device,CPT_HCPCS,N,ccs244
-43773,Lap replace gastr adj device,CPT_HCPCS,N,ccs244
-43774,Lap rmvl gastr adj all parts,CPT_HCPCS,N,ccs244
-43775,Lap sleeve gastrectomy,CPT_HCPCS,Y,ccs244
-43842,V-band gastroplasty,CPT_HCPCS,N,ccs244
-43843,Gastroplasty w/o v-band,CPT_HCPCS,Y,ccs244
-43845,Gastroplasty duodenal switch,CPT_HCPCS,Y,ccs244
-43846,Gastric bypass for obesity,CPT_HCPCS,Y,ccs244
-43847,Gastric bypass incl small i,CPT_HCPCS,Y,ccs244
-43848,Revision gastroplasty,CPT_HCPCS,Y,ccs244
-43886,Revise gastric port open,CPT_HCPCS,N,ccs244
-43887,Remove gastric port open,CPT_HCPCS,N,ccs244
-43888,Change gastric port open,CPT_HCPCS,N,ccs244
-326,Stomach - esophageal & duodenal proc w MCC,MSDRG,,ccs244
-327,Stomach - esophageal & duodenal proc w CC,MSDRG,,ccs244
-328,Stomach - esophageal & duodenal proc w/o CC/MCC,MSDRG,,ccs244
-619,O.R. procedures for obesity w MCC,MSDRG,,ccs244
-620,O.R. procedures for obesity w CC,MSDRG,,ccs244
-621,O.R. procedures for obesity w/o CC/MCC,MSDRG,,ccs244
+code,code_description,code_type,ccs
+0D160ZA,Bypass Stomach to Jejunum - Open Approach,ICD10_PROC,ccs244
+0D160ZB,Bypass Stomach to Ileum - Open Approach,ICD10_PROC,ccs244
+0DB60ZZ,Excision of Stomach - Open Approach,ICD10_PROC,ccs244
+0DB64Z3,Excision of Stomach - Percutaneous Endoscopic Approach - Vert,ICD10_PROC,ccs244
+0DB68Z3,Excision of Stomach - Endo - Vert,ICD10_PROC,ccs244
+0DV60ZZ,Restriction of Stomach - Open Approach,ICD10_PROC,ccs244
+0DV64CZ,Restriction of Stomach with Extralum Dev - Perc Endo Approach,ICD10_PROC,ccs244
+0DV64ZZ,Restriction of Stomach - Percutaneous Endoscopic Approach,ICD10_PROC,ccs244
+0DW64CZ,Revision of Extralum Dev in Stomach - Perc Endo Approach,ICD10_PROC,ccs244
+0D164ZA,Bypass Stomach to Jejunum - Percutaneous Endoscopic Approach,ICD10_PROC,ccs244
+0D164ZB,Bypass Stomach to Ileum - Percutaneous Endoscopic Approach,ICD10_PROC,ccs244
+0312T,Laps impltj nstim vagus,CPT_HCPCS,ccs244
+0313T,Laps rmvl nstim array vagus,CPT_HCPCS,ccs244
+0314T,Laps rmvl vgl arry&pls gen,CPT_HCPCS,ccs244
+0315T,Rmvl vagus nerve pls gen,CPT_HCPCS,ccs244
+0316T,Replc vagus nerve pls gen,CPT_HCPCS,ccs244
+0317T,Elec alys vagus nrv pls gen,CPT_HCPCS,ccs244
+43644,Lap gastric bypass/roux-en-y,CPT_HCPCS,ccs244
+43645,Lap gastr bypass incl smll i,CPT_HCPCS,ccs244
+43770,Lap place gastr adj device,CPT_HCPCS,ccs244
+43771,Lap revise gastr adj device,CPT_HCPCS,ccs244
+43772,Lap rmvl gastr adj device,CPT_HCPCS,ccs244
+43773,Lap replace gastr adj device,CPT_HCPCS,ccs244
+43774,Lap rmvl gastr adj all parts,CPT_HCPCS,ccs244
+43775,Lap sleeve gastrectomy,CPT_HCPCS,ccs244
+43842,V-band gastroplasty,CPT_HCPCS,ccs244
+43843,Gastroplasty w/o v-band,CPT_HCPCS,ccs244
+43845,Gastroplasty duodenal switch,CPT_HCPCS,ccs244
+43846,Gastric bypass for obesity,CPT_HCPCS,ccs244
+43847,Gastric bypass incl small i,CPT_HCPCS,ccs244
+43848,Revision gastroplasty,CPT_HCPCS,ccs244
+43886,Revise gastric port open,CPT_HCPCS,ccs244
+43887,Remove gastric port open,CPT_HCPCS,ccs244
+43888,Change gastric port open,CPT_HCPCS,ccs244
+326,Stomach - esophageal & duodenal proc w MCC,MSDRG,ccs244
+327,Stomach - esophageal & duodenal proc w CC,MSDRG,ccs244
+328,Stomach - esophageal & duodenal proc w/o CC/MCC,MSDRG,ccs244
+619,O.R. procedures for obesity w MCC,MSDRG,ccs244
+620,O.R. procedures for obesity w CC,MSDRG,ccs244
+621,O.R. procedures for obesity w/o CC/MCC,MSDRG,ccs244
