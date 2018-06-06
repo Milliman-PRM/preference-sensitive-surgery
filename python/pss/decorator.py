@@ -29,65 +29,105 @@ def _collect_pss_eligible_ip_surg(
     """Flag potential inpatient preference sensitive surgeries"""
 
     outclaims_filter = outclaims.where(
-            (spark_funcs.col('mr_allowed') > 0) &
-            (spark_funcs.col('admitsource') != '4')
+            (spark_funcs.col('mr_line_case').startswith('I12')) &
+            (spark_funcs.col('mr_allowed') > 0)
         )    
+
+    max_claim_allowed = outclaims_filter.select(
+            'claim_number',
+            'member_id',
+            'mr_allowed',
+        ).groupBy(
+            'claim_number',
+            'member_id',
+        ).agg(
+            spark_funcs.max(spark_funcs.col('mr_allowed').alias('max_allowed'))
+        )
+    
+    claim_elig_procs = outclaims_filter.join(
+            max_claim_allowed,
+            on=(outclaims_filter.claimid == max_claim_allowed.claimid) &
+               (outclaims_filter.mr_allowed == max_claim_allowed.max_allowed),
+            how='inner'
+        )
     
     icd_proc =  [
             spark_funcs.col(col_name)
-            for col_name in outclaims_filter.columns
+            for col_name in claim_elig_procs.columns
             if col_name.startswith('icdproc')
         ]
 
-    df_proc_pivot = outclaims_filter.select(
-            'claimid',
-            'member_id',
-            'prm_fromdate',
-            'revcode',
-            'hcpcs',
-            'mr_allowed',
+    df_proc_pivot = claim_elig_procs.select(
+            'sequencenumber',
             spark_funcs.explode(spark_funcs.array(icd_proc)).alias('icd_proc'),
         ).filter(
             spark_funcs.col('icd_proc').isNotNull()
-        ).groupBy(
-            'claimid',
-            'member_id',
-            'prm_fromdate',
-            'revcode',
-            'hcpcs',
-            'icd_proc'
-        ).agg(
-            spark_funcs.max(spark_funcs.col('mr_allowed'))
         )
     
     proc_w_ccs = df_proc_pivot.join(
-                ref_table,
-                on=(ref_table.code == df_proc_pivot.icd_proc),
-                how='left_outer',
-            )
+            ref_table,
+            on=(ref_table.code == df_proc_pivot.icd_proc),
+            how='inner',
+        )
     
-    return proc_w_ccs.where(spark_funcs.col('ccs').isNotNull())
+    return proc_w_ccs
+
+def _collect_pss_eligible_op_surg(
+        outclaims: DataFrame,
+        ref_table: DataFrame,
+    ) -> DataFrame:
+    """Flag potential inpatient preference sensitive surgeries"""
+
+    outclaims_filter = outclaims.where(
+            (spark_funcs.col('mr_line_case').startswith('O12')) &
+            (spark_funcs.col('mr_allowed') > 0)
+        )    
     
+    max_claim_allowed = outclaims_filter.select(
+            'claim_number',
+            'member_id',
+            'mr_allowed',
+        ).groupBy(
+            'claim_number',
+            'member_id',
+        ).agg(
+            spark_funcs.max(spark_funcs.col('mr_allowed').alias('max_allowed'))
+        )
     
+    claim_elig_hcpcs = outclaims_filter.join(
+            max_claim_allowed,
+            on=(outclaims_filter.claimid == max_claim_allowed.claimid) &
+               (outclaims_filter.mr_allowed == max_claim_allowed.max_allowed),
+            how='inner'
+        )
+    
+    hcpcs_w_ccs = claim_elig_hcpcs.join(
+            ref_table,
+            on=(claim_elig_hcpcs.hcpcs == ref_table.code),
+            how='inner',
+        )
+    
+    return hcpcs_w_ccs
+        
 def calculate_pss_decorator(
         dfs_input: "typing.Mapping[str, DataFrame]",
-        *
+        dfs_refs: "typing.Mapping[str, DataFrame]",
+        **kwargs
     ) -> DataFrame:
 
     """Flag eligible inpatient and outpatient flags"""
     LOGGER.info('Calculating preference-senstive surgery decorators')
 
     inpatient_surgery = _collect_pss_eligible_ip_surg(
-        dfs_input['outclaims'].where(
-            spark_funcs.col('mr_line').startswith('I12')
-            )
+            outclaims=dfs_input['outclaims'],
+            ref_table=dfs_refs['icd_codes'],         
         )
-
+        
     outpatient_surgery = _collect_pss_eligible_op_surg(
-        dfs_input['outclaims'].where(
-            spark_funcs.col('mr_line').startswith('O12')
-            )
+            outclaims=dfs_input['outclaims'],
+            ref_table=dfs_refs['hcpcs'],
         )
+        
         
 class PSSDecorator(ClaimDecorator):
     """Calculate the preference-sensitive surgery decorators"""
@@ -102,56 +142,9 @@ class PSSDecorator(ClaimDecorator):
             dfs_refs: "typing.Mapping[str, DataFrame]",
             **kwargs
         ) -> DataFrame:
+        
         return calculate_pss_decorator(
             dfs_input,
+            dfs_refs,
             **kwargs,
-            )
-
-#def import_reference_file(
-#        sparkapp: SparkApp,
-#        path_ref: Path,
-#        **kwargs_read_csv
-#    ) -> pyspark.sql.DataFrame:
-#    _schema = prm.spark.io_txt.build_structtype_from_csv(
-#        path_ref.parent / '{}_schema.csv'.format(path_ref.stem),
-#    )
-#    _df = sparkapp.session.read.csv(
-#        str(path_ref),
-#        schema=_schema,
-#        **kwargs_read_csv,
-#        )
-#    return _df
-##
-#paths_local_refs = {
-#PATH_LOCAL_REFS / 'ref_CCS113_turp.csv',
-#PATH_LOCAL_REFS / 'ref_CCS124_hysterectomy.csv',
-#PATH_LOCAL_REFS / 'ref_CCS149_arthroscopy.csv',
-#PATH_LOCAL_REFS / 'ref_CCS152_arthroplasty_knee.csv',
-#PATH_LOCAL_REFS / 'ref_CCS153_hip_replacement.csv',
-#PATH_LOCAL_REFS / 'ref_CCS154_arthroplasty_other.csv',
-#PATH_LOCAL_REFS / 'ref_CCS158_spinal_fusion.csv',
-#PATH_LOCAL_REFS / 'ref_CCS244_gastric_bypass.csv',
-#PATH_LOCAL_REFS / 'ref_CCS3_laminectomy.csv',
-#PATH_LOCAL_REFS / 'ref_CCS44_cabg.csv',
-#PATH_LOCAL_REFS / 'ref_CCS45_ptca.csv',
-#PATH_LOCAL_REFS / 'ref_CCS48_pacemaker_defibrillator.csv',
-#PATH_LOCAL_REFS / 'ref_CCS51thru61_vessel.csv',
-#PATH_LOCAL_REFS / 'ref_CCS84_cholecystectomy.csv',
-#    }
-#dfs_refs = {
-#    path.stem: sparkapp.session.read.csv(
-#        str(path),
-#        header=True,
-#        )
-#    for path in paths_local_refs
-#    }
-#dfs_input = {
-#    'outclaims': sparkapp.load_df(
-#        META_SHARED[73, 'out'] / 'outclaims_prm.parquet'
-#        ).select(
-#            '*',
-#            spark_funcs.col('prm_prv_id_ccn').alias('prv_id_ccn')
-#            ),
-#}
-#
-#refs_all = dfs_refs['ref_CCS149_arthroscopy'].union(dfs_refs['ref_CCS113_turp']).union(dfs_refs['ref_CCS45_ptca']).union(dfs_refs['ref_CCS158_spinal_fusion']).union(dfs_refs['ref_CCS44_cabg']).union(dfs_refs['ref_CCS153_hip_replacement']).union(dfs_refs['ref_CCS154_arthroplasty_other']).union(dfs_refs['ref_CCS84_cholecystectomy']).union(dfs_refs['ref_CCS152_arthroplasty_knee']).union(dfs_refs['ref_CCS3_laminectomy']).union(dfs_refs['ref_CCS244_gastric_bypass']).union(dfs_refs['ref_CCS51thru61_vessel']).union(dfs_refs['ref_CCS124_hysterectomy']).union(dfs_refs['ref_CCS48_pacemaker_defibrillator'])
+        )
