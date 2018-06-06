@@ -34,14 +34,14 @@ def _collect_pss_eligible_ip_surg(
         )    
 
     max_claim_allowed = outclaims_filter.select(
-            'claim_number',
+            'claimid',
             'member_id',
             'mr_allowed',
         ).groupBy(
-            'claim_number',
+            'claimid',
             'member_id',
         ).agg(
-            spark_funcs.max(spark_funcs.col('mr_allowed').alias('max_allowed'))
+            spark_funcs.max(spark_funcs.col('mr_allowed')).alias('max_allowed')
         )
     
     claim_elig_procs = outclaims_filter.join(
@@ -84,14 +84,14 @@ def _collect_pss_eligible_op_surg(
         )    
     
     max_claim_allowed = outclaims_filter.select(
-            'claim_number',
+            'claimid',
             'member_id',
             'mr_allowed',
         ).groupBy(
-            'claim_number',
+            'claimid',
             'member_id',
         ).agg(
-            spark_funcs.max(spark_funcs.col('mr_allowed').alias('max_allowed'))
+            spark_funcs.max(spark_funcs.col('mr_allowed')).alias('max_allowed')
         )
     
     claim_elig_hcpcs = outclaims_filter.join(
@@ -127,7 +127,8 @@ def calculate_pss_decorator(
             outclaims=dfs_input['outclaims'],
             ref_table=dfs_refs['hcpcs'],
         )
-        
+    
+    return inpatient_surgery
         
 class PSSDecorator(ClaimDecorator):
     """Calculate the preference-sensitive surgery decorators"""
@@ -202,5 +203,4 @@ dfs_input = {
             spark_funcs.col('prm_prv_id_ccn').alias('prv_id_ccn')
             ),
     }
-
 
