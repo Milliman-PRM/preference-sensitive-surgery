@@ -1,0 +1,29 @@
+code,code_description,code_type,cms_opps_inpatient_list,ccs
+0FB40ZZ,Excision of Gallbladder - Open Approach,ICD10_PROC,,ccs84
+0FB43ZZ,Excision of Gallbladder - Percutaneous Approach,ICD10_PROC,,ccs84
+0FB44ZZ,Excision of Gallbladder - Percutaneous Endoscopic Approach,ICD10_PROC,,ccs84
+0FT40ZZ,Resection of Gallbladder - Open Approach,ICD10_PROC,,ccs84
+0FT44ZZ,Resection of Gallbladder - Percutaneous Endoscopic Approach,ICD10_PROC,,ccs84
+47400,Incision of liver duct,CPT_HCPCS,Y,ccs84
+47420,Incision of bile duct,CPT_HCPCS,Y,ccs84
+47425,Incision of bile duct,CPT_HCPCS,Y,ccs84
+47460,Incise bile duct sphincter,CPT_HCPCS,Y,ccs84
+47550,Bile duct endoscopy add-on,CPT_HCPCS,Y,ccs84
+47562,Laparoscopic cholecystectomy,CPT_HCPCS,N,ccs84
+47563,Laparo cholecystectomy/graph,CPT_HCPCS,N,ccs84
+47564,Laparo cholecystectomy/explr,CPT_HCPCS,N,ccs84
+47600,Removal of gallbladder,CPT_HCPCS,Y,ccs84
+47605,Removal of gallbladder,CPT_HCPCS,Y,ccs84
+47610,Removal of gallbladder,CPT_HCPCS,Y,ccs84
+47612,Removal of gallbladder,CPT_HCPCS,Y,ccs84
+47620,Removal of gallbladder,CPT_HCPCS,Y,ccs84
+47630,Remove bile duct stone,CPT_HCPCS,N,ccs84
+411,Cholecystectomy w c.d.e. w MCC,MSDRG,,ccs84
+412,Cholecystectomy w c.d.e. w CC,MSDRG,,ccs84
+413,Cholecystectomy w c.d.e. w/o CC/MCC,MSDRG,,ccs84
+414,Cholecystectomy except by laparoscope w/o c.d.e. w MCC,MSDRG,,ccs84
+415,Cholecystectomy except by laparoscope w/o c.d.e. w CC,MSDRG,,ccs84
+416,Cholecystectomy except by laparoscope w/o c.d.e. w/o CC/MCC,MSDRG,,ccs84
+417,Laparoscopic cholecystectomy w/o c.d.e. w MCC,MSDRG,,ccs84
+418,Laparoscopic cholecystectomy w/o c.d.e. w CC,MSDRG,,ccs84
+419,Laparoscopic cholecystectomy w/o c.d.e. w/o CC/MCC,MSDRG,,ccs84

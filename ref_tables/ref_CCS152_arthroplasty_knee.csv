@@ -1,0 +1,95 @@
+code,code_description,code_type,cms_opps_inpatient_list,ccs
+0SRC07Z,Replacement of R Knee Jt with Autol Sub - Open Approach,ICD10_PROC,,ccs152
+0SRC0J9,Replace of R Knee Jt with Synth Sub - Cement - Open Approach,ICD10_PROC,,ccs152
+0SRC0JA,Replace of R Knee Jt with Synth Sub - Uncement - Open Approach,ICD10_PROC,,ccs152
+0SRC0JZ,Replacement of R Knee Jt with Synth Sub - Open Approach,ICD10_PROC,,ccs152
+0SRC0KZ,Replacement of R Knee Jt with Nonaut Sub - Open Approach,ICD10_PROC,,ccs152
+0SRC0L9,Replace of R Knee Jt with Unicondyl - Cement - Open Approach,ICD10_PROC,,ccs152
+0SRC0LA,Replace of R Knee Jt with Unicondyl - Uncement - Open Approach,ICD10_PROC,,ccs152
+0SRC0LZ,Replacement of R Knee Jt with Unicondyl - Open Approach,ICD10_PROC,,ccs152
+0SRD07Z,Replacement of Left Knee Joint with Autol Sub - Open Approach,ICD10_PROC,,ccs152
+0SRD0J9,Replace of L Knee Jt with Synth Sub - Cement - Open Approach,ICD10_PROC,,ccs152
+0SRD0JA,Replace of L Knee Jt with Synth Sub - Uncement - Open Approach,ICD10_PROC,,ccs152
+0SRD0JZ,Replacement of Left Knee Joint with Synth Sub - Open Approach,ICD10_PROC,,ccs152
+0SRD0KZ,Replacement of L Knee Jt with Nonaut Sub - Open Approach,ICD10_PROC,,ccs152
+0SRD0L9,Replace of L Knee Jt with Unicondyl - Cement - Open Approach,ICD10_PROC,,ccs152
+0SRD0LA,Replace of L Knee Jt with Unicondyl - Uncement - Open Approach,ICD10_PROC,,ccs152
+0SRD0LZ,Replacement of Left Knee Joint with Unicondyl - Open Approach,ICD10_PROC,,ccs152
+0SRT07Z,Replace of R Knee Jt - Femoral with Autol Sub - Open Approach,ICD10_PROC,,ccs152
+0SRT0J9,Replace R Knee Jt - Femoral w Synth Sub - Cement - Open,ICD10_PROC,,ccs152
+0SRT0JA,Replace R Knee Jt - Femoral w Synth Sub - Uncement - Open,ICD10_PROC,,ccs152
+0SRT0JZ,Replace of R Knee Jt - Femoral with Synth Sub - Open Approach,ICD10_PROC,,ccs152
+0SRT0KZ,Replace of R Knee Jt - Femoral with Nonaut Sub - Open Approach,ICD10_PROC,,ccs152
+0SRU07Z,Replace of L Knee Jt - Femoral with Autol Sub - Open Approach,ICD10_PROC,,ccs152
+0SRU0J9,Replace L Knee Jt - Femoral w Synth Sub - Cement - Open,ICD10_PROC,,ccs152
+0SRU0JA,Replace L Knee Jt - Femoral w Synth Sub - Uncement - Open,ICD10_PROC,,ccs152
+0SRU0JZ,Replace of L Knee Jt - Femoral with Synth Sub - Open Approach,ICD10_PROC,,ccs152
+0SRU0KZ,Replace of L Knee Jt - Femoral with Nonaut Sub - Open Approach,ICD10_PROC,,ccs152
+0SRV07Z,Replace of R Knee Jt - Tibial with Autol Sub - Open Approach,ICD10_PROC,,ccs152
+0SRV0J9,Replace R Knee Jt - Tibial w Synth Sub - Cement - Open,ICD10_PROC,,ccs152
+0SRV0JA,Replace R Knee Jt - Tibial w Synth Sub - Uncement - Open,ICD10_PROC,,ccs152
+0SRV0JZ,Replace of R Knee Jt - Tibial with Synth Sub - Open Approach,ICD10_PROC,,ccs152
+0SRV0KZ,Replace of R Knee Jt - Tibial with Nonaut Sub - Open Approach,ICD10_PROC,,ccs152
+0SRW07Z,Replace of L Knee Jt - Tibial with Autol Sub - Open Approach,ICD10_PROC,,ccs152
+0SRW0J9,Replace L Knee Jt - Tibial w Synth Sub - Cement - Open,ICD10_PROC,,ccs152
+0SRW0JA,Replace L Knee Jt - Tibial w Synth Sub - Uncement - Open,ICD10_PROC,,ccs152
+0SRW0JZ,Replace of L Knee Jt - Tibial with Synth Sub - Open Approach,ICD10_PROC,,ccs152
+0SRW0KZ,Replace of L Knee Jt - Tibial with Nonaut Sub - Open Approach,ICD10_PROC,,ccs152
+0SUC07Z,Supplement Right Knee Joint with Autol Sub - Open Approach,ICD10_PROC,,ccs152
+0SUC09C,Supplement R Knee Jt with Liner - Patella - Open Approach,ICD10_PROC,,ccs152
+0SUC09Z,Supplement Right Knee Joint with Liner - Open Approach,ICD10_PROC,,ccs152
+0SUC0JZ,Supplement Right Knee Joint with Synth Sub - Open Approach,ICD10_PROC,,ccs152
+0SUC0KZ,Supplement Right Knee Joint with Nonaut Sub - Open Approach,ICD10_PROC,,ccs152
+0SUC37Z,Supplement Right Knee Joint with Autol Sub - Perc Approach,ICD10_PROC,,ccs152
+0SUC3JZ,Supplement Right Knee Joint with Synth Sub - Perc Approach,ICD10_PROC,,ccs152
+0SUC3KZ,Supplement Right Knee Joint with Nonaut Sub - Perc Approach,ICD10_PROC,,ccs152
+0SUC47Z,Supplement R Knee Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,,ccs152
+0SUC4JZ,Supplement R Knee Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,,ccs152
+0SUC4KZ,Supplement R Knee Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,,ccs152
+0SUD07Z,Supplement Left Knee Joint with Autol Sub - Open Approach,ICD10_PROC,,ccs152
+0SUD09C,Supplement L Knee Jt with Liner - Patella - Open Approach,ICD10_PROC,,ccs152
+0SUD09Z,Supplement Left Knee Joint with Liner - Open Approach,ICD10_PROC,,ccs152
+0SUD0JZ,Supplement Left Knee Joint with Synth Sub - Open Approach,ICD10_PROC,,ccs152
+0SUD0KZ,Supplement Left Knee Joint with Nonaut Sub - Open Approach,ICD10_PROC,,ccs152
+0SUD37Z,Supplement Left Knee Joint with Autol Sub - Perc Approach,ICD10_PROC,,ccs152
+0SUD3JZ,Supplement Left Knee Joint with Synth Sub - Perc Approach,ICD10_PROC,,ccs152
+0SUD3KZ,Supplement Left Knee Joint with Nonaut Sub - Perc Approach,ICD10_PROC,,ccs152
+0SUD47Z,Supplement L Knee Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,,ccs152
+0SUD4JZ,Supplement L Knee Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,,ccs152
+0SUD4KZ,Supplement L Knee Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,,ccs152
+0SUT09Z,Supplement R Knee Jt - Femoral with Liner - Open Approach,ICD10_PROC,,ccs152
+0SUU09Z,Supplement L Knee Jt - Femoral with Liner - Open Approach,ICD10_PROC,,ccs152
+0SUV09Z,Supplement R Knee Jt - Tibial with Liner - Open Approach,ICD10_PROC,,ccs152
+0SUW09Z,Supplement L Knee Jt - Tibial with Liner - Open Approach,ICD10_PROC,,ccs152
+0SWC0JZ,Revision of Synthetic Substitute in Right Knee Joint - Open Approach,ICD10_PROC,,ccs152
+0SWC3JZ,Revision of Synthetic Substitute in Right Knee Joint - Percutaneous Approach,ICD10_PROC,,ccs152
+0SWC4JZ,Revision of Synthetic Substitute in Right Knee Joint - Percutaneous Endoscopic Approach,ICD10_PROC,,ccs152
+0SWD0JZ,Revision of Synthetic Substitute in Left Knee Joint - Open Approach,ICD10_PROC,,ccs152
+0SWD3JZ,Revision of Synthetic Substitute in Left Knee Joint - Percutaneous Approach,ICD10_PROC,,ccs152
+0SWD4JZ,Revision of Synthetic Substitute in Left Knee Joint - Percutaneous Endoscopic Approach,ICD10_PROC,,ccs152
+0396T,Intraop kinetic balnce sensr,CPT_HCPCS,N,ccs152
+27420,Revision of unstable kneecap,CPT_HCPCS,N,ccs152
+27422,Revision of unstable kneecap,CPT_HCPCS,N,ccs152
+27424,Revision/removal of kneecap,CPT_HCPCS,N,ccs152
+27427,Reconstruction knee,CPT_HCPCS,N,ccs152
+27428,Reconstruction knee,CPT_HCPCS,N,ccs152
+27429,Reconstruction knee,CPT_HCPCS,N,ccs152
+27437,Revise kneecap,CPT_HCPCS,N,ccs152
+27438,Revise kneecap with implant,CPT_HCPCS,N,ccs152
+27440,Revision of knee joint,CPT_HCPCS,N,ccs152
+27441,Revision of knee joint,CPT_HCPCS,N,ccs152
+27442,Revision of knee joint,CPT_HCPCS,N,ccs152
+27443,Revision of knee joint,CPT_HCPCS,N,ccs152
+27445,Revision of knee joint,CPT_HCPCS,Y,ccs152
+27446,Revision of knee joint,CPT_HCPCS,N,ccs152
+27447,Total knee arthroplasty,CPT_HCPCS,N,ccs152
+27486,Revise/replace knee joint,CPT_HCPCS,Y,ccs152
+27487,Revise/replace knee joint,CPT_HCPCS,Y,ccs152
+G0428,Collagen Meniscus Implant,CPT_HCPCS,N,ccs152
+461,Bilateral or multiple major joint procs of lower extremity w MCC,MSDRG,,ccs152
+462,Bilateral or multiple major joint procs of lower extremity w/o MCC,MSDRG,,ccs152
+466,Revision of hip or knee replacement w MCC,MSDRG,,ccs152
+467,Revision of hip or knee replacement w CC,MSDRG,,ccs152
+468,Revision of hip or knee replacement w/o CC/MCC,MSDRG,,ccs152
+469,Major joint replacement or reattachment of lower extremity w MCC,MSDRG,,ccs152
+470,Major joint replacement or reattachment of lower extremity w/o MCC,MSDRG,,ccs152
