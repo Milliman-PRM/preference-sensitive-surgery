@@ -1,631 +1,631 @@
-code,code_description,code_type,cms_opps_inpatient_list,ccs
-0RG0070,Fusion Occip Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG0071,Fusion Occip Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG007J,Fusion Occip Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG00A0,Fusion Occip Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG00A1,Fusion Occip Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG00AJ,Fusion Occip Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG00J0,Fusion Occip Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG00J1,Fusion Occip Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG00JJ,Fusion Occip Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG00K0,Fusion Occip Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG00K1,Fusion Occip Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG00KJ,Fusion Occip Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG00Z0,Fusion of Occip Jt - Ant Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0RG00Z1,Fusion of Occip Jt - Post Appr P Col - Open Approach,ICD10_PROC,,ccs158
-0RG00ZJ,Fusion of Occip Jt - Post Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0RG0370,Fusion Occip Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG0371,Fusion Occip Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG037J,Fusion Occip Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG03A0,Fusion Occip Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG03A1,Fusion Occip Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG03AJ,Fusion Occip Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG03J0,Fusion Occip Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG03J1,Fusion Occip Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG03JJ,Fusion Occip Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG03K0,Fusion Occip Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG03K1,Fusion Occip Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG03KJ,Fusion Occip Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG03Z0,Fusion of Occip Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0RG03Z1,Fusion of Occip Jt - Post Appr P Col - Perc Approach,ICD10_PROC,,ccs158
-0RG03ZJ,Fusion of Occip Jt - Post Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0RG0470,Fusion Occip Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG0471,Fusion Occip Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG047J,Fusion Occip Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG04A0,Fusion Occip Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG04A1,Fusion Occip Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG04AJ,Fusion Occip Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG04J0,Fusion Occip Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG04J1,Fusion Occip Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG04JJ,Fusion Occip Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG04K0,Fusion Occip Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG04K1,Fusion Occip Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG04KJ,Fusion Occip Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG04Z0,Fusion of Occip Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG04Z1,Fusion of Occip Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG04ZJ,Fusion of Occip Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG1070,Fusion Cerv Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG1071,Fusion Cerv Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG107J,Fusion Cerv Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG10A0,Fusion Cerv Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG10A1,Fusion Cerv Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG10AJ,Fusion Cerv Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG10J0,Fusion Cerv Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG10J1,Fusion Cerv Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG10JJ,Fusion Cerv Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG10K0,Fusion Cerv Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG10K1,Fusion Cerv Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG10KJ,Fusion Cerv Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG10Z0,Fusion of Cerv Jt - Ant Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0RG10Z1,Fusion of Cerv Jt - Post Appr P Col - Open Approach,ICD10_PROC,,ccs158
-0RG10ZJ,Fusion of Cerv Jt - Post Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0RG1370,Fusion Cerv Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG1371,Fusion Cerv Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG137J,Fusion Cerv Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG13A0,Fusion Cerv Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG13A1,Fusion Cerv Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG13AJ,Fusion Cerv Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG13J0,Fusion Cerv Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG13J1,Fusion Cerv Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG13JJ,Fusion Cerv Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG13K0,Fusion Cerv Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG13K1,Fusion Cerv Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG13KJ,Fusion Cerv Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG13Z0,Fusion of Cerv Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0RG13Z1,Fusion of Cerv Jt - Post Appr P Col - Perc Approach,ICD10_PROC,,ccs158
-0RG13ZJ,Fusion of Cerv Jt - Post Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0RG1470,Fusion Cerv Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG1471,Fusion Cerv Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG147J,Fusion Cerv Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG14A0,Fusion Cerv Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG14A1,Fusion Cerv Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG14AJ,Fusion Cerv Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG14J0,Fusion Cerv Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG14J1,Fusion Cerv Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG14JJ,Fusion Cerv Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG14K0,Fusion Cerv Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG14K1,Fusion Cerv Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG14KJ,Fusion Cerv Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG14Z0,Fusion of Cerv Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG14Z1,Fusion of Cerv Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG14ZJ,Fusion of Cerv Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG2070,Fusion 2-6 C Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG2071,Fusion 2-6 C Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG207J,Fusion 2-6 C Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG20A0,Fusion 2-6 C Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG20A1,Fusion 2-6 C Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG20AJ,Fusion 2-6 C Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG20J0,Fusion 2-6 C Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG20J1,Fusion 2-6 C Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG20JJ,Fusion 2-6 C Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG20K0,Fusion 2-6 C Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG20K1,Fusion 2-6 C Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG20KJ,Fusion 2-6 C Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG20Z0,Fusion of 2-6 C Jt - Ant Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0RG20Z1,Fusion of 2-6 C Jt - Post Appr P Col - Open Approach,ICD10_PROC,,ccs158
-0RG20ZJ,Fusion of 2-6 C Jt - Post Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0RG2370,Fusion 2-6 C Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG2371,Fusion 2-6 C Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG237J,Fusion 2-6 C Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG23A0,Fusion 2-6 C Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG23A1,Fusion 2-6 C Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG23AJ,Fusion 2-6 C Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG23J0,Fusion 2-6 C Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG23J1,Fusion 2-6 C Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG23JJ,Fusion 2-6 C Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG23K0,Fusion 2-6 C Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG23K1,Fusion 2-6 C Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG23KJ,Fusion 2-6 C Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG23Z0,Fusion of 2-6 C Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0RG23Z1,Fusion of 2-6 C Jt - Post Appr P Col - Perc Approach,ICD10_PROC,,ccs158
-0RG23ZJ,Fusion of 2-6 C Jt - Post Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0RG2470,Fusion 2-6 C Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG2471,Fusion 2-6 C Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG247J,Fusion 2-6 C Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG24A0,Fusion 2-6 C Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG24A1,Fusion 2-6 C Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG24AJ,Fusion 2-6 C Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG24J0,Fusion 2-6 C Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG24J1,Fusion 2-6 C Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG24JJ,Fusion 2-6 C Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG24K0,Fusion 2-6 C Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG24K1,Fusion 2-6 C Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG24KJ,Fusion 2-6 C Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG24Z0,Fusion of 2-6 C Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG24Z1,Fusion of 2-6 C Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG24ZJ,Fusion of 2-6 C Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG4070,Fusion C-thor Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG4071,Fusion C-thor Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG407J,Fusion C-thor Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG40A0,Fusion C-thor Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG40A1,Fusion C-thor Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG40AJ,Fusion C-thor Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG40J0,Fusion C-thor Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG40J1,Fusion C-thor Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG40JJ,Fusion C-thor Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG40K0,Fusion C-thor Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG40K1,Fusion C-thor Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG40KJ,Fusion C-thor Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG40Z0,Fusion of C-thor Jt - Ant Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0RG40Z1,Fusion of C-thor Jt - Post Appr P Col - Open Approach,ICD10_PROC,,ccs158
-0RG40ZJ,Fusion of C-thor Jt - Post Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0RG4370,Fusion C-thor Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG4371,Fusion C-thor Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG437J,Fusion C-thor Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG43A0,Fusion C-thor Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG43A1,Fusion C-thor Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG43AJ,Fusion C-thor Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG43J0,Fusion C-thor Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG43J1,Fusion C-thor Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG43JJ,Fusion C-thor Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG43K0,Fusion C-thor Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG43K1,Fusion C-thor Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG43KJ,Fusion C-thor Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG43Z0,Fusion of C-thor Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0RG43Z1,Fusion of C-thor Jt - Post Appr P Col - Perc Approach,ICD10_PROC,,ccs158
-0RG43ZJ,Fusion of C-thor Jt - Post Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0RG4470,Fusion C-thor Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG4471,Fusion C-thor Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG447J,Fusion C-thor Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG44A0,Fusion C-thor Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG44A1,Fusion C-thor Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG44AJ,Fusion C-thor Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG44J0,Fusion C-thor Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG44J1,Fusion C-thor Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG44JJ,Fusion C-thor Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG44K0,Fusion C-thor Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG44K1,Fusion C-thor Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG44KJ,Fusion C-thor Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG44Z0,Fusion of C-thor Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG44Z1,Fusion of C-thor Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG44ZJ,Fusion of C-thor Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG6070,Fusion Thor Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG6071,Fusion Thor Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG607J,Fusion Thor Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG60A0,Fusion Thor Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG60A1,Fusion Thor Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG60AJ,Fusion Thor Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG60J0,Fusion Thor Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG60J1,Fusion Thor Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG60JJ,Fusion Thor Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG60K0,Fusion Thor Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG60K1,Fusion Thor Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG60KJ,Fusion Thor Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG60Z0,Fusion of Thor Jt - Ant Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0RG60Z1,Fusion of Thor Jt - Post Appr P Col - Open Approach,ICD10_PROC,,ccs158
-0RG60ZJ,Fusion of Thor Jt - Post Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0RG6370,Fusion Thor Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG6371,Fusion Thor Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG637J,Fusion Thor Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG63A0,Fusion Thor Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG63A1,Fusion Thor Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG63AJ,Fusion Thor Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG63J0,Fusion Thor Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG63J1,Fusion Thor Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG63JJ,Fusion Thor Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG63K0,Fusion Thor Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG63K1,Fusion Thor Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG63KJ,Fusion Thor Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG63Z0,Fusion of Thor Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0RG63Z1,Fusion of Thor Jt - Post Appr P Col - Perc Approach,ICD10_PROC,,ccs158
-0RG63ZJ,Fusion of Thor Jt - Post Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0RG6470,Fusion Thor Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG6471,Fusion Thor Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG647J,Fusion Thor Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG64A0,Fusion Thor Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG64A1,Fusion Thor Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG64AJ,Fusion Thor Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG64J0,Fusion Thor Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG64J1,Fusion Thor Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG64JJ,Fusion Thor Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG64K0,Fusion Thor Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG64K1,Fusion Thor Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG64KJ,Fusion Thor Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG64Z0,Fusion of Thor Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG64Z1,Fusion of Thor Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG64ZJ,Fusion of Thor Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG7070,Fusion 2-7 T Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG7071,Fusion 2-7 T Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG707J,Fusion 2-7 T Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG70A0,Fusion 2-7 T Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG70A1,Fusion 2-7 T Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG70AJ,Fusion 2-7 T Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG70J0,Fusion 2-7 T Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG70J1,Fusion 2-7 T Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG70JJ,Fusion 2-7 T Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG70K0,Fusion 2-7 T Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG70K1,Fusion 2-7 T Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG70KJ,Fusion 2-7 T Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG70Z0,Fusion of 2-7 T Jt - Ant Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0RG70Z1,Fusion of 2-7 T Jt - Post Appr P Col - Open Approach,ICD10_PROC,,ccs158
-0RG70ZJ,Fusion of 2-7 T Jt - Post Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0RG7370,Fusion 2-7 T Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG7371,Fusion 2-7 T Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG737J,Fusion 2-7 T Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG73A0,Fusion 2-7 T Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG73A1,Fusion 2-7 T Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG73AJ,Fusion 2-7 T Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG73J0,Fusion 2-7 T Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG73J1,Fusion 2-7 T Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG73JJ,Fusion 2-7 T Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG73K0,Fusion 2-7 T Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG73K1,Fusion 2-7 T Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG73KJ,Fusion 2-7 T Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG73Z0,Fusion of 2-7 T Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0RG73Z1,Fusion of 2-7 T Jt - Post Appr P Col - Perc Approach,ICD10_PROC,,ccs158
-0RG73ZJ,Fusion of 2-7 T Jt - Post Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0RG7470,Fusion 2-7 T Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG7471,Fusion 2-7 T Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG747J,Fusion 2-7 T Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG74A0,Fusion 2-7 T Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG74A1,Fusion 2-7 T Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG74AJ,Fusion 2-7 T Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG74J0,Fusion 2-7 T Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG74J1,Fusion 2-7 T Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG74JJ,Fusion 2-7 T Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG74K0,Fusion 2-7 T Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG74K1,Fusion 2-7 T Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG74KJ,Fusion 2-7 T Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG74Z0,Fusion of 2-7 T Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG74Z1,Fusion of 2-7 T Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG74ZJ,Fusion of 2-7 T Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG8070,Fusion >7 T Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG8071,Fusion >7 T Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG807J,Fusion >7 T Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG80A0,Fusion >7 T Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG80A1,Fusion >7 T Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG80AJ,Fusion >7 T Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG80J0,Fusion >7 T Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG80J1,Fusion >7 T Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG80JJ,Fusion >7 T Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG80K0,Fusion >7 T Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RG80K1,Fusion >7 T Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RG80KJ,Fusion >7 T Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RG80Z0,Fusion of >7 T Jt - Ant Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0RG80Z1,Fusion of >7 T Jt - Post Appr P Col - Open Approach,ICD10_PROC,,ccs158
-0RG80ZJ,Fusion of >7 T Jt - Post Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0RG8370,Fusion >7 T Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG8371,Fusion >7 T Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG837J,Fusion >7 T Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG83A0,Fusion >7 T Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG83A1,Fusion >7 T Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG83AJ,Fusion >7 T Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG83J0,Fusion >7 T Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG83J1,Fusion >7 T Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG83JJ,Fusion >7 T Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG83K0,Fusion >7 T Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG83K1,Fusion >7 T Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RG83KJ,Fusion >7 T Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RG83Z0,Fusion of >7 T Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0RG83Z1,Fusion of >7 T Jt - Post Appr P Col - Perc Approach,ICD10_PROC,,ccs158
-0RG83ZJ,Fusion of >7 T Jt - Post Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0RG8470,Fusion >7 T Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG8471,Fusion >7 T Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG847J,Fusion >7 T Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG84A0,Fusion >7 T Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG84A1,Fusion >7 T Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG84AJ,Fusion >7 T Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG84J0,Fusion >7 T Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG84J1,Fusion >7 T Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG84JJ,Fusion >7 T Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG84K0,Fusion >7 T Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG84K1,Fusion >7 T Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RG84KJ,Fusion >7 T Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RG84Z0,Fusion of >7 T Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG84Z1,Fusion of >7 T Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RG84ZJ,Fusion of >7 T Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RGA070,Fusion T-lum Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RGA071,Fusion T-lum Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RGA07J,Fusion T-lum Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RGA0A0,Fusion T-lum Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RGA0A1,Fusion T-lum Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RGA0AJ,Fusion T-lum Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RGA0J0,Fusion T-lum Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RGA0J1,Fusion T-lum Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RGA0JJ,Fusion T-lum Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RGA0K0,Fusion T-lum Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0RGA0K1,Fusion T-lum Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0RGA0KJ,Fusion T-lum Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0RGA0Z0,Fusion of T-lum Jt - Ant Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0RGA0Z1,Fusion of T-lum Jt - Post Appr P Col - Open Approach,ICD10_PROC,,ccs158
-0RGA0ZJ,Fusion of T-lum Jt - Post Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0RGA370,Fusion T-lum Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RGA371,Fusion T-lum Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RGA37J,Fusion T-lum Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RGA3A0,Fusion T-lum Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RGA3A1,Fusion T-lum Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RGA3AJ,Fusion T-lum Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RGA3J0,Fusion T-lum Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RGA3J1,Fusion T-lum Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RGA3JJ,Fusion T-lum Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RGA3K0,Fusion T-lum Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0RGA3K1,Fusion T-lum Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0RGA3KJ,Fusion T-lum Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0RGA3Z0,Fusion of T-lum Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0RGA3Z1,Fusion of T-lum Jt - Post Appr P Col - Perc Approach,ICD10_PROC,,ccs158
-0RGA3ZJ,Fusion of T-lum Jt - Post Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0RGA470,Fusion T-lum Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RGA471,Fusion T-lum Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RGA47J,Fusion T-lum Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RGA4A0,Fusion T-lum Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RGA4A1,Fusion T-lum Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RGA4AJ,Fusion T-lum Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RGA4J0,Fusion T-lum Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RGA4J1,Fusion T-lum Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RGA4JJ,Fusion T-lum Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RGA4K0,Fusion T-lum Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RGA4K1,Fusion T-lum Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0RGA4KJ,Fusion T-lum Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0RGA4Z0,Fusion of T-lum Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RGA4Z1,Fusion of T-lum Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0RGA4ZJ,Fusion of T-lum Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG0070,Fusion Lum Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0SG0071,Fusion Lum Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0SG007J,Fusion Lum Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0SG00A0,Fusion Lum Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0SG00A1,Fusion Lum Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0SG00AJ,Fusion Lum Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0SG00J0,Fusion Lum Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0SG00J1,Fusion Lum Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0SG00JJ,Fusion Lum Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0SG00K0,Fusion Lum Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0SG00K1,Fusion Lum Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0SG00KJ,Fusion Lum Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0SG00Z0,Fusion of Lum Jt - Ant Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0SG00Z1,Fusion of Lum Jt - Post Appr P Col - Open Approach,ICD10_PROC,,ccs158
-0SG00ZJ,Fusion of Lum Jt - Post Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0SG0370,Fusion Lum Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG0371,Fusion Lum Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0SG037J,Fusion Lum Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG03A0,Fusion Lum Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG03A1,Fusion Lum Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0SG03AJ,Fusion Lum Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG03J0,Fusion Lum Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG03J1,Fusion Lum Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0SG03JJ,Fusion Lum Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG03K0,Fusion Lum Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG03K1,Fusion Lum Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0SG03KJ,Fusion Lum Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG03Z0,Fusion of Lum Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0SG03Z1,Fusion of Lum Jt - Post Appr P Col - Perc Approach,ICD10_PROC,,ccs158
-0SG03ZJ,Fusion of Lum Jt - Post Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0SG0470,Fusion Lum Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG0471,Fusion Lum Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0SG047J,Fusion Lum Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG04A0,Fusion Lum Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG04A1,Fusion Lum Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0SG04AJ,Fusion Lum Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG04J0,Fusion Lum Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG04J1,Fusion Lum Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0SG04JJ,Fusion Lum Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG04K0,Fusion Lum Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG04K1,Fusion Lum Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0SG04KJ,Fusion Lum Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG04Z0,Fusion of Lum Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG04Z1,Fusion of Lum Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG04ZJ,Fusion of Lum Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG1070,Fusion 2-4 L Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0SG1071,Fusion 2-4 L Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0SG107J,Fusion 2-4 L Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0SG10A0,Fusion 2-4 L Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0SG10A1,Fusion 2-4 L Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0SG10AJ,Fusion 2-4 L Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0SG10J0,Fusion 2-4 L Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0SG10J1,Fusion 2-4 L Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0SG10JJ,Fusion 2-4 L Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0SG10K0,Fusion 2-4 L Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0SG10K1,Fusion 2-4 L Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0SG10KJ,Fusion 2-4 L Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0SG10Z0,Fusion of 2-4 L Jt - Ant Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0SG10Z1,Fusion of 2-4 L Jt - Post Appr P Col - Open Approach,ICD10_PROC,,ccs158
-0SG10ZJ,Fusion of 2-4 L Jt - Post Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0SG1370,Fusion 2-4 L Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG1371,Fusion 2-4 L Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0SG137J,Fusion 2-4 L Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG13A0,Fusion 2-4 L Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG13A1,Fusion 2-4 L Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0SG13AJ,Fusion 2-4 L Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG13J0,Fusion 2-4 L Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG13J1,Fusion 2-4 L Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0SG13JJ,Fusion 2-4 L Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG13K0,Fusion 2-4 L Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG13K1,Fusion 2-4 L Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0SG13KJ,Fusion 2-4 L Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG13Z0,Fusion of 2-4 L Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0SG13Z1,Fusion of 2-4 L Jt - Post Appr P Col - Perc Approach,ICD10_PROC,,ccs158
-0SG13ZJ,Fusion of 2-4 L Jt - Post Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0SG1470,Fusion 2-4 L Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG1471,Fusion 2-4 L Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0SG147J,Fusion 2-4 L Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG14A0,Fusion 2-4 L Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG14A1,Fusion 2-4 L Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0SG14AJ,Fusion 2-4 L Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG14J0,Fusion 2-4 L Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG14J1,Fusion 2-4 L Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0SG14JJ,Fusion 2-4 L Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG14K0,Fusion 2-4 L Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG14K1,Fusion 2-4 L Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0SG14KJ,Fusion 2-4 L Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG14Z0,Fusion of 2-4 L Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG14Z1,Fusion of 2-4 L Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG14ZJ,Fusion of 2-4 L Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG3070,Fusion Lumsac Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0SG3071,Fusion Lumsac Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0SG307J,Fusion Lumsac Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0SG30A0,Fusion Lumsac Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0SG30A1,Fusion Lumsac Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0SG30AJ,Fusion Lumsac Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0SG30J0,Fusion Lumsac Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0SG30J1,Fusion Lumsac Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0SG30JJ,Fusion Lumsac Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0SG30K0,Fusion Lumsac Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,,ccs158
-0SG30K1,Fusion Lumsac Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,,ccs158
-0SG30KJ,Fusion Lumsac Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,,ccs158
-0SG30Z0,Fusion of Lumbosacral Joint - Ant Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0SG30Z1,Fusion of Lumbosacral Joint - Post Appr P Col - Open Approach,ICD10_PROC,,ccs158
-0SG30ZJ,Fusion of Lumbosacral Joint - Post Appr A Col - Open Approach,ICD10_PROC,,ccs158
-0SG3370,Fusion Lumsac Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG3371,Fusion Lumsac Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0SG337J,Fusion Lumsac Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG33A0,Fusion Lumsac Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG33A1,Fusion Lumsac Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0SG33AJ,Fusion Lumsac Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG33J0,Fusion Lumsac Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG33J1,Fusion Lumsac Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0SG33JJ,Fusion Lumsac Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG33K0,Fusion Lumsac Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG33K1,Fusion Lumsac Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,,ccs158
-0SG33KJ,Fusion Lumsac Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,,ccs158
-0SG33Z0,Fusion of Lumbosacral Joint - Ant Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0SG33Z1,Fusion of Lumbosacral Joint - Post Appr P Col - Perc Approach,ICD10_PROC,,ccs158
-0SG33ZJ,Fusion of Lumbosacral Joint - Post Appr A Col - Perc Approach,ICD10_PROC,,ccs158
-0SG3470,Fusion Lumsac Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG3471,Fusion Lumsac Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0SG347J,Fusion Lumsac Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG34A0,Fusion Lumsac Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG34A1,Fusion Lumsac Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0SG34AJ,Fusion Lumsac Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG34J0,Fusion Lumsac Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG34J1,Fusion Lumsac Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0SG34JJ,Fusion Lumsac Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG34K0,Fusion Lumsac Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG34K1,Fusion Lumsac Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,,ccs158
-0SG34KJ,Fusion Lumsac Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,,ccs158
-0SG34Z0,Fusion of Lumsac Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG34Z1,Fusion of Lumsac Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG34ZJ,Fusion of Lumsac Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG504Z,Fusion of Sacrococcygeal Joint with Int Fix - Open Approach,ICD10_PROC,,ccs158
-0SG507Z,Fusion of Sacrococcygeal Joint with Autol Sub - Open Approach,ICD10_PROC,,ccs158
-0SG50JZ,Fusion of Sacrococcygeal Joint with Synth Sub - Open Approach,ICD10_PROC,,ccs158
-0SG50KZ,Fusion of Sacrococcygeal Jt with Nonaut Sub - Open Approach,ICD10_PROC,,ccs158
-0SG50ZZ,Fusion of Sacrococcygeal Joint - Open Approach,ICD10_PROC,,ccs158
-0SG534Z,Fusion of Sacrococcygeal Joint with Int Fix - Perc Approach,ICD10_PROC,,ccs158
-0SG537Z,Fusion of Sacrococcygeal Joint with Autol Sub - Perc Approach,ICD10_PROC,,ccs158
-0SG53JZ,Fusion of Sacrococcygeal Joint with Synth Sub - Perc Approach,ICD10_PROC,,ccs158
-0SG53KZ,Fusion of Sacrococcygeal Jt with Nonaut Sub - Perc Approach,ICD10_PROC,,ccs158
-0SG53ZZ,Fusion of Sacrococcygeal Joint - Percutaneous Approach,ICD10_PROC,,ccs158
-0SG544Z,Fusion of Sacrococcygeal Jt with Int Fix - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG547Z,Fusion Sacrococcygeal Jt w Autol Sub - Perc Endo,ICD10_PROC,,ccs158
-0SG54JZ,Fusion Sacrococcygeal Jt w Synth Sub - Perc Endo,ICD10_PROC,,ccs158
-0SG54KZ,Fusion Sacrococcygeal Jt w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs158
-0SG54ZZ,Fusion of Sacrococcygeal Joint - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG604Z,Fusion of Coccygeal Joint with Int Fix - Open Approach,ICD10_PROC,,ccs158
-0SG607Z,Fusion of Coccygeal Joint with Autol Sub - Open Approach,ICD10_PROC,,ccs158
-0SG60JZ,Fusion of Coccygeal Joint with Synth Sub - Open Approach,ICD10_PROC,,ccs158
-0SG60KZ,Fusion of Coccygeal Joint with Nonaut Sub - Open Approach,ICD10_PROC,,ccs158
-0SG60ZZ,Fusion of Coccygeal Joint - Open Approach,ICD10_PROC,,ccs158
-0SG634Z,Fusion of Coccygeal Joint with Int Fix - Perc Approach,ICD10_PROC,,ccs158
-0SG637Z,Fusion of Coccygeal Joint with Autol Sub - Perc Approach,ICD10_PROC,,ccs158
-0SG63JZ,Fusion of Coccygeal Joint with Synth Sub - Perc Approach,ICD10_PROC,,ccs158
-0SG63KZ,Fusion of Coccygeal Joint with Nonaut Sub - Perc Approach,ICD10_PROC,,ccs158
-0SG63ZZ,Fusion of Coccygeal Joint - Percutaneous Approach,ICD10_PROC,,ccs158
-0SG644Z,Fusion of Coccygeal Joint with Int Fix - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG647Z,Fusion of Coccygeal Joint with Autol Sub - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG64JZ,Fusion of Coccygeal Joint with Synth Sub - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG64KZ,Fusion of Coccygeal Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG64ZZ,Fusion of Coccygeal Joint - Percutaneous Endoscopic Approach,ICD10_PROC,,ccs158
-0SG704Z,Fusion of Right Sacroiliac Joint with Int Fix - Open Approach,ICD10_PROC,,ccs158
-0SG707Z,Fusion of R Sacroiliac Jt with Autol Sub - Open Approach,ICD10_PROC,,ccs158
-0SG70JZ,Fusion of R Sacroiliac Jt with Synth Sub - Open Approach,ICD10_PROC,,ccs158
-0SG70KZ,Fusion of R Sacroiliac Jt with Nonaut Sub - Open Approach,ICD10_PROC,,ccs158
-0SG70ZZ,Fusion of Right Sacroiliac Joint - Open Approach,ICD10_PROC,,ccs158
-0SG734Z,Fusion of Right Sacroiliac Joint with Int Fix - Perc Approach,ICD10_PROC,,ccs158
-0SG737Z,Fusion of R Sacroiliac Jt with Autol Sub - Perc Approach,ICD10_PROC,,ccs158
-0SG73JZ,Fusion of R Sacroiliac Jt with Synth Sub - Perc Approach,ICD10_PROC,,ccs158
-0SG73KZ,Fusion of R Sacroiliac Jt with Nonaut Sub - Perc Approach,ICD10_PROC,,ccs158
-0SG73ZZ,Fusion of Right Sacroiliac Joint - Percutaneous Approach,ICD10_PROC,,ccs158
-0SG744Z,Fusion of R Sacroiliac Jt with Int Fix - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG747Z,Fusion of R Sacroiliac Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG74JZ,Fusion of R Sacroiliac Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG74KZ,Fusion R Sacroiliac Jt w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs158
-0SG74ZZ,Fusion of Right Sacroiliac Joint - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG804Z,Fusion of Left Sacroiliac Joint with Int Fix - Open Approach,ICD10_PROC,,ccs158
-0SG807Z,Fusion of L Sacroiliac Jt with Autol Sub - Open Approach,ICD10_PROC,,ccs158
-0SG80JZ,Fusion of L Sacroiliac Jt with Synth Sub - Open Approach,ICD10_PROC,,ccs158
-0SG80KZ,Fusion of L Sacroiliac Jt with Nonaut Sub - Open Approach,ICD10_PROC,,ccs158
-0SG80ZZ,Fusion of Left Sacroiliac Joint - Open Approach,ICD10_PROC,,ccs158
-0SG834Z,Fusion of Left Sacroiliac Joint with Int Fix - Perc Approach,ICD10_PROC,,ccs158
-0SG837Z,Fusion of L Sacroiliac Jt with Autol Sub - Perc Approach,ICD10_PROC,,ccs158
-0SG83JZ,Fusion of L Sacroiliac Jt with Synth Sub - Perc Approach,ICD10_PROC,,ccs158
-0SG83KZ,Fusion of L Sacroiliac Jt with Nonaut Sub - Perc Approach,ICD10_PROC,,ccs158
-0SG83ZZ,Fusion of Left Sacroiliac Joint - Percutaneous Approach,ICD10_PROC,,ccs158
-0SG844Z,Fusion of L Sacroiliac Jt with Int Fix - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG847Z,Fusion of L Sacroiliac Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG84JZ,Fusion of L Sacroiliac Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,,ccs158
-0SG84KZ,Fusion L Sacroiliac Jt w Nonaut Sub - Perc Endo,ICD10_PROC,,ccs158
-0SG84ZZ,Fusion of Left Sacroiliac Joint - Perc Endo Approach,ICD10_PROC,,ccs158
-XRG0092,Fusion Occip Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,,ccs158
-XRG1092,Fusion Cerv Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,,ccs158
-XRG2092,Fusion 2-6 C Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,,ccs158
-XRG4092,Fusion C-thor Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,,ccs158
-XRG6092,Fusion Thor Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,,ccs158
-XRG7092,Fusion 2-7 T Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,,ccs158
-XRG8092,Fusion >7 T Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,,ccs158
-XRGA092,Fusion T-lum Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,,ccs158
-XRGB092,Fusion Lum Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,,ccs158
-XRGC092,Fusion 2-4 L Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,,ccs158
-XRGD092,Fusion Lumsac Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,,ccs158
-0163T,Lumb artif diskectomy addl,CPT_HCPCS,Y,ccs158
-0164T,Remove lumb artif disc addl,CPT_HCPCS,Y,ccs158
-0165T,Revise lumb artif disc addl,CPT_HCPCS,Y,ccs158
-0195T,Prescrl fuse w/o instr l5/s1,CPT_HCPCS,Y,ccs158
-0196T,Prescrl fuse w/o instr l4/l5,CPT_HCPCS,Y,ccs158
-0309T,Prescrl fuse w/ instr l4/l5,CPT_HCPCS,N,ccs158
-22532,Lat thorax spine fusion,CPT_HCPCS,Y,ccs158
-22533,Lat lumbar spine fusion,CPT_HCPCS,Y,ccs158
-22534,Lat thor/lumb addl seg,CPT_HCPCS,Y,ccs158
-22548,Neck spine fusion,CPT_HCPCS,Y,ccs158
-22551,Neck spine fuse&remov bel c2,CPT_HCPCS,N,ccs158
-22552,Addl neck spine fusion,CPT_HCPCS,N,ccs158
-22554,Neck spine fusion,CPT_HCPCS,N,ccs158
-22556,Thorax spine fusion,CPT_HCPCS,Y,ccs158
-22558,Lumbar spine fusion,CPT_HCPCS,Y,ccs158
-22585,Additional spinal fusion,CPT_HCPCS,N,ccs158
-22586,Prescrl fuse w/ instr l5-s1,CPT_HCPCS,Y,ccs158
-22590,Spine & skull spinal fusion,CPT_HCPCS,Y,ccs158
-22595,Neck spinal fusion,CPT_HCPCS,Y,ccs158
-22600,Neck spine fusion,CPT_HCPCS,Y,ccs158
-22610,Thorax spine fusion,CPT_HCPCS,Y,ccs158
-22612,Lumbar spine fusion,CPT_HCPCS,N,ccs158
-22614,Spine fusion extra segment,CPT_HCPCS,N,ccs158
-22630,Lumbar spine fusion,CPT_HCPCS,Y,ccs158
-22632,Spine fusion extra segment,CPT_HCPCS,Y,ccs158
-22633,Lumbar spine fusion combined,CPT_HCPCS,Y,ccs158
-22634,Spine fusion extra segment,CPT_HCPCS,Y,ccs158
-22800,Post fusion </6 vert seg,CPT_HCPCS,Y,ccs158
-22802,Post fusion 7-12 vert seg,CPT_HCPCS,Y,ccs158
-22804,Post fusion 13/> vert seg,CPT_HCPCS,Y,ccs158
-22808,Ant fusion 2-3 vert seg,CPT_HCPCS,Y,ccs158
-22810,Ant fusion 4-7 vert seg,CPT_HCPCS,Y,ccs158
-22812,Ant fusion 8/> vert seg,CPT_HCPCS,Y,ccs158
-22840,Insert spine fixation device,CPT_HCPCS,N,ccs158
-22841,Insert spine fixation device,CPT_HCPCS,Y,ccs158
-22842,Insert spine fixation device,CPT_HCPCS,N,ccs158
-22843,Insert spine fixation device,CPT_HCPCS,Y,ccs158
-22844,Insert spine fixation device,CPT_HCPCS,Y,ccs158
-22845,Insert spine fixation device,CPT_HCPCS,N,ccs158
-22846,Insert spine fixation device,CPT_HCPCS,Y,ccs158
-22847,Insert spine fixation device,CPT_HCPCS,Y,ccs158
-22848,Insert pelv fixation device,CPT_HCPCS,Y,ccs158
-22849,Reinsert spinal fixation,CPT_HCPCS,Y,ccs158
-22850,Remove spine fixation device,CPT_HCPCS,Y,ccs158
-22851,Apply spine prosth device,CPT_HCPCS,N,ccs158
-22852,Remove spine fixation device,CPT_HCPCS,Y,ccs158
-22853,Insj biomechanical device,CPT_HCPCS,N,ccs158
-22854,Insj biomechanical device,CPT_HCPCS,N,ccs158
-22855,Remove spine fixation device,CPT_HCPCS,Y,ccs158
-22857,Lumbar artif diskectomy,CPT_HCPCS,Y,ccs158
-22859,Insj biomechanical device,CPT_HCPCS,N,ccs158
-22862,Revise lumbar artif disc,CPT_HCPCS,Y,ccs158
-22865,Remove lumb artif disc,CPT_HCPCS,Y,ccs158
-453,Combined anterior/posterior spinal fusion w MCC,MSDRG,,ccs158
-454,Combined anterior/posterior spinal fusion w CC,MSDRG,,ccs158
-455,Combined anterior/posterior spinal fusion w/o CC/MCC,MSDRG,,ccs158
-456,Spinal fus exc cerv w spinal curv/malig/infec or ext fus w MCC,MSDRG,,ccs158
-457,Spinal fus exc cerv w spinal curv/malig/infec or ext fus w CC,MSDRG,,ccs158
-458,Spinal fus exc cerv w spinal curv/malig/infec or ext fus w/o CC/MCC,MSDRG,,ccs158
-459,Spinal fusion except cervical w MCC,MSDRG,,ccs158
-460,Spinal fusion except cervical w/o MCC,MSDRG,,ccs158
-471,Cervical spinal fusion w MCC,MSDRG,,ccs158
-472,Cervical spinal fusion w CC,MSDRG,,ccs158
-473,Cervical spinal fusion w/o CC/MCC,MSDRG,,ccs158
+code,code_description,code_type,ccs
+0RG0070,Fusion Occip Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG0071,Fusion Occip Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG007J,Fusion Occip Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG00A0,Fusion Occip Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG00A1,Fusion Occip Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG00AJ,Fusion Occip Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG00J0,Fusion Occip Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG00J1,Fusion Occip Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG00JJ,Fusion Occip Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG00K0,Fusion Occip Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG00K1,Fusion Occip Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG00KJ,Fusion Occip Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG00Z0,Fusion of Occip Jt - Ant Appr A Col - Open Approach,ICD10_PROC,ccs158
+0RG00Z1,Fusion of Occip Jt - Post Appr P Col - Open Approach,ICD10_PROC,ccs158
+0RG00ZJ,Fusion of Occip Jt - Post Appr A Col - Open Approach,ICD10_PROC,ccs158
+0RG0370,Fusion Occip Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG0371,Fusion Occip Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG037J,Fusion Occip Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG03A0,Fusion Occip Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG03A1,Fusion Occip Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG03AJ,Fusion Occip Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG03J0,Fusion Occip Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG03J1,Fusion Occip Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG03JJ,Fusion Occip Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG03K0,Fusion Occip Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG03K1,Fusion Occip Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG03KJ,Fusion Occip Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG03Z0,Fusion of Occip Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0RG03Z1,Fusion of Occip Jt - Post Appr P Col - Perc Approach,ICD10_PROC,ccs158
+0RG03ZJ,Fusion of Occip Jt - Post Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0RG0470,Fusion Occip Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG0471,Fusion Occip Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG047J,Fusion Occip Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG04A0,Fusion Occip Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG04A1,Fusion Occip Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG04AJ,Fusion Occip Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG04J0,Fusion Occip Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG04J1,Fusion Occip Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG04JJ,Fusion Occip Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG04K0,Fusion Occip Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG04K1,Fusion Occip Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG04KJ,Fusion Occip Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG04Z0,Fusion of Occip Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG04Z1,Fusion of Occip Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG04ZJ,Fusion of Occip Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG1070,Fusion Cerv Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG1071,Fusion Cerv Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG107J,Fusion Cerv Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG10A0,Fusion Cerv Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG10A1,Fusion Cerv Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG10AJ,Fusion Cerv Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG10J0,Fusion Cerv Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG10J1,Fusion Cerv Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG10JJ,Fusion Cerv Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG10K0,Fusion Cerv Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG10K1,Fusion Cerv Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG10KJ,Fusion Cerv Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG10Z0,Fusion of Cerv Jt - Ant Appr A Col - Open Approach,ICD10_PROC,ccs158
+0RG10Z1,Fusion of Cerv Jt - Post Appr P Col - Open Approach,ICD10_PROC,ccs158
+0RG10ZJ,Fusion of Cerv Jt - Post Appr A Col - Open Approach,ICD10_PROC,ccs158
+0RG1370,Fusion Cerv Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG1371,Fusion Cerv Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG137J,Fusion Cerv Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG13A0,Fusion Cerv Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG13A1,Fusion Cerv Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG13AJ,Fusion Cerv Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG13J0,Fusion Cerv Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG13J1,Fusion Cerv Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG13JJ,Fusion Cerv Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG13K0,Fusion Cerv Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG13K1,Fusion Cerv Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG13KJ,Fusion Cerv Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG13Z0,Fusion of Cerv Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0RG13Z1,Fusion of Cerv Jt - Post Appr P Col - Perc Approach,ICD10_PROC,ccs158
+0RG13ZJ,Fusion of Cerv Jt - Post Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0RG1470,Fusion Cerv Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG1471,Fusion Cerv Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG147J,Fusion Cerv Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG14A0,Fusion Cerv Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG14A1,Fusion Cerv Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG14AJ,Fusion Cerv Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG14J0,Fusion Cerv Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG14J1,Fusion Cerv Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG14JJ,Fusion Cerv Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG14K0,Fusion Cerv Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG14K1,Fusion Cerv Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG14KJ,Fusion Cerv Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG14Z0,Fusion of Cerv Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG14Z1,Fusion of Cerv Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG14ZJ,Fusion of Cerv Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG2070,Fusion 2-6 C Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG2071,Fusion 2-6 C Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG207J,Fusion 2-6 C Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG20A0,Fusion 2-6 C Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG20A1,Fusion 2-6 C Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG20AJ,Fusion 2-6 C Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG20J0,Fusion 2-6 C Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG20J1,Fusion 2-6 C Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG20JJ,Fusion 2-6 C Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG20K0,Fusion 2-6 C Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG20K1,Fusion 2-6 C Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG20KJ,Fusion 2-6 C Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG20Z0,Fusion of 2-6 C Jt - Ant Appr A Col - Open Approach,ICD10_PROC,ccs158
+0RG20Z1,Fusion of 2-6 C Jt - Post Appr P Col - Open Approach,ICD10_PROC,ccs158
+0RG20ZJ,Fusion of 2-6 C Jt - Post Appr A Col - Open Approach,ICD10_PROC,ccs158
+0RG2370,Fusion 2-6 C Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG2371,Fusion 2-6 C Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG237J,Fusion 2-6 C Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG23A0,Fusion 2-6 C Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG23A1,Fusion 2-6 C Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG23AJ,Fusion 2-6 C Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG23J0,Fusion 2-6 C Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG23J1,Fusion 2-6 C Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG23JJ,Fusion 2-6 C Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG23K0,Fusion 2-6 C Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG23K1,Fusion 2-6 C Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG23KJ,Fusion 2-6 C Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG23Z0,Fusion of 2-6 C Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0RG23Z1,Fusion of 2-6 C Jt - Post Appr P Col - Perc Approach,ICD10_PROC,ccs158
+0RG23ZJ,Fusion of 2-6 C Jt - Post Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0RG2470,Fusion 2-6 C Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG2471,Fusion 2-6 C Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG247J,Fusion 2-6 C Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG24A0,Fusion 2-6 C Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG24A1,Fusion 2-6 C Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG24AJ,Fusion 2-6 C Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG24J0,Fusion 2-6 C Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG24J1,Fusion 2-6 C Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG24JJ,Fusion 2-6 C Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG24K0,Fusion 2-6 C Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG24K1,Fusion 2-6 C Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG24KJ,Fusion 2-6 C Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG24Z0,Fusion of 2-6 C Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG24Z1,Fusion of 2-6 C Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG24ZJ,Fusion of 2-6 C Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG4070,Fusion C-thor Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG4071,Fusion C-thor Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG407J,Fusion C-thor Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG40A0,Fusion C-thor Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG40A1,Fusion C-thor Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG40AJ,Fusion C-thor Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG40J0,Fusion C-thor Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG40J1,Fusion C-thor Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG40JJ,Fusion C-thor Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG40K0,Fusion C-thor Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG40K1,Fusion C-thor Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG40KJ,Fusion C-thor Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG40Z0,Fusion of C-thor Jt - Ant Appr A Col - Open Approach,ICD10_PROC,ccs158
+0RG40Z1,Fusion of C-thor Jt - Post Appr P Col - Open Approach,ICD10_PROC,ccs158
+0RG40ZJ,Fusion of C-thor Jt - Post Appr A Col - Open Approach,ICD10_PROC,ccs158
+0RG4370,Fusion C-thor Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG4371,Fusion C-thor Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG437J,Fusion C-thor Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG43A0,Fusion C-thor Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG43A1,Fusion C-thor Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG43AJ,Fusion C-thor Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG43J0,Fusion C-thor Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG43J1,Fusion C-thor Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG43JJ,Fusion C-thor Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG43K0,Fusion C-thor Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG43K1,Fusion C-thor Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG43KJ,Fusion C-thor Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG43Z0,Fusion of C-thor Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0RG43Z1,Fusion of C-thor Jt - Post Appr P Col - Perc Approach,ICD10_PROC,ccs158
+0RG43ZJ,Fusion of C-thor Jt - Post Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0RG4470,Fusion C-thor Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG4471,Fusion C-thor Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG447J,Fusion C-thor Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG44A0,Fusion C-thor Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG44A1,Fusion C-thor Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG44AJ,Fusion C-thor Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG44J0,Fusion C-thor Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG44J1,Fusion C-thor Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG44JJ,Fusion C-thor Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG44K0,Fusion C-thor Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG44K1,Fusion C-thor Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG44KJ,Fusion C-thor Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG44Z0,Fusion of C-thor Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG44Z1,Fusion of C-thor Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG44ZJ,Fusion of C-thor Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG6070,Fusion Thor Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG6071,Fusion Thor Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG607J,Fusion Thor Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG60A0,Fusion Thor Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG60A1,Fusion Thor Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG60AJ,Fusion Thor Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG60J0,Fusion Thor Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG60J1,Fusion Thor Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG60JJ,Fusion Thor Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG60K0,Fusion Thor Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG60K1,Fusion Thor Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG60KJ,Fusion Thor Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG60Z0,Fusion of Thor Jt - Ant Appr A Col - Open Approach,ICD10_PROC,ccs158
+0RG60Z1,Fusion of Thor Jt - Post Appr P Col - Open Approach,ICD10_PROC,ccs158
+0RG60ZJ,Fusion of Thor Jt - Post Appr A Col - Open Approach,ICD10_PROC,ccs158
+0RG6370,Fusion Thor Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG6371,Fusion Thor Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG637J,Fusion Thor Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG63A0,Fusion Thor Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG63A1,Fusion Thor Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG63AJ,Fusion Thor Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG63J0,Fusion Thor Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG63J1,Fusion Thor Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG63JJ,Fusion Thor Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG63K0,Fusion Thor Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG63K1,Fusion Thor Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG63KJ,Fusion Thor Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG63Z0,Fusion of Thor Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0RG63Z1,Fusion of Thor Jt - Post Appr P Col - Perc Approach,ICD10_PROC,ccs158
+0RG63ZJ,Fusion of Thor Jt - Post Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0RG6470,Fusion Thor Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG6471,Fusion Thor Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG647J,Fusion Thor Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG64A0,Fusion Thor Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG64A1,Fusion Thor Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG64AJ,Fusion Thor Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG64J0,Fusion Thor Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG64J1,Fusion Thor Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG64JJ,Fusion Thor Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG64K0,Fusion Thor Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG64K1,Fusion Thor Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG64KJ,Fusion Thor Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG64Z0,Fusion of Thor Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG64Z1,Fusion of Thor Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG64ZJ,Fusion of Thor Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG7070,Fusion 2-7 T Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG7071,Fusion 2-7 T Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG707J,Fusion 2-7 T Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG70A0,Fusion 2-7 T Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG70A1,Fusion 2-7 T Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG70AJ,Fusion 2-7 T Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG70J0,Fusion 2-7 T Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG70J1,Fusion 2-7 T Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG70JJ,Fusion 2-7 T Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG70K0,Fusion 2-7 T Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG70K1,Fusion 2-7 T Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG70KJ,Fusion 2-7 T Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG70Z0,Fusion of 2-7 T Jt - Ant Appr A Col - Open Approach,ICD10_PROC,ccs158
+0RG70Z1,Fusion of 2-7 T Jt - Post Appr P Col - Open Approach,ICD10_PROC,ccs158
+0RG70ZJ,Fusion of 2-7 T Jt - Post Appr A Col - Open Approach,ICD10_PROC,ccs158
+0RG7370,Fusion 2-7 T Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG7371,Fusion 2-7 T Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG737J,Fusion 2-7 T Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG73A0,Fusion 2-7 T Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG73A1,Fusion 2-7 T Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG73AJ,Fusion 2-7 T Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG73J0,Fusion 2-7 T Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG73J1,Fusion 2-7 T Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG73JJ,Fusion 2-7 T Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG73K0,Fusion 2-7 T Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG73K1,Fusion 2-7 T Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG73KJ,Fusion 2-7 T Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG73Z0,Fusion of 2-7 T Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0RG73Z1,Fusion of 2-7 T Jt - Post Appr P Col - Perc Approach,ICD10_PROC,ccs158
+0RG73ZJ,Fusion of 2-7 T Jt - Post Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0RG7470,Fusion 2-7 T Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG7471,Fusion 2-7 T Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG747J,Fusion 2-7 T Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG74A0,Fusion 2-7 T Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG74A1,Fusion 2-7 T Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG74AJ,Fusion 2-7 T Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG74J0,Fusion 2-7 T Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG74J1,Fusion 2-7 T Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG74JJ,Fusion 2-7 T Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG74K0,Fusion 2-7 T Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG74K1,Fusion 2-7 T Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG74KJ,Fusion 2-7 T Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG74Z0,Fusion of 2-7 T Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG74Z1,Fusion of 2-7 T Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG74ZJ,Fusion of 2-7 T Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG8070,Fusion >7 T Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG8071,Fusion >7 T Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG807J,Fusion >7 T Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG80A0,Fusion >7 T Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG80A1,Fusion >7 T Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG80AJ,Fusion >7 T Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG80J0,Fusion >7 T Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG80J1,Fusion >7 T Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG80JJ,Fusion >7 T Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG80K0,Fusion >7 T Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RG80K1,Fusion >7 T Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RG80KJ,Fusion >7 T Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RG80Z0,Fusion of >7 T Jt - Ant Appr A Col - Open Approach,ICD10_PROC,ccs158
+0RG80Z1,Fusion of >7 T Jt - Post Appr P Col - Open Approach,ICD10_PROC,ccs158
+0RG80ZJ,Fusion of >7 T Jt - Post Appr A Col - Open Approach,ICD10_PROC,ccs158
+0RG8370,Fusion >7 T Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG8371,Fusion >7 T Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG837J,Fusion >7 T Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG83A0,Fusion >7 T Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG83A1,Fusion >7 T Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG83AJ,Fusion >7 T Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG83J0,Fusion >7 T Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG83J1,Fusion >7 T Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG83JJ,Fusion >7 T Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG83K0,Fusion >7 T Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RG83K1,Fusion >7 T Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RG83KJ,Fusion >7 T Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RG83Z0,Fusion of >7 T Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0RG83Z1,Fusion of >7 T Jt - Post Appr P Col - Perc Approach,ICD10_PROC,ccs158
+0RG83ZJ,Fusion of >7 T Jt - Post Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0RG8470,Fusion >7 T Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG8471,Fusion >7 T Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG847J,Fusion >7 T Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG84A0,Fusion >7 T Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG84A1,Fusion >7 T Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG84AJ,Fusion >7 T Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG84J0,Fusion >7 T Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG84J1,Fusion >7 T Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG84JJ,Fusion >7 T Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG84K0,Fusion >7 T Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG84K1,Fusion >7 T Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RG84KJ,Fusion >7 T Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RG84Z0,Fusion of >7 T Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG84Z1,Fusion of >7 T Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RG84ZJ,Fusion of >7 T Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RGA070,Fusion T-lum Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RGA071,Fusion T-lum Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RGA07J,Fusion T-lum Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RGA0A0,Fusion T-lum Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RGA0A1,Fusion T-lum Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RGA0AJ,Fusion T-lum Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RGA0J0,Fusion T-lum Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RGA0J1,Fusion T-lum Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RGA0JJ,Fusion T-lum Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RGA0K0,Fusion T-lum Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0RGA0K1,Fusion T-lum Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0RGA0KJ,Fusion T-lum Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0RGA0Z0,Fusion of T-lum Jt - Ant Appr A Col - Open Approach,ICD10_PROC,ccs158
+0RGA0Z1,Fusion of T-lum Jt - Post Appr P Col - Open Approach,ICD10_PROC,ccs158
+0RGA0ZJ,Fusion of T-lum Jt - Post Appr A Col - Open Approach,ICD10_PROC,ccs158
+0RGA370,Fusion T-lum Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RGA371,Fusion T-lum Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RGA37J,Fusion T-lum Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RGA3A0,Fusion T-lum Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RGA3A1,Fusion T-lum Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RGA3AJ,Fusion T-lum Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RGA3J0,Fusion T-lum Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RGA3J1,Fusion T-lum Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RGA3JJ,Fusion T-lum Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RGA3K0,Fusion T-lum Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0RGA3K1,Fusion T-lum Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0RGA3KJ,Fusion T-lum Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0RGA3Z0,Fusion of T-lum Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0RGA3Z1,Fusion of T-lum Jt - Post Appr P Col - Perc Approach,ICD10_PROC,ccs158
+0RGA3ZJ,Fusion of T-lum Jt - Post Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0RGA470,Fusion T-lum Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RGA471,Fusion T-lum Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RGA47J,Fusion T-lum Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RGA4A0,Fusion T-lum Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RGA4A1,Fusion T-lum Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RGA4AJ,Fusion T-lum Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RGA4J0,Fusion T-lum Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RGA4J1,Fusion T-lum Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RGA4JJ,Fusion T-lum Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RGA4K0,Fusion T-lum Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RGA4K1,Fusion T-lum Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0RGA4KJ,Fusion T-lum Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0RGA4Z0,Fusion of T-lum Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RGA4Z1,Fusion of T-lum Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,ccs158
+0RGA4ZJ,Fusion of T-lum Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0SG0070,Fusion Lum Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0SG0071,Fusion Lum Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0SG007J,Fusion Lum Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0SG00A0,Fusion Lum Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0SG00A1,Fusion Lum Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,ccs158
+0SG00AJ,Fusion Lum Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,ccs158
+0SG00J0,Fusion Lum Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0SG00J1,Fusion Lum Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0SG00JJ,Fusion Lum Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0SG00K0,Fusion Lum Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0SG00K1,Fusion Lum Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0SG00KJ,Fusion Lum Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0SG00Z0,Fusion of Lum Jt - Ant Appr A Col - Open Approach,ICD10_PROC,ccs158
+0SG00Z1,Fusion of Lum Jt - Post Appr P Col - Open Approach,ICD10_PROC,ccs158
+0SG00ZJ,Fusion of Lum Jt - Post Appr A Col - Open Approach,ICD10_PROC,ccs158
+0SG0370,Fusion Lum Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0SG0371,Fusion Lum Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0SG037J,Fusion Lum Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0SG03A0,Fusion Lum Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0SG03A1,Fusion Lum Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0SG03AJ,Fusion Lum Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0SG03J0,Fusion Lum Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0SG03J1,Fusion Lum Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0SG03JJ,Fusion Lum Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0SG03K0,Fusion Lum Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0SG03K1,Fusion Lum Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0SG03KJ,Fusion Lum Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0SG03Z0,Fusion of Lum Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0SG03Z1,Fusion of Lum Jt - Post Appr P Col - Perc Approach,ICD10_PROC,ccs158
+0SG03ZJ,Fusion of Lum Jt - Post Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0SG0470,Fusion Lum Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG0471,Fusion Lum Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0SG047J,Fusion Lum Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG04A0,Fusion Lum Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG04A1,Fusion Lum Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0SG04AJ,Fusion Lum Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG04J0,Fusion Lum Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG04J1,Fusion Lum Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0SG04JJ,Fusion Lum Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG04K0,Fusion Lum Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG04K1,Fusion Lum Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0SG04KJ,Fusion Lum Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG04Z0,Fusion of Lum Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0SG04Z1,Fusion of Lum Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,ccs158
+0SG04ZJ,Fusion of Lum Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0SG1070,Fusion 2-4 L Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0SG1071,Fusion 2-4 L Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0SG107J,Fusion 2-4 L Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0SG10A0,Fusion 2-4 L Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0SG10A1,Fusion 2-4 L Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,ccs158
+0SG10AJ,Fusion 2-4 L Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,ccs158
+0SG10J0,Fusion 2-4 L Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0SG10J1,Fusion 2-4 L Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0SG10JJ,Fusion 2-4 L Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0SG10K0,Fusion 2-4 L Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0SG10K1,Fusion 2-4 L Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0SG10KJ,Fusion 2-4 L Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0SG10Z0,Fusion of 2-4 L Jt - Ant Appr A Col - Open Approach,ICD10_PROC,ccs158
+0SG10Z1,Fusion of 2-4 L Jt - Post Appr P Col - Open Approach,ICD10_PROC,ccs158
+0SG10ZJ,Fusion of 2-4 L Jt - Post Appr A Col - Open Approach,ICD10_PROC,ccs158
+0SG1370,Fusion 2-4 L Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0SG1371,Fusion 2-4 L Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0SG137J,Fusion 2-4 L Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0SG13A0,Fusion 2-4 L Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0SG13A1,Fusion 2-4 L Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0SG13AJ,Fusion 2-4 L Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0SG13J0,Fusion 2-4 L Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0SG13J1,Fusion 2-4 L Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0SG13JJ,Fusion 2-4 L Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0SG13K0,Fusion 2-4 L Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0SG13K1,Fusion 2-4 L Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0SG13KJ,Fusion 2-4 L Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0SG13Z0,Fusion of 2-4 L Jt - Ant Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0SG13Z1,Fusion of 2-4 L Jt - Post Appr P Col - Perc Approach,ICD10_PROC,ccs158
+0SG13ZJ,Fusion of 2-4 L Jt - Post Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0SG1470,Fusion 2-4 L Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG1471,Fusion 2-4 L Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0SG147J,Fusion 2-4 L Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG14A0,Fusion 2-4 L Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG14A1,Fusion 2-4 L Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0SG14AJ,Fusion 2-4 L Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG14J0,Fusion 2-4 L Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG14J1,Fusion 2-4 L Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0SG14JJ,Fusion 2-4 L Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG14K0,Fusion 2-4 L Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG14K1,Fusion 2-4 L Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0SG14KJ,Fusion 2-4 L Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG14Z0,Fusion of 2-4 L Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0SG14Z1,Fusion of 2-4 L Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,ccs158
+0SG14ZJ,Fusion of 2-4 L Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0SG3070,Fusion Lumsac Jt w Autol Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0SG3071,Fusion Lumsac Jt w Autol Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0SG307J,Fusion Lumsac Jt w Autol Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0SG30A0,Fusion Lumsac Jt w Intbd Fus Dev - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0SG30A1,Fusion Lumsac Jt w Intbd Fus Dev - Post Appr P Col - Open,ICD10_PROC,ccs158
+0SG30AJ,Fusion Lumsac Jt w Intbd Fus Dev - Post Appr A Col - Open,ICD10_PROC,ccs158
+0SG30J0,Fusion Lumsac Jt w Synth Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0SG30J1,Fusion Lumsac Jt w Synth Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0SG30JJ,Fusion Lumsac Jt w Synth Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0SG30K0,Fusion Lumsac Jt w Nonaut Sub - Ant Appr A Col - Open,ICD10_PROC,ccs158
+0SG30K1,Fusion Lumsac Jt w Nonaut Sub - Post Appr P Col - Open,ICD10_PROC,ccs158
+0SG30KJ,Fusion Lumsac Jt w Nonaut Sub - Post Appr A Col - Open,ICD10_PROC,ccs158
+0SG30Z0,Fusion of Lumbosacral Joint - Ant Appr A Col - Open Approach,ICD10_PROC,ccs158
+0SG30Z1,Fusion of Lumbosacral Joint - Post Appr P Col - Open Approach,ICD10_PROC,ccs158
+0SG30ZJ,Fusion of Lumbosacral Joint - Post Appr A Col - Open Approach,ICD10_PROC,ccs158
+0SG3370,Fusion Lumsac Jt w Autol Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0SG3371,Fusion Lumsac Jt w Autol Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0SG337J,Fusion Lumsac Jt w Autol Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0SG33A0,Fusion Lumsac Jt w Intbd Fus Dev - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0SG33A1,Fusion Lumsac Jt w Intbd Fus Dev - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0SG33AJ,Fusion Lumsac Jt w Intbd Fus Dev - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0SG33J0,Fusion Lumsac Jt w Synth Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0SG33J1,Fusion Lumsac Jt w Synth Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0SG33JJ,Fusion Lumsac Jt w Synth Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0SG33K0,Fusion Lumsac Jt w Nonaut Sub - Ant Appr A Col - Perc,ICD10_PROC,ccs158
+0SG33K1,Fusion Lumsac Jt w Nonaut Sub - Post Appr P Col - Perc,ICD10_PROC,ccs158
+0SG33KJ,Fusion Lumsac Jt w Nonaut Sub - Post Appr A Col - Perc,ICD10_PROC,ccs158
+0SG33Z0,Fusion of Lumbosacral Joint - Ant Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0SG33Z1,Fusion of Lumbosacral Joint - Post Appr P Col - Perc Approach,ICD10_PROC,ccs158
+0SG33ZJ,Fusion of Lumbosacral Joint - Post Appr A Col - Perc Approach,ICD10_PROC,ccs158
+0SG3470,Fusion Lumsac Jt w Autol Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG3471,Fusion Lumsac Jt w Autol Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0SG347J,Fusion Lumsac Jt w Autol Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG34A0,Fusion Lumsac Jt w Intbd Fus Dev - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG34A1,Fusion Lumsac Jt w Intbd Fus Dev - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0SG34AJ,Fusion Lumsac Jt w Intbd Fus Dev - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG34J0,Fusion Lumsac Jt w Synth Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG34J1,Fusion Lumsac Jt w Synth Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0SG34JJ,Fusion Lumsac Jt w Synth Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG34K0,Fusion Lumsac Jt w Nonaut Sub - Ant Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG34K1,Fusion Lumsac Jt w Nonaut Sub - Post Appr P Col - Perc Endo,ICD10_PROC,ccs158
+0SG34KJ,Fusion Lumsac Jt w Nonaut Sub - Post Appr A Col - Perc Endo,ICD10_PROC,ccs158
+0SG34Z0,Fusion of Lumsac Jt - Ant Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0SG34Z1,Fusion of Lumsac Jt - Post Appr P Col - Perc Endo Approach,ICD10_PROC,ccs158
+0SG34ZJ,Fusion of Lumsac Jt - Post Appr A Col - Perc Endo Approach,ICD10_PROC,ccs158
+0SG504Z,Fusion of Sacrococcygeal Joint with Int Fix - Open Approach,ICD10_PROC,ccs158
+0SG507Z,Fusion of Sacrococcygeal Joint with Autol Sub - Open Approach,ICD10_PROC,ccs158
+0SG50JZ,Fusion of Sacrococcygeal Joint with Synth Sub - Open Approach,ICD10_PROC,ccs158
+0SG50KZ,Fusion of Sacrococcygeal Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs158
+0SG50ZZ,Fusion of Sacrococcygeal Joint - Open Approach,ICD10_PROC,ccs158
+0SG534Z,Fusion of Sacrococcygeal Joint with Int Fix - Perc Approach,ICD10_PROC,ccs158
+0SG537Z,Fusion of Sacrococcygeal Joint with Autol Sub - Perc Approach,ICD10_PROC,ccs158
+0SG53JZ,Fusion of Sacrococcygeal Joint with Synth Sub - Perc Approach,ICD10_PROC,ccs158
+0SG53KZ,Fusion of Sacrococcygeal Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs158
+0SG53ZZ,Fusion of Sacrococcygeal Joint - Percutaneous Approach,ICD10_PROC,ccs158
+0SG544Z,Fusion of Sacrococcygeal Jt with Int Fix - Perc Endo Approach,ICD10_PROC,ccs158
+0SG547Z,Fusion Sacrococcygeal Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs158
+0SG54JZ,Fusion Sacrococcygeal Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs158
+0SG54KZ,Fusion Sacrococcygeal Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs158
+0SG54ZZ,Fusion of Sacrococcygeal Joint - Perc Endo Approach,ICD10_PROC,ccs158
+0SG604Z,Fusion of Coccygeal Joint with Int Fix - Open Approach,ICD10_PROC,ccs158
+0SG607Z,Fusion of Coccygeal Joint with Autol Sub - Open Approach,ICD10_PROC,ccs158
+0SG60JZ,Fusion of Coccygeal Joint with Synth Sub - Open Approach,ICD10_PROC,ccs158
+0SG60KZ,Fusion of Coccygeal Joint with Nonaut Sub - Open Approach,ICD10_PROC,ccs158
+0SG60ZZ,Fusion of Coccygeal Joint - Open Approach,ICD10_PROC,ccs158
+0SG634Z,Fusion of Coccygeal Joint with Int Fix - Perc Approach,ICD10_PROC,ccs158
+0SG637Z,Fusion of Coccygeal Joint with Autol Sub - Perc Approach,ICD10_PROC,ccs158
+0SG63JZ,Fusion of Coccygeal Joint with Synth Sub - Perc Approach,ICD10_PROC,ccs158
+0SG63KZ,Fusion of Coccygeal Joint with Nonaut Sub - Perc Approach,ICD10_PROC,ccs158
+0SG63ZZ,Fusion of Coccygeal Joint - Percutaneous Approach,ICD10_PROC,ccs158
+0SG644Z,Fusion of Coccygeal Joint with Int Fix - Perc Endo Approach,ICD10_PROC,ccs158
+0SG647Z,Fusion of Coccygeal Joint with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs158
+0SG64JZ,Fusion of Coccygeal Joint with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs158
+0SG64KZ,Fusion of Coccygeal Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs158
+0SG64ZZ,Fusion of Coccygeal Joint - Percutaneous Endoscopic Approach,ICD10_PROC,ccs158
+0SG704Z,Fusion of Right Sacroiliac Joint with Int Fix - Open Approach,ICD10_PROC,ccs158
+0SG707Z,Fusion of R Sacroiliac Jt with Autol Sub - Open Approach,ICD10_PROC,ccs158
+0SG70JZ,Fusion of R Sacroiliac Jt with Synth Sub - Open Approach,ICD10_PROC,ccs158
+0SG70KZ,Fusion of R Sacroiliac Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs158
+0SG70ZZ,Fusion of Right Sacroiliac Joint - Open Approach,ICD10_PROC,ccs158
+0SG734Z,Fusion of Right Sacroiliac Joint with Int Fix - Perc Approach,ICD10_PROC,ccs158
+0SG737Z,Fusion of R Sacroiliac Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs158
+0SG73JZ,Fusion of R Sacroiliac Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs158
+0SG73KZ,Fusion of R Sacroiliac Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs158
+0SG73ZZ,Fusion of Right Sacroiliac Joint - Percutaneous Approach,ICD10_PROC,ccs158
+0SG744Z,Fusion of R Sacroiliac Jt with Int Fix - Perc Endo Approach,ICD10_PROC,ccs158
+0SG747Z,Fusion of R Sacroiliac Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs158
+0SG74JZ,Fusion of R Sacroiliac Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs158
+0SG74KZ,Fusion R Sacroiliac Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs158
+0SG74ZZ,Fusion of Right Sacroiliac Joint - Perc Endo Approach,ICD10_PROC,ccs158
+0SG804Z,Fusion of Left Sacroiliac Joint with Int Fix - Open Approach,ICD10_PROC,ccs158
+0SG807Z,Fusion of L Sacroiliac Jt with Autol Sub - Open Approach,ICD10_PROC,ccs158
+0SG80JZ,Fusion of L Sacroiliac Jt with Synth Sub - Open Approach,ICD10_PROC,ccs158
+0SG80KZ,Fusion of L Sacroiliac Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs158
+0SG80ZZ,Fusion of Left Sacroiliac Joint - Open Approach,ICD10_PROC,ccs158
+0SG834Z,Fusion of Left Sacroiliac Joint with Int Fix - Perc Approach,ICD10_PROC,ccs158
+0SG837Z,Fusion of L Sacroiliac Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs158
+0SG83JZ,Fusion of L Sacroiliac Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs158
+0SG83KZ,Fusion of L Sacroiliac Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs158
+0SG83ZZ,Fusion of Left Sacroiliac Joint - Percutaneous Approach,ICD10_PROC,ccs158
+0SG844Z,Fusion of L Sacroiliac Jt with Int Fix - Perc Endo Approach,ICD10_PROC,ccs158
+0SG847Z,Fusion of L Sacroiliac Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs158
+0SG84JZ,Fusion of L Sacroiliac Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs158
+0SG84KZ,Fusion L Sacroiliac Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs158
+0SG84ZZ,Fusion of Left Sacroiliac Joint - Perc Endo Approach,ICD10_PROC,ccs158
+XRG0092,Fusion Occip Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,ccs158
+XRG1092,Fusion Cerv Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,ccs158
+XRG2092,Fusion 2-6 C Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,ccs158
+XRG4092,Fusion C-thor Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,ccs158
+XRG6092,Fusion Thor Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,ccs158
+XRG7092,Fusion 2-7 T Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,ccs158
+XRG8092,Fusion >7 T Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,ccs158
+XRGA092,Fusion T-lum Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,ccs158
+XRGB092,Fusion Lum Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,ccs158
+XRGC092,Fusion 2-4 L Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,ccs158
+XRGD092,Fusion Lumsac Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,ccs158
+0163T,Lumb artif diskectomy addl,CPT_HCPCS,ccs158
+0164T,Remove lumb artif disc addl,CPT_HCPCS,ccs158
+0165T,Revise lumb artif disc addl,CPT_HCPCS,ccs158
+0195T,Prescrl fuse w/o instr l5/s1,CPT_HCPCS,ccs158
+0196T,Prescrl fuse w/o instr l4/l5,CPT_HCPCS,ccs158
+0309T,Prescrl fuse w/ instr l4/l5,CPT_HCPCS,ccs158
+22532,Lat thorax spine fusion,CPT_HCPCS,ccs158
+22533,Lat lumbar spine fusion,CPT_HCPCS,ccs158
+22534,Lat thor/lumb addl seg,CPT_HCPCS,ccs158
+22548,Neck spine fusion,CPT_HCPCS,ccs158
+22551,Neck spine fuse&remov bel c2,CPT_HCPCS,ccs158
+22552,Addl neck spine fusion,CPT_HCPCS,ccs158
+22554,Neck spine fusion,CPT_HCPCS,ccs158
+22556,Thorax spine fusion,CPT_HCPCS,ccs158
+22558,Lumbar spine fusion,CPT_HCPCS,ccs158
+22585,Additional spinal fusion,CPT_HCPCS,ccs158
+22586,Prescrl fuse w/ instr l5-s1,CPT_HCPCS,ccs158
+22590,Spine & skull spinal fusion,CPT_HCPCS,ccs158
+22595,Neck spinal fusion,CPT_HCPCS,ccs158
+22600,Neck spine fusion,CPT_HCPCS,ccs158
+22610,Thorax spine fusion,CPT_HCPCS,ccs158
+22612,Lumbar spine fusion,CPT_HCPCS,ccs158
+22614,Spine fusion extra segment,CPT_HCPCS,ccs158
+22630,Lumbar spine fusion,CPT_HCPCS,ccs158
+22632,Spine fusion extra segment,CPT_HCPCS,ccs158
+22633,Lumbar spine fusion combined,CPT_HCPCS,ccs158
+22634,Spine fusion extra segment,CPT_HCPCS,ccs158
+22800,Post fusion </6 vert seg,CPT_HCPCS,ccs158
+22802,Post fusion 7-12 vert seg,CPT_HCPCS,ccs158
+22804,Post fusion 13/> vert seg,CPT_HCPCS,ccs158
+22808,Ant fusion 2-3 vert seg,CPT_HCPCS,ccs158
+22810,Ant fusion 4-7 vert seg,CPT_HCPCS,ccs158
+22812,Ant fusion 8/> vert seg,CPT_HCPCS,ccs158
+22840,Insert spine fixation device,CPT_HCPCS,ccs158
+22841,Insert spine fixation device,CPT_HCPCS,ccs158
+22842,Insert spine fixation device,CPT_HCPCS,ccs158
+22843,Insert spine fixation device,CPT_HCPCS,ccs158
+22844,Insert spine fixation device,CPT_HCPCS,ccs158
+22845,Insert spine fixation device,CPT_HCPCS,ccs158
+22846,Insert spine fixation device,CPT_HCPCS,ccs158
+22847,Insert spine fixation device,CPT_HCPCS,ccs158
+22848,Insert pelv fixation device,CPT_HCPCS,ccs158
+22849,Reinsert spinal fixation,CPT_HCPCS,ccs158
+22850,Remove spine fixation device,CPT_HCPCS,ccs158
+22851,Apply spine prosth device,CPT_HCPCS,ccs158
+22852,Remove spine fixation device,CPT_HCPCS,ccs158
+22853,Insj biomechanical device,CPT_HCPCS,ccs158
+22854,Insj biomechanical device,CPT_HCPCS,ccs158
+22855,Remove spine fixation device,CPT_HCPCS,ccs158
+22857,Lumbar artif diskectomy,CPT_HCPCS,ccs158
+22859,Insj biomechanical device,CPT_HCPCS,ccs158
+22862,Revise lumbar artif disc,CPT_HCPCS,ccs158
+22865,Remove lumb artif disc,CPT_HCPCS,ccs158
+453,Combined anterior/posterior spinal fusion w MCC,MSDRG,ccs158
+454,Combined anterior/posterior spinal fusion w CC,MSDRG,ccs158
+455,Combined anterior/posterior spinal fusion w/o CC/MCC,MSDRG,ccs158
+456,Spinal fus exc cerv w spinal curv/malig/infec or ext fus w MCC,MSDRG,ccs158
+457,Spinal fus exc cerv w spinal curv/malig/infec or ext fus w CC,MSDRG,ccs158
+458,Spinal fus exc cerv w spinal curv/malig/infec or ext fus w/o CC/MCC,MSDRG,ccs158
+459,Spinal fusion except cervical w MCC,MSDRG,ccs158
+460,Spinal fusion except cervical w/o MCC,MSDRG,ccs158
+471,Cervical spinal fusion w MCC,MSDRG,ccs158
+472,Cervical spinal fusion w CC,MSDRG,ccs158
+473,Cervical spinal fusion w/o CC/MCC,MSDRG,ccs158
