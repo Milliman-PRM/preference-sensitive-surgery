@@ -171,6 +171,49 @@ def calculate_pss_decorator(
     
     
     return inpatient_drg_filter
+
+
+
+def er_directed_surgeries(
+        outclaims: DataFrame,
+    ) -> DataFrame:
+
+    ed_claims = outclaims.select(
+        member_id,
+        fromdate,
+        spark_funcs.when(
+           'hcpcs in ("99281","99282","99283","99284","99285","99286","99287","99288","G0380","G0381","G0382","G0383","G0384")',
+           spark_funcs.lit('Y'),
+        ).when(
+            'revcode in ("0450","0451","0452","0456","0459","0981")',
+            spark_funcs.lit('Y'),
+        ).otherwise(
+            spark_funcs.lit('N')
+        ).alias('er_flg'),
+    ).distinct()
+
+
+    outclaims_ed_flg = outclaims.select(
+        '*',
+    ).join(
+        ed_claims,
+        on = (ed_claims.member_id == outclaims.member_id)
+        & (spark_funcs.col('ed_claims.fromdate').between(
+                spark_funcs.col('outclaims.admitdate'),
+                spark_funcs.date_sub(spark_funcs.col('outclaims.admitdate'),1))
+        & spark_funcs.col('er_flg' == 'Y')),
+        how = 'left outer'
+    ).select(
+        spark_funcs.when(
+            spark_funcs.col('er_flg' == 'Y'),
+            spark_funcs.lit('Y')
+            ).otherwise(
+                spark_funcs.lit('N')
+            ).alias('er_directed_yn'),
+        ),
+        
+    return outclaims_ed_flg
+
         
 class PSSDecorator(ClaimDecorator):
     """Calculate the preference-sensitive surgery decorators"""
