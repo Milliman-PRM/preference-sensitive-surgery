@@ -1,4 +1,4 @@
-rem ### CODE OWNERS: Shea Parkes
+rem ### CODE OWNERS: Shea Parkes, Umang GUpta
 rem
 rem ### OBJECTIVE:
 rem   Configure environment for use so it can be utilized by multiple systems
