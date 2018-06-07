@@ -123,9 +123,9 @@ G0276,Pild/placebo control clin tr,CPT_HCPCS,ccs3
 S2348,Decompress disc RF lumbar,CPT_HCPCS,ccs3
 S2350,Diskectomy - anterior - with d,CPT_HCPCS,ccs3
 S2351,Diskectomy - anterior - with d,CPT_HCPCS,ccs3
-28,Spinal procedures w MCC,MSDRG,ccs3
-29,Spinal procedures w CC or spinal neurostimulators,MSDRG,ccs3
-30,Spinal procedures w/o CC/MCC,MSDRG,ccs3
+028,Spinal procedures w MCC,MSDRG,ccs3
+029,Spinal procedures w CC or spinal neurostimulators,MSDRG,ccs3
+030,Spinal procedures w/o CC/MCC,MSDRG,ccs3
 518,Back & Neck Proc Exc Spinal Fusion W Mcc Or Disc Device/Neurostim,MSDRG,ccs3
 519,Back & Neck Proc Exc Spinal Fusion w CC,MSDRG,ccs3
 520,Back & Neck Proc Exc Spinal Fusion W/O Cc/Mcc,MSDRG,ccs3

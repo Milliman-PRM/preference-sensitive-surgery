@@ -2236,9 +2236,9 @@ code,code_description,code_type,ccs
 0269T,Rev/remvl crtd sns dev total,CPT_HCPCS,ccs51_59
 0270T,Rev/remvl crtd sns dev lead,CPT_HCPCS,ccs51_59
 0271T,Rev/remvl crtd sns dev gen,CPT_HCPCS,ccs51_59
-34,Carotid artery stent procedure w MCC,MSDRG,ccs51_59
-35,Carotid artery stent procedure w CC,MSDRG,ccs51_59
-36,Carotid artery stent procedure w/o CC/MCC,MSDRG,ccs51_59
-37,Extracranial procedures w MCC,MSDRG,ccs51_59
-38,Extracranial procedures w CC,MSDRG,ccs51_59
-39,Extracranial procedures w/o CC/MCC,MSDRG,ccs51_59
+034,Carotid artery stent procedure w MCC,MSDRG,ccs51_59
+035,Carotid artery stent procedure w CC,MSDRG,ccs51_59
+036,Carotid artery stent procedure w/o CC/MCC,MSDRG,ccs51_59
+037,Extracranial procedures w MCC,MSDRG,ccs51_59
+038,Extracranial procedures w CC,MSDRG,ccs51_59
+039,Extracranial procedures w/o CC/MCC,MSDRG,ccs51_59
