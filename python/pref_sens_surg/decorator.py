@@ -18,6 +18,9 @@ from prm.decorators.base_classes import ClaimDecorator
 
 LOGGER = logging.getLogger(__name__)
 
+er_hcpcs = ["99281","99282","99283","99284","99285","99286","99287","99288","G0380","G0381","G0382","G0383","G0384"]
+er_rev = ["0450","0451","0452","0456","0459","0981"]
+
 # =============================================================================
 # LIBRARIES, LOCATIONS, LITERALS, ETC. GO ABOVE HERE
 # =============================================================================
@@ -76,7 +79,12 @@ def _collect_pss_eligible_ip_surg(
             ref_table,
             on=(ref_table.code == df_proc_pivot.icd_proc),
             how='inner',
-        )
+        ).select(
+            'member_id',
+            'sequencenumber',
+            'prm_fromdate',
+            'ccs',
+        ).distinct()
     
     return proc_w_ccs
 
@@ -106,14 +114,24 @@ def _collect_pss_eligible_op_surg(
             max_claim_allowed,
             on=(outclaims_filter.claimid == max_claim_allowed.claimid) &
                (outclaims_filter.mr_allowed == max_claim_allowed.max_allowed),
-            how='inner'
+            how='inner',
+        ).select(
+            outclaims_filter.member_id,
+            'sequencenumber',
+            'prm_fromdate',
+            'hcpcs',
         )
     
     hcpcs_w_ccs = claim_elig_hcpcs.join(
             ref_table,
             on=(claim_elig_hcpcs.hcpcs == ref_table.code),
             how='inner',
-        )
+        ).select(
+            'member_id',
+            'sequencenumber',
+            'prm_fromdate',
+            'ccs',
+        ).distinct()
     
     return hcpcs_w_ccs
 
@@ -124,25 +142,109 @@ def _flag_elig_drgs(
     ) -> DataFrame:
     
     inpatient_pss_drg = inpatient_pss.join(
-                outclaims,
-                on='sequencenumber',
-                how='inner',
-            ).select(
-                inpatient_pss.sequencenumber,
-                'icd_proc',
-                'ccs',
-                'drg',
-            ).join(
-                ref_table,
-                on='ccs',
-                how='inner',
-            ).where(
-                spark_funcs.col('drg') == spark_funcs.col('code')
-            )
+            outclaims,
+            on='sequencenumber',
+            how='inner',
+        ).select(
+            inpatient_pss.sequencenumber.alias('sequencenumber'),
+            inpatient_pss.member_id.alias('member_id'),
+            inpatient_pss.prm_fromdate.alias('prm_fromdate'),
+            'ccs',
+            'drg',
+        ).join(
+            ref_table,
+            on='ccs',
+            how='inner',
+        ).where(
+            spark_funcs.col('drg') == spark_funcs.col('code')
+        ).select(
+            'member_id',
+            'sequencenumber',
+            'prm_fromdate',
+            'ccs',
+        ).distinct()
     
     return inpatient_pss_drg
     
         
+def _flag_er_directed(
+        outclaims: DataFrame,
+        pss_claims: DataFrame,
+    ) -> DataFrame:
+
+    ed_claims = outclaims.select(
+            'member_id',
+            spark_funcs.col('prm_fromdate').alias('ed_date'),
+            spark_funcs.when(
+               spark_funcs.col('hcpcs').isin(er_hcpcs),
+               spark_funcs.lit('Y'),
+            ).when(
+                spark_funcs.col('revcode').isin(er_rev),
+                spark_funcs.lit('Y'),
+            ).otherwise(
+                spark_funcs.lit('N')
+            ).alias('er_flag'),
+        ).where(
+            spark_funcs.col('er_flag') == 'Y'
+        ).distinct()
+
+
+    pss_claims_no_er = pss_claims.join(
+            ed_claims,
+            on='member_id',
+            how='left_outer',
+        ).where(
+            spark_funcs.col('ed_date').isNull() |
+            ~spark_funcs.col('ed_date').between(
+                    spark_funcs.date_sub(
+                        spark_funcs.col('prm_fromdate'),
+                        1,
+                    ),
+                    spark_funcs.col('prm_fromdate'),
+            )
+        ).select(
+            'member_id',
+            'sequencenumber',
+            'prm_fromdate',
+            'ccs',
+        ).distinct()
+        
+    return pss_claims_no_er
+
+def _flag_acute_transfer(
+        outclaims: DataFrame,
+        pss_claims: DataFrame,
+    ) -> DataFrame:
+
+    acute_transfers = outclaims.select(
+            'member_id',
+            spark_funcs.col('prm_todate').alias('transfer_date')
+        ).where(
+            spark_funcs.col('prm_acute_transfer_to_acute_yn') == 'Y'
+        ).distinct()
+    
+    pss_claims_no_transfer = pss_claims.join(
+            acute_transfers,
+            on='member_id',
+            how='left_outer',
+        ).where(
+            spark_funcs.col('transfer_date').isNull() |
+            ~spark_funcs.col('transfer_date').between(
+                    spark_funcs.date_sub(
+                        spark_funcs.col('prm_fromdate'),
+                        1,
+                    ),
+                    spark_funcs.col('prm_fromdate'),
+            )
+        ).select(
+            'member_id',
+            'sequencenumber',
+            'prm_fromdate',
+            'ccs',
+        ).distinct()
+                    
+    return pss_claims_no_transfer
+    
 def calculate_pss_decorator(
         dfs_input: "typing.Mapping[str, DataFrame]",
         dfs_refs: "typing.Mapping[str, DataFrame]",
@@ -158,61 +260,35 @@ def calculate_pss_decorator(
         )
         
     inpatient_drg_filter = _flag_elig_drgs(
-                outclaims=dfs_input['outclaims'],
-                inpatient_pss=inpatient_surgery,
-                ref_table=dfs_refs['drg'],
-            )
+            outclaims=dfs_input['outclaims'],
+            inpatient_pss=inpatient_surgery,
+            ref_table=dfs_refs['drg'],
+        )
+        
+    inpatient_er_filter = _flag_er_directed(
+            outclaims=dfs_input['outclaims'],
+            pss_claims=inpatient_drg_filter,
+        )
+    
+    inpatient_transfer_filter = _flag_acute_transfer(
+            outclaims=dfs_input['outclaims'],
+            pss_claims=inpatient_er_filter
+        )
     
     outpatient_surgery = _collect_pss_eligible_op_surg(
             outclaims=dfs_input['outclaims'],
             ref_table=dfs_refs['hcpcs'],
         )
     
+    outpatient_er_filter = _flag_er_directed(
+            outclaims=dfs_input['outclaims'],
+            pss_claims=outpatient_surgery,
+        )
+       
     
     
     return inpatient_drg_filter
 
-
-
-def er_directed_surgeries(
-        outclaims: DataFrame,
-    ) -> DataFrame:
-
-    ed_claims = outclaims.select(
-        member_id,
-        fromdate,
-        spark_funcs.when(
-           'hcpcs in ("99281","99282","99283","99284","99285","99286","99287","99288","G0380","G0381","G0382","G0383","G0384")',
-           spark_funcs.lit('Y'),
-        ).when(
-            'revcode in ("0450","0451","0452","0456","0459","0981")',
-            spark_funcs.lit('Y'),
-        ).otherwise(
-            spark_funcs.lit('N')
-        ).alias('er_flg'),
-    ).distinct()
-
-
-    outclaims_ed_flg = outclaims.select(
-        '*',
-    ).join(
-        ed_claims,
-        on = (ed_claims.member_id == outclaims.member_id)
-        & (spark_funcs.col('ed_claims.fromdate').between(
-                spark_funcs.col('outclaims.admitdate'),
-                spark_funcs.date_sub(spark_funcs.col('outclaims.admitdate'),1))
-        & spark_funcs.col('er_flg' == 'Y')),
-        how = 'left outer'
-    ).select(
-        spark_funcs.when(
-            spark_funcs.col('er_flg' == 'Y'),
-            spark_funcs.lit('Y')
-            ).otherwise(
-                spark_funcs.lit('N')
-            ).alias('er_directed_yn'),
-        ),
-        
-    return outclaims_ed_flg
 
         
 class PSSDecorator(ClaimDecorator):
