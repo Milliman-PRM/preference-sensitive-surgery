@@ -20,6 +20,7 @@ LOGGER = logging.getLogger(__name__)
 
 er_hcpcs = ["99281","99282","99283","99284","99285","99286","99287","99288","G0380","G0381","G0382","G0383","G0384"]
 er_rev = ["0450","0451","0452","0456","0459","0981"]
+ip_only_ccs = ["ccs152", "ccs153", "ccs158"]
 
 # =============================================================================
 # LIBRARIES, LOCATIONS, LITERALS, ETC. GO ABOVE HERE
@@ -114,7 +115,8 @@ def _collect_pss_eligible_op_surg(
     claim_elig_hcpcs = outclaims_filter.join(
             max_claim_allowed,
             on=(outclaims_filter.claimid == max_claim_allowed.claimid) &
-               (outclaims_filter.mr_allowed == max_claim_allowed.max_allowed),
+               (outclaims_filter.mr_allowed == max_claim_allowed.max_allowed) &
+               (outclaims_filter.member_id == max_claim_allowed.member_id),
             how='inner',
         ).select(
             outclaims_filter.member_id,
@@ -259,7 +261,19 @@ def calculate_pss_decorator(
             outclaims=dfs_input['outclaims'],
             ref_table=dfs_refs['icd_procs'],         
         )
-        
+    
+    ccs_columns = [c.ccs for c in dfs_refs['icd_procs'].select('ccs').distinct().collect()]
+
+    claim_seqnum = dfs_input['outclaims'].select(
+            'sequencenumber',
+        )
+    
+    for ccs in sorted(ccs_columns):
+        claim_seqnum = claim_seqnum.withColumn(
+                ccs,
+                spark_funcs.lit('N')
+            )
+    
     inpatient_drg_filter = _flag_elig_drgs(
             outclaims=dfs_input['outclaims'],
             inpatient_pss=inpatient_surgery,
@@ -285,8 +299,43 @@ def calculate_pss_decorator(
             outclaims=dfs_input['outclaims'],
             pss_claims=outpatient_surgery,
         )
-       
     
+    outpatient_ip_filter = outpatient_er_filter.where(
+            ~spark_funcs.col('ccs').isin(ip_only_ccs)
+        )
+       
+    final_ccs = inpatient_transfer_filter.union(
+            outpatient_ip_filter
+        ).withColumn(
+            'ccs_flag',
+            spark_funcs.lit('Y')
+        )
+    
+    ccs_pivot = final_ccs.select(
+            'sequencenumber',
+            'ccs',
+            'ccs_flag',
+        ).groupBy(
+            'sequencenumber',
+        ).pivot(
+            'ccs',
+        ).agg(
+            spark_funcs.first('ccs_flag')
+        )
+    
+    for column in [c for c in ccs_pivot.columns if 'ccs' in c]:
+        ccs_pivot = ccs_pivot.withColumnRenamed(
+                column,
+                column + '_calc'
+        )
+        
+    ccs_final = claim_seqnum.join(
+            ccs_pivot,
+            on='sequencenumber',
+            how='left_outer',
+        ).select(
+            'sequencenumber',
+            )
     
     return inpatient_drg_filter
 
