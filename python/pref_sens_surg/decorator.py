@@ -261,19 +261,7 @@ def calculate_pss_decorator(
             outclaims=dfs_input['outclaims'],
             ref_table=dfs_refs['icd_procs'],         
         )
-    
-    ccs_columns = [c.ccs for c in dfs_refs['icd_procs'].select('ccs').distinct().collect()]
-
-    claim_seqnum = dfs_input['outclaims'].select(
-            'sequencenumber',
-        )
-    
-    for ccs in sorted(ccs_columns):
-        claim_seqnum = claim_seqnum.withColumn(
-                ccs,
-                spark_funcs.lit('N')
-            )
-    
+        
     inpatient_drg_filter = _flag_elig_drgs(
             outclaims=dfs_input['outclaims'],
             inpatient_pss=inpatient_surgery,
@@ -303,43 +291,66 @@ def calculate_pss_decorator(
     outpatient_ip_filter = outpatient_er_filter.where(
             ~spark_funcs.col('ccs').isin(ip_only_ccs)
         )
-       
-    final_ccs = inpatient_transfer_filter.union(
+    
+    
+    op_ip_ccs = inpatient_transfer_filter.union(
             outpatient_ip_filter
+        ).withColumnRenamed(
+            'ccs',
+            'ccs_calc',
         ).withColumn(
-            'ccs_flag',
+            'ccs_flag_calc',
             spark_funcs.lit('Y')
         )
     
-    ccs_pivot = final_ccs.select(
-            'sequencenumber',
+    unique_ccs = dfs_refs['icd_procs'].select(
             'ccs',
-            'ccs_flag',
-        ).groupBy(
+        ).orderBy(
+            'ccs',
+        ).distinct()
+    
+    ccs_eligible_w_flags = dfs_input['outclaims'].select(
             'sequencenumber',
+            'mr_line_case',
+        ).withColumn(
+            'ccs_eligible_yn',
+            spark_funcs.when(
+                spark_funcs.col('mr_line_case').isin(
+                    ['O12', 'I12'],
+                ),
+                spark_funcs.lit('Y')
+            ).otherwise(
+                spark_funcs.lit('N')
+            ),
+        ).crossJoin(
+            unique_ccs
+        ).withColumn(
+            'ccs_flag',
+            spark_funcs.lit('N')
+        )
+         
+    ccs_calc_final = ccs_eligible_w_flags.join(
+            op_ip_ccs,
+            on=(ccs_eligible_w_flags.sequencenumber == op_ip_ccs.sequencenumber) &
+               (ccs_eligible_w_flags.ccs == op_ip_ccs.ccs_calc),
+            how='left_outer',
+        ).select(
+            ccs_eligible_w_flags.sequencenumber,
+            'ccs_eligible_yn',
+            'ccs',
+            spark_funcs.coalesce('ccs_flag_calc', 'ccs_flag').alias('ccs_flag')
+        )
+    
+    ccs_calc_pivot = ccs_calc_final.groupBy(
+            'sequencenumber',
+            'ccs_eligible_yn',
         ).pivot(
             'ccs',
         ).agg(
             spark_funcs.first('ccs_flag')
         )
     
-    for column in [c for c in ccs_pivot.columns if 'ccs' in c]:
-        ccs_pivot = ccs_pivot.withColumnRenamed(
-                column,
-                column + '_calc'
-        )
-        
-    ccs_final = claim_seqnum.join(
-            ccs_pivot,
-            on='sequencenumber',
-            how='left_outer',
-        ).select(
-            'sequencenumber',
-            )
-    
-    return inpatient_drg_filter
-
-
+    return ccs_calc_pivot
         
 class PSSDecorator(ClaimDecorator):
     """Calculate the preference-sensitive surgery decorators"""
