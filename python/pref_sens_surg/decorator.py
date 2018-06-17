@@ -56,7 +56,8 @@ def _collect_pss_eligible_ip_surg(
     claim_elig_procs = outclaims_filter.join(
             max_claim_allowed,
             on=(outclaims_filter.claimid == max_claim_allowed.claimid) &
-               (outclaims_filter.mr_allowed == max_claim_allowed.max_allowed),
+               (outclaims_filter.mr_allowed == max_claim_allowed.max_allowed) &
+               (outclaims_filter.member_id == max_claim_allowed.member_id),
             how='inner'
         ).select(
             'sequencenumber',
@@ -317,6 +318,7 @@ class PSSDecorator(ClaimDecorator):
 from pathlib import Path
 from prm.spark.app import SparkApp
 import prm_ny_data_share.meta.project
+from prm.spark.io_txt import build_structtype_from_csv
 
 META_SHARED = prm_ny_data_share.meta.project.gather_metadata()
 PATH_LOCAL_REFS = Path(r'C:\Users\umang.gupta\Desktop\preference-sensitive-surgery\ref_tables') 
@@ -386,11 +388,12 @@ dfs_refs = {
     }
 
 dfs_input = {
-    'outclaims': sparkapp.load_df(
-        META_SHARED[73, 'out'] / 'outclaims_prm.parquet'
-        ).select(
-            '*',
-            spark_funcs.col('prm_prv_id_ccn').alias('prv_id_ccn')
-            ),
+        'outclaims': sparkapp.session.read.csv(
+            r"C:\Users\umang.gupta\Desktop\preference-sensitive-surgery\python\tests\Test Cases.csv",
+            schema=build_structtype_from_csv(Path(r"C:\Users\umang.gupta\Desktop\preference-sensitive-surgery\python\tests\Test Cases Schema.csv")),
+            sep=",",
+            header=True,
+            mode="FAILFAST",
+            )
     }
 
