@@ -357,7 +357,7 @@ class PSSDecorator(ClaimDecorator):
     @staticmethod
     def validate_decor_column_name(name: str) -> bool:
         """Defines what naming convention the decorator columns should follow"""
-        return name.startswith("pss_")
+        return name.startswith("ccs_")
 
     def _calc_decorator(
             self,
@@ -371,89 +371,3 @@ class PSSDecorator(ClaimDecorator):
             dfs_refs,
             **kwargs,
         )
-
-
-""" Run these stuff prior to testing out everything """
-""" Placeholder for before we integrate SDW """
-from pathlib import Path
-from prm.spark.app import SparkApp
-import prm_ny_data_share.meta.project
-from prm.spark.io_txt import build_structtype_from_csv
-
-META_SHARED = prm_ny_data_share.meta.project.gather_metadata()
-PATH_LOCAL_REFS = Path(r'C:\Users\umang.gupta\Desktop\preference-sensitive-surgery\ref_tables') 
-
-sparkapp = SparkApp(META_SHARED['pipeline_signature'])
-
-paths_local_refs = {
-    PATH_LOCAL_REFS / 'ref_CCS113_turp.csv',
-    PATH_LOCAL_REFS / 'ref_CCS124_hysterectomy.csv',
-    PATH_LOCAL_REFS / 'ref_CCS149_arthroscopy.csv',
-    PATH_LOCAL_REFS / 'ref_CCS152_arthroplasty_knee.csv',
-    PATH_LOCAL_REFS / 'ref_CCS153_hip_replacement.csv',
-    PATH_LOCAL_REFS / 'ref_CCS154_arthroplasty_other.csv',
-    PATH_LOCAL_REFS / 'ref_CCS158_spinal_fusion.csv',
-    PATH_LOCAL_REFS / 'ref_CCS244_gastric_bypass.csv',
-    PATH_LOCAL_REFS / 'ref_CCS3_laminectomy.csv',
-    PATH_LOCAL_REFS / 'ref_CCS44_cabg.csv',
-    PATH_LOCAL_REFS / 'ref_CCS45_ptca.csv',
-    PATH_LOCAL_REFS / 'ref_CCS48_pacemaker_defibrillator.csv',
-    PATH_LOCAL_REFS / 'ref_CCS51_59_head_neck_vessel.csv',
-    PATH_LOCAL_REFS / 'ref_CCS55_61_peripheral_vessel.csv',
-    PATH_LOCAL_REFS / 'ref_CCS84_cholecystectomy.csv',
-    }
-
-dfs_refs_raw = {
-        path.stem: sparkapp.session.read.csv(
-            str(path),
-            header=True,
-            )
-        for path in paths_local_refs
-    }
-
-refs_stack = dfs_refs_raw['ref_CCS149_arthroscopy'].union(
-                dfs_refs_raw['ref_CCS113_turp']
-            ).union(
-                dfs_refs_raw['ref_CCS45_ptca']
-            ).union(
-                dfs_refs_raw['ref_CCS158_spinal_fusion']
-            ).union(
-                dfs_refs_raw['ref_CCS44_cabg']
-            ).union(
-                dfs_refs_raw['ref_CCS153_hip_replacement']
-            ).union(
-                dfs_refs_raw['ref_CCS154_arthroplasty_other']
-            ).union(
-                dfs_refs_raw['ref_CCS84_cholecystectomy']
-            ).union(
-                dfs_refs_raw['ref_CCS152_arthroplasty_knee']
-            ).union(
-                dfs_refs_raw['ref_CCS3_laminectomy']
-            ).union(
-                dfs_refs_raw['ref_CCS244_gastric_bypass']
-            ).union(
-                dfs_refs_raw['ref_CCS51_59_head_neck_vessel']
-            ).union(
-                dfs_refs_raw['ref_CCS124_hysterectomy']
-            ).union(
-                dfs_refs_raw['ref_CCS48_pacemaker_defibrillator']
-            ).union(
-                dfs_refs_raw['ref_CCS55_61_peripheral_vessel']
-            ).coalesce(15)
-
-dfs_refs = {
-        'icd_procs': refs_stack.where(spark_funcs.col('code_type') == 'ICD10_PROC'),
-        'hcpcs': refs_stack.where(spark_funcs.col('code_type') == 'CPT_HCPCS'),
-        'drg': refs_stack.where(spark_funcs.col('code_type') == 'MSDRG'),
-    }
-
-dfs_input = {
-        'outclaims': sparkapp.session.read.csv(
-            r"C:\Users\umang.gupta\Desktop\preference-sensitive-surgery\python\tests\Test Cases.csv",
-            schema=build_structtype_from_csv(Path(r"C:\Users\umang.gupta\Desktop\preference-sensitive-surgery\python\tests\Test Cases Schema.csv")),
-            sep=",",
-            header=True,
-            mode="FAILFAST",
-            )
-    }
-
