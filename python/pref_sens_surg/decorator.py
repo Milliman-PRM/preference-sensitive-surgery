@@ -363,7 +363,7 @@ class PSSDecorator(ClaimDecorator):
     @staticmethod
     def validate_decor_column_name(name: str) -> bool:
         """Defines what naming convention the decorator columns should follow"""
-        return name.startswith("ccs_")
+        return name.startswith("ccs")
 
     def _calc_decorator(
             self,
