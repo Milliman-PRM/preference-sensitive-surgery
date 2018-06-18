@@ -1,0 +1,5 @@
+name,datatype,nullable
+code,string,true
+code_description,string,true
+code_type,string,true
+ccs,string,true
