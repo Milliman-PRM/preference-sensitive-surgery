@@ -350,6 +350,12 @@ def calculate_pss_decorator(
             spark_funcs.first('ccs_flag')
         )
     
+    for column in [col for col in ccs_calc_pivot.columns if col not in ['sequencenumber', 'ccs_eligible_yn']]:
+        ccs_calc_pivot = ccs_calc_pivot.withColumnRenamed(
+                column,
+                column + '_yn',
+            )
+        
     return ccs_calc_pivot
         
 class PSSDecorator(ClaimDecorator):
