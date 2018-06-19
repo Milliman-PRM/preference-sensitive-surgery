@@ -636,6 +636,10 @@ G0448,Place perm pacing cardiovert,CPT_HCPCS,ccs48
 35472,Repair arterial blockage,CPT_HCPCS,ccs55_61
 35475,Repair arterial blockage,CPT_HCPCS,ccs55_61
 35476,Repair venous blockage,CPT_HCPCS,ccs55_61
+35480,"Atherectomy, open",CPT_HCPCS,ccs55_61
+35481,"Atherectomy, open",CPT_HCPCS,ccs55_61
+35490,"Atherectomy, percutaneous",CPT_HCPCS,ccs55_61
+35491,"Atherectomy, percutaneous",CPT_HCPCS,ccs55_61
 35681,Composite byp grft pros&vein,CPT_HCPCS,ccs55_61
 35682,Composite byp grft 2 veins,CPT_HCPCS,ccs55_61
 35683,Composite byp grft 3/> segmt,CPT_HCPCS,ccs55_61
