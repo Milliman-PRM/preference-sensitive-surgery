@@ -1,0 +1,740 @@
+0421T,Waterjet prostate abltj cmpl,CPT_HCPCS,ccs113
+52601,Prostatectomy (turp),CPT_HCPCS,ccs113
+52612,Prostatectomy - first stage,CPT_HCPCS,ccs113
+52614,Prostatectomy - second stage,CPT_HCPCS,ccs113
+52620,Remove residual prostate,CPT_HCPCS,ccs113
+52630,Remove prostate regrowth,CPT_HCPCS,ccs113
+53850,Prostatic microwave thermotx,CPT_HCPCS,ccs113
+53852,Prostatic rf thermotx,CPT_HCPCS,ccs113
+53853,Prostatic water thermother,CPT_HCPCS,ccs113
+51925,Hysterectomy/bladder repair,CPT_HCPCS,ccs124
+58150,Total hysterectomy,CPT_HCPCS,ccs124
+58152,Total hysterectomy,CPT_HCPCS,ccs124
+58180,Partial hysterectomy,CPT_HCPCS,ccs124
+58200,Extensive hysterectomy,CPT_HCPCS,ccs124
+58210,Extensive hysterectomy,CPT_HCPCS,ccs124
+58240,Removal of pelvis contents,CPT_HCPCS,ccs124
+58260,Vaginal hysterectomy,CPT_HCPCS,ccs124
+58262,Vag hyst including t/o,CPT_HCPCS,ccs124
+58263,Vag hyst w/t/o & vag repair,CPT_HCPCS,ccs124
+58267,Vag hyst w/urinary repair,CPT_HCPCS,ccs124
+58270,Vag hyst w/enterocele repair,CPT_HCPCS,ccs124
+58275,Hysterectomy/revise vagina,CPT_HCPCS,ccs124
+58280,Hysterectomy/revise vagina,CPT_HCPCS,ccs124
+58285,Extensive hysterectomy,CPT_HCPCS,ccs124
+58290,Vag hyst complex,CPT_HCPCS,ccs124
+58291,Vag hyst incl t/o complex,CPT_HCPCS,ccs124
+58292,Vag hyst t/o & repair compl,CPT_HCPCS,ccs124
+58293,Vag hyst w/uro repair compl,CPT_HCPCS,ccs124
+58294,Vag hyst w/enterocele compl,CPT_HCPCS,ccs124
+58541,Lsh uterus 250 g or less,CPT_HCPCS,ccs124
+58542,Lsh w/t/o ut 250 g or less,CPT_HCPCS,ccs124
+58543,Lsh uterus above 250 g,CPT_HCPCS,ccs124
+58544,Lsh w/t/o uterus above 250 g,CPT_HCPCS,ccs124
+58548,Lap radical hyst,CPT_HCPCS,ccs124
+58550,Laparo-asst vag hysterectomy,CPT_HCPCS,ccs124
+58552,Laparo-vag hyst incl t/o,CPT_HCPCS,ccs124
+58553,Laparo-vag hyst complex,CPT_HCPCS,ccs124
+58554,Laparo-vag hyst w/t/o compl,CPT_HCPCS,ccs124
+58570,Tlh uterus 250 g or less,CPT_HCPCS,ccs124
+58571,Tlh w/t/o 250 g or less,CPT_HCPCS,ccs124
+58572,Tlh uterus over 250 g,CPT_HCPCS,ccs124
+58573,Tlh w/t/o uterus over 250 g,CPT_HCPCS,ccs124
+58951,Resect ovarian malignancy,CPT_HCPCS,ccs124
+58953,Tah rad dissect for debulk,CPT_HCPCS,ccs124
+58954,Tah rad debulk/lymph remove,CPT_HCPCS,ccs124
+58956,Bso omentectomy w/tah,CPT_HCPCS,ccs124
+59525,Remove uterus after cesarean,CPT_HCPCS,ccs124
+S2078,Lap supracerv hysterectomy,CPT_HCPCS,ccs124
+29800,Jaw arthroscopy/surgery,CPT_HCPCS,ccs149
+29804,Jaw arthroscopy/surgery,CPT_HCPCS,ccs149
+29805,Shoulder arthroscopy dx,CPT_HCPCS,ccs149
+29819,Shoulder arthroscopy/surgery,CPT_HCPCS,ccs149
+29830,Elbow arthroscopy,CPT_HCPCS,ccs149
+29834,Elbow arthroscopy/surgery,CPT_HCPCS,ccs149
+29840,Wrist arthroscopy,CPT_HCPCS,ccs149
+29843,Wrist arthroscopy/surgery,CPT_HCPCS,ccs149
+29860,Hip arthroscopy dx,CPT_HCPCS,ccs149
+29870,Knee arthroscopy dx,CPT_HCPCS,ccs149
+29871,Knee arthroscopy/drainage,CPT_HCPCS,ccs149
+29888,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29889,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29900,Mcp joint arthroscopy dx,CPT_HCPCS,ccs149
+29999,Arthroscopy of joint,CPT_HCPCS,ccs149
+G0289,Arthro - loose body + chondro,CPT_HCPCS,ccs149
+S2114,Arthrosc sh tenodesis biceps,CPT_HCPCS,ccs149
+S2300,Arthroscopy - shoulder - surgi,CPT_HCPCS,ccs149
+29873,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29874,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29875,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29876,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29877,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29879,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29880,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29881,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29882,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29883,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29884,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+0396T,Intraop kinetic balnce sensr,CPT_HCPCS,ccs152
+27420,Revision of unstable kneecap,CPT_HCPCS,ccs152
+27422,Revision of unstable kneecap,CPT_HCPCS,ccs152
+27424,Revision/removal of kneecap,CPT_HCPCS,ccs152
+27427,Reconstruction knee,CPT_HCPCS,ccs152
+27428,Reconstruction knee,CPT_HCPCS,ccs152
+27429,Reconstruction knee,CPT_HCPCS,ccs152
+27437,Revise kneecap,CPT_HCPCS,ccs152
+27438,Revise kneecap with implant,CPT_HCPCS,ccs152
+27440,Revision of knee joint,CPT_HCPCS,ccs152
+27441,Revision of knee joint,CPT_HCPCS,ccs152
+27442,Revision of knee joint,CPT_HCPCS,ccs152
+27443,Revision of knee joint,CPT_HCPCS,ccs152
+27445,Revision of knee joint,CPT_HCPCS,ccs152
+27446,Revision of knee joint,CPT_HCPCS,ccs152
+27447,Total knee arthroplasty,CPT_HCPCS,ccs152
+27486,Revise/replace knee joint,CPT_HCPCS,ccs152
+27487,Revise/replace knee joint,CPT_HCPCS,ccs152
+G0428,Collagen Meniscus Implant,CPT_HCPCS,ccs152
+27125,Partial hip replacement,CPT_HCPCS,ccs153
+27130,Total hip arthroplasty,CPT_HCPCS,ccs153
+27132,Total hip arthroplasty,CPT_HCPCS,ccs153
+27134,Revise hip joint replacement,CPT_HCPCS,ccs153
+27137,Revise hip joint replacement,CPT_HCPCS,ccs153
+27138,Revise hip joint replacement,CPT_HCPCS,ccs153
+29914,Hip arthro w/femoroplasty,CPT_HCPCS,ccs153
+29915,Hip arthro acetabuloplasty,CPT_HCPCS,ccs153
+29916,Hip arthro w/labral repair,CPT_HCPCS,ccs153
+S2118,Total hip resurfacing,CPT_HCPCS,ccs153
+0090T,Cervical artific disc,CPT_HCPCS,ccs154
+0091T,Lumbar artific disc,CPT_HCPCS,ccs154
+0092T,Artific disc addl cervical,CPT_HCPCS,ccs154
+0096T,Rev cervical artific disc,CPT_HCPCS,ccs154
+0097T,Rev lumbar artific disc,CPT_HCPCS,ccs154
+0098T,Rev artific disc addl,CPT_HCPCS,ccs154
+0375T,Total disc arthrp ant appr,CPT_HCPCS,ccs154
+21240,Reconstruction of jaw joint,CPT_HCPCS,ccs154
+21242,Reconstruction of jaw joint,CPT_HCPCS,ccs154
+21243,Reconstruction of jaw joint,CPT_HCPCS,ccs154
+23420,Repair of shoulder,CPT_HCPCS,ccs154
+23470,Reconstruct shoulder joint,CPT_HCPCS,ccs154
+23472,Reconstruct shoulder joint,CPT_HCPCS,ccs154
+23473,Revis reconst shoulder joint,CPT_HCPCS,ccs154
+23474,Revis reconst shoulder joint,CPT_HCPCS,ccs154
+24360,Reconstruct elbow joint,CPT_HCPCS,ccs154
+24361,Reconstruct elbow joint,CPT_HCPCS,ccs154
+24362,Reconstruct elbow joint,CPT_HCPCS,ccs154
+24363,Replace elbow joint,CPT_HCPCS,ccs154
+24365,Reconstruct head of radius,CPT_HCPCS,ccs154
+24366,Reconstruct head of radius,CPT_HCPCS,ccs154
+24370,Revise reconst elbow joint,CPT_HCPCS,ccs154
+24371,Revise reconst elbow joint,CPT_HCPCS,ccs154
+25332,Revise wrist joint,CPT_HCPCS,ccs154
+25441,Reconstruct wrist joint,CPT_HCPCS,ccs154
+25442,Reconstruct wrist joint,CPT_HCPCS,ccs154
+25443,Reconstruct wrist joint,CPT_HCPCS,ccs154
+25444,Reconstruct wrist joint,CPT_HCPCS,ccs154
+25445,Reconstruct wrist joint,CPT_HCPCS,ccs154
+25446,Wrist replacement,CPT_HCPCS,ccs154
+25447,Repair wrist joints,CPT_HCPCS,ccs154
+25449,Remove wrist joint implant,CPT_HCPCS,ccs154
+26530,Revise knuckle joint,CPT_HCPCS,ccs154
+26531,Revise knuckle with implant,CPT_HCPCS,ccs154
+26535,Revise finger joint,CPT_HCPCS,ccs154
+26536,Revise/implant finger joint,CPT_HCPCS,ccs154
+27700,Revision of ankle joint,CPT_HCPCS,ccs154
+27702,Reconstruct ankle joint,CPT_HCPCS,ccs154
+27703,Reconstruction ankle joint,CPT_HCPCS,ccs154
+29826,Shoulder arthroscopy/surgery,CPT_HCPCS,ccs154
+S2117,Arthroereisis - subtalar,CPT_HCPCS,ccs154
+0163T,Lumb artif diskectomy addl,CPT_HCPCS,ccs158
+0164T,Remove lumb artif disc addl,CPT_HCPCS,ccs158
+0165T,Revise lumb artif disc addl,CPT_HCPCS,ccs158
+0195T,Prescrl fuse w/o instr l5/s1,CPT_HCPCS,ccs158
+0196T,Prescrl fuse w/o instr l4/l5,CPT_HCPCS,ccs158
+0309T,Prescrl fuse w/ instr l4/l5,CPT_HCPCS,ccs158
+22532,Lat thorax spine fusion,CPT_HCPCS,ccs158
+22533,Lat lumbar spine fusion,CPT_HCPCS,ccs158
+22534,Lat thor/lumb addl seg,CPT_HCPCS,ccs158
+22548,Neck spine fusion,CPT_HCPCS,ccs158
+22551,Neck spine fuse&remov bel c2,CPT_HCPCS,ccs158
+22552,Addl neck spine fusion,CPT_HCPCS,ccs158
+22554,Neck spine fusion,CPT_HCPCS,ccs158
+22556,Thorax spine fusion,CPT_HCPCS,ccs158
+22558,Lumbar spine fusion,CPT_HCPCS,ccs158
+22585,Additional spinal fusion,CPT_HCPCS,ccs158
+22586,Prescrl fuse w/ instr l5-s1,CPT_HCPCS,ccs158
+22590,Spine & skull spinal fusion,CPT_HCPCS,ccs158
+22595,Neck spinal fusion,CPT_HCPCS,ccs158
+22600,Neck spine fusion,CPT_HCPCS,ccs158
+22610,Thorax spine fusion,CPT_HCPCS,ccs158
+22612,Lumbar spine fusion,CPT_HCPCS,ccs158
+22614,Spine fusion extra segment,CPT_HCPCS,ccs158
+22630,Lumbar spine fusion,CPT_HCPCS,ccs158
+22632,Spine fusion extra segment,CPT_HCPCS,ccs158
+22633,Lumbar spine fusion combined,CPT_HCPCS,ccs158
+22634,Spine fusion extra segment,CPT_HCPCS,ccs158
+22800,Post fusion </6 vert seg,CPT_HCPCS,ccs158
+22802,Post fusion 7-12 vert seg,CPT_HCPCS,ccs158
+22804,Post fusion 13/> vert seg,CPT_HCPCS,ccs158
+22808,Ant fusion 2-3 vert seg,CPT_HCPCS,ccs158
+22810,Ant fusion 4-7 vert seg,CPT_HCPCS,ccs158
+22812,Ant fusion 8/> vert seg,CPT_HCPCS,ccs158
+22840,Insert spine fixation device,CPT_HCPCS,ccs158
+22841,Insert spine fixation device,CPT_HCPCS,ccs158
+22842,Insert spine fixation device,CPT_HCPCS,ccs158
+22843,Insert spine fixation device,CPT_HCPCS,ccs158
+22844,Insert spine fixation device,CPT_HCPCS,ccs158
+22845,Insert spine fixation device,CPT_HCPCS,ccs158
+22846,Insert spine fixation device,CPT_HCPCS,ccs158
+22847,Insert spine fixation device,CPT_HCPCS,ccs158
+22848,Insert pelv fixation device,CPT_HCPCS,ccs158
+22849,Reinsert spinal fixation,CPT_HCPCS,ccs158
+22850,Remove spine fixation device,CPT_HCPCS,ccs158
+22851,Apply spine prosth device,CPT_HCPCS,ccs158
+22852,Remove spine fixation device,CPT_HCPCS,ccs158
+22853,Insj biomechanical device,CPT_HCPCS,ccs158
+22854,Insj biomechanical device,CPT_HCPCS,ccs158
+22855,Remove spine fixation device,CPT_HCPCS,ccs158
+22857,Lumbar artif diskectomy,CPT_HCPCS,ccs158
+22859,Insj biomechanical device,CPT_HCPCS,ccs158
+22862,Revise lumbar artif disc,CPT_HCPCS,ccs158
+22865,Remove lumb artif disc,CPT_HCPCS,ccs158
+0312T,Laps impltj nstim vagus,CPT_HCPCS,ccs244
+0313T,Laps rmvl nstim array vagus,CPT_HCPCS,ccs244
+0314T,Laps rmvl vgl arry&pls gen,CPT_HCPCS,ccs244
+0315T,Rmvl vagus nerve pls gen,CPT_HCPCS,ccs244
+0316T,Replc vagus nerve pls gen,CPT_HCPCS,ccs244
+0317T,Elec alys vagus nrv pls gen,CPT_HCPCS,ccs244
+43644,Lap gastric bypass/roux-en-y,CPT_HCPCS,ccs244
+43645,Lap gastr bypass incl smll i,CPT_HCPCS,ccs244
+43770,Lap place gastr adj device,CPT_HCPCS,ccs244
+43771,Lap revise gastr adj device,CPT_HCPCS,ccs244
+43772,Lap rmvl gastr adj device,CPT_HCPCS,ccs244
+43773,Lap replace gastr adj device,CPT_HCPCS,ccs244
+43774,Lap rmvl gastr adj all parts,CPT_HCPCS,ccs244
+43775,Lap sleeve gastrectomy,CPT_HCPCS,ccs244
+43842,V-band gastroplasty,CPT_HCPCS,ccs244
+43843,Gastroplasty w/o v-band,CPT_HCPCS,ccs244
+43845,Gastroplasty duodenal switch,CPT_HCPCS,ccs244
+43846,Gastric bypass for obesity,CPT_HCPCS,ccs244
+43847,Gastric bypass incl small i,CPT_HCPCS,ccs244
+43848,Revision gastroplasty,CPT_HCPCS,ccs244
+43886,Revise gastric port open,CPT_HCPCS,ccs244
+43887,Remove gastric port open,CPT_HCPCS,ccs244
+43888,Change gastric port open,CPT_HCPCS,ccs244
+0202T,Post vert arthrplst 1 lumbar,CPT_HCPCS,ccs3
+0274T,Perq lamot/lam crv/thrc,CPT_HCPCS,ccs3
+0275T,Perq lamot/lam lumbar,CPT_HCPCS,ccs3
+22856,Cerv artific diskectomy,CPT_HCPCS,ccs3
+22858,Second level cer diskectomy,CPT_HCPCS,ccs3
+22861,Revise cerv artific disc,CPT_HCPCS,ccs3
+22864,Remove cerv artif disc,CPT_HCPCS,ccs3
+61343,Incise skull (press relief),CPT_HCPCS,ccs3
+62287,Percutaneous diskectomy,CPT_HCPCS,ccs3
+62351,Implant spinal canal cath,CPT_HCPCS,ccs3
+62380,Ndsc dcmprn 1 ntrspc lumbar,CPT_HCPCS,ccs3
+63001,Remove spine lamina 1/2 crvl,CPT_HCPCS,ccs3
+63003,Remove spine lamina 1/2 thrc,CPT_HCPCS,ccs3
+63005,Remove spine lamina 1/2 lmbr,CPT_HCPCS,ccs3
+63011,Remove spine lamina 1/2 scrl,CPT_HCPCS,ccs3
+63012,Remove lamina/facets lumbar,CPT_HCPCS,ccs3
+63015,Remove spine lamina >2 crvcl,CPT_HCPCS,ccs3
+63016,Remove spine lamina >2 thrc,CPT_HCPCS,ccs3
+63017,Remove spine lamina >2 lmbr,CPT_HCPCS,ccs3
+63020,Neck spine disk surgery,CPT_HCPCS,ccs3
+63030,Low back disk surgery,CPT_HCPCS,ccs3
+63035,Spinal disk surgery add -on,CPT_HCPCS,ccs3
+63040,Laminotomy single cervical,CPT_HCPCS,ccs3
+63042,Laminotomy single lumbar,CPT_HCPCS,ccs3
+63043,Laminotomy addl cervical,CPT_HCPCS,ccs3
+63044,Laminotomy addl lumbar,CPT_HCPCS,ccs3
+63045,Remove spine lamina 1 crvl,CPT_HCPCS,ccs3
+63046,Remove spine lamina 1 thrc,CPT_HCPCS,ccs3
+63047,Remove spine lamina 1 lmbr,CPT_HCPCS,ccs3
+63048,Remove spinal lamina add -on,CPT_HCPCS,ccs3
+63050,Cervical laminoplsty 2/> seg,CPT_HCPCS,ccs3
+63051,C -laminoplasty w/graft/plate,CPT_HCPCS,ccs3
+63055,Decompress spinal cord thrc,CPT_HCPCS,ccs3
+63056,Decompress spinal cord lmbr,CPT_HCPCS,ccs3
+63057,Decompress spine cord add -on,CPT_HCPCS,ccs3
+63064,Decompress spinal cord thrc,CPT_HCPCS,ccs3
+63066,Decompress spine cord add -on,CPT_HCPCS,ccs3
+63075,Neck spine disk surgery,CPT_HCPCS,ccs3
+63076,Neck spine disk surgery,CPT_HCPCS,ccs3
+63077,Spine disk surgery thorax,CPT_HCPCS,ccs3
+63078,Spine disk surgery thorax,CPT_HCPCS,ccs3
+63081,Remove vert body dcmprn crvl,CPT_HCPCS,ccs3
+63082,Remove vertebral body add -on,CPT_HCPCS,ccs3
+63085,Remove vert body dcmprn thrc,CPT_HCPCS,ccs3
+63086,Remove vertebral body add -on,CPT_HCPCS,ccs3
+63087,Remov vertbr dcmprn thrclmbr,CPT_HCPCS,ccs3
+63088,Remove vertebral body add -on,CPT_HCPCS,ccs3
+63090,Remove vert body dcmprn lmbr,CPT_HCPCS,ccs3
+63091,Remove vertebral body add -on,CPT_HCPCS,ccs3
+63101,Remove vert body dcmprn thrc,CPT_HCPCS,ccs3
+63102,Remove vert body dcmprn lmbr,CPT_HCPCS,ccs3
+63103,Remove vertebral body add -on,CPT_HCPCS,ccs3
+63170,Incise spinal cord tract(s),CPT_HCPCS,ccs3
+63172,Drainage of spinal cyst,CPT_HCPCS,ccs3
+63173,Drainage of spinal cyst,CPT_HCPCS,ccs3
+63180,Revise spinal cord ligaments,CPT_HCPCS,ccs3
+63182,Revise spinal cord ligaments,CPT_HCPCS,ccs3
+63185,Incise spine nrv half segmnt,CPT_HCPCS,ccs3
+63190,Incise spine nrv >2 segmnts,CPT_HCPCS,ccs3
+63191,Incise spine accessory nerve,CPT_HCPCS,ccs3
+63194,Incise spine & cord cervical,CPT_HCPCS,ccs3
+63195,Incise spine & cord thoracic,CPT_HCPCS,ccs3
+63196,Incise spine&cord 2 trx crvl,CPT_HCPCS,ccs3
+63197,Incise spine&cord 2 trx thrc,CPT_HCPCS,ccs3
+63198,Incise spin&cord 2 stgs crvl,CPT_HCPCS,ccs3
+63199,Incise spin&cord 2 stgs thrc,CPT_HCPCS,ccs3
+63200,Release spinal cord lumbar,CPT_HCPCS,ccs3
+63250,Revise spinal cord vsls crvl,CPT_HCPCS,ccs3
+63251,Revise spinal cord vsls thrc,CPT_HCPCS,ccs3
+63252,Revise spine cord vsl thrlmb,CPT_HCPCS,ccs3
+63655,Implant neuroelectrodes,CPT_HCPCS,ccs3
+63709,Repair spinal fluid leakage,CPT_HCPCS,ccs3
+63740,Install spinal shunt,CPT_HCPCS,ccs3
+C9729,Percut lumbar lami,CPT_HCPCS,ccs3
+G0276,Pild/placebo control clin tr,CPT_HCPCS,ccs3
+S2348,Decompress disc RF lumbar,CPT_HCPCS,ccs3
+S2350,Diskectomy - anterior - with d,CPT_HCPCS,ccs3
+S2351,Diskectomy - anterior - with d,CPT_HCPCS,ccs3
+33140,Heart revascularize (tmr),CPT_HCPCS,ccs44
+33141,Heart tmr w/other procedure,CPT_HCPCS,ccs44
+33510,Cabg vein single,CPT_HCPCS,ccs44
+33511,Cabg vein two,CPT_HCPCS,ccs44
+33512,Cabg vein three,CPT_HCPCS,ccs44
+33513,Cabg vein four,CPT_HCPCS,ccs44
+33514,Cabg vein five,CPT_HCPCS,ccs44
+33516,Cabg vein six or more,CPT_HCPCS,ccs44
+33517,Cabg artery-vein single,CPT_HCPCS,ccs44
+33518,Cabg artery-vein two,CPT_HCPCS,ccs44
+33519,Cabg artery-vein three,CPT_HCPCS,ccs44
+33521,Cabg artery-vein four,CPT_HCPCS,ccs44
+33522,Cabg artery-vein five,CPT_HCPCS,ccs44
+33523,Cabg art-vein six or more,CPT_HCPCS,ccs44
+33530,Coronary artery bypass/reop,CPT_HCPCS,ccs44
+33533,Cabg arterial single,CPT_HCPCS,ccs44
+33534,Cabg arterial two,CPT_HCPCS,ccs44
+33535,Cabg arterial three,CPT_HCPCS,ccs44
+33536,Cabg arterial four or more,CPT_HCPCS,ccs44
+35600,Harvest art for cabg add-on,CPT_HCPCS,ccs44
+S2205,Minimally invasive direct co,CPT_HCPCS,ccs44
+S2206,Minimally invasive direct co,CPT_HCPCS,ccs44
+S2207,Minimally invasive direct co,CPT_HCPCS,ccs44
+S2208,Minimally invasive direct co,CPT_HCPCS,ccs44
+S2209,Minimally invasive direct co,CPT_HCPCS,ccs44
+92920,Prq cardiac angioplast 1 art,CPT_HCPCS,ccs45
+92921,Prq cardiac angio addl art,CPT_HCPCS,ccs45
+92924,Prq card angio/athrect 1 art,CPT_HCPCS,ccs45
+92925,Prq card angio/athrect addl,CPT_HCPCS,ccs45
+92928,Prq card stent w/angio 1 vsl,CPT_HCPCS,ccs45
+92929,Prq card stent w/angio addl,CPT_HCPCS,ccs45
+92933,Prq card stent/ath/angio,CPT_HCPCS,ccs45
+92934,Prq card stent/ath/angio,CPT_HCPCS,ccs45
+92937,Prq revasc byp graft 1 vsl,CPT_HCPCS,ccs45
+92938,Prq revasc byp graft addl,CPT_HCPCS,ccs45
+92941,Prq card revasc mi 1 vsl,CPT_HCPCS,ccs45
+92943,Prq card revasc chronic 1vsl,CPT_HCPCS,ccs45
+92944,Prq card revasc chronic addl,CPT_HCPCS,ccs45
+92973,Prq coronary mech thrombect,CPT_HCPCS,ccs45
+92980,Insert intracoronary stent,CPT_HCPCS,ccs45
+92981,Insert intracoronary stent,CPT_HCPCS,ccs45
+92982,Coronary artery dilation,CPT_HCPCS,ccs45
+92984,Coronary artery dilation,CPT_HCPCS,ccs45
+92995,Coronary atherectomy,CPT_HCPCS,ccs45
+92996,Coronary atherectomy add-on,CPT_HCPCS,ccs45
+C9600,Perc drug-el cor stent sing,CPT_HCPCS,ccs45
+C9601,Perc drug-el cor stent bran,CPT_HCPCS,ccs45
+C9602,Perc d-e cor stent ather s,CPT_HCPCS,ccs45
+C9603,Perc d-e cor stent ather br,CPT_HCPCS,ccs45
+C9604,Perc d-e cor revasc t cabg s,CPT_HCPCS,ccs45
+C9605,Perc d-e cor revasc t cabg b,CPT_HCPCS,ccs45
+C9606,Perc d-e cor revasc w AMI s,CPT_HCPCS,ccs45
+C9607,Perc d-e cor revasc chro sin,CPT_HCPCS,ccs45
+C9608,Perc d-e cor revasc chro add,CPT_HCPCS,ccs45
+G0290,Drug-eluting stents - single,CPT_HCPCS,ccs45
+G0291,Drug-eluting stents -each add,CPT_HCPCS,ccs45
+0293T,Ins lt atrl press monitor,CPT_HCPCS,ccs48
+0294T,Ins lt atrl mont pres lead,CPT_HCPCS,ccs48
+0319T,Insert subq defib w/eltrd,CPT_HCPCS,ccs48
+0320T,Insert subq defib electrode,CPT_HCPCS,ccs48
+0321T,Insert subq defib pls gen,CPT_HCPCS,ccs48
+0322T,Rmvl subq defib pls gen,CPT_HCPCS,ccs48
+0323T,Rmvl & replc subq pls gen,CPT_HCPCS,ccs48
+0324T,Rmvl subq defib electrode,CPT_HCPCS,ccs48
+0325T,Repos subq defib eltrd &/gen,CPT_HCPCS,ccs48
+0387T,Leadless c pm ins/rpl ventr,CPT_HCPCS,ccs48
+0388T,Leadless c pm remove ventr,CPT_HCPCS,ccs48
+0408T,Insj/rplc cardiac modulj sys,CPT_HCPCS,ccs48
+0409T,Insj/rplc cardiac modulj pls gn,CPT_HCPCS,ccs48
+0410T,Insj/rplc car modulj atr elt,CPT_HCPCS,ccs48
+0411T,Insj/rplc car modulj vnt elt,CPT_HCPCS,ccs48
+0412T,Rmvl cardiac modulj pls gen,CPT_HCPCS,ccs48
+0413T,Rmvl car modulj tranvns elt,CPT_HCPCS,ccs48
+0414T,Rmvl & rpl car modulj pls gn,CPT_HCPCS,ccs48
+0415T,Repos car modulj tranvns elt,CPT_HCPCS,ccs48
+0416T,Reloc skin pocket pls gen,CPT_HCPCS,ccs48
+33200,Insertion of heart pacemaker,CPT_HCPCS,ccs48
+33201,Insertion of heart pacemaker,CPT_HCPCS,ccs48
+33202,Insert epicard eltrd open,CPT_HCPCS,ccs48
+33203,Insert epicard eltrd endo,CPT_HCPCS,ccs48
+33206,Insert heart pm atrial,CPT_HCPCS,ccs48
+33207,Insert heart pm ventricular,CPT_HCPCS,ccs48
+33208,Insrt heart pm atrial & vent,CPT_HCPCS,ccs48
+33210,Insert electrd/pm cath sngl,CPT_HCPCS,ccs48
+33211,Insert card electrodes dual,CPT_HCPCS,ccs48
+33212,Insert pulse gen sngl lead,CPT_HCPCS,ccs48
+33213,Insert pulse gen dual leads,CPT_HCPCS,ccs48
+33214,Upgrade of pacemaker system,CPT_HCPCS,ccs48
+33215,Reposition pacing-defib lead,CPT_HCPCS,ccs48
+33216,Insert 1 electrode pm-defib,CPT_HCPCS,ccs48
+33217,Insert 2 electrode pm-defib,CPT_HCPCS,ccs48
+33218,Repair lead pace-defib one,CPT_HCPCS,ccs48
+33220,Repair lead pace-defib dual,CPT_HCPCS,ccs48
+33221,Insert pulse gen mult leads,CPT_HCPCS,ccs48
+33222,Relocation pocket pacemaker,CPT_HCPCS,ccs48
+33223,Relocate pocket for defib,CPT_HCPCS,ccs48
+33224,Insert pacing lead & connect,CPT_HCPCS,ccs48
+33225,L ventric pacing lead add-on,CPT_HCPCS,ccs48
+33226,Reposition l ventric lead,CPT_HCPCS,ccs48
+33227,Remove&replace pm gen singl,CPT_HCPCS,ccs48
+33228,Remv&replc pm gen dual lead,CPT_HCPCS,ccs48
+33229,Remv&replc pm gen mult leads,CPT_HCPCS,ccs48
+33230,Insrt pulse gen w/dual leads,CPT_HCPCS,ccs48
+33231,Insrt pulse gen w/mult leads,CPT_HCPCS,ccs48
+33233,Removal of pm generator,CPT_HCPCS,ccs48
+33234,Removal of pacemaker system,CPT_HCPCS,ccs48
+33235,Removal pacemaker electrode,CPT_HCPCS,ccs48
+33236,Remove electrode/thoracotomy,CPT_HCPCS,ccs48
+33237,Remove electrode/thoracotomy,CPT_HCPCS,ccs48
+33238,Remove electrode/thoracotomy,CPT_HCPCS,ccs48
+33240,Insrt pulse gen w/singl lead,CPT_HCPCS,ccs48
+33241,Remove pulse generator,CPT_HCPCS,ccs48
+33243,Remove eltrd/thoracotomy,CPT_HCPCS,ccs48
+33244,Remove elctrd transvenously,CPT_HCPCS,ccs48
+33245,Insert epic eltrd pace-defib,CPT_HCPCS,ccs48
+33246,Insert epic eltrd/generator,CPT_HCPCS,ccs48
+33249,Insj/rplcmt defib w/lead(s),CPT_HCPCS,ccs48
+33262,Rmvl& replc pulse gen 1 lead,CPT_HCPCS,ccs48
+33263,Rmvl & rplcmt dfb gen 2 lead,CPT_HCPCS,ccs48
+33264,Rmvl & rplcmt dfb gen mlt ld,CPT_HCPCS,ccs48
+33270,Ins/rep subq defibrillator,CPT_HCPCS,ccs48
+33271,Insj subq impltbl dfb elctrd,CPT_HCPCS,ccs48
+33272,Rmvl of subq defibrillator,CPT_HCPCS,ccs48
+33273,Repos prev impltbl subq dfb,CPT_HCPCS,ccs48
+G0297,Ldct for lung ca screen,CPT_HCPCS,ccs48
+G0298,Hiv combination assay,CPT_HCPCS,ccs48
+G0299,Hhs/hospice of rn ea 15 min,CPT_HCPCS,ccs48
+G0300,Hhs/hospice of lpn ea 15 min,CPT_HCPCS,ccs48
+G0448,Place perm pacing cardiovert,CPT_HCPCS,ccs48
+35301,Rechanneling of artery,CPT_HCPCS,ccs51_59
+35390,Reoperation carotid add-on,CPT_HCPCS,ccs51_59
+35901,Excision graft neck,CPT_HCPCS,ccs51_59
+33889,Artery transpose/endovas taa,CPT_HCPCS,ccs51_59
+33891,Car-car bp grft/endovas taa,CPT_HCPCS,ccs51_59
+34001,Removal of artery clot,CPT_HCPCS,ccs51_59
+34471,Removal of vein clot,CPT_HCPCS,ccs51_59
+35001,Repair defect of artery,CPT_HCPCS,ccs51_59
+35002,Repair artery rupture neck,CPT_HCPCS,ccs51_59
+35005,Repair defect of artery,CPT_HCPCS,ccs51_59
+35180,Repair blood vessel lesion,CPT_HCPCS,ccs51_59
+35188,Repair blood vessel lesion,CPT_HCPCS,ccs51_59
+35231,Repair blood vessel lesion,CPT_HCPCS,ccs51_59
+35261,Repair blood vessel lesion,CPT_HCPCS,ccs51_59
+35691,Art trnsposj vertbrl carotid,CPT_HCPCS,ccs51_59
+35693,Art trnsposj subclavian,CPT_HCPCS,ccs51_59
+35694,Art trnsposj subclav carotid,CPT_HCPCS,ccs51_59
+35695,Art trnsposj carotid subclav,CPT_HCPCS,ccs51_59
+35697,Reimplant artery each,CPT_HCPCS,ccs51_59
+35701,Exploration carotid artery,CPT_HCPCS,ccs51_59
+35800,Explore neck vessels,CPT_HCPCS,ccs51_59
+37215,Transcath stent cca w/eps,CPT_HCPCS,ccs51_59
+37216,Transcath stent cca w/o eps,CPT_HCPCS,ccs51_59
+37565,Ligation of neck vein,CPT_HCPCS,ccs51_59
+37600,Ligation of neck artery,CPT_HCPCS,ccs51_59
+37605,Ligation of neck artery,CPT_HCPCS,ccs51_59
+37606,Ligation of neck artery,CPT_HCPCS,ccs51_59
+37609,Temporal artery procedure,CPT_HCPCS,ccs51_59
+37615,Ligation of neck artery,CPT_HCPCS,ccs51_59
+60600,Remove carotid body lesion,CPT_HCPCS,ccs51_59
+60605,Remove carotid body lesion,CPT_HCPCS,ccs51_59
+61609,Transect artery sinus,CPT_HCPCS,ccs51_59
+61610,Transect artery sinus,CPT_HCPCS,ccs51_59
+61611,Transect artery sinus,CPT_HCPCS,ccs51_59
+61612,Transect artery sinus,CPT_HCPCS,ccs51_59
+61613,Remove aneurysm sinus,CPT_HCPCS,ccs51_59
+61623,Endovasc tempory vessel occl,CPT_HCPCS,ccs51_59
+61624,Transcath occlusion cns,CPT_HCPCS,ccs51_59
+61626,Transcath occlusion non-cns,CPT_HCPCS,ccs51_59
+61630,Intracranial angioplasty,CPT_HCPCS,ccs51_59
+61635,Intracran angioplsty w/stent,CPT_HCPCS,ccs51_59
+61640,Dilate ic vasospasm init,CPT_HCPCS,ccs51_59
+61641,Dilate ic vasospasm add-on,CPT_HCPCS,ccs51_59
+61642,Dilate ic vasospasm add-on,CPT_HCPCS,ccs51_59
+61645,Perq art m-thrombect &/nfs,CPT_HCPCS,ccs51_59
+61680,Intracranial vessel surgery,CPT_HCPCS,ccs51_59
+61682,Intracranial vessel surgery,CPT_HCPCS,ccs51_59
+61684,Intracranial vessel surgery,CPT_HCPCS,ccs51_59
+61686,Intracranial vessel surgery,CPT_HCPCS,ccs51_59
+61690,Intracranial vessel surgery,CPT_HCPCS,ccs51_59
+61692,Intracranial vessel surgery,CPT_HCPCS,ccs51_59
+61697,Brain aneurysm repr complx,CPT_HCPCS,ccs51_59
+61698,Brain aneurysm repr complx,CPT_HCPCS,ccs51_59
+61700,Brain aneurysm repr simple,CPT_HCPCS,ccs51_59
+61702,Inner skull vessel surgery,CPT_HCPCS,ccs51_59
+61703,Clamp neck artery,CPT_HCPCS,ccs51_59
+61705,Revise circulation to head,CPT_HCPCS,ccs51_59
+61708,Revise circulation to head,CPT_HCPCS,ccs51_59
+61710,Revise circulation to head,CPT_HCPCS,ccs51_59
+61711,Fusion of skull arteries,CPT_HCPCS,ccs51_59
+0005T,Perc cath stent/brain cv art,CPT_HCPCS,ccs51_59
+0006T,Perc cath stent/brain cv art,CPT_HCPCS,ccs51_59
+0037T,Artery transpose/endovas taa,CPT_HCPCS,ccs51_59
+0075T,Perq stent/chest vert art,CPT_HCPCS,ccs51_59
+0076T,S&i stent/chest vert art,CPT_HCPCS,ccs51_59
+0266T,Implt/rpl crtd sns dev total,CPT_HCPCS,ccs51_59
+0267T,Implt/rpl crtd sns dev lead,CPT_HCPCS,ccs51_59
+0268T,Implt/rpl crtd sns dev gen,CPT_HCPCS,ccs51_59
+0269T,Rev/remvl crtd sns dev total,CPT_HCPCS,ccs51_59
+0270T,Rev/remvl crtd sns dev lead,CPT_HCPCS,ccs51_59
+0271T,Rev/remvl crtd sns dev gen,CPT_HCPCS,ccs51_59
+34520,Cross-over vein graft,CPT_HCPCS,ccs55_61
+35516,Art byp grft subclav-axilary,CPT_HCPCS,ccs55_61
+35518,Art byp grft axillary-axilry,CPT_HCPCS,ccs55_61
+35521,Art byp grft axill-femoral,CPT_HCPCS,ccs55_61
+35522,Art byp grft axill-brachial,CPT_HCPCS,ccs55_61
+35523,Art byp grft brchl-ulnr-rdl,CPT_HCPCS,ccs55_61
+35525,Art byp grft brachial-brchl,CPT_HCPCS,ccs55_61
+35533,Art byp grft axill/fem/fem,CPT_HCPCS,ccs55_61
+35537,Art byp grft aortoiliac,CPT_HCPCS,ccs55_61
+35538,Art byp grft aortobi-iliac,CPT_HCPCS,ccs55_61
+35539,Art byp grft aortofemoral,CPT_HCPCS,ccs55_61
+35540,Art byp grft aortbifemoral,CPT_HCPCS,ccs55_61
+35541,Artery bypass graft,CPT_HCPCS,ccs55_61
+35546,Artery bypass graft,CPT_HCPCS,ccs55_61
+35548,Artery bypass graft,CPT_HCPCS,ccs55_61
+35549,Artery bypass graft,CPT_HCPCS,ccs55_61
+35551,Artery bypass graft,CPT_HCPCS,ccs55_61
+35556,Art byp grft fem-popliteal,CPT_HCPCS,ccs55_61
+35558,Art byp grft fem-femoral,CPT_HCPCS,ccs55_61
+35565,Art byp grft iliofemoral,CPT_HCPCS,ccs55_61
+35566,Art byp fem-ant-post tib/prl,CPT_HCPCS,ccs55_61
+35570,Art byp tibial-tib/peroneal,CPT_HCPCS,ccs55_61
+35571,Art byp pop-tibl-prl-other,CPT_HCPCS,ccs55_61
+35582,Vein bypass graft,CPT_HCPCS,ccs55_61
+35583,Vein byp grft fem-popliteal,CPT_HCPCS,ccs55_61
+35585,Vein byp fem-tibial peroneal,CPT_HCPCS,ccs55_61
+35587,Vein byp pop-tibl peroneal,CPT_HCPCS,ccs55_61
+35616,Art byp subclav-axillary,CPT_HCPCS,ccs55_61
+35621,Art byp axillary-femoral,CPT_HCPCS,ccs55_61
+35623,Art byp axillary-pop-tibial,CPT_HCPCS,ccs55_61
+35637,Art byp aortoiliac,CPT_HCPCS,ccs55_61
+35638,Art byp aortobi-iliac,CPT_HCPCS,ccs55_61
+35641,Artery bypass graft,CPT_HCPCS,ccs55_61
+35646,Art byp aortobifemoral,CPT_HCPCS,ccs55_61
+35647,Art byp aortofemoral,CPT_HCPCS,ccs55_61
+35650,Art byp axillary-axillary,CPT_HCPCS,ccs55_61
+35651,Artery bypass graft,CPT_HCPCS,ccs55_61
+35654,Art byp axill-fem-femoral,CPT_HCPCS,ccs55_61
+35656,Art byp femoral-popliteal,CPT_HCPCS,ccs55_61
+35661,Art byp femoral-femoral,CPT_HCPCS,ccs55_61
+35665,Art byp iliofemoral,CPT_HCPCS,ccs55_61
+35666,Art byp fem-ant-post tib/prl,CPT_HCPCS,ccs55_61
+35671,Art byp pop-tibl-prl-other,CPT_HCPCS,ccs55_61
+35685,Bypass graft patency/patch,CPT_HCPCS,ccs55_61
+35686,Bypass graft/av fist patency,CPT_HCPCS,ccs55_61
+33320,Repair major blood vessel(s),CPT_HCPCS,ccs55_61
+33321,Repair major vessel,CPT_HCPCS,ccs55_61
+33322,Repair major blood vessel(s),CPT_HCPCS,ccs55_61
+33788,Revision of pulmonary artery,CPT_HCPCS,ccs55_61
+33800,Aortic suspension,CPT_HCPCS,ccs55_61
+33910,Remove lung artery emboli,CPT_HCPCS,ccs55_61
+33915,Remove lung artery emboli,CPT_HCPCS,ccs55_61
+33916,Surgery of great vessel,CPT_HCPCS,ccs55_61
+33917,Repair pulmonary artery,CPT_HCPCS,ccs55_61
+33925,Rpr pul art unifocal w/o cpb,CPT_HCPCS,ccs55_61
+33926,Repr pul art unifocal w/cpb,CPT_HCPCS,ccs55_61
+34051,Removal of artery clot,CPT_HCPCS,ccs55_61
+34101,Removal of artery clot,CPT_HCPCS,ccs55_61
+34111,Removal of arm artery clot,CPT_HCPCS,ccs55_61
+34151,Removal of artery clot,CPT_HCPCS,ccs55_61
+34490,Removal of vein clot,CPT_HCPCS,ccs55_61
+34501,Repair valve femoral vein,CPT_HCPCS,ccs55_61
+34502,Reconstruct vena cava,CPT_HCPCS,ccs55_61
+34510,Transposition of vein valve,CPT_HCPCS,ccs55_61
+34530,Leg vein fusion,CPT_HCPCS,ccs55_61
+34800,Endovas aaa repr w/sm tube,CPT_HCPCS,ccs55_61
+34802,Endovas aaa repr w/2-p part,CPT_HCPCS,ccs55_61
+34803,Endovas aaa repr w/3-p part,CPT_HCPCS,ccs55_61
+34804,Endovas aaa repr w/1-p part,CPT_HCPCS,ccs55_61
+34805,Endovas aaa repr w/long tube,CPT_HCPCS,ccs55_61
+34806,Aneurysm press sensor add-on,CPT_HCPCS,ccs55_61
+34808,Endovas iliac a device addon,CPT_HCPCS,ccs55_61
+34812,Xpose for endoprosth femorl,CPT_HCPCS,ccs55_61
+34813,Femoral endovas graft add-on,CPT_HCPCS,ccs55_61
+34820,Xpose for endoprosth iliac,CPT_HCPCS,ccs55_61
+34825,Endovasc extend prosth init,CPT_HCPCS,ccs55_61
+34826,Endovasc exten prosth addl,CPT_HCPCS,ccs55_61
+34833,Xpose for endoprosth iliac,CPT_HCPCS,ccs55_61
+34834,Xpose endoprosth brachial,CPT_HCPCS,ccs55_61
+34841,Endovasc visc aorta 1 graft,CPT_HCPCS,ccs55_61
+34842,Endovasc visc aorta 2 graft,CPT_HCPCS,ccs55_61
+34843,Endovasc visc aorta 3 graft,CPT_HCPCS,ccs55_61
+34844,Endovasc visc aorta 4 graft,CPT_HCPCS,ccs55_61
+34845,Visc & infraren abd 1 prosth,CPT_HCPCS,ccs55_61
+34846,Visc & infraren abd 2 prosth,CPT_HCPCS,ccs55_61
+34847,Visc & infraren abd 3 prosth,CPT_HCPCS,ccs55_61
+34848,Visc & infraren abd 4+ prost,CPT_HCPCS,ccs55_61
+34900,Endovasc iliac repr w/graft,CPT_HCPCS,ccs55_61
+35011,Repair defect of artery,CPT_HCPCS,ccs55_61
+35013,Repair artery rupture arm,CPT_HCPCS,ccs55_61
+35021,Repair defect of artery,CPT_HCPCS,ccs55_61
+35022,Repair artery rupture chest,CPT_HCPCS,ccs55_61
+35045,Repair defect of arm artery,CPT_HCPCS,ccs55_61
+35111,Repair defect of artery,CPT_HCPCS,ccs55_61
+35112,Repair artery rupture spleen,CPT_HCPCS,ccs55_61
+35121,Repair defect of artery,CPT_HCPCS,ccs55_61
+35122,Repair artery rupture belly,CPT_HCPCS,ccs55_61
+35131,Repair defect of artery,CPT_HCPCS,ccs55_61
+35132,Repair artery rupture groin,CPT_HCPCS,ccs55_61
+35141,Repair defect of artery,CPT_HCPCS,ccs55_61
+35142,Repair artery rupture thigh,CPT_HCPCS,ccs55_61
+35151,Repair defect of artery,CPT_HCPCS,ccs55_61
+35152,Repair ruptd popliteal art,CPT_HCPCS,ccs55_61
+35161,Repair defect of artery,CPT_HCPCS,ccs55_61
+35162,Repair artery rupture,CPT_HCPCS,ccs55_61
+35182,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35184,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35189,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35190,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35201,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35206,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35207,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35211,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35216,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35221,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35226,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35236,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35241,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35246,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35251,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35256,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35266,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35271,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35276,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35281,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35286,Repair blood vessel lesion,CPT_HCPCS,ccs55_61
+35311,Rechanneling of artery,CPT_HCPCS,ccs55_61
+35321,Rechanneling of artery,CPT_HCPCS,ccs55_61
+35331,Rechanneling of artery,CPT_HCPCS,ccs55_61
+35341,Rechanneling of artery,CPT_HCPCS,ccs55_61
+35351,Rechanneling of artery,CPT_HCPCS,ccs55_61
+35450,Repair arterial blockage,CPT_HCPCS,ccs55_61
+35452,Repair arterial blockage,CPT_HCPCS,ccs55_61
+35471,Repair arterial blockage,CPT_HCPCS,ccs55_61
+35472,Repair arterial blockage,CPT_HCPCS,ccs55_61
+35475,Repair arterial blockage,CPT_HCPCS,ccs55_61
+35476,Repair venous blockage,CPT_HCPCS,ccs55_61
+35681,Composite byp grft pros&vein,CPT_HCPCS,ccs55_61
+35682,Composite byp grft 2 veins,CPT_HCPCS,ccs55_61
+35683,Composite byp grft 3/> segmt,CPT_HCPCS,ccs55_61
+35721,Exploration femoral artery,CPT_HCPCS,ccs55_61
+35741,Exploration popliteal artery,CPT_HCPCS,ccs55_61
+35761,Exploration of artery/vein,CPT_HCPCS,ccs55_61
+35820,Explore chest vessels,CPT_HCPCS,ccs55_61
+35840,Explore abdominal vessels,CPT_HCPCS,ccs55_61
+35860,Explore limb vessels,CPT_HCPCS,ccs55_61
+35870,Repair vessel graft defect,CPT_HCPCS,ccs55_61
+35875,Removal of clot in graft,CPT_HCPCS,ccs55_61
+35876,Removal of clot in graft,CPT_HCPCS,ccs55_61
+35879,Revise graft w/vein,CPT_HCPCS,ccs55_61
+35881,Revise graft w/vein,CPT_HCPCS,ccs55_61
+35883,Revise graft w/nonauto graft,CPT_HCPCS,ccs55_61
+35884,Revise graft w/vein,CPT_HCPCS,ccs55_61
+35905,Excision graft thorax,CPT_HCPCS,ccs55_61
+35907,Excision graft abdomen,CPT_HCPCS,ccs55_61
+36260,Insertion of infusion pump,CPT_HCPCS,ccs55_61
+36261,Revision of infusion pump,CPT_HCPCS,ccs55_61
+36262,Removal of infusion pump,CPT_HCPCS,ccs55_61
+36470,Injection therapy of vein,CPT_HCPCS,ccs55_61
+36471,Injection therapy of veins,CPT_HCPCS,ccs55_61
+36860,External cannula declotting,CPT_HCPCS,ccs55_61
+36861,Cannula declotting,CPT_HCPCS,ccs55_61
+36870,Percut thrombect av fistula,CPT_HCPCS,ccs55_61
+37184,Prim art m-thrmbc 1st vsl,CPT_HCPCS,ccs55_61
+37185,Prim art m-thrmbc sbsq vsl,CPT_HCPCS,ccs55_61
+37186,Sec art thrombectomy add-on,CPT_HCPCS,ccs55_61
+37187,Venous mech thrombectomy,CPT_HCPCS,ccs55_61
+37188,Venous m-thrombectomy add-on,CPT_HCPCS,ccs55_61
+37204,Transcatheter occlusion,CPT_HCPCS,ccs55_61
+37205,Transcath iv stent percut,CPT_HCPCS,ccs55_61
+37206,Transcath iv stent/perc addl,CPT_HCPCS,ccs55_61
+37207,Transcath iv stent open,CPT_HCPCS,ccs55_61
+37208,Transcath iv stent/open addl,CPT_HCPCS,ccs55_61
+37212,Thrombolytic venous therapy,CPT_HCPCS,ccs55_61
+37213,Thromblytic art/ven therapy,CPT_HCPCS,ccs55_61
+37214,Cessj therapy cath removal,CPT_HCPCS,ccs55_61
+37217,Stent placemt retro carotid,CPT_HCPCS,ccs55_61
+37218,Stent placemt ante carotid,CPT_HCPCS,ccs55_61
+37220,Iliac revasc,CPT_HCPCS,ccs55_61
+37221,Iliac revasc w/stent,CPT_HCPCS,ccs55_61
+37222,Iliac revasc add-on,CPT_HCPCS,ccs55_61
+37223,Iliac revasc w/stent add-on,CPT_HCPCS,ccs55_61
+37224,Fem/popl revas w/tla,CPT_HCPCS,ccs55_61
+37225,Fem/popl revas w/ather,CPT_HCPCS,ccs55_61
+37226,Fem/popl revasc w/stent,CPT_HCPCS,ccs55_61
+37227,Fem/popl revasc stnt & ather,CPT_HCPCS,ccs55_61
+37228,Tib/per revasc w/tla,CPT_HCPCS,ccs55_61
+37229,Tib/per revasc w/ather,CPT_HCPCS,ccs55_61
+37230,Tib/per revasc w/stent,CPT_HCPCS,ccs55_61
+37231,Tib/per revasc stent & ather,CPT_HCPCS,ccs55_61
+37232,Tib/per revasc add-on,CPT_HCPCS,ccs55_61
+37233,Tibper revasc w/ather add-on,CPT_HCPCS,ccs55_61
+37234,Revsc opn/prq tib/pero stent,CPT_HCPCS,ccs55_61
+37235,Tib/per revasc stnt & ather,CPT_HCPCS,ccs55_61
+37236,Open/perq place stent 1st,CPT_HCPCS,ccs55_61
+37237,Open/perq place stent ea add,CPT_HCPCS,ccs55_61
+37238,Open/perq place stent same,CPT_HCPCS,ccs55_61
+37239,Open/perq place stent ea add,CPT_HCPCS,ccs55_61
+37241,Vasc embolize/occlude venous,CPT_HCPCS,ccs55_61
+37242,Vasc embolize/occlude artery,CPT_HCPCS,ccs55_61
+37243,Vasc embolize/occlude organ,CPT_HCPCS,ccs55_61
+37244,Vasc embolize/occlude bleed,CPT_HCPCS,ccs55_61
+37246,Trluml balo angiop 1st art,CPT_HCPCS,ccs55_61
+37247,Trluml balo angiop addl art,CPT_HCPCS,ccs55_61
+37248,Trluml balo angiop 1st vein,CPT_HCPCS,ccs55_61
+37249,Trluml balo angiop addl vein,CPT_HCPCS,ccs55_61
+37616,Ligation of chest artery,CPT_HCPCS,ccs55_61
+37617,Ligation of abdomen artery,CPT_HCPCS,ccs55_61
+37618,Ligation of extremity artery,CPT_HCPCS,ccs55_61
+37619,Ligation of inf vena cava,CPT_HCPCS,ccs55_61
+37620,Revision of major vein,CPT_HCPCS,ccs55_61
+37650,Revision of major vein,CPT_HCPCS,ccs55_61
+37660,Revision of major vein,CPT_HCPCS,ccs55_61
+37788,Revascularization penis,CPT_HCPCS,ccs55_61
+37790,Penile venous occlusion,CPT_HCPCS,ccs55_61
+37799,Vascular surgery procedure,CPT_HCPCS,ccs55_61
+0153T,Tcath sensor aneurysm sac,CPT_HCPCS,ccs55_61
+0154T,Study sensor aneurysm sac,CPT_HCPCS,ccs55_61
+0234T,Trluml perip athrc renal art,CPT_HCPCS,ccs55_61
+0235T,Trluml perip athrc visceral,CPT_HCPCS,ccs55_61
+0236T,Trluml perip athrc abd aorta,CPT_HCPCS,ccs55_61
+0237T,Trluml perip athrc brchiocph,CPT_HCPCS,ccs55_61
+0238T,Trluml perip athrc iliac art,CPT_HCPCS,ccs55_61
+0254T,Evasc rpr iliac art bifur,CPT_HCPCS,ccs55_61
+0255T,Evasc rpr iliac art bifr s&i,CPT_HCPCS,ccs55_61
+47400,Incision of liver duct,CPT_HCPCS,ccs84
+47420,Incision of bile duct,CPT_HCPCS,ccs84
+47425,Incision of bile duct,CPT_HCPCS,ccs84
+47460,Incise bile duct sphincter,CPT_HCPCS,ccs84
+47550,Bile duct endoscopy add-on,CPT_HCPCS,ccs84
+47562,Laparoscopic cholecystectomy,CPT_HCPCS,ccs84
+47563,Laparo cholecystectomy/graph,CPT_HCPCS,ccs84
+47564,Laparo cholecystectomy/explr,CPT_HCPCS,ccs84
+47600,Removal of gallbladder,CPT_HCPCS,ccs84
+47605,Removal of gallbladder,CPT_HCPCS,ccs84
+47610,Removal of gallbladder,CPT_HCPCS,ccs84
+47612,Removal of gallbladder,CPT_HCPCS,ccs84
+47620,Removal of gallbladder,CPT_HCPCS,ccs84
+47630,Remove bile duct stone,CPT_HCPCS,ccs84
