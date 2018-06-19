@@ -1,0 +1,95 @@
+668,Transurethral procedures w MCC,MSDRG,ccs113
+669,Transurethral procedures w CC,MSDRG,ccs113
+670,Transurethral procedures w/o CC/MCC,MSDRG,ccs113
+742,Uterine & adnexa proc for non-malignancy w CC/MCC,MSDRG,ccs124
+743,Uterine & adnexa proc for non-malignancy w/o CC/MCC,MSDRG,ccs124
+509,Arthroscopy,MSDRG,ccs149
+461,Bilateral or multiple major joint procs of lower extremity w MCC,MSDRG,ccs152
+462,Bilateral or multiple major joint procs of lower extremity w/o MCC,MSDRG,ccs152
+466,Revision of hip or knee replacement w MCC,MSDRG,ccs152
+467,Revision of hip or knee replacement w CC,MSDRG,ccs152
+468,Revision of hip or knee replacement w/o CC/MCC,MSDRG,ccs152
+469,Major joint replacement or reattachment of lower extremity w MCC,MSDRG,ccs152
+470,Major joint replacement or reattachment of lower extremity w/o MCC,MSDRG,ccs152
+461,Bilateral or multiple major joint procs of lower extremity w MCC,MSDRG,ccs153
+462,Bilateral or multiple major joint procs of lower extremity w/o MCC,MSDRG,ccs153
+466,Revision of hip or knee replacement w MCC,MSDRG,ccs153
+467,Revision of hip or knee replacement w CC,MSDRG,ccs153
+468,Revision of hip or knee replacement w/o CC/MCC,MSDRG,ccs153
+469,Major joint replacement or reattachment of lower extremity w MCC,MSDRG,ccs153
+470,Major joint replacement or reattachment of lower extremity w/o MCC,MSDRG,ccs153
+133,Other ear - nose - mouth & throat O.R. procedures w CC/MCC,MSDRG,ccs154
+134,Other ear - nose - mouth & throat O.R. procedures w/o CC/MCC,MSDRG,ccs154
+483,Major Joint/Limb Reattachment Procedure Of Upper Extremities,MSDRG,ccs154
+506,Major thumb or joint procedures,MSDRG,ccs154
+507,Major shoulder or elbow joint procedures w CC/MCC,MSDRG,ccs154
+508,Major shoulder or elbow joint procedures w/o CC/MCC,MSDRG,ccs154
+453,Combined anterior/posterior spinal fusion w MCC,MSDRG,ccs158
+454,Combined anterior/posterior spinal fusion w CC,MSDRG,ccs158
+455,Combined anterior/posterior spinal fusion w/o CC/MCC,MSDRG,ccs158
+456,Spinal fus exc cerv w spinal curv/malig/infec or ext fus w MCC,MSDRG,ccs158
+457,Spinal fus exc cerv w spinal curv/malig/infec or ext fus w CC,MSDRG,ccs158
+458,Spinal fus exc cerv w spinal curv/malig/infec or ext fus w/o CC/MCC,MSDRG,ccs158
+459,Spinal fusion except cervical w MCC,MSDRG,ccs158
+460,Spinal fusion except cervical w/o MCC,MSDRG,ccs158
+471,Cervical spinal fusion w MCC,MSDRG,ccs158
+472,Cervical spinal fusion w CC,MSDRG,ccs158
+473,Cervical spinal fusion w/o CC/MCC,MSDRG,ccs158
+326,Stomach - esophageal & duodenal proc w MCC,MSDRG,ccs244
+327,Stomach - esophageal & duodenal proc w CC,MSDRG,ccs244
+328,Stomach - esophageal & duodenal proc w/o CC/MCC,MSDRG,ccs244
+619,O.R. procedures for obesity w MCC,MSDRG,ccs244
+620,O.R. procedures for obesity w CC,MSDRG,ccs244
+621,O.R. procedures for obesity w/o CC/MCC,MSDRG,ccs244
+028,Spinal procedures w MCC,MSDRG,ccs3
+029,Spinal procedures w CC or spinal neurostimulators,MSDRG,ccs3
+030,Spinal procedures w/o CC/MCC,MSDRG,ccs3
+518,Back & Neck Proc Exc Spinal Fusion W Mcc Or Disc Device/Neurostim,MSDRG,ccs3
+519,Back & Neck Proc Exc Spinal Fusion w CC,MSDRG,ccs3
+520,Back & Neck Proc Exc Spinal Fusion W/O Cc/Mcc,MSDRG,ccs3
+231,Coronary bypass w PTCA w MCC,MSDRG,ccs44
+232,Coronary bypass w PTCA w/o MCC,MSDRG,ccs44
+233,Coronary bypass w cardiac cath w MCC,MSDRG,ccs44
+234,Coronary bypass w cardiac cath w/o MCC,MSDRG,ccs44
+235,Coronary bypass w/o cardiac cath w MCC,MSDRG,ccs44
+236,Coronary bypass w/o cardiac cath w/o MCC,MSDRG,ccs44
+246,Perc cardiovasc proc w drug-eluting stent w MCC or 4+ vessels/stents,MSDRG,ccs45
+247,Perc cardiovasc proc w drug-eluting stent w/o MCC,MSDRG,ccs45
+248,Perc cardiovasc proc w non-drug-eluting stent w MCC or 4+ ves/stents,MSDRG,ccs45
+249,Perc cardiovasc proc w non-drug-eluting stent w/o MCC,MSDRG,ccs45
+250,Perc cardiovasc proc w/o coronary artery stent or AMI w MCC,MSDRG,ccs45
+251,Perc cardiovasc proc w/o coronary artery stent or AMI w/o MCC,MSDRG,ccs45
+222,Cardiac defib implant w cardiac cath w AMI/HF/shock w MCC,MSDRG,ccs48
+223,Cardiac defib implant w cardiac cath w AMI/HF/shock w/o MCC,MSDRG,ccs48
+224,Cardiac defib implant w cardiac cath w/o AMI/HF/shock w MCC,MSDRG,ccs48
+225,Cardiac defib implant w cardiac cath w/o AMI/HF/shock w/o MCC,MSDRG,ccs48
+226,Cardiac defibrillator implant w/o cardiac cath w MCC,MSDRG,ccs48
+227,Cardiac defibrillator implant w/o cardiac cath w/o MCC,MSDRG,ccs48
+242,Permanent cardiac pacemaker implant w MCC,MSDRG,ccs48
+243,Permanent cardiac pacemaker implant w CC,MSDRG,ccs48
+244,Permanent cardiac pacemaker implant w/o CC/MCC,MSDRG,ccs48
+245,AICD generator procedures,MSDRG,ccs48
+258,Cardiac pacemaker device replacement w MCC,MSDRG,ccs48
+259,Cardiac pacemaker device replacement w/o MCC,MSDRG,ccs48
+260,Cardiac pacemaker revision except device replacement w MCC,MSDRG,ccs48
+261,Cardiac pacemaker revision except device replacement w CC,MSDRG,ccs48
+262,Cardiac pacemaker revision except device replacement w/o CC/MCC,MSDRG,ccs48
+265,AICD lead procedures,MSDRG,ccs48
+034,Carotid artery stent procedure w MCC,MSDRG,ccs51_59
+035,Carotid artery stent procedure w CC,MSDRG,ccs51_59
+036,Carotid artery stent procedure w/o CC/MCC,MSDRG,ccs51_59
+037,Extracranial procedures w MCC,MSDRG,ccs51_59
+038,Extracranial procedures w CC,MSDRG,ccs51_59
+039,Extracranial procedures w/o CC/MCC,MSDRG,ccs51_59
+252,Other vascular procedures w MCC,MSDRG,ccs55_61
+253,Other vascular procedures w CC,MSDRG,ccs55_61
+254,Other vascular procedures w/o CC/MCC,MSDRG,ccs55_61
+411,Cholecystectomy w c.d.e. w MCC,MSDRG,ccs84
+412,Cholecystectomy w c.d.e. w CC,MSDRG,ccs84
+413,Cholecystectomy w c.d.e. w/o CC/MCC,MSDRG,ccs84
+414,Cholecystectomy except by laparoscope w/o c.d.e. w MCC,MSDRG,ccs84
+415,Cholecystectomy except by laparoscope w/o c.d.e. w CC,MSDRG,ccs84
+416,Cholecystectomy except by laparoscope w/o c.d.e. w/o CC/MCC,MSDRG,ccs84
+417,Laparoscopic cholecystectomy w/o c.d.e. w MCC,MSDRG,ccs84
+418,Laparoscopic cholecystectomy w/o c.d.e. w CC,MSDRG,ccs84
+419,Laparoscopic cholecystectomy w/o c.d.e. w/o CC/MCC,MSDRG,ccs84
