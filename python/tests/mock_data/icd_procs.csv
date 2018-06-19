@@ -1,3 +1,4 @@
+code,code_description,code_type,ccs
 0V507ZZ,Destruction of Prostate - Via Natural or Artificial Opening,ICD10_PROC,ccs113
 0V508ZZ,Destruction of Prostate - Endo,ICD10_PROC,ccs113
 0VB07ZZ,Excision of Prostate - Via Natural or Artificial Opening,ICD10_PROC,ccs113
@@ -128,6 +129,126 @@
 0SWD0JZ,Revision of Synthetic Substitute in Left Knee Joint - Open Approach,ICD10_PROC,ccs152
 0SWD3JZ,Revision of Synthetic Substitute in Left Knee Joint - Percutaneous Approach,ICD10_PROC,ccs152
 0SWD4JZ,Revision of Synthetic Substitute in Left Knee Joint - Percutaneous Endoscopic Approach,ICD10_PROC,ccs152
+0SR9019,"Replacement of R Hip Jt with Metal, Cement, Open Approach",ICD10_PROC,ccs153
+0SR901A,"Replacement of R Hip Jt with Metal, Uncement, Open Approach",ICD10_PROC,ccs153
+0SR901Z,"Replacement of Right Hip Joint with Metal, Open Approach",ICD10_PROC,ccs153
+0SR9029,"Replace R Hip Jt w Metal on Poly, Cement, Open",ICD10_PROC,ccs153
+0SR902A,"Replace R Hip Jt w Metal on Poly, Uncement, Open",ICD10_PROC,ccs153
+0SR902Z,"Replacement of R Hip Jt with Metal on Poly, Open Approach",ICD10_PROC,ccs153
+0SR9039,"Replacement of R Hip Jt with Ceramic, Cement, Open Approach",ICD10_PROC,ccs153
+0SR903A,"Replace of R Hip Jt with Ceramic, Uncement, Open Approach",ICD10_PROC,ccs153
+0SR903Z,"Replacement of Right Hip Joint with Ceramic, Open Approach",ICD10_PROC,ccs153
+0SR9049,"Replace R Hip Jt w Ceramic on Poly, Cement, Open",ICD10_PROC,ccs153
+0SR904A,"Replace R Hip Jt w Ceramic on Poly, Uncement, Open",ICD10_PROC,ccs153
+0SR904Z,"Replacement of R Hip Jt with Ceramic on Poly, Open Approach",ICD10_PROC,ccs153
+0SR907Z,"Replacement of Right Hip Joint with Autol Sub, Open Approach",ICD10_PROC,ccs153
+0SR90J9,"Replace of R Hip Jt with Synth Sub, Cement, Open Approach",ICD10_PROC,ccs153
+0SR90JA,"Replace of R Hip Jt with Synth Sub, Uncement, Open Approach",ICD10_PROC,ccs153
+0SR90JZ,"Replacement of Right Hip Joint with Synth Sub, Open Approach",ICD10_PROC,ccs153
+0SR90KZ,"Replacement of R Hip Jt with Nonaut Sub, Open Approach",ICD10_PROC,ccs153
+0SRA009,"Replace R Hip Jt, Acetab w Polyeth, Cement, Open",ICD10_PROC,ccs153
+0SRA00A,"Replace R Hip Jt, Acetab w Polyeth, Uncement, Open",ICD10_PROC,ccs153
+0SRA00Z,"Replacement of R Hip Jt, Acetab with Polyeth, Open Approach",ICD10_PROC,ccs153
+0SRA019,"Replace R Hip Jt, Acetab w Metal, Cement, Open",ICD10_PROC,ccs153
+0SRA01A,"Replace R Hip Jt, Acetab w Metal, Uncement, Open",ICD10_PROC,ccs153
+0SRA01Z,"Replacement of R Hip Jt, Acetab with Metal, Open Approach",ICD10_PROC,ccs153
+0SRA039,"Replace R Hip Jt, Acetab w Ceramic, Cement, Open",ICD10_PROC,ccs153
+0SRA03A,"Replace R Hip Jt, Acetab w Ceramic, Uncement, Open",ICD10_PROC,ccs153
+0SRA03Z,"Replacement of R Hip Jt, Acetab with Ceramic, Open Approach",ICD10_PROC,ccs153
+0SRA07Z,"Replace of R Hip Jt, Acetab with Autol Sub, Open Approach",ICD10_PROC,ccs153
+0SRA0J9,"Replace R Hip Jt, Acetab w Synth Sub, Cement, Open",ICD10_PROC,ccs153
+0SRA0JA,"Replace R Hip Jt, Acetab w Synth Sub, Uncement, Open",ICD10_PROC,ccs153
+0SRA0JZ,"Replace of R Hip Jt, Acetab with Synth Sub, Open Approach",ICD10_PROC,ccs153
+0SRA0KZ,"Replace of R Hip Jt, Acetab with Nonaut Sub, Open Approach",ICD10_PROC,ccs153
+0SRB019,"Replacement of L Hip Jt with Metal, Cement, Open Approach",ICD10_PROC,ccs153
+0SRB01A,"Replacement of L Hip Jt with Metal, Uncement, Open Approach",ICD10_PROC,ccs153
+0SRB01Z,"Replacement of Left Hip Joint with Metal, Open Approach",ICD10_PROC,ccs153
+0SRB029,"Replace L Hip Jt w Metal on Poly, Cement, Open",ICD10_PROC,ccs153
+0SRB02A,"Replace L Hip Jt w Metal on Poly, Uncement, Open",ICD10_PROC,ccs153
+0SRB02Z,"Replacement of L Hip Jt with Metal on Poly, Open Approach",ICD10_PROC,ccs153
+0SRB039,"Replacement of L Hip Jt with Ceramic, Cement, Open Approach",ICD10_PROC,ccs153
+0SRB03A,"Replace of L Hip Jt with Ceramic, Uncement, Open Approach",ICD10_PROC,ccs153
+0SRB03Z,"Replacement of Left Hip Joint with Ceramic, Open Approach",ICD10_PROC,ccs153
+0SRB049,"Replace L Hip Jt w Ceramic on Poly, Cement, Open",ICD10_PROC,ccs153
+0SRB04A,"Replace L Hip Jt w Ceramic on Poly, Uncement, Open",ICD10_PROC,ccs153
+0SRB04Z,"Replacement of L Hip Jt with Ceramic on Poly, Open Approach",ICD10_PROC,ccs153
+0SRB07Z,"Replacement of Left Hip Joint with Autol Sub, Open Approach",ICD10_PROC,ccs153
+0SRB0J9,"Replace of L Hip Jt with Synth Sub, Cement, Open Approach",ICD10_PROC,ccs153
+0SRB0JA,"Replace of L Hip Jt with Synth Sub, Uncement, Open Approach",ICD10_PROC,ccs153
+0SRB0JZ,"Replacement of Left Hip Joint with Synth Sub, Open Approach",ICD10_PROC,ccs153
+0SRB0KZ,"Replacement of Left Hip Joint with Nonaut Sub, Open Approach",ICD10_PROC,ccs153
+0SRE009,"Replace L Hip Jt, Acetab w Polyeth, Cement, Open",ICD10_PROC,ccs153
+0SRE00A,"Replace L Hip Jt, Acetab w Polyeth, Uncement, Open",ICD10_PROC,ccs153
+0SRE00Z,"Replacement of L Hip Jt, Acetab with Polyeth, Open Approach",ICD10_PROC,ccs153
+0SRE019,"Replace L Hip Jt, Acetab w Metal, Cement, Open",ICD10_PROC,ccs153
+0SRE01A,"Replace L Hip Jt, Acetab w Metal, Uncement, Open",ICD10_PROC,ccs153
+0SRE01Z,"Replacement of L Hip Jt, Acetab with Metal, Open Approach",ICD10_PROC,ccs153
+0SRE039,"Replace L Hip Jt, Acetab w Ceramic, Cement, Open",ICD10_PROC,ccs153
+0SRE03A,"Replace L Hip Jt, Acetab w Ceramic, Uncement, Open",ICD10_PROC,ccs153
+0SRE03Z,"Replacement of L Hip Jt, Acetab with Ceramic, Open Approach",ICD10_PROC,ccs153
+0SRE07Z,"Replace of L Hip Jt, Acetab with Autol Sub, Open Approach",ICD10_PROC,ccs153
+0SRE0J9,"Replace L Hip Jt, Acetab w Synth Sub, Cement, Open",ICD10_PROC,ccs153
+0SRE0JA,"Replace L Hip Jt, Acetab w Synth Sub, Uncement, Open",ICD10_PROC,ccs153
+0SRE0JZ,"Replace of L Hip Jt, Acetab with Synth Sub, Open Approach",ICD10_PROC,ccs153
+0SRE0KZ,"Replace of L Hip Jt, Acetab with Nonaut Sub, Open Approach",ICD10_PROC,ccs153
+0SRR019,"Replace R Hip Jt, Femoral w Metal, Cement, Open",ICD10_PROC,ccs153
+0SRR01A,"Replace R Hip Jt, Femoral w Metal, Uncement, Open",ICD10_PROC,ccs153
+0SRR01Z,"Replacement of R Hip Jt, Femoral with Metal, Open Approach",ICD10_PROC,ccs153
+0SRR039,"Replace R Hip Jt, Femoral w Ceramic, Cement, Open",ICD10_PROC,ccs153
+0SRR03A,"Replace R Hip Jt, Femoral w Ceramic, Uncement, Open",ICD10_PROC,ccs153
+0SRR03Z,"Replacement of R Hip Jt, Femoral with Ceramic, Open Approach",ICD10_PROC,ccs153
+0SRR07Z,"Replace of R Hip Jt, Femoral with Autol Sub, Open Approach",ICD10_PROC,ccs153
+0SRR0J9,"Replace R Hip Jt, Femoral w Synth Sub, Cement, Open",ICD10_PROC,ccs153
+0SRR0JA,"Replace R Hip Jt, Femoral w Synth Sub, Uncement, Open",ICD10_PROC,ccs153
+0SRR0JZ,"Replace of R Hip Jt, Femoral with Synth Sub, Open Approach",ICD10_PROC,ccs153
+0SRR0KZ,"Replace of R Hip Jt, Femoral with Nonaut Sub, Open Approach",ICD10_PROC,ccs153
+0SRS019,"Replace L Hip Jt, Femoral w Metal, Cement, Open",ICD10_PROC,ccs153
+0SRS01A,"Replace L Hip Jt, Femoral w Metal, Uncement, Open",ICD10_PROC,ccs153
+0SRS01Z,"Replacement of L Hip Jt, Femoral with Metal, Open Approach",ICD10_PROC,ccs153
+0SRS039,"Replace L Hip Jt, Femoral w Ceramic, Cement, Open",ICD10_PROC,ccs153
+0SRS03A,"Replace L Hip Jt, Femoral w Ceramic, Uncement, Open",ICD10_PROC,ccs153
+0SRS03Z,"Replacement of L Hip Jt, Femoral with Ceramic, Open Approach",ICD10_PROC,ccs153
+0SRS07Z,"Replace of L Hip Jt, Femoral with Autol Sub, Open Approach",ICD10_PROC,ccs153
+0SRS0J9,"Replace L Hip Jt, Femoral w Synth Sub, Cement, Open",ICD10_PROC,ccs153
+0SRS0JA,"Replace L Hip Jt, Femoral w Synth Sub, Uncement, Open",ICD10_PROC,ccs153
+0SRS0JZ,"Replace of L Hip Jt, Femoral with Synth Sub, Open Approach",ICD10_PROC,ccs153
+0SRS0KZ,"Replace of L Hip Jt, Femoral with Nonaut Sub, Open Approach",ICD10_PROC,ccs153
+0SU907Z,"Supplement Right Hip Joint with Autol Sub, Open Approach",ICD10_PROC,ccs153
+0SU909Z,"Supplement Right Hip Joint with Liner, Open Approach",ICD10_PROC,ccs153
+0SU90BZ,"Supplement Right Hip Joint with Resurf Dev, Open Approach",ICD10_PROC,ccs153
+0SU90JZ,"Supplement Right Hip Joint with Synth Sub, Open Approach",ICD10_PROC,ccs153
+0SU90KZ,"Supplement Right Hip Joint with Nonaut Sub, Open Approach",ICD10_PROC,ccs153
+0SU937Z,"Supplement Right Hip Joint with Autol Sub, Perc Approach",ICD10_PROC,ccs153
+0SU93JZ,"Supplement Right Hip Joint with Synth Sub, Perc Approach",ICD10_PROC,ccs153
+0SU93KZ,"Supplement Right Hip Joint with Nonaut Sub, Perc Approach",ICD10_PROC,ccs153
+0SU947Z,"Supplement R Hip Jt with Autol Sub, Perc Endo Approach",ICD10_PROC,ccs153
+0SU94JZ,"Supplement R Hip Jt with Synth Sub, Perc Endo Approach",ICD10_PROC,ccs153
+0SU94KZ,"Supplement R Hip Jt with Nonaut Sub, Perc Endo Approach",ICD10_PROC,ccs153
+0SUA09Z,"Supplement R Hip Jt, Acetab with Liner, Open Approach",ICD10_PROC,ccs153
+0SUA0BZ,"Supplement R Hip Jt, Acetab with Resurf Dev, Open Approach",ICD10_PROC,ccs153
+0SUB07Z,"Supplement Left Hip Joint with Autol Sub, Open Approach",ICD10_PROC,ccs153
+0SUB09Z,"Supplement Left Hip Joint with Liner, Open Approach",ICD10_PROC,ccs153
+0SUB0BZ,"Supplement Left Hip Joint with Resurf Dev, Open Approach",ICD10_PROC,ccs153
+0SUB0JZ,"Supplement Left Hip Joint with Synth Sub, Open Approach",ICD10_PROC,ccs153
+0SUB0KZ,"Supplement Left Hip Joint with Nonaut Sub, Open Approach",ICD10_PROC,ccs153
+0SUB37Z,"Supplement Left Hip Joint with Autol Sub, Perc Approach",ICD10_PROC,ccs153
+0SUB3JZ,"Supplement Left Hip Joint with Synth Sub, Perc Approach",ICD10_PROC,ccs153
+0SUB3KZ,"Supplement Left Hip Joint with Nonaut Sub, Perc Approach",ICD10_PROC,ccs153
+0SUB47Z,"Supplement Left Hip Joint with Autol Sub, Perc Endo Approach",ICD10_PROC,ccs153
+0SUB4JZ,"Supplement Left Hip Joint with Synth Sub, Perc Endo Approach",ICD10_PROC,ccs153
+0SUB4KZ,"Supplement L Hip Jt with Nonaut Sub, Perc Endo Approach",ICD10_PROC,ccs153
+0SUE09Z,"Supplement L Hip Jt, Acetab with Liner, Open Approach",ICD10_PROC,ccs153
+0SUE0BZ,"Supplement L Hip Jt, Acetab with Resurf Dev, Open Approach",ICD10_PROC,ccs153
+0SUR09Z,"Supplement R Hip Jt, Femoral with Liner, Open Approach",ICD10_PROC,ccs153
+0SUR0BZ,"Supplement R Hip Jt, Femoral with Resurf Dev, Open Approach",ICD10_PROC,ccs153
+0SUS09Z,"Supplement L Hip Jt, Femoral with Liner, Open Approach",ICD10_PROC,ccs153
+0SUS0BZ,"Supplement L Hip Jt, Femoral with Resurf Dev, Open Approach",ICD10_PROC,ccs153
+0SW90JZ,"Revision of Synthetic Substitute in Right Hip Joint, Open Approach",ICD10_PROC,ccs153
+0SW93JZ,"Revision of Synthetic Substitute in Right Hip Joint, Percutaneous Approach",ICD10_PROC,ccs153
+0SW94JZ,"Revision of Synthetic Substitute in Right Hip Joint, Percutaneous Endoscopic Approach",ICD10_PROC,ccs153
+0SWB0JZ,"Revision of Synthetic Substitute in Left Hip Joint, Open Approach",ICD10_PROC,ccs153
+0SWB3JZ,"Revision of Synthetic Substitute in Left Hip Joint, Percutaneous Approach",ICD10_PROC,ccs153
+0SWB4JZ,"Revision of Synthetic Substitute in Left Hip Joint, Percutaneous Endoscopic Approach",ICD10_PROC,ccs153
 0RR007Z,Replacement of Occip Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
 0RR00JZ,Replacement of Occip Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
 0RR00KZ,Replacement of Occip Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
@@ -4073,11 +4194,6 @@ XRGD092,Fusion Lumsac Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,ccs158
 0W360ZZ,Control Bleeding in Neck - Open Approach,ICD10_PROC,ccs51_59
 0W363ZZ,Control Bleeding in Neck - Percutaneous Approach,ICD10_PROC,ccs51_59
 0W364ZZ,Control Bleeding in Neck - Percutaneous Endoscopic Approach,ICD10_PROC,ccs51_59
-0FB40ZZ,Excision of Gallbladder - Open Approach,ICD10_PROC,ccs84
-0FB43ZZ,Excision of Gallbladder - Percutaneous Approach,ICD10_PROC,ccs84
-0FB44ZZ,Excision of Gallbladder - Percutaneous Endoscopic Approach,ICD10_PROC,ccs84
-0FT40ZZ,Resection of Gallbladder - Open Approach,ICD10_PROC,ccs84
-0FT44ZZ,Resection of Gallbladder - Percutaneous Endoscopic Approach,ICD10_PROC,ccs84
 312090,"Bypass Innom Art to R Up Arm Art w Autol Vn, Open",ICD10_PROC,ccs55_61
 312091,"Bypass Innom Art to L Up Arm Art w Autol Vn, Open",ICD10_PROC,ccs55_61
 312092,"Bypass Innom Art to Bi Up Arm Art w Autol Vn, Open",ICD10_PROC,ccs55_61
@@ -14977,124 +15093,8 @@ XRGD092,Fusion Lumsac Jt w Nano Intbd Dev - Open - New Tech 2,ICD10_PROC,ccs158
 0Y3N0ZZ,"Control Bleeding in Left Foot, Open Approach",ICD10_PROC,ccs55_61
 0Y3N3ZZ,"Control Bleeding in Left Foot, Percutaneous Approach",ICD10_PROC,ccs55_61
 0Y3N4ZZ,"Control Bleeding in Left Foot, Perc Endo Approach",ICD10_PROC,ccs55_61
-
-0SR9019,"Replacement of R Hip Jt with Metal, Cement, Open Approach",ICD10_PROC,ccs153
-0SR901A,"Replacement of R Hip Jt with Metal, Uncement, Open Approach",ICD10_PROC,ccs153
-0SR901Z,"Replacement of Right Hip Joint with Metal, Open Approach",ICD10_PROC,ccs153
-0SR9029,"Replace R Hip Jt w Metal on Poly, Cement, Open",ICD10_PROC,ccs153
-0SR902A,"Replace R Hip Jt w Metal on Poly, Uncement, Open",ICD10_PROC,ccs153
-0SR902Z,"Replacement of R Hip Jt with Metal on Poly, Open Approach",ICD10_PROC,ccs153
-0SR9039,"Replacement of R Hip Jt with Ceramic, Cement, Open Approach",ICD10_PROC,ccs153
-0SR903A,"Replace of R Hip Jt with Ceramic, Uncement, Open Approach",ICD10_PROC,ccs153
-0SR903Z,"Replacement of Right Hip Joint with Ceramic, Open Approach",ICD10_PROC,ccs153
-0SR9049,"Replace R Hip Jt w Ceramic on Poly, Cement, Open",ICD10_PROC,ccs153
-0SR904A,"Replace R Hip Jt w Ceramic on Poly, Uncement, Open",ICD10_PROC,ccs153
-0SR904Z,"Replacement of R Hip Jt with Ceramic on Poly, Open Approach",ICD10_PROC,ccs153
-0SR907Z,"Replacement of Right Hip Joint with Autol Sub, Open Approach",ICD10_PROC,ccs153
-0SR90J9,"Replace of R Hip Jt with Synth Sub, Cement, Open Approach",ICD10_PROC,ccs153
-0SR90JA,"Replace of R Hip Jt with Synth Sub, Uncement, Open Approach",ICD10_PROC,ccs153
-0SR90JZ,"Replacement of Right Hip Joint with Synth Sub, Open Approach",ICD10_PROC,ccs153
-0SR90KZ,"Replacement of R Hip Jt with Nonaut Sub, Open Approach",ICD10_PROC,ccs153
-0SRA009,"Replace R Hip Jt, Acetab w Polyeth, Cement, Open",ICD10_PROC,ccs153
-0SRA00A,"Replace R Hip Jt, Acetab w Polyeth, Uncement, Open",ICD10_PROC,ccs153
-0SRA00Z,"Replacement of R Hip Jt, Acetab with Polyeth, Open Approach",ICD10_PROC,ccs153
-0SRA019,"Replace R Hip Jt, Acetab w Metal, Cement, Open",ICD10_PROC,ccs153
-0SRA01A,"Replace R Hip Jt, Acetab w Metal, Uncement, Open",ICD10_PROC,ccs153
-0SRA01Z,"Replacement of R Hip Jt, Acetab with Metal, Open Approach",ICD10_PROC,ccs153
-0SRA039,"Replace R Hip Jt, Acetab w Ceramic, Cement, Open",ICD10_PROC,ccs153
-0SRA03A,"Replace R Hip Jt, Acetab w Ceramic, Uncement, Open",ICD10_PROC,ccs153
-0SRA03Z,"Replacement of R Hip Jt, Acetab with Ceramic, Open Approach",ICD10_PROC,ccs153
-0SRA07Z,"Replace of R Hip Jt, Acetab with Autol Sub, Open Approach",ICD10_PROC,ccs153
-0SRA0J9,"Replace R Hip Jt, Acetab w Synth Sub, Cement, Open",ICD10_PROC,ccs153
-0SRA0JA,"Replace R Hip Jt, Acetab w Synth Sub, Uncement, Open",ICD10_PROC,ccs153
-0SRA0JZ,"Replace of R Hip Jt, Acetab with Synth Sub, Open Approach",ICD10_PROC,ccs153
-0SRA0KZ,"Replace of R Hip Jt, Acetab with Nonaut Sub, Open Approach",ICD10_PROC,ccs153
-0SRB019,"Replacement of L Hip Jt with Metal, Cement, Open Approach",ICD10_PROC,ccs153
-0SRB01A,"Replacement of L Hip Jt with Metal, Uncement, Open Approach",ICD10_PROC,ccs153
-0SRB01Z,"Replacement of Left Hip Joint with Metal, Open Approach",ICD10_PROC,ccs153
-0SRB029,"Replace L Hip Jt w Metal on Poly, Cement, Open",ICD10_PROC,ccs153
-0SRB02A,"Replace L Hip Jt w Metal on Poly, Uncement, Open",ICD10_PROC,ccs153
-0SRB02Z,"Replacement of L Hip Jt with Metal on Poly, Open Approach",ICD10_PROC,ccs153
-0SRB039,"Replacement of L Hip Jt with Ceramic, Cement, Open Approach",ICD10_PROC,ccs153
-0SRB03A,"Replace of L Hip Jt with Ceramic, Uncement, Open Approach",ICD10_PROC,ccs153
-0SRB03Z,"Replacement of Left Hip Joint with Ceramic, Open Approach",ICD10_PROC,ccs153
-0SRB049,"Replace L Hip Jt w Ceramic on Poly, Cement, Open",ICD10_PROC,ccs153
-0SRB04A,"Replace L Hip Jt w Ceramic on Poly, Uncement, Open",ICD10_PROC,ccs153
-0SRB04Z,"Replacement of L Hip Jt with Ceramic on Poly, Open Approach",ICD10_PROC,ccs153
-0SRB07Z,"Replacement of Left Hip Joint with Autol Sub, Open Approach",ICD10_PROC,ccs153
-0SRB0J9,"Replace of L Hip Jt with Synth Sub, Cement, Open Approach",ICD10_PROC,ccs153
-0SRB0JA,"Replace of L Hip Jt with Synth Sub, Uncement, Open Approach",ICD10_PROC,ccs153
-0SRB0JZ,"Replacement of Left Hip Joint with Synth Sub, Open Approach",ICD10_PROC,ccs153
-0SRB0KZ,"Replacement of Left Hip Joint with Nonaut Sub, Open Approach",ICD10_PROC,ccs153
-0SRE009,"Replace L Hip Jt, Acetab w Polyeth, Cement, Open",ICD10_PROC,ccs153
-0SRE00A,"Replace L Hip Jt, Acetab w Polyeth, Uncement, Open",ICD10_PROC,ccs153
-0SRE00Z,"Replacement of L Hip Jt, Acetab with Polyeth, Open Approach",ICD10_PROC,ccs153
-0SRE019,"Replace L Hip Jt, Acetab w Metal, Cement, Open",ICD10_PROC,ccs153
-0SRE01A,"Replace L Hip Jt, Acetab w Metal, Uncement, Open",ICD10_PROC,ccs153
-0SRE01Z,"Replacement of L Hip Jt, Acetab with Metal, Open Approach",ICD10_PROC,ccs153
-0SRE039,"Replace L Hip Jt, Acetab w Ceramic, Cement, Open",ICD10_PROC,ccs153
-0SRE03A,"Replace L Hip Jt, Acetab w Ceramic, Uncement, Open",ICD10_PROC,ccs153
-0SRE03Z,"Replacement of L Hip Jt, Acetab with Ceramic, Open Approach",ICD10_PROC,ccs153
-0SRE07Z,"Replace of L Hip Jt, Acetab with Autol Sub, Open Approach",ICD10_PROC,ccs153
-0SRE0J9,"Replace L Hip Jt, Acetab w Synth Sub, Cement, Open",ICD10_PROC,ccs153
-0SRE0JA,"Replace L Hip Jt, Acetab w Synth Sub, Uncement, Open",ICD10_PROC,ccs153
-0SRE0JZ,"Replace of L Hip Jt, Acetab with Synth Sub, Open Approach",ICD10_PROC,ccs153
-0SRE0KZ,"Replace of L Hip Jt, Acetab with Nonaut Sub, Open Approach",ICD10_PROC,ccs153
-0SRR019,"Replace R Hip Jt, Femoral w Metal, Cement, Open",ICD10_PROC,ccs153
-0SRR01A,"Replace R Hip Jt, Femoral w Metal, Uncement, Open",ICD10_PROC,ccs153
-0SRR01Z,"Replacement of R Hip Jt, Femoral with Metal, Open Approach",ICD10_PROC,ccs153
-0SRR039,"Replace R Hip Jt, Femoral w Ceramic, Cement, Open",ICD10_PROC,ccs153
-0SRR03A,"Replace R Hip Jt, Femoral w Ceramic, Uncement, Open",ICD10_PROC,ccs153
-0SRR03Z,"Replacement of R Hip Jt, Femoral with Ceramic, Open Approach",ICD10_PROC,ccs153
-0SRR07Z,"Replace of R Hip Jt, Femoral with Autol Sub, Open Approach",ICD10_PROC,ccs153
-0SRR0J9,"Replace R Hip Jt, Femoral w Synth Sub, Cement, Open",ICD10_PROC,ccs153
-0SRR0JA,"Replace R Hip Jt, Femoral w Synth Sub, Uncement, Open",ICD10_PROC,ccs153
-0SRR0JZ,"Replace of R Hip Jt, Femoral with Synth Sub, Open Approach",ICD10_PROC,ccs153
-0SRR0KZ,"Replace of R Hip Jt, Femoral with Nonaut Sub, Open Approach",ICD10_PROC,ccs153
-0SRS019,"Replace L Hip Jt, Femoral w Metal, Cement, Open",ICD10_PROC,ccs153
-0SRS01A,"Replace L Hip Jt, Femoral w Metal, Uncement, Open",ICD10_PROC,ccs153
-0SRS01Z,"Replacement of L Hip Jt, Femoral with Metal, Open Approach",ICD10_PROC,ccs153
-0SRS039,"Replace L Hip Jt, Femoral w Ceramic, Cement, Open",ICD10_PROC,ccs153
-0SRS03A,"Replace L Hip Jt, Femoral w Ceramic, Uncement, Open",ICD10_PROC,ccs153
-0SRS03Z,"Replacement of L Hip Jt, Femoral with Ceramic, Open Approach",ICD10_PROC,ccs153
-0SRS07Z,"Replace of L Hip Jt, Femoral with Autol Sub, Open Approach",ICD10_PROC,ccs153
-0SRS0J9,"Replace L Hip Jt, Femoral w Synth Sub, Cement, Open",ICD10_PROC,ccs153
-0SRS0JA,"Replace L Hip Jt, Femoral w Synth Sub, Uncement, Open",ICD10_PROC,ccs153
-0SRS0JZ,"Replace of L Hip Jt, Femoral with Synth Sub, Open Approach",ICD10_PROC,ccs153
-0SRS0KZ,"Replace of L Hip Jt, Femoral with Nonaut Sub, Open Approach",ICD10_PROC,ccs153
-0SU907Z,"Supplement Right Hip Joint with Autol Sub, Open Approach",ICD10_PROC,ccs153
-0SU909Z,"Supplement Right Hip Joint with Liner, Open Approach",ICD10_PROC,ccs153
-0SU90BZ,"Supplement Right Hip Joint with Resurf Dev, Open Approach",ICD10_PROC,ccs153
-0SU90JZ,"Supplement Right Hip Joint with Synth Sub, Open Approach",ICD10_PROC,ccs153
-0SU90KZ,"Supplement Right Hip Joint with Nonaut Sub, Open Approach",ICD10_PROC,ccs153
-0SU937Z,"Supplement Right Hip Joint with Autol Sub, Perc Approach",ICD10_PROC,ccs153
-0SU93JZ,"Supplement Right Hip Joint with Synth Sub, Perc Approach",ICD10_PROC,ccs153
-0SU93KZ,"Supplement Right Hip Joint with Nonaut Sub, Perc Approach",ICD10_PROC,ccs153
-0SU947Z,"Supplement R Hip Jt with Autol Sub, Perc Endo Approach",ICD10_PROC,ccs153
-0SU94JZ,"Supplement R Hip Jt with Synth Sub, Perc Endo Approach",ICD10_PROC,ccs153
-0SU94KZ,"Supplement R Hip Jt with Nonaut Sub, Perc Endo Approach",ICD10_PROC,ccs153
-0SUA09Z,"Supplement R Hip Jt, Acetab with Liner, Open Approach",ICD10_PROC,ccs153
-0SUA0BZ,"Supplement R Hip Jt, Acetab with Resurf Dev, Open Approach",ICD10_PROC,ccs153
-0SUB07Z,"Supplement Left Hip Joint with Autol Sub, Open Approach",ICD10_PROC,ccs153
-0SUB09Z,"Supplement Left Hip Joint with Liner, Open Approach",ICD10_PROC,ccs153
-0SUB0BZ,"Supplement Left Hip Joint with Resurf Dev, Open Approach",ICD10_PROC,ccs153
-0SUB0JZ,"Supplement Left Hip Joint with Synth Sub, Open Approach",ICD10_PROC,ccs153
-0SUB0KZ,"Supplement Left Hip Joint with Nonaut Sub, Open Approach",ICD10_PROC,ccs153
-0SUB37Z,"Supplement Left Hip Joint with Autol Sub, Perc Approach",ICD10_PROC,ccs153
-0SUB3JZ,"Supplement Left Hip Joint with Synth Sub, Perc Approach",ICD10_PROC,ccs153
-0SUB3KZ,"Supplement Left Hip Joint with Nonaut Sub, Perc Approach",ICD10_PROC,ccs153
-0SUB47Z,"Supplement Left Hip Joint with Autol Sub, Perc Endo Approach",ICD10_PROC,ccs153
-0SUB4JZ,"Supplement Left Hip Joint with Synth Sub, Perc Endo Approach",ICD10_PROC,ccs153
-0SUB4KZ,"Supplement L Hip Jt with Nonaut Sub, Perc Endo Approach",ICD10_PROC,ccs153
-0SUE09Z,"Supplement L Hip Jt, Acetab with Liner, Open Approach",ICD10_PROC,ccs153
-0SUE0BZ,"Supplement L Hip Jt, Acetab with Resurf Dev, Open Approach",ICD10_PROC,ccs153
-0SUR09Z,"Supplement R Hip Jt, Femoral with Liner, Open Approach",ICD10_PROC,ccs153
-0SUR0BZ,"Supplement R Hip Jt, Femoral with Resurf Dev, Open Approach",ICD10_PROC,ccs153
-0SUS09Z,"Supplement L Hip Jt, Femoral with Liner, Open Approach",ICD10_PROC,ccs153
-0SUS0BZ,"Supplement L Hip Jt, Femoral with Resurf Dev, Open Approach",ICD10_PROC,ccs153
-0SW90JZ,"Revision of Synthetic Substitute in Right Hip Joint, Open Approach",ICD10_PROC,ccs153
-0SW93JZ,"Revision of Synthetic Substitute in Right Hip Joint, Percutaneous Approach",ICD10_PROC,ccs153
-0SW94JZ,"Revision of Synthetic Substitute in Right Hip Joint, Percutaneous Endoscopic Approach",ICD10_PROC,ccs153
-0SWB0JZ,"Revision of Synthetic Substitute in Left Hip Joint, Open Approach",ICD10_PROC,ccs153
-0SWB3JZ,"Revision of Synthetic Substitute in Left Hip Joint, Percutaneous Approach",ICD10_PROC,ccs153
-0SWB4JZ,"Revision of Synthetic Substitute in Left Hip Joint, Percutaneous Endoscopic Approach",ICD10_PROC,ccs153
+0FB40ZZ,Excision of Gallbladder - Open Approach,ICD10_PROC,ccs84
+0FB43ZZ,Excision of Gallbladder - Percutaneous Approach,ICD10_PROC,ccs84
+0FB44ZZ,Excision of Gallbladder - Percutaneous Endoscopic Approach,ICD10_PROC,ccs84
+0FT40ZZ,Resection of Gallbladder - Open Approach,ICD10_PROC,ccs84
+0FT44ZZ,Resection of Gallbladder - Percutaneous Endoscopic Approach,ICD10_PROC,ccs84
