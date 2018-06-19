@@ -63,7 +63,7 @@ def mock_dataframes(spark_app, mock_schemas):
 def test_pss(mock_dataframes):
     """Test the avoidable claim identification"""
     test_instance = pref_sens_surg.decorator.PSSDecorator()
-    actual_result = test_instance.calc_decorator(mock_dataframes)
+    actual_result = test_instance.calc_decorator(dfs_input=mock_dataframes, dfs_refs=mock_dataframes)
     actual_result.cache()
     expected_result = mock_dataframes["ccs_results"].select(
         'sequencenumber',
