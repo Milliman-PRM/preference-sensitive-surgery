@@ -7,11 +7,10 @@ OBJECTIVE:
 DEVELOPER NOTES:
     Will share some tooling with analytics-pipeline library
 """
-
+# pylint: disable=no-member
 import logging
 from pyspark.sql import DataFrame
 import pyspark.sql.functions as spark_funcs
-import pyspark.sql.types as spark_types
 
 from prm.decorators.base_classes import ClaimDecorator
 
