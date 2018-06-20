@@ -70,7 +70,7 @@ def _collect_pss_eligible_ip_surg(
         'sequencenumber',
         'member_id',
         'prm_fromdate',
-        spark_funcs.explode('icd_proc').alias('icd_proc'),
+        spark_funcs.posexplode('icd_proc').alias('icd_position', 'icd_proc'),
     ).filter(
         spark_funcs.col('icd_proc').isNotNull()
     )
@@ -80,12 +80,20 @@ def _collect_pss_eligible_ip_surg(
         on=(ref_table.code == df_proc_pivot.icd_proc),
         how='inner',
     ).select(
-        'member_id',
         'sequencenumber',
+        'member_id',
+        'prm_fromdate',
+        'icd_position',
+        'ccs',
+    ).groupBy(
+        'sequencenumber',
+        'member_id',
         'prm_fromdate',
         'ccs',
-    ).distinct()
-
+    ).agg(
+        spark_funcs.min('icd_position').alias('position')
+    )
+    
     return proc_w_ccs
 
 def _collect_pss_eligible_op_surg(
@@ -132,6 +140,7 @@ def _collect_pss_eligible_op_surg(
         'sequencenumber',
         'prm_fromdate',
         'ccs',
+        spark_funcs.lit(0).alias('position'),
     ).distinct()
 
     return hcpcs_w_ccs
@@ -151,6 +160,7 @@ def _flag_elig_drgs(
         inpatient_pss.member_id.alias('member_id'),
         inpatient_pss.prm_fromdate.alias('prm_fromdate'),
         'ccs',
+        'position',
         'drg',
     ).join(
         ref_table,
@@ -163,6 +173,7 @@ def _flag_elig_drgs(
         'sequencenumber',
         'prm_fromdate',
         'ccs',
+        'position',
     ).distinct()
 
     return inpatient_pss_drg
@@ -208,6 +219,7 @@ def _flag_er_directed(
         'sequencenumber',
         'prm_fromdate',
         'ccs',
+        'position',
     ).distinct()
 
     return pss_claims_no_er
@@ -242,6 +254,7 @@ def _flag_acute_transfer(
         'sequencenumber',
         'prm_fromdate',
         'ccs',
+        'position',
     ).distinct()
 
     return pss_claims_no_transfer
@@ -290,23 +303,29 @@ def calculate_pss_decorator(
         ~spark_funcs.col('ccs').isin(IP_ONLY_CCS)
     )
 
-
     op_ip_ccs = inpatient_transfer_filter.union(
         outpatient_ip_filter
-    ).withColumnRenamed(
-        'ccs',
-        'ccs_calc',
-    ).withColumn(
-        'ccs_flag_calc',
-        spark_funcs.lit('Y')
     )
 
-    unique_ccs = dfs_refs['icd_procs'].select(
+    op_ip_ccs_min_pos = op_ip_ccs.select(
+        'sequencenumber',
+        'position',
+    ).groupBy(
+        'sequencenumber',
+    ).agg(
+        spark_funcs.min('position').alias('min_position')
+    )
+    
+    op_ip_ccs_final = op_ip_ccs.join(
+        op_ip_ccs_min_pos,
+        on=(op_ip_ccs.sequencenumber == op_ip_ccs_min_pos.sequencenumber)
+        & (op_ip_ccs.position == op_ip_ccs_min_pos.min_position),
+        how='inner',
+    ).select(
+        op_ip_ccs.sequencenumber,
         'ccs',
-    ).orderBy(
-        'ccs',
-    ).distinct()
-
+    )
+    
     ccs_eligible_w_flags = dfs_input['outclaims'].select(
         'sequencenumber',
         'mr_line_case',
@@ -320,46 +339,19 @@ def calculate_pss_decorator(
         ).otherwise(
             spark_funcs.lit('N')
         ),
-    ).crossJoin(
-        unique_ccs
-    ).withColumn(
-        'ccs_flag',
-        spark_funcs.lit('N')
     )
-
-    ccs_calc_final = ccs_eligible_w_flags.join(
-        op_ip_ccs,
-        on=(ccs_eligible_w_flags.sequencenumber == op_ip_ccs.sequencenumber)
-        & (ccs_eligible_w_flags.ccs == op_ip_ccs.ccs_calc),
+            
+    ccs_calc = ccs_eligible_w_flags.join(
+        op_ip_ccs_final,
+        on='sequencenumber',
         how='left_outer',
     ).select(
         ccs_eligible_w_flags.sequencenumber,
         'ccs_eligible_yn',
-        'ccs',
-        spark_funcs.coalesce('ccs_flag_calc', 'ccs_flag').alias('ccs_flag')
+        spark_funcs.col('ccs').alias('ccs_category'),
     )
 
-    ccs_calc_pivot = ccs_calc_final.groupBy(
-        'sequencenumber',
-        'ccs_eligible_yn',
-    ).pivot(
-        'ccs',
-    ).agg(
-        spark_funcs.first('ccs_flag')
-    )
-
-    for column in [
-            col for col in ccs_calc_pivot.columns if col not in [
-                'sequencenumber',
-                'ccs_eligible_yn'
-            ]
-    ]:
-        ccs_calc_pivot = ccs_calc_pivot.withColumnRenamed(
-            column,
-            column + '_yn',
-        )
-
-    return ccs_calc_pivot
+    return ccs_calc
 
 class PSSDecorator(ClaimDecorator):
     """Calculate the preference-sensitive surgery decorators"""
