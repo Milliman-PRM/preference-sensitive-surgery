@@ -93,7 +93,7 @@ def _collect_pss_eligible_ip_surg(
     ).agg(
         spark_funcs.min('icd_position').alias('position')
     )
-    
+
     return proc_w_ccs
 
 def _collect_pss_eligible_op_surg(
@@ -239,7 +239,7 @@ def _flag_er_directed(
             spark_funcs.lit('Y'),
         ).alias('er_directed'),
     )
-        
+
     return pss_claims_er_directed
 
 def _flag_acute_transfer(
@@ -333,7 +333,7 @@ def calculate_pss_decorator(
     ).agg(
         spark_funcs.min('position').alias('min_position')
     )
-    
+
     op_ip_ccs_final = op_ip_ccs.join(
         op_ip_ccs_min_pos,
         on=(op_ip_ccs.sequencenumber == op_ip_ccs_min_pos.sequencenumber)
@@ -344,7 +344,7 @@ def calculate_pss_decorator(
         'ccs',
         'er_directed',
     )
-    
+
     ccs_eligible_w_flags = dfs_input['outclaims'].select(
         'sequencenumber',
         'mr_line_case',
@@ -359,7 +359,7 @@ def calculate_pss_decorator(
             spark_funcs.lit('N')
         ),
     )
-            
+
     ccs_calc = ccs_eligible_w_flags.join(
         op_ip_ccs_final,
         on='sequencenumber',
