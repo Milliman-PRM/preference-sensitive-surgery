@@ -2,3 +2,4 @@ name,datatype,nullable
 sequencenumber,long,true
 ccs_eligible_yn,string,true
 ccs_category,string,true
+ccs_er_directed,string,true

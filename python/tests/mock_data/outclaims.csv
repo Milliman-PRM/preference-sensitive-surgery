@@ -3,7 +3,7 @@ sequencenumber,member_id,claimid,line_number,prm_fromdate,prm_todate,drg,hcpcs,r
 2,IP_multCCS,index_claim,1,2018-01-01,2018-01-05,467,,,0SRC07Z,0SR9019,,,,,,,,,I12,50,N
 3,IP_1CCS_multlines,index_claim,1,2018-01-01,2018-01-05,668,,,0V507ZZ,0V508ZZ,,,,,,,,,I12,50,N
 4,IP_1CCS_multlines,index_claim,2,2018-01-01,2018-01-05,668,,,0V507ZZ,0V508ZZ,,,,,,,,,I12,100,N
-5,IP_1CCS_ER_Direct,index_claim,1,2018-01-01,2018-01-05,,,,0RJ04ZZ,,,,,,,,,,I12,50,N
+5,IP_1CCS_ER_Direct,index_claim,1,2018-01-01,2018-01-05,509,,,0RJ04ZZ,,,,,,,,,,I12,50,N
 6,IP_1CCS_ER_Direct,er_claim,1,2018-01-01,2018-01-01,,G0380,,,,,,,,,,,,O11,10,N
 7,IP_noDRG,index_claim,1,2018-01-01,2018-01-05,,,,0UT90ZZ,,,,,,,,,,I12,50,N
 8,IP_transfer,index_claim,1,2018-01-01,2018-01-05,253,,,031209C,031209D,031209F,031209J,,,,,,,I12,50,N
