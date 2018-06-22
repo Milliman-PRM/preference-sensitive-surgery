@@ -223,9 +223,9 @@ def _flag_er_directed(
     ).distinct()
 
     pss_claims_er_directed = pss_claims.join(
-            pss_claims_w_er,
-            on=['sequencenumber', 'ccs', 'position'],
-            how='left_outer',
+        pss_claims_w_er,
+        on=['sequencenumber', 'ccs', 'position'],
+        how='left_outer',
     ).select(
         pss_claims.member_id,
         pss_claims.sequencenumber,
