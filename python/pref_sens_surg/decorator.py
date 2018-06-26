@@ -254,13 +254,12 @@ def _flag_acute_transfer(
         spark_funcs.col('prm_acute_transfer_to_acute_yn') == 'Y'
     ).distinct()
 
-    pss_claims_no_transfer = pss_claims.join(
+    pss_claims_w_transfer = pss_claims.join(
         acute_transfers,
         on='member_id',
         how='left_outer',
     ).where(
-        spark_funcs.col('transfer_date').isNull()
-        | ~spark_funcs.col('transfer_date').between(
+        spark_funcs.col('transfer_date').between(
             spark_funcs.date_sub(
                 spark_funcs.col('prm_fromdate'),
                 1,
@@ -273,9 +272,28 @@ def _flag_acute_transfer(
         'prm_fromdate',
         'ccs',
         'position',
+        spark_funcs.lit('Y').alias('transfer_yn')
     ).distinct()
 
-    return pss_claims_no_transfer
+    pss_claims_transfer = pss_claims.join(
+        pss_claims_w_transfer,
+        on=['sequencenumber', 'ccs', 'position'],
+        how='left_outer',
+    ).select(
+        pss_claims.member_id,
+        pss_claims.sequencenumber,
+        pss_claims.prm_fromdate,
+        pss_claims.ccs,
+        pss_claims.position,
+        spark_funcs.when(
+            spark_funcs.col('transfer_yn').isNull(),
+            spark_funcs.lit('N'),
+        ).otherwise(
+            spark_funcs.lit('Y'),
+        ).alias('transfer_yn')
+    )
+
+    return pss_claims_transfer
 
 def calculate_pss_decorator(
         dfs_input: "typing.Mapping[str, DataFrame]",
@@ -297,14 +315,38 @@ def calculate_pss_decorator(
         ref_table=dfs_refs['drg'],
     )
 
-    inpatient_transfer_filter = _flag_acute_transfer(
+    inpatient_transfer_directed = _flag_acute_transfer(
         outclaims=dfs_input['outclaims'],
         pss_claims=inpatient_drg_filter
     )
 
     inpatient_er_directed = _flag_er_directed(
         outclaims=dfs_input['outclaims'],
-        pss_claims=inpatient_transfer_filter,
+        pss_claims=inpatient_drg_filter,
+    )
+
+    inpatient_surgery_flagged = inpatient_transfer_directed.join(
+        inpatient_er_directed,
+        on=['sequencenumber', 'ccs', 'position'],
+        how='inner',
+    ).withColumn(
+        'ccs_preventable_yn',
+        spark_funcs.when(
+            spark_funcs.col('transfer_yn') == 'Y',
+            spark_funcs.lit('N'),
+        ).when(
+            spark_funcs.col('er_directed') == 'Y',
+            spark_funcs.lit('N'),
+        ).otherwise(
+            spark_funcs.lit('Y')
+        )
+    ).select(
+        inpatient_transfer_directed.member_id,
+        inpatient_transfer_directed.sequencenumber,
+        inpatient_transfer_directed.prm_fromdate,
+        inpatient_transfer_directed.ccs,
+        inpatient_transfer_directed.position,
+        'ccs_preventable_yn',
     )
 
     outpatient_surgery = _collect_pss_eligible_op_surg(
@@ -319,9 +361,24 @@ def calculate_pss_decorator(
 
     outpatient_ip_filter = outpatient_er_directed.where(
         ~spark_funcs.col('ccs').isin(IP_ONLY_CCS)
+    ).withColumn(
+        'ccs_preventable_yn',
+        spark_funcs.when(
+            spark_funcs.col('er_directed') == 'Y',
+            spark_funcs.lit('N'),
+        ).otherwise(
+            spark_funcs.lit('Y'),
+        )
+    ).select(
+        'member_id',
+        'sequencenumber',
+        'prm_fromdate',
+        'ccs',
+        'position',
+        'ccs_preventable_yn',
     )
 
-    op_ip_ccs = inpatient_er_directed.union(
+    op_ip_ccs = inpatient_surgery_flagged.union(
         outpatient_ip_filter
     )
 
@@ -342,7 +399,7 @@ def calculate_pss_decorator(
     ).select(
         op_ip_ccs.sequencenumber,
         'ccs',
-        'er_directed',
+        'ccs_preventable_yn',
     )
 
     ccs_eligible_w_flags = dfs_input['outclaims'].select(
@@ -368,7 +425,7 @@ def calculate_pss_decorator(
         ccs_eligible_w_flags.sequencenumber,
         'ccs_eligible_yn',
         spark_funcs.col('ccs').alias('ccs_category'),
-        spark_funcs.col('er_directed').alias('ccs_er_directed'),
+        spark_funcs.col('ccs_preventable_yn'),
     )
 
     return ccs_calc
