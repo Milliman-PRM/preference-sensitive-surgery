@@ -408,9 +408,10 @@ def calculate_pss_decorator(
     ).withColumn(
         'ccs_eligible_yn',
         spark_funcs.when(
-            spark_funcs.col('mr_line_case').isin(
-                ['O12', 'I12'],
-            ),
+            spark_funcs.col('mr_line_case').startswith('I12'),
+            spark_funcs.lit('Y')
+        ).when(
+            spark_funcs.col('mr_line_case').startswith('O12'),
             spark_funcs.lit('Y')
         ).otherwise(
             spark_funcs.lit('N')
