@@ -21,3 +21,4 @@ icdproc10,string,true
 mr_line_case,string,true
 mr_allowed,long,true
 prm_acute_transfer_to_acute_yn,string,true
+prm_prv_id_operating,string,true

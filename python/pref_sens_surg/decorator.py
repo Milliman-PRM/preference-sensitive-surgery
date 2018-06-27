@@ -405,6 +405,7 @@ def calculate_pss_decorator(
     ccs_eligible_w_flags = dfs_input['outclaims'].select(
         'sequencenumber',
         'mr_line_case',
+        'prm_prv_id_operating',
     ).withColumn(
         'ccs_eligible_yn',
         spark_funcs.when(
@@ -427,6 +428,12 @@ def calculate_pss_decorator(
         'ccs_eligible_yn',
         spark_funcs.col('ccs').alias('ccs_category'),
         spark_funcs.col('ccs_preventable_yn'),
+        spark_funcs.when(
+            spark_funcs.col('ccs').isNull(),
+            spark_funcs.lit(None),
+        ).otherwise(
+            spark_funcs.col('prm_prv_id_operating'),
+        ).alias('ccs_providerid'),
     )
 
     return ccs_calc
