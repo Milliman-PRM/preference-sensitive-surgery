@@ -18,4 +18,4 @@ sequencenumber,member_id,claimid,line_number,prm_fromdate,prm_todate,drg,hcpcs,r
 17,OP_1CCS,index_claim,1,2018-01-01,2018-01-01,,92920,,,,,,,,,,,,O12,10,N,
 18,IP,index_claim,1,2018-01-01,2018-01-05,225,,,,,,,,,,,,,I12,50,N,1234567890
 19,IP_transfer,index_claim,1,2018-01-01,2018-01-05,035,,,03513ZZ,037004Z,,,,,,,,,I12,20,Y,1234567890
-20,OP,OP_ER_Direct,1,2018-01-01,2018-01-01,,,110,,,,,,,,,,,O12,10,N,1234567890
+20,OP,OP_ER_Direct,1,2018-01-01,2018-01-01,,,0110,,,,,,,,,,,O12,10,N,1234567890
