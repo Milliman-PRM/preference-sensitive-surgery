@@ -1,5 +1,5 @@
 sequencenumber,member_id,claimid,line_number,prm_fromdate,prm_todate,drg,hcpcs,revcode,icdproc1,icdproc2,icdproc3,icdproc4,icdproc5,icdproc6,icdproc7,icdproc8,icdproc9,icdproc10,mr_line_case,mr_allowed,prm_acute_transfer_to_acute_yn,prm_prv_id_operating
-1,IP,index_claim,1,2018-01-01,2018-01-05,413,,,,,,,,,,,,,I12,50,N,1234567890
+1,IP,index_claim,1,2018-01-01,2018-01-05,413,,,0R530ZZ,,,,,,,,,,I12,50,N,1234567890
 2,IP_multCCS,index_claim,1,2018-01-01,2018-01-05,467,,,0SRC07Z,0SR9019,,,,,,,,,I12,50,N,1234567890
 3,IP_1CCS_multlines,index_claim,1,2018-01-01,2018-01-05,668,,,0V507ZZ,0V508ZZ,,,,,,,,,I12,50,N,1234567890
 4,IP_1CCS_multlines,index_claim,2,2018-01-01,2018-01-05,668,,,0V507ZZ,0V508ZZ,,,,,,,,,I12,100,N,1234567890
@@ -16,6 +16,6 @@ sequencenumber,member_id,claimid,line_number,prm_fromdate,prm_todate,drg,hcpcs,r
 15,OP_ER_Direct,index_claim,1,2018-01-01,2018-01-01,,0313T,,,,,,,,,,,,O12,10,N,1234567890
 16,OP_ER_Direct,er_claim,1,2018-01-01,2018-01-01,,,0459,,,,,,,,,,,O11,10,N,1234567890
 17,OP_1CCS,index_claim,1,2018-01-01,2018-01-01,,92920,,,,,,,,,,,,O12,10,N,
-18,IP,index_claim,1,2018-01-01,2018-01-05,225,,,,,,,,,,,,,I12,50,N,1234567890
+18,IP,index_claim,1,2018-01-01,2018-01-05,225,,,02H40KZ,,,,,,,,,,I12,50,N,1234567890
 19,IP_transfer,index_claim,1,2018-01-01,2018-01-05,035,,,03513ZZ,037004Z,,,,,,,,,I12,20,Y,1234567890
 20,OP,OP_ER_Direct,1,2018-01-01,2018-01-01,,,0110,,,,,,,,,,,O12,10,N,1234567890
