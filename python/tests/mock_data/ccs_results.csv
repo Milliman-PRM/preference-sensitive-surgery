@@ -16,3 +16,6 @@ sequencenumber,ccs_eligible_yn,ccs_category,ccs_preventable_yn
 15,Y,ccs244,N
 16,N,,
 17,Y,,
+18,Y,ccs48,Y
+19,Y,ccs55_61,N
+20,N,,
