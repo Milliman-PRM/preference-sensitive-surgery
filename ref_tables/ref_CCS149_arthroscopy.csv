@@ -1,0 +1,82 @@
+code,code_description,code_type,ccs
+0RJ04ZZ,Inspection of Occipital-cervical Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0RJ14ZZ,Inspection of Cervical Vertebral Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0RJ34ZZ,Inspection of Cervical Vertebral Disc - Perc Endo Approach,ICD10_PROC,ccs149
+0RJ44ZZ,Inspection of C-thor Jt - Perc Endo Approach,ICD10_PROC,ccs149
+0RJ54ZZ,Inspection of C-thor Disc - Perc Endo Approach,ICD10_PROC,ccs149
+0RJ64ZZ,Inspection of Thoracic Vertebral Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0RJ94ZZ,Inspection of Thoracic Vertebral Disc - Perc Endo Approach,ICD10_PROC,ccs149
+0RJA4ZZ,Inspection of T-lum Jt - Perc Endo Approach,ICD10_PROC,ccs149
+0RJB4ZZ,Inspection of T-lum Disc - Perc Endo Approach,ICD10_PROC,ccs149
+0RJC4ZZ,Inspection of R Temporomandib Jt - Perc Endo Approach,ICD10_PROC,ccs149
+0RJD4ZZ,Inspection of L Temporomandib Jt - Perc Endo Approach,ICD10_PROC,ccs149
+0RJE4ZZ,Inspection of R Sternoclav Jt - Perc Endo Approach,ICD10_PROC,ccs149
+0RJF4ZZ,Inspection of L Sternoclav Jt - Perc Endo Approach,ICD10_PROC,ccs149
+0RJG4ZZ,Inspection of R Acromioclav Jt - Perc Endo Approach,ICD10_PROC,ccs149
+0RJH4ZZ,Inspection of L Acromioclav Jt - Perc Endo Approach,ICD10_PROC,ccs149
+0RJJ4ZZ,Inspection of Right Shoulder Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0RJK4ZZ,Inspection of Left Shoulder Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0RJL4ZZ,Inspection of Right Elbow Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0RJM4ZZ,Inspection of Left Elbow Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0RJN4ZZ,Inspection of Right Wrist Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0RJP4ZZ,Inspection of Left Wrist Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0RJQ4ZZ,Inspection of Right Carpal Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0RJR4ZZ,Inspection of Left Carpal Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0RJS4ZZ,Inspection of R Metacarpocarp Jt - Perc Endo Approach,ICD10_PROC,ccs149
+0RJT4ZZ,Inspection of Left Metacarpocarpal Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0RJU4ZZ,Inspection of R Metacarpophal Jt - Perc Endo Approach,ICD10_PROC,ccs149
+0RJV4ZZ,Inspection of L Metacarpophal Jt - Perc Endo Approach,ICD10_PROC,ccs149
+0RJW4ZZ,Inspection of R Finger Phalanx Jt - Perc Endo Approach,ICD10_PROC,ccs149
+0RJX4ZZ,Inspection of L Finger Phalanx Jt - Perc Endo Approach,ICD10_PROC,ccs149
+0SJ04ZZ,Inspection of Lumbar Vertebral Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0SJ24ZZ,Inspection of Lumbar Vertebral Disc - Perc Endo Approach,ICD10_PROC,ccs149
+0SJ34ZZ,Inspection of Lumbosacral Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0SJ44ZZ,Inspection of Lumbosacral Disc - Perc Endo Approach,ICD10_PROC,ccs149
+0SJ54ZZ,Inspection of Sacrococcygeal Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0SJ64ZZ,Inspection of Coccygeal Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0SJ74ZZ,Inspection of Right Sacroiliac Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0SJ84ZZ,Inspection of Left Sacroiliac Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0SJ94ZZ,Inspection of Right Hip Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0SJB4ZZ,Inspection of Left Hip Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0SJC4ZZ,Inspection of Right Knee Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0SJD4ZZ,Inspection of Left Knee Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0SJF4ZZ,Inspection of Right Ankle Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0SJG4ZZ,Inspection of Left Ankle Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0SJH4ZZ,Inspection of Right Tarsal Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0SJJ4ZZ,Inspection of Left Tarsal Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0SJK4ZZ,Inspection of R Metatarsotars Jt - Perc Endo Approach,ICD10_PROC,ccs149
+0SJL4ZZ,Inspection of L Metatarsotars Jt - Perc Endo Approach,ICD10_PROC,ccs149
+0SJM4ZZ,Inspection of R Metatarsophal Jt - Perc Endo Approach,ICD10_PROC,ccs149
+0SJN4ZZ,Inspection of L Metatarsophal Jt - Perc Endo Approach,ICD10_PROC,ccs149
+0SJP4ZZ,Inspection of Right Toe Phalangeal Joint - Perc Endo Approach,ICD10_PROC,ccs149
+0SJQ4ZZ,Inspection of Left Toe Phalangeal Joint - Perc Endo Approach,ICD10_PROC,ccs149
+29800,Jaw arthroscopy/surgery,CPT_HCPCS,ccs149
+29804,Jaw arthroscopy/surgery,CPT_HCPCS,ccs149
+29805,Shoulder arthroscopy dx,CPT_HCPCS,ccs149
+29819,Shoulder arthroscopy/surgery,CPT_HCPCS,ccs149
+29830,Elbow arthroscopy,CPT_HCPCS,ccs149
+29834,Elbow arthroscopy/surgery,CPT_HCPCS,ccs149
+29840,Wrist arthroscopy,CPT_HCPCS,ccs149
+29843,Wrist arthroscopy/surgery,CPT_HCPCS,ccs149
+29860,Hip arthroscopy dx,CPT_HCPCS,ccs149
+29870,Knee arthroscopy dx,CPT_HCPCS,ccs149
+29871,Knee arthroscopy/drainage,CPT_HCPCS,ccs149
+29888,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29889,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29900,Mcp joint arthroscopy dx,CPT_HCPCS,ccs149
+29999,Arthroscopy of joint,CPT_HCPCS,ccs149
+G0289,Arthro - loose body + chondro,CPT_HCPCS,ccs149
+S2114,Arthrosc sh tenodesis biceps,CPT_HCPCS,ccs149
+S2300,Arthroscopy - shoulder - surgi,CPT_HCPCS,ccs149
+29873,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29874,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29875,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29876,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29877,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29879,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29880,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29881,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29882,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29883,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+29884,Knee arthroscopy/surgery,CPT_HCPCS,ccs149
+509,Arthroscopy,MSDRG,ccs149
