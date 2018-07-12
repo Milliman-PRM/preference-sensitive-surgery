@@ -1,4 +1,4 @@
-sequencenumber,ccs_eligible_yn,ccs_category,ccs_preventable_yn
+sequencenumber,psp_eligible_yn,psp_category,psp_preventable_yn
 1,Y,ccs3,Y
 2,Y,ccs152,Y
 3,Y,,
