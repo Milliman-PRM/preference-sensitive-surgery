@@ -426,9 +426,9 @@ def calculate_pss_decorator(
         how='left_outer',
     ).select(
         ccs_eligible_w_flags.sequencenumber,
-        'ccs_eligible_yn',
-        spark_funcs.col('ccs').alias('ccs_category'),
-        spark_funcs.col('ccs_preventable_yn'),
+        spark_funcs.col('ccs_eligible_yn').alias('psp_eligible_yn'),
+        spark_funcs.col('ccs').alias('psp_category'),
+        spark_funcs.col('ccs_preventable_yn').alias('psp_preventable_yn'),
     )
 
     return ccs_calc
@@ -438,7 +438,7 @@ class PSSDecorator(ClaimDecorator):
     @staticmethod
     def validate_decor_column_name(name: str) -> bool:
         """Defines what naming convention the decorator columns should follow"""
-        return name.startswith("ccs")
+        return name.startswith("psp_")
 
     def _calc_decorator(
             self,
