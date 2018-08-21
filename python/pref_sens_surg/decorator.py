@@ -34,7 +34,6 @@ def _collect_pss_eligible_ip_surg(
     outclaims_filter = outclaims.where(
         (spark_funcs.col('mr_line_case').startswith('I12'))
         & (spark_funcs.col('mr_allowed') > 0)
-        & (~spark_funcs.col('prm_prv_id_operating').isNull())
     )
 
     icd_proc = [
@@ -106,7 +105,6 @@ def _collect_pss_eligible_op_surg(
     outclaims_filter = outclaims.where(
         (spark_funcs.col('mr_line_case').startswith('O12'))
         & (spark_funcs.col('mr_allowed') > 0)
-        & (~spark_funcs.col('prm_prv_id_operating').isNull())
     )
 
     max_claim_allowed = outclaims_filter.select(
