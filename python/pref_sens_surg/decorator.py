@@ -79,41 +79,16 @@ def _collect_pss_eligible_op_surg(
     """Flag potential outpatient preference sensitive surgeries"""
 
     outclaims_filter = outclaims.where(
-        (spark_funcs.col('mr_line_case').startswith('O12'))
-        & (spark_funcs.col('mr_allowed') > 0)
-        & (~spark_funcs.col('prm_prv_id_operating').isNull())
+        spark_funcs.col('mr_line_case').startswith('O12')
     )
 
-    max_claim_allowed = outclaims_filter.select(
-        'claimid',
-        'member_id',
-        'mr_allowed',
-    ).groupBy(
-        'claimid',
-        'member_id',
-    ).agg(
-        spark_funcs.max(spark_funcs.col('mr_allowed')).alias('max_allowed')
-    )
-
-    claim_elig_hcpcs = outclaims_filter.join(
-        max_claim_allowed,
-        on=(outclaims_filter.claimid == max_claim_allowed.claimid)
-        & (outclaims_filter.mr_allowed == max_claim_allowed.max_allowed)
-        & (outclaims_filter.member_id == max_claim_allowed.member_id),
-        how='inner',
-    ).select(
-        outclaims_filter.member_id,
-        'sequencenumber',
-        'prm_fromdate',
-        'hcpcs',
-    )
-
-    hcpcs_w_ccs = claim_elig_hcpcs.join(
+    hcpcs_w_ccs = outclaims_filter.join(
         ref_table,
-        on=(claim_elig_hcpcs.hcpcs == ref_table.code),
+        on=(outclaims_filter.hcpcs == ref_table.code),
         how='inner',
     ).select(
         'member_id',
+        'caseadmitid',
         'sequencenumber',
         'prm_fromdate',
         'ccs',
@@ -325,6 +300,7 @@ def calculate_pss_decorator(
         )
     ).select(
         inpatient_transfer_directed.member_id,
+        inpatient_transfer_directed.caseadmitid,
         inpatient_transfer_directed.sequencenumber,
         inpatient_transfer_directed.prm_fromdate,
         inpatient_transfer_directed.ccs,
@@ -354,6 +330,7 @@ def calculate_pss_decorator(
         )
     ).select(
         'member_id',
+        'caseadmitid',
         'sequencenumber',
         'prm_fromdate',
         'ccs',
