@@ -32,9 +32,7 @@ def _collect_pss_eligible_ip_surg(
     """Flag potential inpatient preference sensitive surgeries"""
 
     outclaims_filter = outclaims.where(
-        (spark_funcs.col('mr_line_case').startswith('I12'))
-        & (spark_funcs.col('mr_allowed') > 0)
-        & (~spark_funcs.col('prm_prv_id_operating').isNull())
+        spark_funcs.col('mr_line_case').startswith('I12')
     )
 
     icd_proc = [
@@ -43,31 +41,14 @@ def _collect_pss_eligible_ip_surg(
         if col_name.startswith('icdproc')
     ]
 
-    max_claim_allowed = outclaims_filter.select(
-        'claimid',
-        'member_id',
-        'mr_allowed',
-    ).groupBy(
-        'claimid',
-        'member_id',
-    ).agg(
-        spark_funcs.max(spark_funcs.col('mr_allowed')).alias('max_allowed')
-    )
-
-    claim_elig_procs = outclaims_filter.join(
-        max_claim_allowed,
-        on=(outclaims_filter.claimid == max_claim_allowed.claimid)
-        & (outclaims_filter.mr_allowed == max_claim_allowed.max_allowed)
-        & (outclaims_filter.member_id == max_claim_allowed.member_id),
-        how='inner'
-    ).select(
+    df_proc_pivot = outclaims_filter.select(
+        'caseadmitid',
         'sequencenumber',
-        outclaims_filter.member_id,
+        'member_id',
         'prm_fromdate',
-        spark_funcs.array(icd_proc).alias('icd_proc'),
-    )
-
-    df_proc_pivot = claim_elig_procs.select(
+        spark_funcs.array(icd_proc).alias('icd_proc')  
+    ).select(
+        'caseadmitid',
         'sequencenumber',
         'member_id',
         'prm_fromdate',
@@ -81,18 +62,12 @@ def _collect_pss_eligible_ip_surg(
         on=(ref_table.code == df_proc_pivot.icd_proc),
         how='inner',
     ).select(
+        'caseadmitid',
         'sequencenumber',
         'member_id',
         'prm_fromdate',
-        'icd_position',
+        spark_funcs.col('icd_position').alias('position'),
         'ccs',
-    ).groupBy(
-        'sequencenumber',
-        'member_id',
-        'prm_fromdate',
-        'ccs',
-    ).agg(
-        spark_funcs.min('icd_position').alias('position')
     )
 
     return proc_w_ccs
@@ -158,6 +133,7 @@ def _flag_elig_drgs(
         on='sequencenumber',
         how='inner',
     ).select(
+        inpatient_pss.caseadmitid.alias('caseadmitid'),
         inpatient_pss.sequencenumber.alias('sequencenumber'),
         inpatient_pss.member_id.alias('member_id'),
         inpatient_pss.prm_fromdate.alias('prm_fromdate'),
@@ -172,6 +148,7 @@ def _flag_elig_drgs(
         spark_funcs.col('drg') == spark_funcs.col('code')
     ).select(
         'member_id',
+        'caseadmitid',
         'sequencenumber',
         'prm_fromdate',
         'ccs',
@@ -217,6 +194,7 @@ def _flag_er_directed(
         )
     ).select(
         'member_id',
+        'caseadmitid',
         'sequencenumber',
         'prm_fromdate',
         'ccs',
@@ -230,6 +208,7 @@ def _flag_er_directed(
         how='left_outer',
     ).select(
         pss_claims.member_id,
+        pss_claims.caseadmitid, 
         pss_claims.sequencenumber,
         pss_claims.prm_fromdate,
         pss_claims.ccs,
@@ -270,6 +249,7 @@ def _flag_acute_transfer(
         )
     ).select(
         'member_id',
+        'caseadmitid',
         'sequencenumber',
         'prm_fromdate',
         'ccs',
@@ -283,6 +263,7 @@ def _flag_acute_transfer(
         how='left_outer',
     ).select(
         pss_claims.member_id,
+        pss_claims.caseadmitid,
         pss_claims.sequencenumber,
         pss_claims.prm_fromdate,
         pss_claims.ccs,
