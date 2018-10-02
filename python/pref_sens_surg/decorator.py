@@ -48,7 +48,7 @@ def _collect_pss_eligible_ip_surg(
         'sequencenumber',
         'member_id',
         'prm_fromdate',
-        spark_funcs.array(icd_proc).alias('icd_proc')  
+        spark_funcs.array(icd_proc).alias('icd_proc')
     ).select(
         'caseadmitid',
         'sequencenumber',
@@ -185,7 +185,7 @@ def _flag_er_directed(
         how='left_outer',
     ).select(
         pss_claims.member_id,
-        pss_claims.caseadmitid, 
+        pss_claims.caseadmitid,
         pss_claims.sequencenumber,
         pss_claims.prm_fromdate,
         pss_claims.ccs,
@@ -259,21 +259,21 @@ def _ip_dupe_filter(
         outclaims: "DataFrame",
         ip_pss: "DataFrame"
     ) -> DataFrame:
-    
+
     caseadmit_window = Window().partitionBy(
         'caseadmitid',
     ).orderBy(
         'position',
         'prm_fromdate',
     )
-    
+
     ip_pss_ranked = ip_pss.select(
         '*',
         spark_funcs.row_number().over(caseadmit_window).alias('order'),
     ).where(
         spark_funcs.col('order') == 1
     )
-    
+
     ip_positive_allowed = ip_pss_ranked.join(
         outclaims,
         on='sequencenumber',
@@ -312,7 +312,7 @@ def _op_dupe_filter(
         'paiddate',
         'mr_allowed',
     )
-    
+
     pss_latest_paid = op_pss_w_paiddate.groupBy(
         'member_id',
         'prm_fromdate',
@@ -320,7 +320,7 @@ def _op_dupe_filter(
     ).agg(
         spark_funcs.max(spark_funcs.col('paiddate')).alias('max_paiddate')
     )
-    
+
     pss_latest_paid_flagged = op_pss_w_paiddate.join(
         pss_latest_paid,
         on=(op_pss_w_paiddate.member_id == pss_latest_paid.member_id)
@@ -353,14 +353,14 @@ def _op_dupe_filter(
         'position',
         'ccs_preventable_yn',
     )
-    
-    return op_pss_filtered   
+
+    return op_pss_filtered
 
 def _calc_ip_pss(
         dfs_input: "typing.Mapping[str, DataFrame]",
         dfs_refs: "typing.Mapping[str, DataFrame]"
     ) -> DataFrame:
-    
+
     inpatient_surgery = _collect_pss_eligible_ip_surg(
         outclaims=dfs_input['outclaims'],
         ref_table=dfs_refs['icd_procs'],
@@ -411,7 +411,7 @@ def _calc_ip_pss(
         outclaims=dfs_input['outclaims'],
         ip_pss=inpatient_surgery_flagged,
     )
-    
+
     return ip_pss_final
 
 def _calc_op_pss(
@@ -448,14 +448,14 @@ def _calc_op_pss(
         'position',
         'ccs_preventable_yn',
     )
-    
+
     op_pss_final = _op_dupe_filter(
         outclaims=dfs_input['outclaims'],
         op_pss=outpatient_ip_filter,
     )
 
     return op_pss_final
-    
+
 def calculate_pss_decorator(
         dfs_input: "typing.Mapping[str, DataFrame]",
         dfs_refs: "typing.Mapping[str, DataFrame]",
@@ -474,7 +474,7 @@ def calculate_pss_decorator(
         dfs_input=dfs_input,
         dfs_refs=dfs_refs,
     )
-    
+
     op_ip_pss = inpatient_pss.union(
         outpatient_pss
     )
