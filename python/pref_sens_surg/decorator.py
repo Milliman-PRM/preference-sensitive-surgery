@@ -10,7 +10,9 @@ DEVELOPER NOTES:
 # pylint: disable=no-member
 import logging
 from pyspark.sql import DataFrame
+from pyspark.sql import Window
 import pyspark.sql.functions as spark_funcs
+
 
 from prm.decorators.base_classes import ClaimDecorator
 
@@ -253,15 +255,112 @@ def _flag_acute_transfer(
 
     return pss_claims_transfer
 
-def calculate_pss_decorator(
-        dfs_input: "typing.Mapping[str, DataFrame]",
-        dfs_refs: "typing.Mapping[str, DataFrame]",
-        **kwargs
+def _ip_dupe_filter(
+        outclaims: "DataFrame",
+        ip_pss: "DataFrame"
+    ) -> DataFrame:
+    
+    caseadmit_window = Window().partitionBy(
+        'caseadmitid',
+    ).orderBy(
+        'position',
+        'prm_fromdate',
+    )
+    
+    ip_pss_ranked = ip_pss.select(
+        '*',
+        spark_funcs.row_number().over(caseadmit_window).alias('order'),
+    ).where(
+        spark_funcs.col('order') == 1
+    )
+    
+    ip_positive_allowed = ip_pss_ranked.join(
+        outclaims,
+        on='sequencenumber',
+        how='inner',
+    ).where(
+        spark_funcs.col('mr_allowed') > 0
+    ).select(
+        ip_pss_ranked.member_id,
+        ip_pss_ranked.caseadmitid,
+        ip_pss_ranked.sequencenumber,
+        ip_pss_ranked.prm_fromdate,
+        ip_pss_ranked.ccs,
+        ip_pss_ranked.position,
+        'ccs_preventable_yn',
+    )
+
+    return ip_positive_allowed
+
+def _op_dupe_filter(
+        outclaims: "DataFrame",
+        op_pss: "DataFrame"
     ) -> DataFrame:
 
-    """Flag eligible inpatient and outpatient flags"""
-    LOGGER.info('Calculating preference-senstive surgery decorators')
+    op_pss_w_paiddate = op_pss.join(
+        outclaims,
+        on='sequencenumber',
+        how='inner'
+    ).select(
+        op_pss.member_id,
+        op_pss.caseadmitid,
+        op_pss.sequencenumber,
+        op_pss.prm_fromdate,
+        op_pss.ccs,
+        op_pss.position,
+        op_pss.ccs_preventable_yn,
+        'paiddate',
+        'mr_allowed',
+    )
+    
+    pss_latest_paid = op_pss_w_paiddate.groupBy(
+        'member_id',
+        'prm_fromdate',
+        'ccs',
+    ).agg(
+        spark_funcs.max(spark_funcs.col('paiddate')).alias('max_paiddate')
+    )
+    
+    pss_latest_paid_flagged = op_pss_w_paiddate.join(
+        pss_latest_paid,
+        on=(op_pss_w_paiddate.member_id == pss_latest_paid.member_id)
+        & (op_pss_w_paiddate.prm_fromdate == pss_latest_paid.prm_fromdate)
+        & (op_pss_w_paiddate.ccs == pss_latest_paid.ccs)
+        & (op_pss_w_paiddate.paiddate == pss_latest_paid.max_paiddate),
+        how='left_outer',
+    ).select(
+        op_pss_w_paiddate.member_id,
+        op_pss_w_paiddate.caseadmitid,
+        op_pss_w_paiddate.sequencenumber,
+        op_pss_w_paiddate.prm_fromdate,
+        op_pss_w_paiddate.ccs,
+        op_pss_w_paiddate.position,
+        op_pss_w_paiddate.ccs_preventable_yn,
+        op_pss_w_paiddate.paiddate,
+        op_pss_w_paiddate.mr_allowed,
+        'max_paiddate',
+    )
 
+    op_pss_filtered = pss_latest_paid_flagged.where(
+        (~spark_funcs.col('max_paiddate').isNull())
+        & (spark_funcs.col('mr_allowed') > 0)
+    ).select(
+        'member_id',
+        'caseadmitid',
+        'sequencenumber',
+        'prm_fromdate',
+        'ccs',
+        'position',
+        'ccs_preventable_yn',
+    )
+    
+    return op_pss_filtered   
+
+def _calc_ip_pss(
+        dfs_input: "typing.Mapping[str, DataFrame]",
+        dfs_refs: "typing.Mapping[str, DataFrame]"
+    ) -> DataFrame:
+    
     inpatient_surgery = _collect_pss_eligible_ip_surg(
         outclaims=dfs_input['outclaims'],
         ref_table=dfs_refs['icd_procs'],
@@ -308,6 +407,18 @@ def calculate_pss_decorator(
         'ccs_preventable_yn',
     )
 
+    ip_pss_final = _ip_dupe_filter(
+        outclaims=dfs_input['outclaims'],
+        ip_pss=inpatient_surgery_flagged,
+    )
+    
+    return ip_pss_final
+
+def _calc_op_pss(
+        dfs_input: "typing.Mapping[str, DataFrame]",
+        dfs_refs: "typing.Mapping[str, DataFrame]"
+    ) -> DataFrame:
+
     outpatient_surgery = _collect_pss_eligible_op_surg(
         outclaims=dfs_input['outclaims'],
         ref_table=dfs_refs['hcpcs'],
@@ -337,29 +448,35 @@ def calculate_pss_decorator(
         'position',
         'ccs_preventable_yn',
     )
-
-    op_ip_ccs = inpatient_surgery_flagged.union(
-        outpatient_ip_filter
+    
+    op_pss_final = _op_dupe_filter(
+        outclaims=dfs_input['outclaims'],
+        op_pss=outpatient_ip_filter,
     )
 
-    op_ip_ccs_min_pos = op_ip_ccs.select(
-        'sequencenumber',
-        'position',
-    ).groupBy(
-        'sequencenumber',
-    ).agg(
-        spark_funcs.min('position').alias('min_position')
+    return op_pss_final
+    
+def calculate_pss_decorator(
+        dfs_input: "typing.Mapping[str, DataFrame]",
+        dfs_refs: "typing.Mapping[str, DataFrame]",
+        **kwargs
+    ) -> DataFrame:
+
+    """Flag eligible inpatient and outpatient flags"""
+    LOGGER.info('Calculating preference-senstive surgery decorators')
+
+    inpatient_pss = _calc_ip_pss(
+        dfs_input=dfs_input,
+        dfs_refs=dfs_refs,
     )
 
-    op_ip_ccs_final = op_ip_ccs.join(
-        op_ip_ccs_min_pos,
-        on=(op_ip_ccs.sequencenumber == op_ip_ccs_min_pos.sequencenumber)
-        & (op_ip_ccs.position == op_ip_ccs_min_pos.min_position),
-        how='inner',
-    ).select(
-        op_ip_ccs.sequencenumber,
-        'ccs',
-        'ccs_preventable_yn',
+    outpatient_pss = _calc_op_pss(
+        dfs_input=dfs_input,
+        dfs_refs=dfs_refs,
+    )
+    
+    op_ip_pss = inpatient_pss.union(
+        outpatient_pss
     )
 
     ccs_eligible_w_flags = dfs_input['outclaims'].select(
@@ -379,7 +496,7 @@ def calculate_pss_decorator(
     )
 
     ccs_calc = ccs_eligible_w_flags.join(
-        op_ip_ccs_final,
+        op_ip_pss,
         on='sequencenumber',
         how='left_outer',
     ).select(
