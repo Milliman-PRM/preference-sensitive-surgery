@@ -321,6 +321,15 @@ def _op_dupe_filter(
         spark_funcs.max(spark_funcs.col('paiddate')).alias('max_paiddate')
     )
 
+    pss_max_allowed = op_pss_w_paiddate.groupBy(
+        'member_id',
+        'prm_fromdate',
+        'ccs',
+        'paiddate',
+    ).agg(
+        spark_funcs.max(spark_funcs.col('mr_allowed')).alias('max_allowed')
+    )
+
     pss_latest_paid_flagged = op_pss_w_paiddate.join(
         pss_latest_paid,
         on=(op_pss_w_paiddate.member_id == pss_latest_paid.member_id)
@@ -340,9 +349,32 @@ def _op_dupe_filter(
         op_pss_w_paiddate.mr_allowed,
         'max_paiddate',
     )
+    
+    pss_latest_paid_max_allow = pss_latest_paid_flagged.join(
+        pss_max_allowed,
+        on=(pss_latest_paid_flagged.member_id == pss_max_allowed.member_id)
+        & (pss_latest_paid_flagged.prm_fromdate == pss_max_allowed.prm_fromdate)
+        & (pss_latest_paid_flagged.ccs == pss_max_allowed.ccs)
+        & (pss_latest_paid_flagged.paiddate == pss_max_allowed.paiddate)
+        & (pss_latest_paid_flagged.mr_allowed == pss_max_allowed.max_allowed),
+        how='left_outer',
+    ).select(
+        pss_latest_paid_flagged.member_id,
+        pss_latest_paid_flagged.caseadmitid,
+        pss_latest_paid_flagged.sequencenumber,
+        pss_latest_paid_flagged.prm_fromdate,
+        pss_latest_paid_flagged.ccs,
+        pss_latest_paid_flagged.position,
+        pss_latest_paid_flagged.ccs_preventable_yn,
+        pss_latest_paid_flagged.paiddate,
+        pss_latest_paid_flagged.mr_allowed,
+        'max_paiddate',
+        'max_allowed',
+    )
 
-    op_pss_filtered = pss_latest_paid_flagged.where(
+    op_pss_filtered = pss_latest_paid_max_allow.where(
         (~spark_funcs.col('max_paiddate').isNull())
+        & (~spark_funcs.col('max_allowed').isNull())
         & (spark_funcs.col('mr_allowed') > 0)
     ).select(
         'member_id',
