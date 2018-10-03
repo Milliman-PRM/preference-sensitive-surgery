@@ -267,30 +267,32 @@ def _ip_dupe_filter(
         'prm_fromdate',
     )
 
-    ip_pss_ranked = ip_pss.select(
-        '*',
-        spark_funcs.row_number().over(caseadmit_window).alias('order'),
-    ).where(
-        spark_funcs.col('order') == 1
-    )
-
-    ip_positive_allowed = ip_pss_ranked.join(
+    ip_positive_allowed = ip_pss.join(
         outclaims,
         on='sequencenumber',
         how='inner',
     ).where(
         spark_funcs.col('mr_allowed') > 0
     ).select(
-        ip_pss_ranked.member_id,
-        ip_pss_ranked.caseadmitid,
-        ip_pss_ranked.sequencenumber,
-        ip_pss_ranked.prm_fromdate,
-        ip_pss_ranked.ccs,
-        ip_pss_ranked.position,
+        ip_pss.member_id,
+        ip_pss.caseadmitid,
+        ip_pss.sequencenumber,
+        ip_pss.prm_fromdate,
+        ip_pss.ccs,
+        ip_pss.position,
         'ccs_preventable_yn',
     )
 
-    return ip_positive_allowed
+    ip_pss_ranked = ip_positive_allowed.select(
+        '*',
+        spark_funcs.row_number().over(caseadmit_window).alias('order'),
+    ).where(
+        spark_funcs.col('order') == 1
+    ).drop(
+        'order'
+    )
+
+    return ip_pss_ranked
 
 def _op_dupe_filter(
         outclaims: "DataFrame",
