@@ -1,7 +1,7 @@
 name,datatype,nullable
 sequencenumber,long,true
 member_id,string,true
-casesadmitid,string,true
+caseadmitid,string,true
 claimid,string,true
 line_number,string,true
 prm_fromdate,date,true

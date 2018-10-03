@@ -8,13 +8,10 @@ sequencenumber,psp_eligible_yn,psp_category,psp_preventable_yn
 7,Y,,
 8,Y,ccs55_61,N
 9,N,,
-10,Y,,
+10,Y,ccs3,Y
 11,Y,ccs45,Y
 12,Y,,
 13,Y,ccs84,Y
 14,Y,,
 15,Y,ccs244,N
 16,N,,
-17,Y,,
-18,Y,ccs48,Y
-19,Y,ccs55_61,N
