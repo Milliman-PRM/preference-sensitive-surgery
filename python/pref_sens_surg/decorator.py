@@ -264,15 +264,14 @@ def _ip_dupe_filter(
         'caseadmitid',
     ).orderBy(
         'position',
+        spark_funcs.desc('mr_allowed'),
         'prm_fromdate',
     )
 
-    ip_positive_allowed = ip_pss.join(
+    ip_w_allowed = ip_pss.join(
         outclaims,
         on='sequencenumber',
         how='inner',
-    ).where(
-        spark_funcs.col('mr_allowed') > 0
     ).select(
         ip_pss.member_id,
         ip_pss.caseadmitid,
@@ -281,15 +280,17 @@ def _ip_dupe_filter(
         ip_pss.ccs,
         ip_pss.position,
         'ccs_preventable_yn',
+        'mr_allowed',
     )
 
-    ip_pss_ranked = ip_positive_allowed.select(
+    ip_pss_ranked = ip_w_allowed.select(
         '*',
         spark_funcs.row_number().over(caseadmit_window).alias('order'),
     ).where(
         spark_funcs.col('order') == 1
     ).drop(
-        'order'
+        'order',
+        'mr_allowed',
     )
 
     return ip_pss_ranked
@@ -298,6 +299,15 @@ def _op_dupe_filter(
         outclaims: "DataFrame",
         op_pss: "DataFrame"
     ) -> DataFrame:
+
+
+    fromdate_window = Window().partitionBy(
+        'member_id',
+        'prm_fromdate',
+    ).orderBy(
+        spark_funcs.desc('paiddate'),
+        spark_funcs.desc('mr_allowed'),
+    )
 
     op_pss_w_paiddate = op_pss.join(
         outclaims,
@@ -315,80 +325,18 @@ def _op_dupe_filter(
         'mr_allowed',
     )
 
-    pss_latest_paid = op_pss_w_paiddate.groupBy(
-        'member_id',
-        'prm_fromdate',
-        'ccs',
-    ).agg(
-        spark_funcs.max(spark_funcs.col('paiddate')).alias('max_paiddate')
-    )
-
-    pss_max_allowed = op_pss_w_paiddate.groupBy(
-        'member_id',
-        'prm_fromdate',
-        'ccs',
+    op_pss_ranked = op_pss_w_paiddate.select(
+        '*',
+        spark_funcs.row_number().over(fromdate_window).alias('order'),
+    ).where(
+        spark_funcs.col('order') == 1
+    ).drop(
+        'order',
+        'mr_allowed',
         'paiddate',
-    ).agg(
-        spark_funcs.max(spark_funcs.col('mr_allowed')).alias('max_allowed')
     )
 
-    pss_latest_paid_flagged = op_pss_w_paiddate.join(
-        pss_latest_paid,
-        on=(op_pss_w_paiddate.member_id == pss_latest_paid.member_id)
-        & (op_pss_w_paiddate.prm_fromdate == pss_latest_paid.prm_fromdate)
-        & (op_pss_w_paiddate.ccs == pss_latest_paid.ccs)
-        & (op_pss_w_paiddate.paiddate == pss_latest_paid.max_paiddate),
-        how='left_outer',
-    ).select(
-        op_pss_w_paiddate.member_id,
-        op_pss_w_paiddate.caseadmitid,
-        op_pss_w_paiddate.sequencenumber,
-        op_pss_w_paiddate.prm_fromdate,
-        op_pss_w_paiddate.ccs,
-        op_pss_w_paiddate.position,
-        op_pss_w_paiddate.ccs_preventable_yn,
-        op_pss_w_paiddate.paiddate,
-        op_pss_w_paiddate.mr_allowed,
-        'max_paiddate',
-    )
-    
-    pss_latest_paid_max_allow = pss_latest_paid_flagged.join(
-        pss_max_allowed,
-        on=(pss_latest_paid_flagged.member_id == pss_max_allowed.member_id)
-        & (pss_latest_paid_flagged.prm_fromdate == pss_max_allowed.prm_fromdate)
-        & (pss_latest_paid_flagged.ccs == pss_max_allowed.ccs)
-        & (pss_latest_paid_flagged.paiddate == pss_max_allowed.paiddate)
-        & (pss_latest_paid_flagged.mr_allowed == pss_max_allowed.max_allowed),
-        how='left_outer',
-    ).select(
-        pss_latest_paid_flagged.member_id,
-        pss_latest_paid_flagged.caseadmitid,
-        pss_latest_paid_flagged.sequencenumber,
-        pss_latest_paid_flagged.prm_fromdate,
-        pss_latest_paid_flagged.ccs,
-        pss_latest_paid_flagged.position,
-        pss_latest_paid_flagged.ccs_preventable_yn,
-        pss_latest_paid_flagged.paiddate,
-        pss_latest_paid_flagged.mr_allowed,
-        'max_paiddate',
-        'max_allowed',
-    )
-
-    op_pss_filtered = pss_latest_paid_max_allow.where(
-        (~spark_funcs.col('max_paiddate').isNull())
-        & (~spark_funcs.col('max_allowed').isNull())
-        & (spark_funcs.col('mr_allowed') > 0)
-    ).select(
-        'member_id',
-        'caseadmitid',
-        'sequencenumber',
-        'prm_fromdate',
-        'ccs',
-        'position',
-        'ccs_preventable_yn',
-    )
-
-    return op_pss_filtered
+    return op_pss_ranked
 
 def _calc_ip_pss(
         dfs_input: "typing.Mapping[str, DataFrame]",
