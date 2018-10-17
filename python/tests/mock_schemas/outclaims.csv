@@ -1,6 +1,7 @@
 name,datatype,nullable
 sequencenumber,long,true
 member_id,string,true
+caseadmitid,string,true
 claimid,string,true
 line_number,string,true
 prm_fromdate,date,true
@@ -22,3 +23,4 @@ mr_line_case,string,true
 mr_allowed,long,true
 prm_acute_transfer_to_acute_yn,string,true
 prm_prv_id_operating,string,true
+paiddate,date,true
