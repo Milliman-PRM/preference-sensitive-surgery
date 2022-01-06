@@ -116,13 +116,13 @@ def _flag_elig_drgs(
         inpatient_pss.prm_fromdate.alias('prm_fromdate'),
         'ccs',
         'position',
-        'drg',
+        'prm_drg',
     ).join(
         ref_table,
         on='ccs',
         how='inner',
     ).where(
-        spark_funcs.col('drg') == spark_funcs.col('code')
+        spark_funcs.col('prm_drg') == spark_funcs.col('code')
     ).select(
         'member_id',
         'caseadmitid',
