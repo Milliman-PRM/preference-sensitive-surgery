@@ -6,7 +6,7 @@ claimid,string,true
 line_number,string,true
 prm_fromdate,date,true
 prm_todate,date,true
-drg,string,true
+prm_drg,string,true
 hcpcs,string,true
 revcode,string,true
 icdproc1,string,true
