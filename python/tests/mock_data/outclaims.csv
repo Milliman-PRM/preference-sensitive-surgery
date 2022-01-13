@@ -1,4 +1,4 @@
-sequencenumber,member_id,caseadmitid,claimid,line_number,prm_fromdate,prm_todate,drg,hcpcs,revcode,icdproc1,icdproc2,icdproc3,icdproc4,icdproc5,icdproc6,icdproc7,icdproc8,icdproc9,icdproc10,mr_line_case,mr_allowed,prm_acute_transfer_to_acute_yn,prm_prv_id_operating,paiddate
+sequencenumber,member_id,caseadmitid,claimid,line_number,prm_fromdate,prm_todate,prm_drg,hcpcs,revcode,icdproc1,icdproc2,icdproc3,icdproc4,icdproc5,icdproc6,icdproc7,icdproc8,icdproc9,icdproc10,mr_line_case,mr_allowed,prm_acute_transfer_to_acute_yn,prm_prv_id_operating,paiddate
 1,IP_1CCS,IP_1CCS_1,index_claim,1,2018-01-01,2018-01-05,028,,,0R530ZZ,,,,,,,,,,I12,50,N,1234567890,2018-02-01
 2,IP_multCCS,IP_multCCS_2,index_claim,1,2018-01-01,2018-01-05,467,,,0SRC07Z,0SR9019,,,,,,,,,I12,50,N,1234567890,2018-02-01
 3,IP_1CCS_multlines,IP_1CCS_multlines_1,index_claim,1,2018-01-01,2018-01-05,668,,,0V507ZZ,0V508ZZ,,,,,,,,,I12,50,N,1234567890,2018-02-01
