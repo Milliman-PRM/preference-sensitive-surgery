@@ -10,32 +10,32 @@ code,code_description,code_type,ccs
 0DW64CZ,Revision of Extralum Dev in Stomach - Perc Endo Approach,ICD10_PROC,ccs244
 0D164ZA,Bypass Stomach to Jejunum - Percutaneous Endoscopic Approach,ICD10_PROC,ccs244
 0D164ZB,Bypass Stomach to Ileum - Percutaneous Endoscopic Approach,ICD10_PROC,ccs244
-0312T,Laps impltj nstim vagus,CPT_HCPCS,ccs244
-0313T,Laps rmvl nstim array vagus,CPT_HCPCS,ccs244
-0314T,Laps rmvl vgl arry&pls gen,CPT_HCPCS,ccs244
-0315T,Rmvl vagus nerve pls gen,CPT_HCPCS,ccs244
-0316T,Replc vagus nerve pls gen,CPT_HCPCS,ccs244
-0317T,Elec alys vagus nrv pls gen,CPT_HCPCS,ccs244
-43644,Lap gastric bypass/roux-en-y,CPT_HCPCS,ccs244
-43645,Lap gastr bypass incl smll i,CPT_HCPCS,ccs244
-43770,Lap place gastr adj device,CPT_HCPCS,ccs244
-43771,Lap revise gastr adj device,CPT_HCPCS,ccs244
-43772,Lap rmvl gastr adj device,CPT_HCPCS,ccs244
-43773,Lap replace gastr adj device,CPT_HCPCS,ccs244
-43774,Lap rmvl gastr adj all parts,CPT_HCPCS,ccs244
-43775,Lap sleeve gastrectomy,CPT_HCPCS,ccs244
-43842,V-band gastroplasty,CPT_HCPCS,ccs244
-43843,Gastroplasty w/o v-band,CPT_HCPCS,ccs244
-43845,Gastroplasty duodenal switch,CPT_HCPCS,ccs244
-43846,Gastric bypass for obesity,CPT_HCPCS,ccs244
-43847,Gastric bypass incl small i,CPT_HCPCS,ccs244
-43848,Revision gastroplasty,CPT_HCPCS,ccs244
-43886,Revise gastric port open,CPT_HCPCS,ccs244
-43887,Remove gastric port open,CPT_HCPCS,ccs244
-43888,Change gastric port open,CPT_HCPCS,ccs244
-326,Stomach - esophageal & duodenal proc w MCC,MSDRG,ccs244
-327,Stomach - esophageal & duodenal proc w CC,MSDRG,ccs244
-328,Stomach - esophageal & duodenal proc w/o CC/MCC,MSDRG,ccs244
-619,O.R. procedures for obesity w MCC,MSDRG,ccs244
-620,O.R. procedures for obesity w CC,MSDRG,ccs244
-621,O.R. procedures for obesity w/o CC/MCC,MSDRG,ccs244
+0312T,"Vagus nerve blocking therapy (morbid obesity); laparoscopic implantation of neurostimulator electrode array, anterior and posterior vagal trunks adjacent to esophagogastric junction (EGJ), with implantation of pulse generator, includes programming",CPT_HCPCS,ccs244
+0313T,"Vagus nerve blocking therapy (morbid obesity); laparoscopic revision or replacement of vagal trunk neurostimulator electrode array, including connection to existing pulse generator",CPT_HCPCS,ccs244
+0314T,Vagus nerve blocking therapy (morbid obesity); laparoscopic removal of vagal trunk neurostimulator electrode array and pulse generator,CPT_HCPCS,ccs244
+0315T,Vagus nerve blocking therapy (morbid obesity); removal of pulse generator,CPT_HCPCS,ccs244
+0316T,Vagus nerve blocking therapy (morbid obesity); replacement of pulse generator,CPT_HCPCS,ccs244
+0317T,"Vagus nerve blocking therapy (morbid obesity); neurostimulator pulse generator electronic analysis, includes reprogramming when performed",CPT_HCPCS,ccs244
+43644,"Laparoscopy, surgical, gastric restrictive procedure; with gastric bypass and Roux-en-Y gastroenterostomy (roux limb 150 cm or less)",CPT_HCPCS,ccs244
+43645,"Laparoscopy, surgical, gastric restrictive procedure; with gastric bypass and small intestine reconstruction to limit absorption",CPT_HCPCS,ccs244
+43770,"Laparoscopy, surgical, gastric restrictive procedure; placement of adjustable gastric restrictive device (eg, gastric band and subcutaneous port components)",CPT_HCPCS,ccs244
+43771,"Laparoscopy, surgical, gastric restrictive procedure; revision of adjustable gastric restrictive device component only",CPT_HCPCS,ccs244
+43772,"Laparoscopy, surgical, gastric restrictive procedure; removal of adjustable gastric restrictive device component only",CPT_HCPCS,ccs244
+43773,"Laparoscopy, surgical, gastric restrictive procedure; removal and replacement of adjustable gastric restrictive device component only",CPT_HCPCS,ccs244
+43774,"Laparoscopy, surgical, gastric restrictive procedure; removal of adjustable gastric restrictive device and subcutaneous port components",CPT_HCPCS,ccs244
+43775,"Laparoscopy, surgical, gastric restrictive procedure; longitudinal gastrectomy (ie, sleeve gastrectomy)",CPT_HCPCS,ccs244
+43842,"Gastric restrictive procedure, without gastric bypass, for morbid obesity; vertical-banded gastroplasty",CPT_HCPCS,ccs244
+43843,"Gastric restrictive procedure, without gastric bypass, for morbid obesity; other than vertical-banded gastroplasty",CPT_HCPCS,ccs244
+43845,"Gastric restrictive procedure with partial gastrectomy, pylorus-preserving duodenoileostomy and ileoileostomy (50 to 100 cm common channel) to limit absorption (biliopancreatic diversion with duodenal switch)",CPT_HCPCS,ccs244
+43846,"Gastric restrictive procedure, with gastric bypass for morbid obesity; with short limb (150 cm or less) Roux-en-Y gastroenterostomy",CPT_HCPCS,ccs244
+43847,"Gastric restrictive procedure, with gastric bypass for morbid obesity; with small intestine reconstruction to limit absorption",CPT_HCPCS,ccs244
+43848,"Revision, open, of gastric restrictive procedure for morbid obesity, other than adjustable gastric restrictive device (separate procedure)",CPT_HCPCS,ccs244
+43886,"Gastric restrictive procedure, open; revision of subcutaneous port component only",CPT_HCPCS,ccs244
+43887,"Gastric restrictive procedure, open; removal of subcutaneous port component only",CPT_HCPCS,ccs244
+43888,"Gastric restrictive procedure, open; removal and replacement of subcutaneous port component only",CPT_HCPCS,ccs244
+326,"Stomach, Esophageal And Duodenal Procedures With Major Complication or Comorbidity (MCC)",MSDRG,ccs244
+327,"Stomach, Esophageal And Duodenal Procedures With Complication or Comorbidity (CC)",MSDRG,ccs244
+328,"Stomach, Esophageal And Duodenal Procedures Without Complication or Comorbidity (CC)/Major Complication or Comorbidity (MCC)",MSDRG,ccs244
+619,O.R. Procedures For Obesity With Major Complication or Comorbidity (MCC),MSDRG,ccs244
+620,O.R. Procedures For Obesity With Complication or Comorbidity (CC),MSDRG,ccs244
+621,O.R. Procedures For Obesity Without Complication or Comorbidity (CC)/Major Complication or Comorbidity (MCC),MSDRG,ccs244
