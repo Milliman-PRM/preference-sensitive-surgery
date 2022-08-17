@@ -1,6 +1,8 @@
 ﻿## Release Notes
 
 A non-exhaustive list of what has changed in a more readable form than a commit history.
+### v1.1.1
+  - Updated column reference for DRG from `drg` to `prm_drg` 
 
 ### v1.1.0
   - Beneficiaries can only have one PSP assigned per caseadmitid

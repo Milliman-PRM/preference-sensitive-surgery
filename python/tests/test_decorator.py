@@ -23,7 +23,7 @@ try:
 except NameError:
     _PARTS = list(Path(pref_sens_surg.decorator.__file__).parent.parts)
     _PARTS[-1] = "tests"
-    _PATH_THIS_FILE = Path(*_PARTS)  # pylint: disable=redefined-variable-type
+    _PATH_THIS_FILE = Path(*_PARTS)  # pylint: disable=bad-option-value
 
 PATH_MOCK_SCHEMAS = _PATH_THIS_FILE / "mock_schemas"
 PATH_MOCK_DATA = _PATH_THIS_FILE / "mock_data"
@@ -96,7 +96,7 @@ def test_pss(mock_dataframes):
         if n_misses != 0:
             failures.append(actual_column)
             failure_rows = failure_rows | set(
-                [row["sequencenumber"] for row in misses.collect()]
+                row["sequencenumber"] for row in misses.collect()
             )
     assert (
         not failures
