@@ -67,4 +67,15 @@ code,code_description,code_type,ccs
 29999,"Unlisted procedure, arthroscopy",CPT_HCPCS,ccs149
 G0289,"Arthroscopy, knee, surgical, for removal of loose body, foreign body, debridement/shaving of articular cartilage (chondroplasty) at the time of other surgical knee arthroscopy in a different compartment of the same knee",CPT_HCPCS,ccs149
 S2300,"Arthroscopy, shoulder, surgical; with thermally-induced capsulorrhaphy",CPT_HCPCS,ccs149
+27332,"Arthrotomy, with excision of semilunar cartilage (meniscectomy) knee; medial OR lateral",CPT_HCPCS,ccs149
+27333, "Arthrotomy, with excision of semilunar cartilage (meniscectomy) knee; medial AND lateral",CPT_HCPCS,ccs149
+27347,"Excision of lesion of meniscus or capsule (eg, cyst, ganglion), knee",CPT_HCPCS,ccs149
+27403,"Arthrotomy with meniscus repair, knee",CPT_HCPCS,ccs149
+27405,"Repair, primary, torn ligament and/or capsule, knee; collateral",CPT_HCPCS,ccs149
+27407,"Repair, primary, torn ligament and/or capsule, knee; cruciate",CPT_HCPCS,ccs149
+27409,"Repair, primary, torn ligament and/or capsule, knee; collateral and cruciate ligaments",CPT_HCPCS,ccs149
+29880,"Arthroscopy, knee, surgical; with meniscectomy (medial AND lateral, including any meniscal shaving) including debridement/shaving of articular cartilage (chondroplasty), same or separate compartment(s), when performed",CPT_HCPCS,ccs149
+29881,"Arthroscopy, knee, surgical; with meniscectomy (medial OR lateral, including any meniscal shaving) including debridement/shaving of articular cartilage (chondroplasty), same or separate compartment(s), when performed",CPT_HCPCS,ccs149
+29882,"Arthroscopy, knee, surgical; with meniscus repair (medial OR lateral)",CPT_HCPCS,ccs149
+29883,"Arthroscopy, knee, surgical; with meniscus repair (medial AND lateral)",CPT_HCPCS,ccs149
 509,Arthroscopy,MSDRG,ccs149
