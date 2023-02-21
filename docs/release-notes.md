@@ -1,6 +1,9 @@
 ﻿## Release Notes
 
 A non-exhaustive list of what has changed in a more readable form than a commit history.
+### v1.2.0
+  - Updated PSPs reference tables on CCS categories (\nynas2.milliman.com\hea\H1\ACOI_ACO Insight\Work Papers__COMPONENTS\Coding Updates 2022\Preference Sensitive Procedures 2021 Updates (CCS))
+
 ### v1.1.1
   - Updated column reference for DRG from `drg` to `prm_drg` 
 
