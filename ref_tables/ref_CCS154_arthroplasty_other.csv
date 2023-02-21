@@ -1,622 +1,614 @@
 code,code_description,code_type,ccs
-0RR007Z,Replacement of Occip Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RR00JZ,Replacement of Occip Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RR00KZ,Replacement of Occip Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RR107Z,Replacement of Cerv Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RR10JZ,Replacement of Cerv Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RR10KZ,Replacement of Cerv Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RR307Z,Replacement of Cerv Disc with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RR30JZ,Replacement of Cerv Disc with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RR30KZ,Replacement of Cerv Disc with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RR407Z,Replacement of C-thor Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RR40JZ,Replacement of C-thor Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RR40KZ,Replacement of C-thor Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RR507Z,Replacement of C-thor Disc with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RR50JZ,Replacement of C-thor Disc with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RR50KZ,Replacement of C-thor Disc with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RR607Z,Replacement of Thor Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RR60JZ,Replacement of Thor Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RR60KZ,Replacement of Thor Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RR907Z,Replacement of Thor Disc with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RR90JZ,Replacement of Thor Disc with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RR90KZ,Replacement of Thor Disc with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRA07Z,Replacement of T-lum Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRA0JZ,Replacement of T-lum Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRA0KZ,Replacement of T-lum Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRB07Z,Replacement of T-lum Disc with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRB0JZ,Replacement of T-lum Disc with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRB0KZ,Replacement of T-lum Disc with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRC07Z,Replace of R Temporomandib Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRC0JZ,Replace of R Temporomandib Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRC0KZ,Replace of R Temporomandib Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRD07Z,Replace of L Temporomandib Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRD0JZ,Replace of L Temporomandib Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRD0KZ,Replace of L Temporomandib Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRE07Z,Replacement of R Sternoclav Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRE0JZ,Replacement of R Sternoclav Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRE0KZ,Replace of R Sternoclav Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRF07Z,Replacement of L Sternoclav Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRF0JZ,Replacement of L Sternoclav Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRF0KZ,Replace of L Sternoclav Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRG07Z,Replace of R Acromioclav Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRG0JZ,Replace of R Acromioclav Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRG0KZ,Replace of R Acromioclav Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRH07Z,Replace of L Acromioclav Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRH0JZ,Replace of L Acromioclav Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRH0KZ,Replace of L Acromioclav Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRJ00Z,Replace of R Shoulder Jt with Rev Bl & Sockt - Open Approach,ICD10_PROC,ccs154
-0RRJ07Z,Replacement of R Shoulder Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRJ0J6,Replace R Shoulder Jt w Synth Sub - Humeral - Open,ICD10_PROC,ccs154
-0RRJ0J7,Replace R Shoulder Jt w Synth Sub - Glenoid - Open,ICD10_PROC,ccs154
-0RRJ0JZ,Replacement of R Shoulder Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRJ0KZ,Replacement of R Shoulder Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRK00Z,Replace of L Shoulder Jt with Rev Bl & Sockt - Open Approach,ICD10_PROC,ccs154
-0RRK07Z,Replacement of L Shoulder Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRK0J6,Replace L Shoulder Jt w Synth Sub - Humeral - Open,ICD10_PROC,ccs154
-0RRK0J7,Replace L Shoulder Jt w Synth Sub - Glenoid - Open,ICD10_PROC,ccs154
-0RRK0JZ,Replacement of L Shoulder Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRK0KZ,Replacement of L Shoulder Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRL07Z,Replacement of R Elbow Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRL0JZ,Replacement of R Elbow Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRL0KZ,Replacement of R Elbow Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRM07Z,Replacement of L Elbow Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRM0JZ,Replacement of L Elbow Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRM0KZ,Replacement of L Elbow Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRN07Z,Replacement of R Wrist Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRN0JZ,Replacement of R Wrist Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRN0KZ,Replacement of R Wrist Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRP07Z,Replacement of L Wrist Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRP0JZ,Replacement of L Wrist Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRP0KZ,Replacement of L Wrist Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRQ07Z,Replacement of R Carpal Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRQ0JZ,Replacement of R Carpal Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRQ0KZ,Replacement of R Carpal Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRR07Z,Replacement of L Carpal Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRR0JZ,Replacement of L Carpal Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRR0KZ,Replacement of L Carpal Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRS07Z,Replace of R Metacarpocarp Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRS0JZ,Replace of R Metacarpocarp Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRS0KZ,Replace of R Metacarpocarp Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRT07Z,Replace of L Metacarpocarp Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRT0JZ,Replace of L Metacarpocarp Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRT0KZ,Replace of L Metacarpocarp Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRU07Z,Replace of R Metacarpophal Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRU0JZ,Replace of R Metacarpophal Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRU0KZ,Replace of R Metacarpophal Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRV07Z,Replace of L Metacarpophal Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRV0JZ,Replace of L Metacarpophal Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRV0KZ,Replace of L Metacarpophal Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RRW07Z,Replace of R Finger Phalanx Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRW0JZ,Replace of R Finger Phalanx Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRW0KZ,Replace R Finger Phalanx Jt w Nonaut Sub - Open,ICD10_PROC,ccs154
-0RRX07Z,Replace of L Finger Phalanx Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RRX0JZ,Replace of L Finger Phalanx Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RRX0KZ,Replace L Finger Phalanx Jt w Nonaut Sub - Open,ICD10_PROC,ccs154
-0RU007Z,Supplement Occip Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RU00JZ,Supplement Occip Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RU00KZ,Supplement Occip Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RU037Z,Supplement Occip Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RU03JZ,Supplement Occip Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RU03KZ,Supplement Occip Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RU047Z,Supplement Occip Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU04JZ,Supplement Occip Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU04KZ,Supplement Occip Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU107Z,Supplement Cerv Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RU10JZ,Supplement Cerv Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RU10KZ,Supplement Cerv Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RU137Z,Supplement Cerv Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RU13JZ,Supplement Cerv Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RU13KZ,Supplement Cerv Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RU147Z,Supplement Cerv Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU14JZ,Supplement Cerv Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU14KZ,Supplement Cerv Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU307Z,Supplement Cerv Disc with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RU30JZ,Supplement Cerv Disc with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RU30KZ,Supplement Cerv Disc with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RU337Z,Supplement Cerv Disc with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RU33JZ,Supplement Cerv Disc with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RU33KZ,Supplement Cerv Disc with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RU347Z,Supplement Cerv Disc with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU34JZ,Supplement Cerv Disc with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU34KZ,Supplement Cerv Disc with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU407Z,Supplement C-thor Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RU40JZ,Supplement C-thor Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RU40KZ,Supplement C-thor Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RU437Z,Supplement C-thor Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RU43JZ,Supplement C-thor Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RU43KZ,Supplement C-thor Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RU447Z,Supplement C-thor Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU44JZ,Supplement C-thor Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU44KZ,Supplement C-thor Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU507Z,Supplement C-thor Disc with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RU50JZ,Supplement C-thor Disc with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RU50KZ,Supplement C-thor Disc with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RU537Z,Supplement C-thor Disc with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RU53JZ,Supplement C-thor Disc with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RU53KZ,Supplement C-thor Disc with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RU547Z,Supplement C-thor Disc with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU54JZ,Supplement C-thor Disc with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU54KZ,Supplement C-thor Disc with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU607Z,Supplement Thor Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RU60JZ,Supplement Thor Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RU60KZ,Supplement Thor Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RU637Z,Supplement Thor Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RU63JZ,Supplement Thor Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RU63KZ,Supplement Thor Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RU647Z,Supplement Thor Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU64JZ,Supplement Thor Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU64KZ,Supplement Thor Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU907Z,Supplement Thor Disc with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RU90JZ,Supplement Thor Disc with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RU90KZ,Supplement Thor Disc with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RU937Z,Supplement Thor Disc with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RU93JZ,Supplement Thor Disc with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RU93KZ,Supplement Thor Disc with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RU947Z,Supplement Thor Disc with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU94JZ,Supplement Thor Disc with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RU94KZ,Supplement Thor Disc with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUA07Z,Supplement T-lum Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUA0JZ,Supplement T-lum Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUA0KZ,Supplement T-lum Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUA37Z,Supplement T-lum Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUA3JZ,Supplement T-lum Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUA3KZ,Supplement T-lum Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUA47Z,Supplement T-lum Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUA4JZ,Supplement T-lum Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUA4KZ,Supplement T-lum Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUB07Z,Supplement T-lum Disc with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUB0JZ,Supplement T-lum Disc with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUB0KZ,Supplement T-lum Disc with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUB37Z,Supplement T-lum Disc with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUB3JZ,Supplement T-lum Disc with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUB3KZ,Supplement T-lum Disc with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUB47Z,Supplement T-lum Disc with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUB4JZ,Supplement T-lum Disc with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUB4KZ,Supplement T-lum Disc with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUC07Z,Supplement R Temporomandib Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUC0JZ,Supplement R Temporomandib Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUC0KZ,Supplement R Temporomandib Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUC37Z,Supplement R Temporomandib Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUC3JZ,Supplement R Temporomandib Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUC3KZ,Supplement R Temporomandib Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUC47Z,Supplement R Temporomandib Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0RUC4JZ,Supplement R Temporomandib Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0RUC4KZ,Supplement R Temporomandib Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0RUD07Z,Supplement L Temporomandib Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUD0JZ,Supplement L Temporomandib Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUD0KZ,Supplement L Temporomandib Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUD37Z,Supplement L Temporomandib Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUD3JZ,Supplement L Temporomandib Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUD3KZ,Supplement L Temporomandib Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUD47Z,Supplement L Temporomandib Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0RUD4JZ,Supplement L Temporomandib Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0RUD4KZ,Supplement L Temporomandib Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0RUE07Z,Supplement R Sternoclav Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUE0JZ,Supplement R Sternoclav Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUE0KZ,Supplement R Sternoclav Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUE37Z,Supplement R Sternoclav Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUE3JZ,Supplement R Sternoclav Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUE3KZ,Supplement R Sternoclav Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUE47Z,Supplement R Sternoclav Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0RUE4JZ,Supplement R Sternoclav Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0RUE4KZ,Supplement R Sternoclav Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0RUF07Z,Supplement L Sternoclav Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUF0JZ,Supplement L Sternoclav Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUF0KZ,Supplement L Sternoclav Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUF37Z,Supplement L Sternoclav Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUF3JZ,Supplement L Sternoclav Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUF3KZ,Supplement L Sternoclav Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUF47Z,Supplement L Sternoclav Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0RUF4JZ,Supplement L Sternoclav Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0RUF4KZ,Supplement L Sternoclav Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0RUG07Z,Supplement R Acromioclav Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUG0JZ,Supplement R Acromioclav Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUG0KZ,Supplement R Acromioclav Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUG37Z,Supplement R Acromioclav Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUG3JZ,Supplement R Acromioclav Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUG3KZ,Supplement R Acromioclav Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUG47Z,Supplement R Acromioclav Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0RUG4JZ,Supplement R Acromioclav Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0RUG4KZ,Supplement R Acromioclav Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0RUH07Z,Supplement L Acromioclav Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUH0JZ,Supplement L Acromioclav Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUH0KZ,Supplement L Acromioclav Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUH37Z,Supplement L Acromioclav Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUH3JZ,Supplement L Acromioclav Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUH3KZ,Supplement L Acromioclav Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUH47Z,Supplement L Acromioclav Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0RUH4JZ,Supplement L Acromioclav Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0RUH4KZ,Supplement L Acromioclav Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0RUJ07Z,Supplement R Shoulder Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUJ0JZ,Supplement R Shoulder Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUJ0KZ,Supplement R Shoulder Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUJ37Z,Supplement R Shoulder Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUJ3JZ,Supplement R Shoulder Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUJ3KZ,Supplement R Shoulder Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUJ47Z,Supplement R Shoulder Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUJ4JZ,Supplement R Shoulder Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUJ4KZ,Supplement R Shoulder Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUK07Z,Supplement Left Shoulder Joint with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUK0JZ,Supplement Left Shoulder Joint with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUK0KZ,Supplement L Shoulder Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUK37Z,Supplement Left Shoulder Joint with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUK3JZ,Supplement Left Shoulder Joint with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUK3KZ,Supplement L Shoulder Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUK47Z,Supplement L Shoulder Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUK4JZ,Supplement L Shoulder Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUK4KZ,Supplement L Shoulder Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUL07Z,Supplement Right Elbow Joint with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUL0JZ,Supplement Right Elbow Joint with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUL0KZ,Supplement Right Elbow Joint with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUL37Z,Supplement Right Elbow Joint with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUL3JZ,Supplement Right Elbow Joint with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUL3KZ,Supplement Right Elbow Joint with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUL47Z,Supplement R Elbow Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUL4JZ,Supplement R Elbow Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUL4KZ,Supplement R Elbow Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUM07Z,Supplement Left Elbow Joint with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUM0JZ,Supplement Left Elbow Joint with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUM0KZ,Supplement Left Elbow Joint with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUM37Z,Supplement Left Elbow Joint with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUM3JZ,Supplement Left Elbow Joint with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUM3KZ,Supplement Left Elbow Joint with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUM47Z,Supplement L Elbow Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUM4JZ,Supplement L Elbow Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUM4KZ,Supplement L Elbow Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUN07Z,Supplement Right Wrist Joint with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUN0JZ,Supplement Right Wrist Joint with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUN0KZ,Supplement Right Wrist Joint with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUN37Z,Supplement Right Wrist Joint with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUN3JZ,Supplement Right Wrist Joint with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUN3KZ,Supplement Right Wrist Joint with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUN47Z,Supplement R Wrist Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUN4JZ,Supplement R Wrist Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUN4KZ,Supplement R Wrist Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUP07Z,Supplement Left Wrist Joint with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUP0JZ,Supplement Left Wrist Joint with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUP0KZ,Supplement Left Wrist Joint with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUP37Z,Supplement Left Wrist Joint with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUP3JZ,Supplement Left Wrist Joint with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUP3KZ,Supplement Left Wrist Joint with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUP47Z,Supplement L Wrist Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUP4JZ,Supplement L Wrist Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUP4KZ,Supplement L Wrist Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUQ07Z,Supplement Right Carpal Joint with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUQ0JZ,Supplement Right Carpal Joint with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUQ0KZ,Supplement Right Carpal Joint with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUQ37Z,Supplement Right Carpal Joint with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUQ3JZ,Supplement Right Carpal Joint with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUQ3KZ,Supplement Right Carpal Joint with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUQ47Z,Supplement R Carpal Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUQ4JZ,Supplement R Carpal Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUQ4KZ,Supplement R Carpal Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUR07Z,Supplement Left Carpal Joint with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUR0JZ,Supplement Left Carpal Joint with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUR0KZ,Supplement Left Carpal Joint with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUR37Z,Supplement Left Carpal Joint with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUR3JZ,Supplement Left Carpal Joint with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUR3KZ,Supplement Left Carpal Joint with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUR47Z,Supplement L Carpal Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUR4JZ,Supplement L Carpal Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUR4KZ,Supplement L Carpal Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0RUS07Z,Supplement R Metacarpocarp Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUS0JZ,Supplement R Metacarpocarp Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUS0KZ,Supplement R Metacarpocarp Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUS37Z,Supplement R Metacarpocarp Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUS3JZ,Supplement R Metacarpocarp Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUS3KZ,Supplement R Metacarpocarp Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUS47Z,Supplement R Metacarpocarp Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0RUS4JZ,Supplement R Metacarpocarp Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0RUS4KZ,Supplement R Metacarpocarp Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0RUT07Z,Supplement L Metacarpocarp Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUT0JZ,Supplement L Metacarpocarp Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUT0KZ,Supplement L Metacarpocarp Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUT37Z,Supplement L Metacarpocarp Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUT3JZ,Supplement L Metacarpocarp Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUT3KZ,Supplement L Metacarpocarp Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUT47Z,Supplement L Metacarpocarp Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0RUT4JZ,Supplement L Metacarpocarp Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0RUT4KZ,Supplement L Metacarpocarp Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0RUU07Z,Supplement R Metacarpophal Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUU0JZ,Supplement R Metacarpophal Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUU0KZ,Supplement R Metacarpophal Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUU37Z,Supplement R Metacarpophal Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUU3JZ,Supplement R Metacarpophal Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUU3KZ,Supplement R Metacarpophal Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUU47Z,Supplement R Metacarpophal Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0RUU4JZ,Supplement R Metacarpophal Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0RUU4KZ,Supplement R Metacarpophal Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0RUV07Z,Supplement L Metacarpophal Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUV0JZ,Supplement L Metacarpophal Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUV0KZ,Supplement L Metacarpophal Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0RUV37Z,Supplement L Metacarpophal Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUV3JZ,Supplement L Metacarpophal Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUV3KZ,Supplement L Metacarpophal Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0RUV47Z,Supplement L Metacarpophal Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0RUV4JZ,Supplement L Metacarpophal Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0RUV4KZ,Supplement L Metacarpophal Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0RUW07Z,Supplement R Finger Phalanx Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUW0JZ,Supplement R Finger Phalanx Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUW0KZ,Supplement R Finger Phalanx Jt w Nonaut Sub - Open,ICD10_PROC,ccs154
-0RUW37Z,Supplement R Finger Phalanx Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUW3JZ,Supplement R Finger Phalanx Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUW3KZ,Supplement R Finger Phalanx Jt w Nonaut Sub - Perc,ICD10_PROC,ccs154
-0RUW47Z,Supplement R Finger Phalanx Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0RUW4JZ,Supplement R Finger Phalanx Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0RUW4KZ,Supplement R Finger Phalanx Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0RUX07Z,Supplement L Finger Phalanx Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0RUX0JZ,Supplement L Finger Phalanx Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0RUX0KZ,Supplement L Finger Phalanx Jt w Nonaut Sub - Open,ICD10_PROC,ccs154
-0RUX37Z,Supplement L Finger Phalanx Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0RUX3JZ,Supplement L Finger Phalanx Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0RUX3KZ,Supplement L Finger Phalanx Jt w Nonaut Sub - Perc,ICD10_PROC,ccs154
-0RUX47Z,Supplement L Finger Phalanx Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0RUX4JZ,Supplement L Finger Phalanx Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0RUX4KZ,Supplement L Finger Phalanx Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0SR007Z,Replacement of Lum Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SR00JZ,Replacement of Lum Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SR00KZ,Replacement of Lum Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SR207Z,Replacement of Lum Disc with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SR20JZ,Replacement of Lum Disc with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SR20KZ,Replacement of Lum Disc with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SR307Z,Replacement of Lumsac Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SR30JZ,Replacement of Lumsac Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SR30KZ,Replacement of Lumsac Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SR407Z,Replacement of Lumsac Disc with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SR40JZ,Replacement of Lumsac Disc with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SR40KZ,Replacement of Lumsac Disc with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SR507Z,Replace of Sacrococcygeal Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SR50JZ,Replace of Sacrococcygeal Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SR50KZ,Replace of Sacrococcygeal Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SR607Z,Replacement of Coccygeal Joint with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SR60JZ,Replacement of Coccygeal Joint with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SR60KZ,Replacement of Coccygeal Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SR707Z,Replacement of R Sacroiliac Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SR70JZ,Replacement of R Sacroiliac Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SR70KZ,Replace of R Sacroiliac Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SR807Z,Replacement of L Sacroiliac Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SR80JZ,Replacement of L Sacroiliac Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SR80KZ,Replace of L Sacroiliac Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SRF07Z,Replacement of R Ankle Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SRF0J9,Replace of R Ankle Jt with Synth Sub - Cement - Open Approach,ICD10_PROC,ccs154
-0SRF0JA,Replace R Ankle Jt w Synth Sub - Uncement - Open,ICD10_PROC,ccs154
-0SRF0JZ,Replacement of R Ankle Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SRF0KZ,Replacement of R Ankle Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SRG07Z,Replacement of L Ankle Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SRG0J9,Replace of L Ankle Jt with Synth Sub - Cement - Open Approach,ICD10_PROC,ccs154
-0SRG0JA,Replace L Ankle Jt w Synth Sub - Uncement - Open,ICD10_PROC,ccs154
-0SRG0JZ,Replacement of L Ankle Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SRG0KZ,Replacement of L Ankle Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SRH07Z,Replacement of R Tarsal Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SRH0JZ,Replacement of R Tarsal Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SRH0KZ,Replacement of R Tarsal Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SRJ07Z,Replacement of L Tarsal Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SRJ0JZ,Replacement of L Tarsal Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SRJ0KZ,Replacement of L Tarsal Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SRK07Z,Replace of R Metatarsotars Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SRK0JZ,Replace of R Metatarsotars Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SRK0KZ,Replace of R Metatarsotars Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SRL07Z,Replace of L Metatarsotars Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SRL0JZ,Replace of L Metatarsotars Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SRL0KZ,Replace of L Metatarsotars Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SRM07Z,Replace of R Metatarsophal Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SRM0JZ,Replace of R Metatarsophal Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SRM0KZ,Replace of R Metatarsophal Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SRN07Z,Replace of L Metatarsophal Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SRN0JZ,Replace of L Metatarsophal Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SRN0KZ,Replace of L Metatarsophal Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SRP07Z,Replace of R Toe Phalanx Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SRP0JZ,Replace of R Toe Phalanx Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SRP0KZ,Replace of R Toe Phalanx Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SRQ07Z,Replace of L Toe Phalanx Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SRQ0JZ,Replace of L Toe Phalanx Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SRQ0KZ,Replace of L Toe Phalanx Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SU007Z,Supplement Lum Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SU00JZ,Supplement Lum Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SU00KZ,Supplement Lum Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SU037Z,Supplement Lum Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0SU03JZ,Supplement Lum Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0SU03KZ,Supplement Lum Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0SU047Z,Supplement Lum Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SU04JZ,Supplement Lum Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SU04KZ,Supplement Lum Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SU207Z,Supplement Lum Disc with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SU20JZ,Supplement Lum Disc with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SU20KZ,Supplement Lum Disc with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SU237Z,Supplement Lum Disc with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0SU23JZ,Supplement Lum Disc with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0SU23KZ,Supplement Lum Disc with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0SU247Z,Supplement Lum Disc with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SU24JZ,Supplement Lum Disc with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SU24KZ,Supplement Lum Disc with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SU307Z,Supplement Lumbosacral Joint with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SU30JZ,Supplement Lumbosacral Joint with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SU30KZ,Supplement Lumbosacral Joint with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SU337Z,Supplement Lumbosacral Joint with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0SU33JZ,Supplement Lumbosacral Joint with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0SU33KZ,Supplement Lumbosacral Joint with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0SU347Z,Supplement Lumsac Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SU34JZ,Supplement Lumsac Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SU34KZ,Supplement Lumsac Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SU407Z,Supplement Lumbosacral Disc with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SU40JZ,Supplement Lumbosacral Disc with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SU40KZ,Supplement Lumbosacral Disc with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SU437Z,Supplement Lumbosacral Disc with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0SU43JZ,Supplement Lumbosacral Disc with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0SU43KZ,Supplement Lumbosacral Disc with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0SU447Z,Supplement Lumsac Disc with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SU44JZ,Supplement Lumsac Disc with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SU44KZ,Supplement Lumsac Disc with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SU507Z,Supplement Sacrococcygeal Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SU50JZ,Supplement Sacrococcygeal Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SU50KZ,Supplement Sacrococcygeal Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SU537Z,Supplement Sacrococcygeal Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0SU53JZ,Supplement Sacrococcygeal Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0SU53KZ,Supplement Sacrococcygeal Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0SU547Z,Supplement Sacrococcygeal Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0SU54JZ,Supplement Sacrococcygeal Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0SU54KZ,Supplement Sacrococcygeal Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0SU607Z,Supplement Coccygeal Joint with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SU60JZ,Supplement Coccygeal Joint with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SU60KZ,Supplement Coccygeal Joint with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SU637Z,Supplement Coccygeal Joint with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0SU63JZ,Supplement Coccygeal Joint with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0SU63KZ,Supplement Coccygeal Joint with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0SU647Z,Supplement Coccygeal Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SU64JZ,Supplement Coccygeal Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SU64KZ,Supplement Coccygeal Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SU707Z,Supplement R Sacroiliac Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SU70JZ,Supplement R Sacroiliac Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SU70KZ,Supplement R Sacroiliac Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SU737Z,Supplement R Sacroiliac Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0SU73JZ,Supplement R Sacroiliac Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0SU73KZ,Supplement R Sacroiliac Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0SU747Z,Supplement R Sacroiliac Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0SU74JZ,Supplement R Sacroiliac Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0SU74KZ,Supplement R Sacroiliac Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0SU807Z,Supplement L Sacroiliac Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SU80JZ,Supplement L Sacroiliac Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SU80KZ,Supplement L Sacroiliac Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SU837Z,Supplement L Sacroiliac Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0SU83JZ,Supplement L Sacroiliac Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0SU83KZ,Supplement L Sacroiliac Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0SU847Z,Supplement L Sacroiliac Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0SU84JZ,Supplement L Sacroiliac Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0SU84KZ,Supplement L Sacroiliac Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0SUF07Z,Supplement Right Ankle Joint with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SUF0JZ,Supplement Right Ankle Joint with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SUF0KZ,Supplement Right Ankle Joint with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SUF37Z,Supplement Right Ankle Joint with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0SUF3JZ,Supplement Right Ankle Joint with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0SUF3KZ,Supplement Right Ankle Joint with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0SUF47Z,Supplement R Ankle Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SUF4JZ,Supplement R Ankle Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SUF4KZ,Supplement R Ankle Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SUG07Z,Supplement Left Ankle Joint with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SUG0JZ,Supplement Left Ankle Joint with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SUG0KZ,Supplement Left Ankle Joint with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SUG37Z,Supplement Left Ankle Joint with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0SUG3JZ,Supplement Left Ankle Joint with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0SUG3KZ,Supplement Left Ankle Joint with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0SUG47Z,Supplement L Ankle Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SUG4JZ,Supplement L Ankle Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SUG4KZ,Supplement L Ankle Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SUH07Z,Supplement Right Tarsal Joint with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SUH0JZ,Supplement Right Tarsal Joint with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SUH0KZ,Supplement Right Tarsal Joint with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SUH37Z,Supplement Right Tarsal Joint with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0SUH3JZ,Supplement Right Tarsal Joint with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0SUH3KZ,Supplement Right Tarsal Joint with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0SUH47Z,Supplement R Tarsal Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SUH4JZ,Supplement R Tarsal Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SUH4KZ,Supplement R Tarsal Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SUJ07Z,Supplement Left Tarsal Joint with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SUJ0JZ,Supplement Left Tarsal Joint with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SUJ0KZ,Supplement Left Tarsal Joint with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SUJ37Z,Supplement Left Tarsal Joint with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0SUJ3JZ,Supplement Left Tarsal Joint with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0SUJ3KZ,Supplement Left Tarsal Joint with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0SUJ47Z,Supplement L Tarsal Jt with Autol Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SUJ4JZ,Supplement L Tarsal Jt with Synth Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SUJ4KZ,Supplement L Tarsal Jt with Nonaut Sub - Perc Endo Approach,ICD10_PROC,ccs154
-0SUK07Z,Supplement R Metatarsotars Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SUK0JZ,Supplement R Metatarsotars Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SUK0KZ,Supplement R Metatarsotars Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SUK37Z,Supplement R Metatarsotars Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0SUK3JZ,Supplement R Metatarsotars Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0SUK3KZ,Supplement R Metatarsotars Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0SUK47Z,Supplement R Metatarsotars Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0SUK4JZ,Supplement R Metatarsotars Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0SUK4KZ,Supplement R Metatarsotars Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0SUL07Z,Supplement L Metatarsotars Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SUL0JZ,Supplement L Metatarsotars Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SUL0KZ,Supplement L Metatarsotars Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SUL37Z,Supplement L Metatarsotars Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0SUL3JZ,Supplement L Metatarsotars Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0SUL3KZ,Supplement L Metatarsotars Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0SUL47Z,Supplement L Metatarsotars Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0SUL4JZ,Supplement L Metatarsotars Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0SUL4KZ,Supplement L Metatarsotars Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0SUM07Z,Supplement R Metatarsophal Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SUM0JZ,Supplement R Metatarsophal Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SUM0KZ,Supplement R Metatarsophal Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SUM37Z,Supplement R Metatarsophal Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0SUM3JZ,Supplement R Metatarsophal Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0SUM3KZ,Supplement R Metatarsophal Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0SUM47Z,Supplement R Metatarsophal Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0SUM4JZ,Supplement R Metatarsophal Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0SUM4KZ,Supplement R Metatarsophal Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0SUN07Z,Supplement L Metatarsophal Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SUN0JZ,Supplement L Metatarsophal Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SUN0KZ,Supplement L Metatarsophal Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SUN37Z,Supplement L Metatarsophal Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0SUN3JZ,Supplement L Metatarsophal Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0SUN3KZ,Supplement L Metatarsophal Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0SUN47Z,Supplement L Metatarsophal Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0SUN4JZ,Supplement L Metatarsophal Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0SUN4KZ,Supplement L Metatarsophal Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0SUP07Z,Supplement R Toe Phalanx Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SUP0JZ,Supplement R Toe Phalanx Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SUP0KZ,Supplement R Toe Phalanx Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SUP37Z,Supplement R Toe Phalanx Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0SUP3JZ,Supplement R Toe Phalanx Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0SUP3KZ,Supplement R Toe Phalanx Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0SUP47Z,Supplement R Toe Phalanx Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0SUP4JZ,Supplement R Toe Phalanx Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0SUP4KZ,Supplement R Toe Phalanx Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0SUQ07Z,Supplement L Toe Phalanx Jt with Autol Sub - Open Approach,ICD10_PROC,ccs154
-0SUQ0JZ,Supplement L Toe Phalanx Jt with Synth Sub - Open Approach,ICD10_PROC,ccs154
-0SUQ0KZ,Supplement L Toe Phalanx Jt with Nonaut Sub - Open Approach,ICD10_PROC,ccs154
-0SUQ37Z,Supplement L Toe Phalanx Jt with Autol Sub - Perc Approach,ICD10_PROC,ccs154
-0SUQ3JZ,Supplement L Toe Phalanx Jt with Synth Sub - Perc Approach,ICD10_PROC,ccs154
-0SUQ3KZ,Supplement L Toe Phalanx Jt with Nonaut Sub - Perc Approach,ICD10_PROC,ccs154
-0SUQ47Z,Supplement L Toe Phalanx Jt w Autol Sub - Perc Endo,ICD10_PROC,ccs154
-0SUQ4JZ,Supplement L Toe Phalanx Jt w Synth Sub - Perc Endo,ICD10_PROC,ccs154
-0SUQ4KZ,Supplement L Toe Phalanx Jt w Nonaut Sub - Perc Endo,ICD10_PROC,ccs154
-0090T,Cervical artific disc,CPT_HCPCS,ccs154
-0091T,Lumbar artific disc,CPT_HCPCS,ccs154
-0092T,Artific disc addl cervical,CPT_HCPCS,ccs154
-0096T,Rev cervical artific disc,CPT_HCPCS,ccs154
-0097T,Rev lumbar artific disc,CPT_HCPCS,ccs154
-0098T,Rev artific disc addl,CPT_HCPCS,ccs154
-0375T,Total disc arthrp ant appr,CPT_HCPCS,ccs154
-21240,Reconstruction of jaw joint,CPT_HCPCS,ccs154
-21242,Reconstruction of jaw joint,CPT_HCPCS,ccs154
-21243,Reconstruction of jaw joint,CPT_HCPCS,ccs154
-23420,Repair of shoulder,CPT_HCPCS,ccs154
-23470,Reconstruct shoulder joint,CPT_HCPCS,ccs154
-23472,Reconstruct shoulder joint,CPT_HCPCS,ccs154
-23473,Revis reconst shoulder joint,CPT_HCPCS,ccs154
-23474,Revis reconst shoulder joint,CPT_HCPCS,ccs154
-24360,Reconstruct elbow joint,CPT_HCPCS,ccs154
-24361,Reconstruct elbow joint,CPT_HCPCS,ccs154
-24362,Reconstruct elbow joint,CPT_HCPCS,ccs154
-24363,Replace elbow joint,CPT_HCPCS,ccs154
-24365,Reconstruct head of radius,CPT_HCPCS,ccs154
-24366,Reconstruct head of radius,CPT_HCPCS,ccs154
-24370,Revise reconst elbow joint,CPT_HCPCS,ccs154
-24371,Revise reconst elbow joint,CPT_HCPCS,ccs154
-25332,Revise wrist joint,CPT_HCPCS,ccs154
-25441,Reconstruct wrist joint,CPT_HCPCS,ccs154
-25442,Reconstruct wrist joint,CPT_HCPCS,ccs154
-25443,Reconstruct wrist joint,CPT_HCPCS,ccs154
-25444,Reconstruct wrist joint,CPT_HCPCS,ccs154
-25445,Reconstruct wrist joint,CPT_HCPCS,ccs154
-25446,Wrist replacement,CPT_HCPCS,ccs154
-25447,Repair wrist joints,CPT_HCPCS,ccs154
-25449,Remove wrist joint implant,CPT_HCPCS,ccs154
-26530,Revise knuckle joint,CPT_HCPCS,ccs154
-26531,Revise knuckle with implant,CPT_HCPCS,ccs154
-26535,Revise finger joint,CPT_HCPCS,ccs154
-26536,Revise/implant finger joint,CPT_HCPCS,ccs154
-27700,Revision of ankle joint,CPT_HCPCS,ccs154
-27702,Reconstruct ankle joint,CPT_HCPCS,ccs154
-27703,Reconstruction ankle joint,CPT_HCPCS,ccs154
-29826,Shoulder arthroscopy/surgery,CPT_HCPCS,ccs154
-S2117,Arthroereisis - subtalar,CPT_HCPCS,ccs154
-133,Other ear - nose - mouth & throat O.R. procedures w CC/MCC,MSDRG,ccs154
-134,Other ear - nose - mouth & throat O.R. procedures w/o CC/MCC,MSDRG,ccs154
+0RR007Z,"Replacement of Occipital-cervical Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RR00JZ,"Replacement of Occipital-cervical Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RR00KZ,"Replacement of Occipital-cervical Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RR107Z,"Replacement of Cervical Vertebral Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RR10JZ,"Replacement of Cervical Vertebral Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RR10KZ,"Replacement of Cervical Vertebral Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RR307Z,"Replacement of Cervical Vertebral Disc with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RR30JZ,"Replacement of Cervical Vertebral Disc with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RR30KZ,"Replacement of Cervical Vertebral Disc with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RR407Z,"Replacement of Cervicothoracic Vertebral Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RR40JZ,"Replacement of Cervicothoracic Vertebral Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RR40KZ,"Replacement of Cervicothoracic Vertebral Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RR507Z,"Replacement of Cervicothoracic Vertebral Disc with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RR50JZ,"Replacement of Cervicothoracic Vertebral Disc with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RR50KZ,"Replacement of Cervicothoracic Vertebral Disc with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RR607Z,"Replacement of Thoracic Vertebral Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RR60JZ,"Replacement of Thoracic Vertebral Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RR60KZ,"Replacement of Thoracic Vertebral Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RR907Z,"Replacement of Thoracic Vertebral Disc with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RR90JZ,"Replacement of Thoracic Vertebral Disc with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RR90KZ,"Replacement of Thoracic Vertebral Disc with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRA07Z,"Replacement of Thoracolumbar Vertebral Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRA0JZ,"Replacement of Thoracolumbar Vertebral Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRA0KZ,"Replacement of Thoracolumbar Vertebral Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRB07Z,"Replacement of Thoracolumbar Vertebral Disc with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRB0JZ,"Replacement of Thoracolumbar Vertebral Disc with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRB0KZ,"Replacement of Thoracolumbar Vertebral Disc with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRC07Z,"Replacement of Right Temporomandibular Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRC0JZ,"Replacement of Right Temporomandibular Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRC0KZ,"Replacement of Right Temporomandibular Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRD07Z,"Replacement of Left Temporomandibular Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRD0JZ,"Replacement of Left Temporomandibular Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRD0KZ,"Replacement of Left Temporomandibular Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRE07Z,"Replacement of Right Sternoclavicular Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRE0JZ,"Replacement of Right Sternoclavicular Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRE0KZ,"Replacement of Right Sternoclavicular Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRF07Z,"Replacement of Left Sternoclavicular Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRF0JZ,"Replacement of Left Sternoclavicular Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRF0KZ,"Replacement of Left Sternoclavicular Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRG07Z,"Replacement of Right Acromioclavicular Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRG0JZ,"Replacement of Right Acromioclavicular Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRG0KZ,"Replacement of Right Acromioclavicular Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRH07Z,"Replacement of Left Acromioclavicular Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRH0JZ,"Replacement of Left Acromioclavicular Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRH0KZ,"Replacement of Left Acromioclavicular Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRJ00Z,"Replacement of Right Shoulder Joint with Reverse Ball and Socket Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRJ07Z,"Replacement of Right Shoulder Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRJ0J6,"Replacement of Right Shoulder Joint with Synthetic Substitute, Humeral Surface, Open Approach",ICD10_PROC,ccs154
+0RRJ0J7,"Replacement of Right Shoulder Joint with Synthetic Substitute, Glenoid Surface, Open Approach",ICD10_PROC,ccs154
+0RRJ0JZ,"Replacement of Right Shoulder Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRJ0KZ,"Replacement of Right Shoulder Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRK00Z,"Replacement of Left Shoulder Joint with Reverse Ball and Socket Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRK07Z,"Replacement of Left Shoulder Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRK0J6,"Replacement of Left Shoulder Joint with Synthetic Substitute, Humeral Surface, Open Approach",ICD10_PROC,ccs154
+0RRK0J7,"Replacement of Left Shoulder Joint with Synthetic Substitute, Glenoid Surface, Open Approach",ICD10_PROC,ccs154
+0RRK0JZ,"Replacement of Left Shoulder Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRK0KZ,"Replacement of Left Shoulder Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRL07Z,"Replacement of Right Elbow Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRL0JZ,"Replacement of Right Elbow Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRL0KZ,"Replacement of Right Elbow Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRM07Z,"Replacement of Left Elbow Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRM0JZ,"Replacement of Left Elbow Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRM0KZ,"Replacement of Left Elbow Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRN07Z,"Replacement of Right Wrist Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRN0JZ,"Replacement of Right Wrist Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRN0KZ,"Replacement of Right Wrist Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRP07Z,"Replacement of Left Wrist Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRP0JZ,"Replacement of Left Wrist Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRP0KZ,"Replacement of Left Wrist Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRQ07Z,"Replacement of Right Carpal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRQ0JZ,"Replacement of Right Carpal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRQ0KZ,"Replacement of Right Carpal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRR07Z,"Replacement of Left Carpal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRR0JZ,"Replacement of Left Carpal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRR0KZ,"Replacement of Left Carpal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRS07Z,"Replacement of Right Carpometacarpal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRS0JZ,"Replacement of Right Carpometacarpal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRS0KZ,"Replacement of Right Carpometacarpal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRT07Z,"Replacement of Left Carpometacarpal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRT0JZ,"Replacement of Left Carpometacarpal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRT0KZ,"Replacement of Left Carpometacarpal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRU07Z,"Replacement of Right Metacarpophalangeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRU0JZ,"Replacement of Right Metacarpophalangeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRU0KZ,"Replacement of Right Metacarpophalangeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRV07Z,"Replacement of Left Metacarpophalangeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRV0JZ,"Replacement of Left Metacarpophalangeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRV0KZ,"Replacement of Left Metacarpophalangeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRW07Z,"Replacement of Right Finger Phalangeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRW0JZ,"Replacement of Right Finger Phalangeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRW0KZ,"Replacement of Right Finger Phalangeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRX07Z,"Replacement of Left Finger Phalangeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RRX0JZ,"Replacement of Left Finger Phalangeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RRX0KZ,"Replacement of Left Finger Phalangeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RU007Z,"Supplement Occipital-cervical Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RU00JZ,"Supplement Occipital-cervical Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RU00KZ,"Supplement Occipital-cervical Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RU037Z,"Supplement Occipital-cervical Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU03JZ,"Supplement Occipital-cervical Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU03KZ,"Supplement Occipital-cervical Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU047Z,"Supplement Occipital-cervical Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU04JZ,"Supplement Occipital-cervical Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU04KZ,"Supplement Occipital-cervical Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU107Z,"Supplement Cervical Vertebral Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RU10JZ,"Supplement Cervical Vertebral Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RU10KZ,"Supplement Cervical Vertebral Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RU137Z,"Supplement Cervical Vertebral Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU13JZ,"Supplement Cervical Vertebral Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU13KZ,"Supplement Cervical Vertebral Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU147Z,"Supplement Cervical Vertebral Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU14JZ,"Supplement Cervical Vertebral Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU14KZ,"Supplement Cervical Vertebral Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU307Z,"Supplement Cervical Vertebral Disc with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RU30JZ,"Supplement Cervical Vertebral Disc with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RU30KZ,"Supplement Cervical Vertebral Disc with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RU337Z,"Supplement Cervical Vertebral Disc with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU33JZ,"Supplement Cervical Vertebral Disc with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU33KZ,"Supplement Cervical Vertebral Disc with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU347Z,"Supplement Cervical Vertebral Disc with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU34JZ,"Supplement Cervical Vertebral Disc with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU34KZ,"Supplement Cervical Vertebral Disc with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU407Z,"Supplement Cervicothoracic Vertebral Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RU40JZ,"Supplement Cervicothoracic Vertebral Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RU40KZ,"Supplement Cervicothoracic Vertebral Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RU437Z,"Supplement Cervicothoracic Vertebral Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU43JZ,"Supplement Cervicothoracic Vertebral Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU43KZ,"Supplement Cervicothoracic Vertebral Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU447Z,"Supplement Cervicothoracic Vertebral Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU44JZ,"Supplement Cervicothoracic Vertebral Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU44KZ,"Supplement Cervicothoracic Vertebral Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU507Z,"Supplement Cervicothoracic Vertebral Disc with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RU50JZ,"Supplement Cervicothoracic Vertebral Disc with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RU50KZ,"Supplement Cervicothoracic Vertebral Disc with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RU537Z,"Supplement Cervicothoracic Vertebral Disc with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU53JZ,"Supplement Cervicothoracic Vertebral Disc with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU53KZ,"Supplement Cervicothoracic Vertebral Disc with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU547Z,"Supplement Cervicothoracic Vertebral Disc with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU54JZ,"Supplement Cervicothoracic Vertebral Disc with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU54KZ,"Supplement Cervicothoracic Vertebral Disc with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU607Z,"Supplement Thoracic Vertebral Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RU60JZ,"Supplement Thoracic Vertebral Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RU60KZ,"Supplement Thoracic Vertebral Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RU637Z,"Supplement Thoracic Vertebral Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU63JZ,"Supplement Thoracic Vertebral Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU63KZ,"Supplement Thoracic Vertebral Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU647Z,"Supplement Thoracic Vertebral Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU64JZ,"Supplement Thoracic Vertebral Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU64KZ,"Supplement Thoracic Vertebral Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU907Z,"Supplement Thoracic Vertebral Disc with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RU90JZ,"Supplement Thoracic Vertebral Disc with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RU90KZ,"Supplement Thoracic Vertebral Disc with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RU937Z,"Supplement Thoracic Vertebral Disc with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU93JZ,"Supplement Thoracic Vertebral Disc with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU93KZ,"Supplement Thoracic Vertebral Disc with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RU947Z,"Supplement Thoracic Vertebral Disc with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU94JZ,"Supplement Thoracic Vertebral Disc with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RU94KZ,"Supplement Thoracic Vertebral Disc with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUA07Z,"Supplement Thoracolumbar Vertebral Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUA0JZ,"Supplement Thoracolumbar Vertebral Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUA0KZ,"Supplement Thoracolumbar Vertebral Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUA37Z,"Supplement Thoracolumbar Vertebral Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUA3JZ,"Supplement Thoracolumbar Vertebral Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUA3KZ,"Supplement Thoracolumbar Vertebral Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUA47Z,"Supplement Thoracolumbar Vertebral Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUA4JZ,"Supplement Thoracolumbar Vertebral Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUA4KZ,"Supplement Thoracolumbar Vertebral Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUB07Z,"Supplement Thoracolumbar Vertebral Disc with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUB0JZ,"Supplement Thoracolumbar Vertebral Disc with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUB0KZ,"Supplement Thoracolumbar Vertebral Disc with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUB37Z,"Supplement Thoracolumbar Vertebral Disc with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUB3JZ,"Supplement Thoracolumbar Vertebral Disc with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUB3KZ,"Supplement Thoracolumbar Vertebral Disc with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUB47Z,"Supplement Thoracolumbar Vertebral Disc with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUB4JZ,"Supplement Thoracolumbar Vertebral Disc with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUB4KZ,"Supplement Thoracolumbar Vertebral Disc with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUC07Z,"Supplement Right Temporomandibular Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUC0JZ,"Supplement Right Temporomandibular Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUC0KZ,"Supplement Right Temporomandibular Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUC37Z,"Supplement Right Temporomandibular Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUC3JZ,"Supplement Right Temporomandibular Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUC3KZ,"Supplement Right Temporomandibular Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUC47Z,"Supplement Right Temporomandibular Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUC4JZ,"Supplement Right Temporomandibular Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUC4KZ,"Supplement Right Temporomandibular Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUD07Z,"Supplement Left Temporomandibular Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUD0JZ,"Supplement Left Temporomandibular Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUD0KZ,"Supplement Left Temporomandibular Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUD37Z,"Supplement Left Temporomandibular Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUD3JZ,"Supplement Left Temporomandibular Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUD3KZ,"Supplement Left Temporomandibular Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUD47Z,"Supplement Left Temporomandibular Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUD4JZ,"Supplement Left Temporomandibular Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUD4KZ,"Supplement Left Temporomandibular Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUE07Z,"Supplement Right Sternoclavicular Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUE0JZ,"Supplement Right Sternoclavicular Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUE0KZ,"Supplement Right Sternoclavicular Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUE37Z,"Supplement Right Sternoclavicular Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUE3JZ,"Supplement Right Sternoclavicular Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUE3KZ,"Supplement Right Sternoclavicular Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUE47Z,"Supplement Right Sternoclavicular Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUE4JZ,"Supplement Right Sternoclavicular Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUE4KZ,"Supplement Right Sternoclavicular Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUF07Z,"Supplement Left Sternoclavicular Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUF0JZ,"Supplement Left Sternoclavicular Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUF0KZ,"Supplement Left Sternoclavicular Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUF37Z,"Supplement Left Sternoclavicular Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUF3JZ,"Supplement Left Sternoclavicular Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUF3KZ,"Supplement Left Sternoclavicular Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUF47Z,"Supplement Left Sternoclavicular Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUF4JZ,"Supplement Left Sternoclavicular Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUF4KZ,"Supplement Left Sternoclavicular Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUG07Z,"Supplement Right Acromioclavicular Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUG0JZ,"Supplement Right Acromioclavicular Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUG0KZ,"Supplement Right Acromioclavicular Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUG37Z,"Supplement Right Acromioclavicular Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUG3JZ,"Supplement Right Acromioclavicular Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUG3KZ,"Supplement Right Acromioclavicular Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUG47Z,"Supplement Right Acromioclavicular Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUG4JZ,"Supplement Right Acromioclavicular Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUG4KZ,"Supplement Right Acromioclavicular Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUH07Z,"Supplement Left Acromioclavicular Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUH0JZ,"Supplement Left Acromioclavicular Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUH0KZ,"Supplement Left Acromioclavicular Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUH37Z,"Supplement Left Acromioclavicular Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUH3JZ,"Supplement Left Acromioclavicular Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUH3KZ,"Supplement Left Acromioclavicular Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUH47Z,"Supplement Left Acromioclavicular Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUH4JZ,"Supplement Left Acromioclavicular Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUH4KZ,"Supplement Left Acromioclavicular Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUJ07Z,"Supplement Right Shoulder Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUJ0JZ,"Supplement Right Shoulder Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUJ0KZ,"Supplement Right Shoulder Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUJ37Z,"Supplement Right Shoulder Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUJ3JZ,"Supplement Right Shoulder Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUJ3KZ,"Supplement Right Shoulder Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUJ47Z,"Supplement Right Shoulder Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUJ4JZ,"Supplement Right Shoulder Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUJ4KZ,"Supplement Right Shoulder Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUK07Z,"Supplement Left Shoulder Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUK0JZ,"Supplement Left Shoulder Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUK0KZ,"Supplement Left Shoulder Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUK37Z,"Supplement Left Shoulder Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUK3JZ,"Supplement Left Shoulder Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUK3KZ,"Supplement Left Shoulder Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUK47Z,"Supplement Left Shoulder Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUK4JZ,"Supplement Left Shoulder Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUK4KZ,"Supplement Left Shoulder Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUL07Z,"Supplement Right Elbow Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUL0JZ,"Supplement Right Elbow Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUL0KZ,"Supplement Right Elbow Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUL37Z,"Supplement Right Elbow Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUL3JZ,"Supplement Right Elbow Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUL3KZ,"Supplement Right Elbow Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUL47Z,"Supplement Right Elbow Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUL4JZ,"Supplement Right Elbow Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUL4KZ,"Supplement Right Elbow Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUM07Z,"Supplement Left Elbow Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUM0JZ,"Supplement Left Elbow Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUM0KZ,"Supplement Left Elbow Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUM37Z,"Supplement Left Elbow Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUM3JZ,"Supplement Left Elbow Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUM3KZ,"Supplement Left Elbow Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUM47Z,"Supplement Left Elbow Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUM4JZ,"Supplement Left Elbow Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUM4KZ,"Supplement Left Elbow Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUN07Z,"Supplement Right Wrist Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUN0JZ,"Supplement Right Wrist Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUN0KZ,"Supplement Right Wrist Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUN37Z,"Supplement Right Wrist Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUN3JZ,"Supplement Right Wrist Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUN3KZ,"Supplement Right Wrist Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUN47Z,"Supplement Right Wrist Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUN4JZ,"Supplement Right Wrist Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUN4KZ,"Supplement Right Wrist Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUP07Z,"Supplement Left Wrist Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUP0JZ,"Supplement Left Wrist Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUP0KZ,"Supplement Left Wrist Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUP37Z,"Supplement Left Wrist Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUP3JZ,"Supplement Left Wrist Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUP3KZ,"Supplement Left Wrist Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUP47Z,"Supplement Left Wrist Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUP4JZ,"Supplement Left Wrist Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUP4KZ,"Supplement Left Wrist Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUQ07Z,"Supplement Right Carpal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUQ0JZ,"Supplement Right Carpal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUQ0KZ,"Supplement Right Carpal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUQ37Z,"Supplement Right Carpal Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUQ3JZ,"Supplement Right Carpal Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUQ3KZ,"Supplement Right Carpal Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUQ47Z,"Supplement Right Carpal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUQ4JZ,"Supplement Right Carpal Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUQ4KZ,"Supplement Right Carpal Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUR07Z,"Supplement Left Carpal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUR0JZ,"Supplement Left Carpal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUR0KZ,"Supplement Left Carpal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUR37Z,"Supplement Left Carpal Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUR3JZ,"Supplement Left Carpal Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUR3KZ,"Supplement Left Carpal Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUR47Z,"Supplement Left Carpal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUR4JZ,"Supplement Left Carpal Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUR4KZ,"Supplement Left Carpal Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUS07Z,"Supplement Right Carpometacarpal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUS0JZ,"Supplement Right Carpometacarpal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUS0KZ,"Supplement Right Carpometacarpal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUS37Z,"Supplement Right Carpometacarpal Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUS3JZ,"Supplement Right Carpometacarpal Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUS3KZ,"Supplement Right Carpometacarpal Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUS47Z,"Supplement Right Carpometacarpal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUS4JZ,"Supplement Right Carpometacarpal Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUS4KZ,"Supplement Right Carpometacarpal Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUT07Z,"Supplement Left Carpometacarpal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUT0JZ,"Supplement Left Carpometacarpal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUT0KZ,"Supplement Left Carpometacarpal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUT37Z,"Supplement Left Carpometacarpal Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUT3JZ,"Supplement Left Carpometacarpal Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUT3KZ,"Supplement Left Carpometacarpal Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUT47Z,"Supplement Left Carpometacarpal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUT4JZ,"Supplement Left Carpometacarpal Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUT4KZ,"Supplement Left Carpometacarpal Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUU07Z,"Supplement Right Metacarpophalangeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUU0JZ,"Supplement Right Metacarpophalangeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUU0KZ,"Supplement Right Metacarpophalangeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUU37Z,"Supplement Right Metacarpophalangeal Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUU3JZ,"Supplement Right Metacarpophalangeal Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUU3KZ,"Supplement Right Metacarpophalangeal Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUU47Z,"Supplement Right Metacarpophalangeal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUU4JZ,"Supplement Right Metacarpophalangeal Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUU4KZ,"Supplement Right Metacarpophalangeal Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUV07Z,"Supplement Left Metacarpophalangeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUV0JZ,"Supplement Left Metacarpophalangeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUV0KZ,"Supplement Left Metacarpophalangeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUV37Z,"Supplement Left Metacarpophalangeal Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUV3JZ,"Supplement Left Metacarpophalangeal Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUV3KZ,"Supplement Left Metacarpophalangeal Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUV47Z,"Supplement Left Metacarpophalangeal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUV4JZ,"Supplement Left Metacarpophalangeal Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUV4KZ,"Supplement Left Metacarpophalangeal Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUW07Z,"Supplement Right Finger Phalangeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUW0JZ,"Supplement Right Finger Phalangeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUW0KZ,"Supplement Right Finger Phalangeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUW37Z,"Supplement Right Finger Phalangeal Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUW3JZ,"Supplement Right Finger Phalangeal Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUW3KZ,"Supplement Right Finger Phalangeal Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUW47Z,"Supplement Right Finger Phalangeal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUW4JZ,"Supplement Right Finger Phalangeal Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUW4KZ,"Supplement Right Finger Phalangeal Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUX07Z,"Supplement Left Finger Phalangeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUX0JZ,"Supplement Left Finger Phalangeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0RUX0KZ,"Supplement Left Finger Phalangeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0RUX37Z,"Supplement Left Finger Phalangeal Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUX3JZ,"Supplement Left Finger Phalangeal Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUX3KZ,"Supplement Left Finger Phalangeal Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0RUX47Z,"Supplement Left Finger Phalangeal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUX4JZ,"Supplement Left Finger Phalangeal Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0RUX4KZ,"Supplement Left Finger Phalangeal Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SR007Z,"Replacement of Lumbar Vertebral Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SR00JZ,"Replacement of Lumbar Vertebral Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SR00KZ,"Replacement of Lumbar Vertebral Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SR207Z,"Replacement of Lumbar Vertebral Disc with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SR20JZ,"Replacement of Lumbar Vertebral Disc with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SR20KZ,"Replacement of Lumbar Vertebral Disc with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SR307Z,"Replacement of Lumbosacral Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SR30JZ,"Replacement of Lumbosacral Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SR30KZ,"Replacement of Lumbosacral Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SR407Z,"Replacement of Lumbosacral Disc with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SR40JZ,"Replacement of Lumbosacral Disc with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SR40KZ,"Replacement of Lumbosacral Disc with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SR507Z,"Replacement of Sacrococcygeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SR50JZ,"Replacement of Sacrococcygeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SR50KZ,"Replacement of Sacrococcygeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SR607Z,"Replacement of Coccygeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SR60JZ,"Replacement of Coccygeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SR60KZ,"Replacement of Coccygeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SR707Z,"Replacement of Right Sacroiliac Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SR70JZ,"Replacement of Right Sacroiliac Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SR70KZ,"Replacement of Right Sacroiliac Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SR807Z,"Replacement of Left Sacroiliac Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SR80JZ,"Replacement of Left Sacroiliac Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SR80KZ,"Replacement of Left Sacroiliac Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRF07Z,"Replacement of Right Ankle Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRF0J9,"Replacement of Right Ankle Joint with Synthetic Substitute, Cemented, Open Approach",ICD10_PROC,ccs154
+0SRF0JA,"Replacement of Right Ankle Joint with Synthetic Substitute, Uncemented, Open Approach",ICD10_PROC,ccs154
+0SRF0JZ,"Replacement of Right Ankle Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SRF0KZ,"Replacement of Right Ankle Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRG07Z,"Replacement of Left Ankle Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRG0J9,"Replacement of Left Ankle Joint with Synthetic Substitute, Cemented, Open Approach",ICD10_PROC,ccs154
+0SRG0JA,"Replacement of Left Ankle Joint with Synthetic Substitute, Uncemented, Open Approach",ICD10_PROC,ccs154
+0SRG0JZ,"Replacement of Left Ankle Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SRG0KZ,"Replacement of Left Ankle Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRH07Z,"Replacement of Right Tarsal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRH0JZ,"Replacement of Right Tarsal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SRH0KZ,"Replacement of Right Tarsal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRJ07Z,"Replacement of Left Tarsal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRJ0JZ,"Replacement of Left Tarsal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SRJ0KZ,"Replacement of Left Tarsal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRK07Z,"Replacement of Right Tarsometatarsal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRK0JZ,"Replacement of Right Tarsometatarsal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SRK0KZ,"Replacement of Right Tarsometatarsal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRL07Z,"Replacement of Left Tarsometatarsal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRL0JZ,"Replacement of Left Tarsometatarsal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SRL0KZ,"Replacement of Left Tarsometatarsal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRM07Z,"Replacement of Right Metatarsal-Phalangeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRM0JZ,"Replacement of Right Metatarsal-Phalangeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SRM0KZ,"Replacement of Right Metatarsal-Phalangeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRN07Z,"Replacement of Left Metatarsal-Phalangeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRN0JZ,"Replacement of Left Metatarsal-Phalangeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SRN0KZ,"Replacement of Left Metatarsal-Phalangeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRP07Z,"Replacement of Right Toe Phalangeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRP0JZ,"Replacement of Right Toe Phalangeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SRP0KZ,"Replacement of Right Toe Phalangeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRQ07Z,"Replacement of Left Toe Phalangeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SRQ0JZ,"Replacement of Left Toe Phalangeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SRQ0KZ,"Replacement of Left Toe Phalangeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SU007Z,"Supplement Lumbar Vertebral Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SU00JZ,"Supplement Lumbar Vertebral Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SU00KZ,"Supplement Lumbar Vertebral Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SU037Z,"Supplement Lumbar Vertebral Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU03JZ,"Supplement Lumbar Vertebral Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU03KZ,"Supplement Lumbar Vertebral Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU047Z,"Supplement Lumbar Vertebral Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU04JZ,"Supplement Lumbar Vertebral Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU04KZ,"Supplement Lumbar Vertebral Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU207Z,"Supplement Lumbar Vertebral Disc with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SU20JZ,"Supplement Lumbar Vertebral Disc with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SU20KZ,"Supplement Lumbar Vertebral Disc with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SU237Z,"Supplement Lumbar Vertebral Disc with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU23JZ,"Supplement Lumbar Vertebral Disc with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU23KZ,"Supplement Lumbar Vertebral Disc with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU247Z,"Supplement Lumbar Vertebral Disc with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU24JZ,"Supplement Lumbar Vertebral Disc with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU24KZ,"Supplement Lumbar Vertebral Disc with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU307Z,"Supplement Lumbosacral Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SU30JZ,"Supplement Lumbosacral Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SU30KZ,"Supplement Lumbosacral Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SU337Z,"Supplement Lumbosacral Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU33JZ,"Supplement Lumbosacral Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU33KZ,"Supplement Lumbosacral Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU347Z,"Supplement Lumbosacral Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU34JZ,"Supplement Lumbosacral Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU34KZ,"Supplement Lumbosacral Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU407Z,"Supplement Lumbosacral Disc with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SU40JZ,"Supplement Lumbosacral Disc with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SU40KZ,"Supplement Lumbosacral Disc with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SU437Z,"Supplement Lumbosacral Disc with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU43JZ,"Supplement Lumbosacral Disc with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU43KZ,"Supplement Lumbosacral Disc with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU447Z,"Supplement Lumbosacral Disc with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU44JZ,"Supplement Lumbosacral Disc with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU44KZ,"Supplement Lumbosacral Disc with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU507Z,"Supplement Sacrococcygeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SU50JZ,"Supplement Sacrococcygeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SU50KZ,"Supplement Sacrococcygeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SU537Z,"Supplement Sacrococcygeal Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU53JZ,"Supplement Sacrococcygeal Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU53KZ,"Supplement Sacrococcygeal Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU547Z,"Supplement Sacrococcygeal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU54JZ,"Supplement Sacrococcygeal Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU54KZ,"Supplement Sacrococcygeal Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU607Z,"Supplement Coccygeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SU60JZ,"Supplement Coccygeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SU60KZ,"Supplement Coccygeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SU637Z,"Supplement Coccygeal Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU63JZ,"Supplement Coccygeal Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU63KZ,"Supplement Coccygeal Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU647Z,"Supplement Coccygeal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU64JZ,"Supplement Coccygeal Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU64KZ,"Supplement Coccygeal Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU707Z,"Supplement Right Sacroiliac Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SU70JZ,"Supplement Right Sacroiliac Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SU70KZ,"Supplement Right Sacroiliac Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SU737Z,"Supplement Right Sacroiliac Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU73JZ,"Supplement Right Sacroiliac Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU73KZ,"Supplement Right Sacroiliac Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU747Z,"Supplement Right Sacroiliac Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU74JZ,"Supplement Right Sacroiliac Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU74KZ,"Supplement Right Sacroiliac Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU807Z,"Supplement Left Sacroiliac Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SU80JZ,"Supplement Left Sacroiliac Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SU80KZ,"Supplement Left Sacroiliac Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SU837Z,"Supplement Left Sacroiliac Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU83JZ,"Supplement Left Sacroiliac Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU83KZ,"Supplement Left Sacroiliac Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SU847Z,"Supplement Left Sacroiliac Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU84JZ,"Supplement Left Sacroiliac Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SU84KZ,"Supplement Left Sacroiliac Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUF07Z,"Supplement Right Ankle Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUF0JZ,"Supplement Right Ankle Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SUF0KZ,"Supplement Right Ankle Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUF37Z,"Supplement Right Ankle Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUF3JZ,"Supplement Right Ankle Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUF3KZ,"Supplement Right Ankle Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUF47Z,"Supplement Right Ankle Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUF4JZ,"Supplement Right Ankle Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUF4KZ,"Supplement Right Ankle Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUG07Z,"Supplement Left Ankle Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUG0JZ,"Supplement Left Ankle Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SUG0KZ,"Supplement Left Ankle Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUG37Z,"Supplement Left Ankle Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUG3JZ,"Supplement Left Ankle Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUG3KZ,"Supplement Left Ankle Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUG47Z,"Supplement Left Ankle Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUG4JZ,"Supplement Left Ankle Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUG4KZ,"Supplement Left Ankle Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUH07Z,"Supplement Right Tarsal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUH0JZ,"Supplement Right Tarsal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SUH0KZ,"Supplement Right Tarsal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUH37Z,"Supplement Right Tarsal Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUH3JZ,"Supplement Right Tarsal Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUH3KZ,"Supplement Right Tarsal Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUH47Z,"Supplement Right Tarsal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUH4JZ,"Supplement Right Tarsal Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUH4KZ,"Supplement Right Tarsal Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUJ07Z,"Supplement Left Tarsal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUJ0JZ,"Supplement Left Tarsal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SUJ0KZ,"Supplement Left Tarsal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUJ37Z,"Supplement Left Tarsal Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUJ3JZ,"Supplement Left Tarsal Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUJ3KZ,"Supplement Left Tarsal Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUJ47Z,"Supplement Left Tarsal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUJ4JZ,"Supplement Left Tarsal Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUJ4KZ,"Supplement Left Tarsal Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUK07Z,"Supplement Right Tarsometatarsal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUK0JZ,"Supplement Right Tarsometatarsal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SUK0KZ,"Supplement Right Tarsometatarsal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUK37Z,"Supplement Right Tarsometatarsal Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUK3JZ,"Supplement Right Tarsometatarsal Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUK3KZ,"Supplement Right Tarsometatarsal Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUK47Z,"Supplement Right Tarsometatarsal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUK4JZ,"Supplement Right Tarsometatarsal Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUK4KZ,"Supplement Right Tarsometatarsal Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUL07Z,"Supplement Left Tarsometatarsal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUL0JZ,"Supplement Left Tarsometatarsal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SUL0KZ,"Supplement Left Tarsometatarsal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUL37Z,"Supplement Left Tarsometatarsal Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUL3JZ,"Supplement Left Tarsometatarsal Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUL3KZ,"Supplement Left Tarsometatarsal Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUL47Z,"Supplement Left Tarsometatarsal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUL4JZ,"Supplement Left Tarsometatarsal Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUL4KZ,"Supplement Left Tarsometatarsal Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUM07Z,"Supplement Right Metatarsal-Phalangeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUM0JZ,"Supplement Right Metatarsal-Phalangeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SUM0KZ,"Supplement Right Metatarsal-Phalangeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUM37Z,"Supplement Right Metatarsal-Phalangeal Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUM3JZ,"Supplement Right Metatarsal-Phalangeal Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUM3KZ,"Supplement Right Metatarsal-Phalangeal Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUM47Z,"Supplement Right Metatarsal-Phalangeal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUM4JZ,"Supplement Right Metatarsal-Phalangeal Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUM4KZ,"Supplement Right Metatarsal-Phalangeal Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUN07Z,"Supplement Left Metatarsal-Phalangeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUN0JZ,"Supplement Left Metatarsal-Phalangeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SUN0KZ,"Supplement Left Metatarsal-Phalangeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUN37Z,"Supplement Left Metatarsal-Phalangeal Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUN3JZ,"Supplement Left Metatarsal-Phalangeal Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUN3KZ,"Supplement Left Metatarsal-Phalangeal Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUN47Z,"Supplement Left Metatarsal-Phalangeal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUN4JZ,"Supplement Left Metatarsal-Phalangeal Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUN4KZ,"Supplement Left Metatarsal-Phalangeal Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUP07Z,"Supplement Right Toe Phalangeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUP0JZ,"Supplement Right Toe Phalangeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SUP0KZ,"Supplement Right Toe Phalangeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUP37Z,"Supplement Right Toe Phalangeal Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUP3JZ,"Supplement Right Toe Phalangeal Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUP3KZ,"Supplement Right Toe Phalangeal Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUP47Z,"Supplement Right Toe Phalangeal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUP4JZ,"Supplement Right Toe Phalangeal Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUP4KZ,"Supplement Right Toe Phalangeal Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUQ07Z,"Supplement Left Toe Phalangeal Joint with Autologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUQ0JZ,"Supplement Left Toe Phalangeal Joint with Synthetic Substitute, Open Approach",ICD10_PROC,ccs154
+0SUQ0KZ,"Supplement Left Toe Phalangeal Joint with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs154
+0SUQ37Z,"Supplement Left Toe Phalangeal Joint with Autologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUQ3JZ,"Supplement Left Toe Phalangeal Joint with Synthetic Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUQ3KZ,"Supplement Left Toe Phalangeal Joint with Nonautologous Tissue Substitute, Percutaneous Approach",ICD10_PROC,ccs154
+0SUQ47Z,"Supplement Left Toe Phalangeal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUQ4JZ,"Supplement Left Toe Phalangeal Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0SUQ4KZ,"Supplement Left Toe Phalangeal Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs154
+0098T,"Revision including replacement of total disc arthroplasty (artificial disc), anterior approach, each additional interspace, cervical (List separately in addition to code for primary procedure)",CPT_HCPCS,ccs154
+21240,"Arthroplasty, temporomandibular joint, with or without autograft (includes obtaining graft)",CPT_HCPCS,ccs154
+21242,"Arthroplasty, temporomandibular joint, with allograft",CPT_HCPCS,ccs154
+21243,"Arthroplasty, temporomandibular joint, with prosthetic joint replacement",CPT_HCPCS,ccs154
+23420,"Reconstruction of complete shoulder (rotator) cuff avulsion, chronic (includes acromioplasty)",CPT_HCPCS,ccs154
+23470,"Arthroplasty, glenohumeral joint; hemiarthroplasty",CPT_HCPCS,ccs154
+23472,"Arthroplasty, glenohumeral joint; total shoulder (glenoid and proximal humeral replacement (eg, total shoulder))",CPT_HCPCS,ccs154
+23473,"Revision of total shoulder arthroplasty, including allograft when performed; humeral or glenoid component",CPT_HCPCS,ccs154
+23474,"Revision of total shoulder arthroplasty, including allograft when performed; humeral and glenoid component",CPT_HCPCS,ccs154
+24360,"Arthroplasty, elbow; with membrane (eg, fascial)",CPT_HCPCS,ccs154
+24361,"Arthroplasty, elbow; with distal humeral prosthetic replacement",CPT_HCPCS,ccs154
+24362,"Arthroplasty, elbow; with implant and fascia lata ligament reconstruction",CPT_HCPCS,ccs154
+24363,"Arthroplasty, elbow; with distal humerus and proximal ulnar prosthetic replacement (eg, total elbow)",CPT_HCPCS,ccs154
+24365,"Arthroplasty, radial head;",CPT_HCPCS,ccs154
+24366,"Arthroplasty, radial head; with implant",CPT_HCPCS,ccs154
+24370,"Revision of total elbow arthroplasty, including allograft when performed; humeral or ulnar component",CPT_HCPCS,ccs154
+24371,"Revision of total elbow arthroplasty, including allograft when performed; humeral and ulnar component",CPT_HCPCS,ccs154
+25332,"Arthroplasty, wrist, with or without interposition, with or without external or internal fixation",CPT_HCPCS,ccs154
+25441,Arthroplasty with prosthetic replacement; distal radius,CPT_HCPCS,ccs154
+25442,Arthroplasty with prosthetic replacement; distal ulna,CPT_HCPCS,ccs154
+25443,Arthroplasty with prosthetic replacement; scaphoid carpal (navicular),CPT_HCPCS,ccs154
+25444,Arthroplasty with prosthetic replacement; lunate,CPT_HCPCS,ccs154
+25445,Arthroplasty with prosthetic replacement; trapezium,CPT_HCPCS,ccs154
+25446,Arthroplasty with prosthetic replacement; distal radius and partial or entire carpus (total wrist),CPT_HCPCS,ccs154
+25447,"Arthroplasty, interposition, intercarpal or carpometacarpal joints",CPT_HCPCS,ccs154
+25449,"Revision of arthroplasty, including removal of implant, wrist joint",CPT_HCPCS,ccs154
+26530,"Arthroplasty, metacarpophalangeal joint; each joint",CPT_HCPCS,ccs154
+26531,"Arthroplasty, metacarpophalangeal joint; with prosthetic implant, each joint",CPT_HCPCS,ccs154
+26535,"Arthroplasty, interphalangeal joint; each joint",CPT_HCPCS,ccs154
+26536,"Arthroplasty, interphalangeal joint; with prosthetic implant, each joint",CPT_HCPCS,ccs154
+27700,"Arthroplasty, ankle;",CPT_HCPCS,ccs154
+27702,"Arthroplasty, ankle; with implant (total ankle)",CPT_HCPCS,ccs154
+27703,"Arthroplasty, ankle; revision, total ankle",CPT_HCPCS,ccs154
+29826,"Arthroscopy, shoulder, surgical; decompression of subacromial space with partial acromioplasty, with coracoacromial ligament (ie, arch) release, when performed (List separately in addition to code for primary procedure)",CPT_HCPCS,ccs154
+S2117,"Arthroereisis, subtalar",CPT_HCPCS,ccs154
 483,Major Joint/Limb Reattachment Procedure Of Upper Extremities,MSDRG,ccs154
-506,Major thumb or joint procedures,MSDRG,ccs154
-507,Major shoulder or elbow joint procedures w CC/MCC,MSDRG,ccs154
-508,Major shoulder or elbow joint procedures w/o CC/MCC,MSDRG,ccs154
+506,Major Thumb Or Joint Procedures,MSDRG,ccs154
+507,Major Shoulder Or Elbow Joint Procedures With Complication or Comorbidity (CC)/Major Complication or Comorbidity (MCC),MSDRG,ccs154
+508,Major Shoulder Or Elbow Joint Procedures Without Complication or Comorbidity (CC)/Major Complication or Comorbidity (MCC),MSDRG,ccs154

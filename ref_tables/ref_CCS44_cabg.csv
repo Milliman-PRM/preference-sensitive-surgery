@@ -1,328 +1,328 @@
 code,code_description,code_type,ccs
-210083,Bypass 1 Cor Art from Cor Art with Zooplastic - Open Approach,ICD10_PROC,ccs44
-210088,Bypass 1 Cor Art from R Int Mammary w Zooplastic - Open,ICD10_PROC,ccs44
-210089,Bypass 1 Cor Art from L Int Mammary w Zooplastic - Open,ICD10_PROC,ccs44
-021008C,Bypass 1 Cor Art from Thor Art w Zooplastic - Open,ICD10_PROC,ccs44
-021008F,Bypass 1 Cor Art from Abd Art with Zooplastic - Open Approach,ICD10_PROC,ccs44
-021008W,Bypass 1 Cor Art from Aorta with Zooplastic - Open Approach,ICD10_PROC,ccs44
-210093,Bypass 1 Cor Art from Cor Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
-210098,Bypass 1 Cor Art from R Int Mammary w Autol Vn - Open,ICD10_PROC,ccs44
-210099,Bypass 1 Cor Art from L Int Mammary w Autol Vn - Open,ICD10_PROC,ccs44
-021009C,Bypass 1 Cor Art from Thor Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
-021009F,Bypass 1 Cor Art from Abd Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
-021009W,Bypass 1 Cor Art from Aorta with Autol Vn - Open Approach,ICD10_PROC,ccs44
-02100A3,Bypass 1 Cor Art from Cor Art with Autol Art - Open Approach,ICD10_PROC,ccs44
-02100A8,Bypass 1 Cor Art from R Int Mammary w Autol Art - Open,ICD10_PROC,ccs44
-02100A9,Bypass 1 Cor Art from L Int Mammary w Autol Art - Open,ICD10_PROC,ccs44
-02100AC,Bypass 1 Cor Art from Thor Art with Autol Art - Open Approach,ICD10_PROC,ccs44
-02100AF,Bypass 1 Cor Art from Abd Art with Autol Art - Open Approach,ICD10_PROC,ccs44
-02100AW,Bypass 1 Cor Art from Aorta with Autol Art - Open Approach,ICD10_PROC,ccs44
-02100J3,Bypass 1 Cor Art from Cor Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
-02100J8,Bypass 1 Cor Art from R Int Mammary w Synth Sub - Open,ICD10_PROC,ccs44
-02100J9,Bypass 1 Cor Art from L Int Mammary w Synth Sub - Open,ICD10_PROC,ccs44
-02100JC,Bypass 1 Cor Art from Thor Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
-02100JF,Bypass 1 Cor Art from Abd Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
-02100JW,Bypass 1 Cor Art from Aorta with Synth Sub - Open Approach,ICD10_PROC,ccs44
-02100K3,Bypass 1 Cor Art from Cor Art with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
-02100K8,Bypass 1 Cor Art from R Int Mammary w Nonaut Sub - Open,ICD10_PROC,ccs44
-02100K9,Bypass 1 Cor Art from L Int Mammary w Nonaut Sub - Open,ICD10_PROC,ccs44
-02100KC,Bypass 1 Cor Art from Thor Art w Nonaut Sub - Open,ICD10_PROC,ccs44
-02100KF,Bypass 1 Cor Art from Abd Art with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
-02100KW,Bypass 1 Cor Art from Aorta with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
-02100Z3,Bypass 1 Cor Art from Cor Art - Open Approach,ICD10_PROC,ccs44
-02100Z8,Bypass 1 Cor Art from R Int Mammary - Open Approach,ICD10_PROC,ccs44
-02100Z9,Bypass 1 Cor Art from L Int Mammary - Open Approach,ICD10_PROC,ccs44
-02100ZC,Bypass 1 Cor Art from Thor Art - Open Approach,ICD10_PROC,ccs44
-02100ZF,Bypass 1 Cor Art from Abd Art - Open Approach,ICD10_PROC,ccs44
-210344,Bypass 1 Cor Art from Cor V w Drug-elut Intra - Perc,ICD10_PROC,ccs44
-02103D4,Bypass 1 Cor Art from Cor V with Intralum Dev - Perc Approach,ICD10_PROC,ccs44
-210444,Bypass 1 Cor Art from Cor V w Drug-elut Intra - Perc Endo,ICD10_PROC,ccs44
-210483,Bypass 1 Cor Art from Cor Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-210488,Bypass 1 Cor Art from R Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-210489,Bypass 1 Cor Art from L Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-021048C,Bypass 1 Cor Art from Thor Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-021048F,Bypass 1 Cor Art from Abd Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-021048W,Bypass 1 Cor Art from Aorta w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-210493,Bypass 1 Cor Art from Cor Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-210498,Bypass 1 Cor Art from R Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-210499,Bypass 1 Cor Art from L Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-021049C,Bypass 1 Cor Art from Thor Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-021049F,Bypass 1 Cor Art from Abd Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-021049W,Bypass 1 Cor Art from Aorta w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-02104A3,Bypass 1 Cor Art from Cor Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02104A8,Bypass 1 Cor Art from R Int Mammary w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02104A9,Bypass 1 Cor Art from L Int Mammary w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02104AC,Bypass 1 Cor Art from Thor Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02104AF,Bypass 1 Cor Art from Abd Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02104AW,Bypass 1 Cor Art from Aorta w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02104D4,Bypass 1 Cor Art from Cor V w Intralum Dev - Perc Endo,ICD10_PROC,ccs44
-02104J3,Bypass 1 Cor Art from Cor Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02104J8,Bypass 1 Cor Art from R Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02104J9,Bypass 1 Cor Art from L Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02104JC,Bypass 1 Cor Art from Thor Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02104JF,Bypass 1 Cor Art from Abd Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02104JW,Bypass 1 Cor Art from Aorta w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02104K3,Bypass 1 Cor Art from Cor Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02104K8,Bypass 1 Cor Art from R Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02104K9,Bypass 1 Cor Art from L Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02104KC,Bypass 1 Cor Art from Thor Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02104KF,Bypass 1 Cor Art from Abd Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02104KW,Bypass 1 Cor Art from Aorta w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02104Z3,Bypass 1 Cor Art from Cor Art - Perc Endo Approach,ICD10_PROC,ccs44
-02104Z8,Bypass 1 Cor Art from R Int Mammary - Perc Endo Approach,ICD10_PROC,ccs44
-02104Z9,Bypass 1 Cor Art from L Int Mammary - Perc Endo Approach,ICD10_PROC,ccs44
-02104ZC,Bypass 1 Cor Art from Thor Art - Perc Endo Approach,ICD10_PROC,ccs44
-02104ZF,Bypass 1 Cor Art from Abd Art - Perc Endo Approach,ICD10_PROC,ccs44
-211083,Bypass 2 Cor Art from Cor Art with Zooplastic - Open Approach,ICD10_PROC,ccs44
-211088,Bypass 2 Cor Art from R Int Mammary w Zooplastic - Open,ICD10_PROC,ccs44
-211089,Bypass 2 Cor Art from L Int Mammary w Zooplastic - Open,ICD10_PROC,ccs44
-021108C,Bypass 2 Cor Art from Thor Art w Zooplastic - Open,ICD10_PROC,ccs44
-021108F,Bypass 2 Cor Art from Abd Art with Zooplastic - Open Approach,ICD10_PROC,ccs44
-021108W,Bypass 2 Cor Art from Aorta with Zooplastic - Open Approach,ICD10_PROC,ccs44
-211093,Bypass 2 Cor Art from Cor Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
-211098,Bypass 2 Cor Art from R Int Mammary w Autol Vn - Open,ICD10_PROC,ccs44
-211099,Bypass 2 Cor Art from L Int Mammary w Autol Vn - Open,ICD10_PROC,ccs44
-021109C,Bypass 2 Cor Art from Thor Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
-021109F,Bypass 2 Cor Art from Abd Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
-021109W,Bypass 2 Cor Art from Aorta with Autol Vn - Open Approach,ICD10_PROC,ccs44
-02110A3,Bypass 2 Cor Art from Cor Art with Autol Art - Open Approach,ICD10_PROC,ccs44
-02110A8,Bypass 2 Cor Art from R Int Mammary w Autol Art - Open,ICD10_PROC,ccs44
-02110A9,Bypass 2 Cor Art from L Int Mammary w Autol Art - Open,ICD10_PROC,ccs44
-02110AC,Bypass 2 Cor Art from Thor Art with Autol Art - Open Approach,ICD10_PROC,ccs44
-02110AF,Bypass 2 Cor Art from Abd Art with Autol Art - Open Approach,ICD10_PROC,ccs44
-02110AW,Bypass 2 Cor Art from Aorta with Autol Art - Open Approach,ICD10_PROC,ccs44
-02110J3,Bypass 2 Cor Art from Cor Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
-02110J8,Bypass 2 Cor Art from R Int Mammary w Synth Sub - Open,ICD10_PROC,ccs44
-02110J9,Bypass 2 Cor Art from L Int Mammary w Synth Sub - Open,ICD10_PROC,ccs44
-02110JC,Bypass 2 Cor Art from Thor Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
-02110JF,Bypass 2 Cor Art from Abd Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
-02110JW,Bypass 2 Cor Art from Aorta with Synth Sub - Open Approach,ICD10_PROC,ccs44
-02110K3,Bypass 2 Cor Art from Cor Art with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
-02110K8,Bypass 2 Cor Art from R Int Mammary w Nonaut Sub - Open,ICD10_PROC,ccs44
-02110K9,Bypass 2 Cor Art from L Int Mammary w Nonaut Sub - Open,ICD10_PROC,ccs44
-02110KC,Bypass 2 Cor Art from Thor Art w Nonaut Sub - Open,ICD10_PROC,ccs44
-02110KF,Bypass 2 Cor Art from Abd Art with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
-02110KW,Bypass 2 Cor Art from Aorta with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
-02110Z3,Bypass 2 Cor Art from Cor Art - Open Approach,ICD10_PROC,ccs44
-02110Z8,Bypass 2 Cor Art from R Int Mammary - Open Approach,ICD10_PROC,ccs44
-02110Z9,Bypass 2 Cor Art from L Int Mammary - Open Approach,ICD10_PROC,ccs44
-02110ZC,Bypass 2 Cor Art from Thor Art - Open Approach,ICD10_PROC,ccs44
-02110ZF,Bypass 2 Cor Art from Abd Art - Open Approach,ICD10_PROC,ccs44
-211344,Bypass 2 Cor Art from Cor V w Drug-elut Intra - Perc,ICD10_PROC,ccs44
-02113D4,Bypass 2 Cor Art from Cor V with Intralum Dev - Perc Approach,ICD10_PROC,ccs44
-211444,Bypass 2 Cor Art from Cor V w Drug-elut Intra - Perc Endo,ICD10_PROC,ccs44
-211483,Bypass 2 Cor Art from Cor Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-211488,Bypass 2 Cor Art from R Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-211489,Bypass 2 Cor Art from L Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-021148C,Bypass 2 Cor Art from Thor Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-021148F,Bypass 2 Cor Art from Abd Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-021148W,Bypass 2 Cor Art from Aorta w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-211493,Bypass 2 Cor Art from Cor Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-211498,Bypass 2 Cor Art from R Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-211499,Bypass 2 Cor Art from L Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-021149C,Bypass 2 Cor Art from Thor Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-021149F,Bypass 2 Cor Art from Abd Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-021149W,Bypass 2 Cor Art from Aorta w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-02114A3,Bypass 2 Cor Art from Cor Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02114A8,Bypass 2 Cor Art from R Int Mammary w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02114A9,Bypass 2 Cor Art from L Int Mammary w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02114AC,Bypass 2 Cor Art from Thor Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02114AF,Bypass 2 Cor Art from Abd Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02114AW,Bypass 2 Cor Art from Aorta w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02114D4,Bypass 2 Cor Art from Cor V w Intralum Dev - Perc Endo,ICD10_PROC,ccs44
-02114J3,Bypass 2 Cor Art from Cor Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02114J8,Bypass 2 Cor Art from R Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02114J9,Bypass 2 Cor Art from L Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02114JC,Bypass 2 Cor Art from Thor Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02114JF,Bypass 2 Cor Art from Abd Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02114JW,Bypass 2 Cor Art from Aorta w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02114K3,Bypass 2 Cor Art from Cor Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02114K8,Bypass 2 Cor Art from R Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02114K9,Bypass 2 Cor Art from L Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02114KC,Bypass 2 Cor Art from Thor Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02114KF,Bypass 2 Cor Art from Abd Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02114KW,Bypass 2 Cor Art from Aorta w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02114Z3,Bypass 2 Cor Art from Cor Art - Perc Endo Approach,ICD10_PROC,ccs44
-02114Z8,Bypass 2 Cor Art from R Int Mammary - Perc Endo Approach,ICD10_PROC,ccs44
-02114Z9,Bypass 2 Cor Art from L Int Mammary - Perc Endo Approach,ICD10_PROC,ccs44
-02114ZC,Bypass 2 Cor Art from Thor Art - Perc Endo Approach,ICD10_PROC,ccs44
-02114ZF,Bypass 2 Cor Art from Abd Art - Perc Endo Approach,ICD10_PROC,ccs44
-212083,Bypass 3 Cor Art from Cor Art with Zooplastic - Open Approach,ICD10_PROC,ccs44
-212088,Bypass 3 Cor Art from R Int Mammary w Zooplastic - Open,ICD10_PROC,ccs44
-212089,Bypass 3 Cor Art from L Int Mammary w Zooplastic - Open,ICD10_PROC,ccs44
-021208C,Bypass 3 Cor Art from Thor Art w Zooplastic - Open,ICD10_PROC,ccs44
-021208F,Bypass 3 Cor Art from Abd Art with Zooplastic - Open Approach,ICD10_PROC,ccs44
-021208W,Bypass 3 Cor Art from Aorta with Zooplastic - Open Approach,ICD10_PROC,ccs44
-212093,Bypass 3 Cor Art from Cor Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
-212098,Bypass 3 Cor Art from R Int Mammary w Autol Vn - Open,ICD10_PROC,ccs44
-212099,Bypass 3 Cor Art from L Int Mammary w Autol Vn - Open,ICD10_PROC,ccs44
-021209C,Bypass 3 Cor Art from Thor Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
-021209F,Bypass 3 Cor Art from Abd Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
-021209W,Bypass 3 Cor Art from Aorta with Autol Vn - Open Approach,ICD10_PROC,ccs44
-02120A3,Bypass 3 Cor Art from Cor Art with Autol Art - Open Approach,ICD10_PROC,ccs44
-02120A8,Bypass 3 Cor Art from R Int Mammary w Autol Art - Open,ICD10_PROC,ccs44
-02120A9,Bypass 3 Cor Art from L Int Mammary w Autol Art - Open,ICD10_PROC,ccs44
-02120AC,Bypass 3 Cor Art from Thor Art with Autol Art - Open Approach,ICD10_PROC,ccs44
-02120AF,Bypass 3 Cor Art from Abd Art with Autol Art - Open Approach,ICD10_PROC,ccs44
-02120AW,Bypass 3 Cor Art from Aorta with Autol Art - Open Approach,ICD10_PROC,ccs44
-02120J3,Bypass 3 Cor Art from Cor Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
-02120J8,Bypass 3 Cor Art from R Int Mammary w Synth Sub - Open,ICD10_PROC,ccs44
-02120J9,Bypass 3 Cor Art from L Int Mammary w Synth Sub - Open,ICD10_PROC,ccs44
-02120JC,Bypass 3 Cor Art from Thor Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
-02120JF,Bypass 3 Cor Art from Abd Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
-02120JW,Bypass 3 Cor Art from Aorta with Synth Sub - Open Approach,ICD10_PROC,ccs44
-02120K3,Bypass 3 Cor Art from Cor Art with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
-02120K8,Bypass 3 Cor Art from R Int Mammary w Nonaut Sub - Open,ICD10_PROC,ccs44
-02120K9,Bypass 3 Cor Art from L Int Mammary w Nonaut Sub - Open,ICD10_PROC,ccs44
-02120KC,Bypass 3 Cor Art from Thor Art w Nonaut Sub - Open,ICD10_PROC,ccs44
-02120KF,Bypass 3 Cor Art from Abd Art with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
-02120KW,Bypass 3 Cor Art from Aorta with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
-02120Z3,Bypass 3 Cor Art from Cor Art - Open Approach,ICD10_PROC,ccs44
-02120Z8,Bypass 3 Cor Art from R Int Mammary - Open Approach,ICD10_PROC,ccs44
-02120Z9,Bypass 3 Cor Art from L Int Mammary - Open Approach,ICD10_PROC,ccs44
-02120ZC,Bypass 3 Cor Art from Thor Art - Open Approach,ICD10_PROC,ccs44
-02120ZF,Bypass 3 Cor Art from Abd Art - Open Approach,ICD10_PROC,ccs44
-212344,Bypass 3 Cor Art from Cor V w Drug-elut Intra - Perc,ICD10_PROC,ccs44
-02123D4,Bypass 3 Cor Art from Cor V with Intralum Dev - Perc Approach,ICD10_PROC,ccs44
-212444,Bypass 3 Cor Art from Cor V w Drug-elut Intra - Perc Endo,ICD10_PROC,ccs44
-212483,Bypass 3 Cor Art from Cor Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-212488,Bypass 3 Cor Art from R Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-212489,Bypass 3 Cor Art from L Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-021248C,Bypass 3 Cor Art from Thor Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-021248F,Bypass 3 Cor Art from Abd Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-021248W,Bypass 3 Cor Art from Aorta w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-212493,Bypass 3 Cor Art from Cor Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-212498,Bypass 3 Cor Art from R Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-212499,Bypass 3 Cor Art from L Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-021249C,Bypass 3 Cor Art from Thor Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-021249F,Bypass 3 Cor Art from Abd Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-021249W,Bypass 3 Cor Art from Aorta w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-02124A3,Bypass 3 Cor Art from Cor Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02124A8,Bypass 3 Cor Art from R Int Mammary w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02124A9,Bypass 3 Cor Art from L Int Mammary w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02124AC,Bypass 3 Cor Art from Thor Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02124AF,Bypass 3 Cor Art from Abd Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02124AW,Bypass 3 Cor Art from Aorta w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02124D4,Bypass 3 Cor Art from Cor V w Intralum Dev - Perc Endo,ICD10_PROC,ccs44
-02124J3,Bypass 3 Cor Art from Cor Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02124J8,Bypass 3 Cor Art from R Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02124J9,Bypass 3 Cor Art from L Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02124JC,Bypass 3 Cor Art from Thor Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02124JF,Bypass 3 Cor Art from Abd Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02124JW,Bypass 3 Cor Art from Aorta w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02124K3,Bypass 3 Cor Art from Cor Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02124K8,Bypass 3 Cor Art from R Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02124K9,Bypass 3 Cor Art from L Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02124KC,Bypass 3 Cor Art from Thor Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02124KF,Bypass 3 Cor Art from Abd Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02124KW,Bypass 3 Cor Art from Aorta w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02124Z3,Bypass 3 Cor Art from Cor Art - Perc Endo Approach,ICD10_PROC,ccs44
-02124Z8,Bypass 3 Cor Art from R Int Mammary - Perc Endo Approach,ICD10_PROC,ccs44
-02124Z9,Bypass 3 Cor Art from L Int Mammary - Perc Endo Approach,ICD10_PROC,ccs44
-02124ZC,Bypass 3 Cor Art from Thor Art - Perc Endo Approach,ICD10_PROC,ccs44
-02124ZF,Bypass 3 Cor Art from Abd Art - Perc Endo Approach,ICD10_PROC,ccs44
-213083,Bypass 4+ Cor Art from Cor Art w Zooplastic - Open,ICD10_PROC,ccs44
-213088,Bypass 4+ Cor Art from R Int Mammary w Zooplastic - Open,ICD10_PROC,ccs44
-213089,Bypass 4+ Cor Art from L Int Mammary w Zooplastic - Open,ICD10_PROC,ccs44
-021308C,Bypass 4+ Cor Art from Thor Art w Zooplastic - Open,ICD10_PROC,ccs44
-021308F,Bypass 4+ Cor Art from Abd Art w Zooplastic - Open,ICD10_PROC,ccs44
-021308W,Bypass 4+ Cor Art from Aorta with Zooplastic - Open Approach,ICD10_PROC,ccs44
-213093,Bypass 4+ Cor Art from Cor Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
-213098,Bypass 4+ Cor Art from R Int Mammary w Autol Vn - Open,ICD10_PROC,ccs44
-213099,Bypass 4+ Cor Art from L Int Mammary w Autol Vn - Open,ICD10_PROC,ccs44
-021309C,Bypass 4+ Cor Art from Thor Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
-021309F,Bypass 4+ Cor Art from Abd Art with Autol Vn - Open Approach,ICD10_PROC,ccs44
-021309W,Bypass 4+ Cor Art from Aorta with Autol Vn - Open Approach,ICD10_PROC,ccs44
-02130A3,Bypass 4+ Cor Art from Cor Art with Autol Art - Open Approach,ICD10_PROC,ccs44
-02130A8,Bypass 4+ Cor Art from R Int Mammary w Autol Art - Open,ICD10_PROC,ccs44
-02130A9,Bypass 4+ Cor Art from L Int Mammary w Autol Art - Open,ICD10_PROC,ccs44
-02130AC,Bypass 4+ Cor Art from Thor Art w Autol Art - Open,ICD10_PROC,ccs44
-02130AF,Bypass 4+ Cor Art from Abd Art with Autol Art - Open Approach,ICD10_PROC,ccs44
-02130AW,Bypass 4+ Cor Art from Aorta with Autol Art - Open Approach,ICD10_PROC,ccs44
-02130J3,Bypass 4+ Cor Art from Cor Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
-02130J8,Bypass 4+ Cor Art from R Int Mammary w Synth Sub - Open,ICD10_PROC,ccs44
-02130J9,Bypass 4+ Cor Art from L Int Mammary w Synth Sub - Open,ICD10_PROC,ccs44
-02130JC,Bypass 4+ Cor Art from Thor Art w Synth Sub - Open,ICD10_PROC,ccs44
-02130JF,Bypass 4+ Cor Art from Abd Art with Synth Sub - Open Approach,ICD10_PROC,ccs44
-02130JW,Bypass 4+ Cor Art from Aorta with Synth Sub - Open Approach,ICD10_PROC,ccs44
-02130K3,Bypass 4+ Cor Art from Cor Art w Nonaut Sub - Open,ICD10_PROC,ccs44
-02130K8,Bypass 4+ Cor Art from R Int Mammary w Nonaut Sub - Open,ICD10_PROC,ccs44
-02130K9,Bypass 4+ Cor Art from L Int Mammary w Nonaut Sub - Open,ICD10_PROC,ccs44
-02130KC,Bypass 4+ Cor Art from Thor Art w Nonaut Sub - Open,ICD10_PROC,ccs44
-02130KF,Bypass 4+ Cor Art from Abd Art w Nonaut Sub - Open,ICD10_PROC,ccs44
-02130KW,Bypass 4+ Cor Art from Aorta with Nonaut Sub - Open Approach,ICD10_PROC,ccs44
-02130Z3,Bypass 4+ Cor Art from Cor Art - Open Approach,ICD10_PROC,ccs44
-02130Z8,Bypass 4+ Cor Art from R Int Mammary - Open Approach,ICD10_PROC,ccs44
-02130Z9,Bypass 4+ Cor Art from L Int Mammary - Open Approach,ICD10_PROC,ccs44
-02130ZC,Bypass 4+ Cor Art from Thor Art - Open Approach,ICD10_PROC,ccs44
-02130ZF,Bypass 4+ Cor Art from Abd Art - Open Approach,ICD10_PROC,ccs44
-213344,Bypass 4+ Cor Art from Cor V w Drug-elut Intra - Perc,ICD10_PROC,ccs44
-02133D4,Bypass 4+ Cor Art from Cor V w Intralum Dev - Perc,ICD10_PROC,ccs44
-213444,Bypass 4+ Cor Art from Cor V w Drug-elut Intra - Perc Endo,ICD10_PROC,ccs44
-213483,Bypass 4+ Cor Art from Cor Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-213488,Bypass 4+ Cor Art from R Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-213489,Bypass 4+ Cor Art from L Int Mammary w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-021348C,Bypass 4+ Cor Art from Thor Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-021348F,Bypass 4+ Cor Art from Abd Art w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-021348W,Bypass 4+ Cor Art from Aorta w Zooplastic - Perc Endo,ICD10_PROC,ccs44
-213493,Bypass 4+ Cor Art from Cor Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-213498,Bypass 4+ Cor Art from R Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-213499,Bypass 4+ Cor Art from L Int Mammary w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-021349C,Bypass 4+ Cor Art from Thor Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-021349F,Bypass 4+ Cor Art from Abd Art w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-021349W,Bypass 4+ Cor Art from Aorta w Autol Vn - Perc Endo,ICD10_PROC,ccs44
-02134A3,Bypass 4+ Cor Art from Cor Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02134A8,Bypass 4+ Cor Art from R Int Mammary w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02134A9,Bypass 4+ Cor Art from L Int Mammary w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02134AC,Bypass 4+ Cor Art from Thor Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02134AF,Bypass 4+ Cor Art from Abd Art w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02134AW,Bypass 4+ Cor Art from Aorta w Autol Art - Perc Endo,ICD10_PROC,ccs44
-02134D4,Bypass 4+ Cor Art from Cor V w Intralum Dev - Perc Endo,ICD10_PROC,ccs44
-02134J3,Bypass 4+ Cor Art from Cor Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02134J8,Bypass 4+ Cor Art from R Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02134J9,Bypass 4+ Cor Art from L Int Mammary w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02134JC,Bypass 4+ Cor Art from Thor Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02134JF,Bypass 4+ Cor Art from Abd Art w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02134JW,Bypass 4+ Cor Art from Aorta w Synth Sub - Perc Endo,ICD10_PROC,ccs44
-02134K3,Bypass 4+ Cor Art from Cor Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02134K8,Bypass 4+ Cor Art from R Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02134K9,Bypass 4+ Cor Art from L Int Mammary w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02134KC,Bypass 4+ Cor Art from Thor Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02134KF,Bypass 4+ Cor Art from Abd Art w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02134KW,Bypass 4+ Cor Art from Aorta w Nonaut Sub - Perc Endo,ICD10_PROC,ccs44
-02134Z3,Bypass 4+ Cor Art from Cor Art - Perc Endo Approach,ICD10_PROC,ccs44
-02134Z8,Bypass 4+ Cor Art from R Int Mammary - Perc Endo Approach,ICD10_PROC,ccs44
-02134Z9,Bypass 4+ Cor Art from L Int Mammary - Perc Endo Approach,ICD10_PROC,ccs44
-02134ZC,Bypass 4+ Cor Art from Thor Art - Perc Endo Approach,ICD10_PROC,ccs44
-02134ZF,Bypass 4+ Cor Art from Abd Art - Perc Endo Approach,ICD10_PROC,ccs44
-33140,Heart revascularize (tmr),CPT_HCPCS,ccs44
-33141,Heart tmr w/other procedure,CPT_HCPCS,ccs44
-33510,Cabg vein single,CPT_HCPCS,ccs44
-33511,Cabg vein two,CPT_HCPCS,ccs44
-33512,Cabg vein three,CPT_HCPCS,ccs44
-33513,Cabg vein four,CPT_HCPCS,ccs44
-33514,Cabg vein five,CPT_HCPCS,ccs44
-33516,Cabg vein six or more,CPT_HCPCS,ccs44
-33517,Cabg artery-vein single,CPT_HCPCS,ccs44
-33518,Cabg artery-vein two,CPT_HCPCS,ccs44
-33519,Cabg artery-vein three,CPT_HCPCS,ccs44
-33521,Cabg artery-vein four,CPT_HCPCS,ccs44
-33522,Cabg artery-vein five,CPT_HCPCS,ccs44
-33523,Cabg art-vein six or more,CPT_HCPCS,ccs44
-33530,Coronary artery bypass/reop,CPT_HCPCS,ccs44
-33533,Cabg arterial single,CPT_HCPCS,ccs44
-33534,Cabg arterial two,CPT_HCPCS,ccs44
-33535,Cabg arterial three,CPT_HCPCS,ccs44
-33536,Cabg arterial four or more,CPT_HCPCS,ccs44
-35600,Harvest art for cabg add-on,CPT_HCPCS,ccs44
-S2205,Minimally invasive direct co,CPT_HCPCS,ccs44
-S2206,Minimally invasive direct co,CPT_HCPCS,ccs44
-S2207,Minimally invasive direct co,CPT_HCPCS,ccs44
-S2208,Minimally invasive direct co,CPT_HCPCS,ccs44
-S2209,Minimally invasive direct co,CPT_HCPCS,ccs44
-231,Coronary bypass w PTCA w MCC,MSDRG,ccs44
-232,Coronary bypass w PTCA w/o MCC,MSDRG,ccs44
-233,Coronary bypass w cardiac cath w MCC,MSDRG,ccs44
-234,Coronary bypass w cardiac cath w/o MCC,MSDRG,ccs44
-235,Coronary bypass w/o cardiac cath w MCC,MSDRG,ccs44
-236,Coronary bypass w/o cardiac cath w/o MCC,MSDRG,ccs44
+0210083,"Bypass Coronary Artery, One Artery from Coronary Artery with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+0210088,"Bypass Coronary Artery, One Artery from Right Internal Mammary with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+0210089,"Bypass Coronary Artery, One Artery from Left Internal Mammary with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+021008C,"Bypass Coronary Artery, One Artery from Thoracic Artery with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+021008F,"Bypass Coronary Artery, One Artery from Abdominal Artery with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+021008W,"Bypass Coronary Artery, One Artery from Aorta with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+0210093,"Bypass Coronary Artery, One Artery from Coronary Artery with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+0210098,"Bypass Coronary Artery, One Artery from Right Internal Mammary with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+0210099,"Bypass Coronary Artery, One Artery from Left Internal Mammary with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+021009C,"Bypass Coronary Artery, One Artery from Thoracic Artery with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+021009F,"Bypass Coronary Artery, One Artery from Abdominal Artery with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+021009W,"Bypass Coronary Artery, One Artery from Aorta with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+02100A3,"Bypass Coronary Artery, One Artery from Coronary Artery with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02100A8,"Bypass Coronary Artery, One Artery from Right Internal Mammary with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02100A9,"Bypass Coronary Artery, One Artery from Left Internal Mammary with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02100AC,"Bypass Coronary Artery, One Artery from Thoracic Artery with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02100AF,"Bypass Coronary Artery, One Artery from Abdominal Artery with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02100AW,"Bypass Coronary Artery, One Artery from Aorta with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02100J3,"Bypass Coronary Artery, One Artery from Coronary Artery with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02100J8,"Bypass Coronary Artery, One Artery from Right Internal Mammary with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02100J9,"Bypass Coronary Artery, One Artery from Left Internal Mammary with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02100JC,"Bypass Coronary Artery, One Artery from Thoracic Artery with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02100JF,"Bypass Coronary Artery, One Artery from Abdominal Artery with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02100JW,"Bypass Coronary Artery, One Artery from Aorta with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02100K3,"Bypass Coronary Artery, One Artery from Coronary Artery with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02100K8,"Bypass Coronary Artery, One Artery from Right Internal Mammary with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02100K9,"Bypass Coronary Artery, One Artery from Left Internal Mammary with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02100KC,"Bypass Coronary Artery, One Artery from Thoracic Artery with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02100KF,"Bypass Coronary Artery, One Artery from Abdominal Artery with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02100KW,"Bypass Coronary Artery, One Artery from Aorta with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02100Z3,"Bypass Coronary Artery, One Artery from Coronary Artery, Open Approach",ICD10_PROC,ccs44
+02100Z8,"Bypass Coronary Artery, One Artery from Right Internal Mammary, Open Approach",ICD10_PROC,ccs44
+02100Z9,"Bypass Coronary Artery, One Artery from Left Internal Mammary, Open Approach",ICD10_PROC,ccs44
+02100ZC,"Bypass Coronary Artery, One Artery from Thoracic Artery, Open Approach",ICD10_PROC,ccs44
+02100ZF,"Bypass Coronary Artery, One Artery from Abdominal Artery, Open Approach",ICD10_PROC,ccs44
+0210344,"Bypass Coronary Artery, One Artery from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Approach",ICD10_PROC,ccs44
+02103D4,"Bypass Coronary Artery, One Artery from Coronary Vein with Intraluminal Device, Percutaneous Approach",ICD10_PROC,ccs44
+0210444,"Bypass Coronary Artery, One Artery from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0210483,"Bypass Coronary Artery, One Artery from Coronary Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0210488,"Bypass Coronary Artery, One Artery from Right Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0210489,"Bypass Coronary Artery, One Artery from Left Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021048C,"Bypass Coronary Artery, One Artery from Thoracic Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021048F,"Bypass Coronary Artery, One Artery from Abdominal Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021048W,"Bypass Coronary Artery, One Artery from Aorta with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0210493,"Bypass Coronary Artery, One Artery from Coronary Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0210498,"Bypass Coronary Artery, One Artery from Right Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0210499,"Bypass Coronary Artery, One Artery from Left Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021049C,"Bypass Coronary Artery, One Artery from Thoracic Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021049F,"Bypass Coronary Artery, One Artery from Abdominal Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021049W,"Bypass Coronary Artery, One Artery from Aorta with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104A3,"Bypass Coronary Artery, One Artery from Coronary Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104A8,"Bypass Coronary Artery, One Artery from Right Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104A9,"Bypass Coronary Artery, One Artery from Left Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104AC,"Bypass Coronary Artery, One Artery from Thoracic Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104AF,"Bypass Coronary Artery, One Artery from Abdominal Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104AW,"Bypass Coronary Artery, One Artery from Aorta with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104D4,"Bypass Coronary Artery, One Artery from Coronary Vein with Intraluminal Device, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104J3,"Bypass Coronary Artery, One Artery from Coronary Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104J8,"Bypass Coronary Artery, One Artery from Right Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104J9,"Bypass Coronary Artery, One Artery from Left Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104JC,"Bypass Coronary Artery, One Artery from Thoracic Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104JF,"Bypass Coronary Artery, One Artery from Abdominal Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104JW,"Bypass Coronary Artery, One Artery from Aorta with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104K3,"Bypass Coronary Artery, One Artery from Coronary Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104K8,"Bypass Coronary Artery, One Artery from Right Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104K9,"Bypass Coronary Artery, One Artery from Left Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104KC,"Bypass Coronary Artery, One Artery from Thoracic Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104KF,"Bypass Coronary Artery, One Artery from Abdominal Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104KW,"Bypass Coronary Artery, One Artery from Aorta with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104Z3,"Bypass Coronary Artery, One Artery from Coronary Artery, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104Z8,"Bypass Coronary Artery, One Artery from Right Internal Mammary, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104Z9,"Bypass Coronary Artery, One Artery from Left Internal Mammary, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104ZC,"Bypass Coronary Artery, One Artery from Thoracic Artery, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02104ZF,"Bypass Coronary Artery, One Artery from Abdominal Artery, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0211083,"Bypass Coronary Artery, Two Arteries from Coronary Artery with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+0211088,"Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+0211089,"Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+021108C,"Bypass Coronary Artery, Two Arteries from Thoracic Artery with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+021108F,"Bypass Coronary Artery, Two Arteries from Abdominal Artery with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+021108W,"Bypass Coronary Artery, Two Arteries from Aorta with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+0211093,"Bypass Coronary Artery, Two Arteries from Coronary Artery with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+0211098,"Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+0211099,"Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+021109C,"Bypass Coronary Artery, Two Arteries from Thoracic Artery with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+021109F,"Bypass Coronary Artery, Two Arteries from Abdominal Artery with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+021109W,"Bypass Coronary Artery, Two Arteries from Aorta with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+02110A3,"Bypass Coronary Artery, Two Arteries from Coronary Artery with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02110A8,"Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02110A9,"Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02110AC,"Bypass Coronary Artery, Two Arteries from Thoracic Artery with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02110AF,"Bypass Coronary Artery, Two Arteries from Abdominal Artery with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02110AW,"Bypass Coronary Artery, Two Arteries from Aorta with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02110J3,"Bypass Coronary Artery, Two Arteries from Coronary Artery with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02110J8,"Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02110J9,"Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02110JC,"Bypass Coronary Artery, Two Arteries from Thoracic Artery with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02110JF,"Bypass Coronary Artery, Two Arteries from Abdominal Artery with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02110JW,"Bypass Coronary Artery, Two Arteries from Aorta with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02110K3,"Bypass Coronary Artery, Two Arteries from Coronary Artery with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02110K8,"Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02110K9,"Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02110KC,"Bypass Coronary Artery, Two Arteries from Thoracic Artery with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02110KF,"Bypass Coronary Artery, Two Arteries from Abdominal Artery with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02110KW,"Bypass Coronary Artery, Two Arteries from Aorta with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02110Z3,"Bypass Coronary Artery, Two Arteries from Coronary Artery, Open Approach",ICD10_PROC,ccs44
+02110Z8,"Bypass Coronary Artery, Two Arteries from Right Internal Mammary, Open Approach",ICD10_PROC,ccs44
+02110Z9,"Bypass Coronary Artery, Two Arteries from Left Internal Mammary, Open Approach",ICD10_PROC,ccs44
+02110ZC,"Bypass Coronary Artery, Two Arteries from Thoracic Artery, Open Approach",ICD10_PROC,ccs44
+02110ZF,"Bypass Coronary Artery, Two Arteries from Abdominal Artery, Open Approach",ICD10_PROC,ccs44
+0211344,"Bypass Coronary Artery, Two Arteries from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Approach",ICD10_PROC,ccs44
+02113D4,"Bypass Coronary Artery, Two Arteries from Coronary Vein with Intraluminal Device, Percutaneous Approach",ICD10_PROC,ccs44
+0211444,"Bypass Coronary Artery, Two Arteries from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0211483,"Bypass Coronary Artery, Two Arteries from Coronary Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0211488,"Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0211489,"Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021148C,"Bypass Coronary Artery, Two Arteries from Thoracic Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021148F,"Bypass Coronary Artery, Two Arteries from Abdominal Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021148W,"Bypass Coronary Artery, Two Arteries from Aorta with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0211493,"Bypass Coronary Artery, Two Arteries from Coronary Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0211498,"Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0211499,"Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021149C,"Bypass Coronary Artery, Two Arteries from Thoracic Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021149F,"Bypass Coronary Artery, Two Arteries from Abdominal Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021149W,"Bypass Coronary Artery, Two Arteries from Aorta with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114A3,"Bypass Coronary Artery, Two Arteries from Coronary Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114A8,"Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114A9,"Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114AC,"Bypass Coronary Artery, Two Arteries from Thoracic Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114AF,"Bypass Coronary Artery, Two Arteries from Abdominal Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114AW,"Bypass Coronary Artery, Two Arteries from Aorta with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114D4,"Bypass Coronary Artery, Two Arteries from Coronary Vein with Intraluminal Device, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114J3,"Bypass Coronary Artery, Two Arteries from Coronary Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114J8,"Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114J9,"Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114JC,"Bypass Coronary Artery, Two Arteries from Thoracic Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114JF,"Bypass Coronary Artery, Two Arteries from Abdominal Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114JW,"Bypass Coronary Artery, Two Arteries from Aorta with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114K3,"Bypass Coronary Artery, Two Arteries from Coronary Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114K8,"Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114K9,"Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114KC,"Bypass Coronary Artery, Two Arteries from Thoracic Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114KF,"Bypass Coronary Artery, Two Arteries from Abdominal Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114KW,"Bypass Coronary Artery, Two Arteries from Aorta with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114Z3,"Bypass Coronary Artery, Two Arteries from Coronary Artery, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114Z8,"Bypass Coronary Artery, Two Arteries from Right Internal Mammary, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114Z9,"Bypass Coronary Artery, Two Arteries from Left Internal Mammary, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114ZC,"Bypass Coronary Artery, Two Arteries from Thoracic Artery, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02114ZF,"Bypass Coronary Artery, Two Arteries from Abdominal Artery, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0212083,"Bypass Coronary Artery, Three Arteries from Coronary Artery with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+0212088,"Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+0212089,"Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+021208C,"Bypass Coronary Artery, Three Arteries from Thoracic Artery with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+021208F,"Bypass Coronary Artery, Three Arteries from Abdominal Artery with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+021208W,"Bypass Coronary Artery, Three Arteries from Aorta with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+0212093,"Bypass Coronary Artery, Three Arteries from Coronary Artery with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+0212098,"Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+0212099,"Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+021209C,"Bypass Coronary Artery, Three Arteries from Thoracic Artery with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+021209F,"Bypass Coronary Artery, Three Arteries from Abdominal Artery with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+021209W,"Bypass Coronary Artery, Three Arteries from Aorta with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+02120A3,"Bypass Coronary Artery, Three Arteries from Coronary Artery with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02120A8,"Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02120A9,"Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02120AC,"Bypass Coronary Artery, Three Arteries from Thoracic Artery with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02120AF,"Bypass Coronary Artery, Three Arteries from Abdominal Artery with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02120AW,"Bypass Coronary Artery, Three Arteries from Aorta with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02120J3,"Bypass Coronary Artery, Three Arteries from Coronary Artery with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02120J8,"Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02120J9,"Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02120JC,"Bypass Coronary Artery, Three Arteries from Thoracic Artery with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02120JF,"Bypass Coronary Artery, Three Arteries from Abdominal Artery with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02120JW,"Bypass Coronary Artery, Three Arteries from Aorta with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02120K3,"Bypass Coronary Artery, Three Arteries from Coronary Artery with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02120K8,"Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02120K9,"Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02120KC,"Bypass Coronary Artery, Three Arteries from Thoracic Artery with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02120KF,"Bypass Coronary Artery, Three Arteries from Abdominal Artery with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02120KW,"Bypass Coronary Artery, Three Arteries from Aorta with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02120Z3,"Bypass Coronary Artery, Three Arteries from Coronary Artery, Open Approach",ICD10_PROC,ccs44
+02120Z8,"Bypass Coronary Artery, Three Arteries from Right Internal Mammary, Open Approach",ICD10_PROC,ccs44
+02120Z9,"Bypass Coronary Artery, Three Arteries from Left Internal Mammary, Open Approach",ICD10_PROC,ccs44
+02120ZC,"Bypass Coronary Artery, Three Arteries from Thoracic Artery, Open Approach",ICD10_PROC,ccs44
+02120ZF,"Bypass Coronary Artery, Three Arteries from Abdominal Artery, Open Approach",ICD10_PROC,ccs44
+0212344,"Bypass Coronary Artery, Three Arteries from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Approach",ICD10_PROC,ccs44
+02123D4,"Bypass Coronary Artery, Three Arteries from Coronary Vein with Intraluminal Device, Percutaneous Approach",ICD10_PROC,ccs44
+0212444,"Bypass Coronary Artery, Three Arteries from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0212483,"Bypass Coronary Artery, Three Arteries from Coronary Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0212488,"Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0212489,"Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021248C,"Bypass Coronary Artery, Three Arteries from Thoracic Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021248F,"Bypass Coronary Artery, Three Arteries from Abdominal Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021248W,"Bypass Coronary Artery, Three Arteries from Aorta with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0212493,"Bypass Coronary Artery, Three Arteries from Coronary Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0212498,"Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0212499,"Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021249C,"Bypass Coronary Artery, Three Arteries from Thoracic Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021249F,"Bypass Coronary Artery, Three Arteries from Abdominal Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021249W,"Bypass Coronary Artery, Three Arteries from Aorta with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124A3,"Bypass Coronary Artery, Three Arteries from Coronary Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124A8,"Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124A9,"Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124AC,"Bypass Coronary Artery, Three Arteries from Thoracic Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124AF,"Bypass Coronary Artery, Three Arteries from Abdominal Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124AW,"Bypass Coronary Artery, Three Arteries from Aorta with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124D4,"Bypass Coronary Artery, Three Arteries from Coronary Vein with Intraluminal Device, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124J3,"Bypass Coronary Artery, Three Arteries from Coronary Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124J8,"Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124J9,"Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124JC,"Bypass Coronary Artery, Three Arteries from Thoracic Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124JF,"Bypass Coronary Artery, Three Arteries from Abdominal Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124JW,"Bypass Coronary Artery, Three Arteries from Aorta with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124K3,"Bypass Coronary Artery, Three Arteries from Coronary Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124K8,"Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124K9,"Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124KC,"Bypass Coronary Artery, Three Arteries from Thoracic Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124KF,"Bypass Coronary Artery, Three Arteries from Abdominal Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124KW,"Bypass Coronary Artery, Three Arteries from Aorta with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124Z3,"Bypass Coronary Artery, Three Arteries from Coronary Artery, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124Z8,"Bypass Coronary Artery, Three Arteries from Right Internal Mammary, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124Z9,"Bypass Coronary Artery, Three Arteries from Left Internal Mammary, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124ZC,"Bypass Coronary Artery, Three Arteries from Thoracic Artery, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02124ZF,"Bypass Coronary Artery, Three Arteries from Abdominal Artery, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0213083,"Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+0213088,"Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+0213089,"Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+021308C,"Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+021308F,"Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+021308W,"Bypass Coronary Artery, Four or More Arteries from Aorta with Zooplastic Tissue, Open Approach",ICD10_PROC,ccs44
+0213093,"Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+0213098,"Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+0213099,"Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+021309C,"Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+021309F,"Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+021309W,"Bypass Coronary Artery, Four or More Arteries from Aorta with Autologous Venous Tissue, Open Approach",ICD10_PROC,ccs44
+02130A3,"Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02130A8,"Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02130A9,"Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02130AC,"Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02130AF,"Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02130AW,"Bypass Coronary Artery, Four or More Arteries from Aorta with Autologous Arterial Tissue, Open Approach",ICD10_PROC,ccs44
+02130J3,"Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02130J8,"Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02130J9,"Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02130JC,"Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02130JF,"Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02130JW,"Bypass Coronary Artery, Four or More Arteries from Aorta with Synthetic Substitute, Open Approach",ICD10_PROC,ccs44
+02130K3,"Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02130K8,"Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02130K9,"Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02130KC,"Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02130KF,"Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02130KW,"Bypass Coronary Artery, Four or More Arteries from Aorta with Nonautologous Tissue Substitute, Open Approach",ICD10_PROC,ccs44
+02130Z3,"Bypass Coronary Artery, Four or More Arteries from Coronary Artery, Open Approach",ICD10_PROC,ccs44
+02130Z8,"Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary, Open Approach",ICD10_PROC,ccs44
+02130Z9,"Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary, Open Approach",ICD10_PROC,ccs44
+02130ZC,"Bypass Coronary Artery, Four or More Arteries from Thoracic Artery, Open Approach",ICD10_PROC,ccs44
+02130ZF,"Bypass Coronary Artery, Four or More Arteries from Abdominal Artery, Open Approach",ICD10_PROC,ccs44
+0213344,"Bypass Coronary Artery, Four or More Arteries from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Approach",ICD10_PROC,ccs44
+02133D4,"Bypass Coronary Artery, Four or More Arteries from Coronary Vein with Intraluminal Device, Percutaneous Approach",ICD10_PROC,ccs44
+0213444,"Bypass Coronary Artery, Four or More Arteries from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0213483,"Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0213488,"Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0213489,"Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021348C,"Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021348F,"Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021348W,"Bypass Coronary Artery, Four or More Arteries from Aorta with Zooplastic Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0213493,"Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0213498,"Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+0213499,"Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021349C,"Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021349F,"Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+021349W,"Bypass Coronary Artery, Four or More Arteries from Aorta with Autologous Venous Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134A3,"Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134A8,"Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134A9,"Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134AC,"Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134AF,"Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134AW,"Bypass Coronary Artery, Four or More Arteries from Aorta with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134D4,"Bypass Coronary Artery, Four or More Arteries from Coronary Vein with Intraluminal Device, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134J3,"Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134J8,"Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134J9,"Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134JC,"Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134JF,"Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134JW,"Bypass Coronary Artery, Four or More Arteries from Aorta with Synthetic Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134K3,"Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134K8,"Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134K9,"Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134KC,"Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134KF,"Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134KW,"Bypass Coronary Artery, Four or More Arteries from Aorta with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134Z3,"Bypass Coronary Artery, Four or More Arteries from Coronary Artery, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134Z8,"Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134Z9,"Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134ZC,"Bypass Coronary Artery, Four or More Arteries from Thoracic Artery, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+02134ZF,"Bypass Coronary Artery, Four or More Arteries from Abdominal Artery, Percutaneous Endoscopic Approach",ICD10_PROC,ccs44
+33140,"Transmyocardial laser revascularization, by thoracotomy; (separate procedure)",CPT_HCPCS,ccs44
+33141,"Transmyocardial laser revascularization, by thoracotomy; performed at the time of other open cardiac procedure(s) (List separately in addition to code for primary procedure)",CPT_HCPCS,ccs44
+33510,"Coronary artery bypass, vein only; single coronary venous graft",CPT_HCPCS,ccs44
+33511,"Coronary artery bypass, vein only; 2 coronary venous grafts",CPT_HCPCS,ccs44
+33512,"Coronary artery bypass, vein only; 3 coronary venous grafts",CPT_HCPCS,ccs44
+33513,"Coronary artery bypass, vein only; 4 coronary venous grafts",CPT_HCPCS,ccs44
+33514,"Coronary artery bypass, vein only; 5 coronary venous grafts",CPT_HCPCS,ccs44
+33516,"Coronary artery bypass, vein only; 6 or more coronary venous grafts",CPT_HCPCS,ccs44
+33517,"Coronary artery bypass, using venous graft(s) and arterial graft(s); single vein graft (List separately in addition to code for primary procedure)",CPT_HCPCS,ccs44
+33518,"Coronary artery bypass, using venous graft(s) and arterial graft(s); 2 venous grafts (List separately in addition to code for primary procedure)",CPT_HCPCS,ccs44
+33519,"Coronary artery bypass, using venous graft(s) and arterial graft(s); 3 venous grafts (List separately in addition to code for primary procedure)",CPT_HCPCS,ccs44
+33521,"Coronary artery bypass, using venous graft(s) and arterial graft(s); 4 venous grafts (List separately in addition to code for primary procedure)",CPT_HCPCS,ccs44
+33522,"Coronary artery bypass, using venous graft(s) and arterial graft(s); 5 venous grafts (List separately in addition to code for primary procedure)",CPT_HCPCS,ccs44
+33523,"Coronary artery bypass, using venous graft(s) and arterial graft(s); 6 or more venous grafts (List separately in addition to code for primary procedure)",CPT_HCPCS,ccs44
+33530,"Reoperation, coronary artery bypass procedure or valve procedure, more than 1 month after original operation (List separately in addition to code for primary procedure)",CPT_HCPCS,ccs44
+33533,"Coronary artery bypass, using arterial graft(s); single arterial graft",CPT_HCPCS,ccs44
+33534,"Coronary artery bypass, using arterial graft(s); 2 coronary arterial grafts",CPT_HCPCS,ccs44
+33535,"Coronary artery bypass, using arterial graft(s); 3 coronary arterial grafts",CPT_HCPCS,ccs44
+33536,"Coronary artery bypass, using arterial graft(s); 4 or more coronary arterial grafts",CPT_HCPCS,ccs44
+35600,"Harvest of upper extremity artery, 1 segment, for coronary artery bypass procedure (List separately in addition to code for primary procedure)",CPT_HCPCS,ccs44
+S2205,"Minimally invasive direct coronary artery bypass surgery involving mini-thoracotomy or mini-sternotomy surgery, performed under direct vision; using arterial graft(s), single coronary arterial graft",CPT_HCPCS,ccs44
+S2206,"Minimally invasive direct coronary artery bypass surgery involving mini-thoracotomy or mini-sternotomy surgery, performed under direct vision; using arterial graft(s), two coronary arterial grafts",CPT_HCPCS,ccs44
+S2207,"Minimally invasive direct coronary artery bypass surgery involving mini-thoracotomy or mini-sternotomy surgery, performed under direct vision; using venous graft only, single coronary venous graft",CPT_HCPCS,ccs44
+S2208,"Minimally invasive direct coronary artery bypass surgery involving mini-thoracotomy or mini-sternotomy surgery, performed under direct vision; using single arterial and venous graft(s), single venous graft",CPT_HCPCS,ccs44
+S2209,"Minimally invasive direct coronary artery bypass surgery involving mini-thoracotomy or mini-sternotomy surgery, performed under direct vision; using two arterial grafts and single venous graft",CPT_HCPCS,ccs44
+231,Coronary bypass with PTCA with Major Complication or Comorbidity (MCC),MSDRG,ccs44
+232,Coronary bypass with PTCA without Major Complication or Comorbidity (MCC),MSDRG,ccs44
+233,Coronary bypass with cardiac catheterization with Major Complication or Comorbidity (MCC),MSDRG,ccs44
+234,Coronary bypass with cardiac catheterization without Major Complication or Comorbidity (MCC),MSDRG,ccs44
+235,Coronary bypass without cardiac catheterization with Major Complication or Comorbidity (MCC),MSDRG,ccs44
+236,Coronary bypass without cardiac catheterization without Major Complication or Comorbidity (MCC),MSDRG,ccs44

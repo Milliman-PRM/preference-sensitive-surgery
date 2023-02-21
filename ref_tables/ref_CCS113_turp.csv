@@ -1,19 +1,19 @@
 code,code_description,code_type,ccs
-0V507ZZ,Destruction of Prostate - Via Natural or Artificial Opening,ICD10_PROC,ccs113
-0V508ZZ,Destruction of Prostate - Endo,ICD10_PROC,ccs113
-0VB07ZZ,Excision of Prostate - Via Natural or Artificial Opening,ICD10_PROC,ccs113
-0VB08ZZ,Excision of Prostate - Endo,ICD10_PROC,ccs113
-0VT07ZZ,Resection of Prostate - Via Natural or Artificial Opening,ICD10_PROC,ccs113
-0VT08ZZ,Resection of Prostate - Endo,ICD10_PROC,ccs113
-0421T,Waterjet prostate abltj cmpl,CPT_HCPCS,ccs113
-52601,Prostatectomy (turp),CPT_HCPCS,ccs113
-52612,Prostatectomy - first stage,CPT_HCPCS,ccs113
-52614,Prostatectomy - second stage,CPT_HCPCS,ccs113
-52620,Remove residual prostate,CPT_HCPCS,ccs113
-52630,Remove prostate regrowth,CPT_HCPCS,ccs113
-53850,Prostatic microwave thermotx,CPT_HCPCS,ccs113
-53852,Prostatic rf thermotx,CPT_HCPCS,ccs113
-53853,Prostatic water thermother,CPT_HCPCS,ccs113
-668,Transurethral procedures w MCC,MSDRG,ccs113
-669,Transurethral procedures w CC,MSDRG,ccs113
-670,Transurethral procedures w/o CC/MCC,MSDRG,ccs113
+0V507ZZ,"Destruction of Prostate, Via Natural or Artificial Opening",ICD10_PROC,ccs113
+0V508ZZ,"Destruction of Prostate, Via Natural or Artificial Opening Endoscopic",ICD10_PROC,ccs113
+0VB07ZZ,"Excision of Prostate, Via Natural or Artificial Opening",ICD10_PROC,ccs113
+0VB08ZZ,"Excision of Prostate, Via Natural or Artificial Opening Endoscopic",ICD10_PROC,ccs113
+0VT07ZZ,"Resection of Prostate, Via Natural or Artificial Opening",ICD10_PROC,ccs113
+0VT08ZZ,"Resection of Prostate, Via Natural or Artificial Opening Endoscopic",ICD10_PROC,ccs113
+XV508A4,"Destruction of Prostate using Robotic Waterjet Ablation, Via Natural or Artificial Opening Endoscopic, New Technology Group 4",ICD10_PROC,ccs113
+0421T,"Transurethral waterjet ablation of prostate, including control of post-operative bleeding, including ultrasound guidance, complete (vasectomy, meatotomy, cystourethroscopy, urethral calibration and/or dilation, and internal urethrotomy are included when performed)",CPT_HCPCS,ccs113
+52601,"Transurethral electrosurgical resection of prostate, including control of postoperative bleeding, complete (vasectomy, meatotomy, cystourethroscopy, urethral calibration and/or dilation, and internal urethrotomy are included)",CPT_HCPCS,ccs113
+52630,"Transurethral resection; residual or regrowth of obstructive prostate tissue including control of postoperative bleeding, complete (vasectomy, meatotomy, cystourethroscopy, urethral calibration and/or dilation, and internal urethrotomy are included)",CPT_HCPCS,ccs113
+53850,Transurethral destruction of prostate tissue; by microwave thermotherapy,CPT_HCPCS,ccs113
+53852,Transurethral destruction of prostate tissue; by radiofrequency thermotherapy,CPT_HCPCS,ccs113
+0582T,"Transurethral ablation of malignant prostate tissue by high-energy water vapor thermotherapy, including intraoperative imaging and needle guidance",CPT_HCPCS,ccs113
+53854,Transurethral destruction of prostate tissue; by radiofrequency generated water vapor thermotherapy,CPT_HCPCS,ccs113
+C9748,Transurethral destruction of prostate tissue; by radiofrequency water vapor (steam) thermal therapy,CPT_HCPCS,ccs113
+668,Transurethral Procedures With Major Complication or Comorbidity (MCC),MSDRG,ccs113
+669,Transurethral Procedures With Complication or Comorbidity (CC),MSDRG,ccs113
+670,Transurethral Procedures Without Complication or Comorbidity (CC)/Major Complication or Comorbidity (MCC),MSDRG,ccs113
